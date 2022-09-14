@@ -1,4 +1,5 @@
 collections:
   events-and-programmes:
     output: true
-    order: []
+    order:
+      - PAL/.keep
