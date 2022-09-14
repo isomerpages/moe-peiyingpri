@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Events and Programmes.md
+      - CCA/Sports and Games.md
       - CCA/.keep
       - PAL/Music (Primary 1).md
       - PAL/Visual Art (Primary 1).md
