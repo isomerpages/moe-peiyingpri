@@ -61,7 +61,7 @@ b. To hone their Science Process Skill of observation,<br>
 c. To foster the Joy of Learning while developing an inquiring mind about the environment.
 
 ##### **5. Science Answering Techniques Workshop for Parents**
-<img src="/images/sci4.png" style="width:65%">
+<img src="/images/sci4.png" style="width:75%">
 To equip parents with the skills to:<br>
 a. understand Science open-ended questions<br>
 b. analyse the requirements of the questions<br>
