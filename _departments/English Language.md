@@ -26,7 +26,7 @@ We aim to
 
 <img align="left" style="width:40%" src="/images/programmes.png">
 
-<br><br>
+<br>
 
 ##### **1\. **St**rategies for **E**nglish **L**anguage **L**earning **A**nd **R**eading (**STELLAR**)**
 
