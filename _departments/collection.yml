@@ -2,6 +2,8 @@ collections:
   departments:
     output: true
     order:
+      - Character and Citizenship Edu/Character and Citizenship Education
+        (CCE).md
       - Character and Citizenship Edu/MOE's Sexuality Education in Schools.md
       - Character and Citizenship Edu/.keep
       - Information and Communication Technology (ICT).md
