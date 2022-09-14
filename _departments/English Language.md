@@ -210,7 +210,7 @@ Check out the list of e-reading resources specially curated for you. Click on th
 <img style="width:20%" src="/images/eresource9.jpg" align=left>
 </a></p>
 
-<p><a href="https://eresources.nlb.gov.sg/ereads/DiscoveReads/All?level=p">
+<p><a href="https://childrenandteens.nlb.gov.sg/images/recommendationsprimary/High_Interest_Booklist.PDF">
 <img style="width:20%" src="/images/eresource10.jpg" align=left>
 </a></p>
 
