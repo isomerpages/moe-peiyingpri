@@ -8,7 +8,9 @@ description: ""
 Teaching and Learning in Peiying Primary School is guided by a Total Curriculum Framework.
 
 At Peiying Primary School, the underpinning philosophy of teaching and learning is the belief that every child can learn, improve and fulfil his potential to become contributing citizens.
+
 <br>
+
 Central to the Peiying brand of education is the nurture of individuals who would be **leaders of character, engaged and resilient learners and caring citizens**.
 
 This is in line with our school’s vision, mission, core values and strategic thrusts and resonates with the Desired Outcomes of Education (Confident Person, Self-Directed Learner, Active Contributor, Concerned Citizen).
