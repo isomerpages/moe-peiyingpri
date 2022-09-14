@@ -213,3 +213,17 @@ Check out the list of e-reading resources specially curated for you. Click on th
 <p><a href="https://eresources.nlb.gov.sg/ereads/DiscoveReads/All?level=p">
 <img style="width:20%" src="/images/eresource10.jpg" align=left>
 </a></p>
+
+<br><br><br>
+<br><br><br>
+
+[p1](/files/p1.pdf)
+[p2](/files/p2.pdf)
+[p3](/files/p3.pdf)
+[p4](/files/p4.pdf)
+[p5](/files/p5.pdf)
+[p5f](/files/p5f.pdf)
+[p6](/files/p6.pdf)
+[p6f](/files/p6f.pdf)
+
+
