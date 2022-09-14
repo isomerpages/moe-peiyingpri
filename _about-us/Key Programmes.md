@@ -73,6 +73,6 @@ Scientopia is a Science board game that enhances the joy of learning. It is a Pe
 <img src="/images/kp7.gif" style="width:44%;margin-right:15px;" align = "left">
 
 <br><br><br><br>
-<br>
+<br><br>
 
 In line with the culture of learning and innovation, the MTL department develops T&L programmes to cater to students’ needs, interests and talents. CL Write & Learn project integrates Experiential Learning and Formative Assessment in the process of learning. It makes writing fun for all lower primary students. The Tamil Language Oral Package is a customised resource for lower primary students to learn TL oral skills in a fun, interesting and authentic manner. The ebook project by P6 Malay Language students has been extended to Language learning. The ebooks created by the students are used to engage ML students in interactive language activities.
