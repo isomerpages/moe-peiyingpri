@@ -132,7 +132,7 @@ Among the activities conducted throughout the year are:
 The school also collaborates with other schools in the cluster&nbsp;to conduct workshops for students such as digital storytelling using software such as Newsmaker.
 
 ##### **8. Intervention Programmes**
-<img align="right" style="width:40%" src="/images/english13.jpg">
+<img align="right" style="width:35%" src="/images/english13.jpg">
 
 (a) Learning Support Programme (LSP)<br>
 It is an early intervention programme aimed at providing additional support to students who enter Primary 1 lacking developmentally appropriate English language and literacy skills. Its objective is to equip these students with basic reading and spelling skills.
