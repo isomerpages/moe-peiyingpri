@@ -28,7 +28,7 @@ We aim to
 
 <br><br>
 
-##### 1\. **St**rategies for **E**nglish **L**anguage **L**earning **A**nd **R**eading **(STELLAR)**
+##### **1\. **St**rategies for **E**nglish **L**anguage **L**earning **A**nd **R**eading **(STELLAR)****
 
 <img src="/images/english0.jpg" style="width:30%" align=left>
 <img src="/images/english1.jpg" style="width:51%" align=left>
@@ -58,7 +58,7 @@ The STELLAR pedagogic model for **upper** primary is made up of three major te
 
 * Differentiated Instruction (DI)
 
-##### 2\. EL Fiesta
+##### **2\. EL Fiesta**
 
 <img src="/images/english2.jpg" style="width:25%" align=right>
 
@@ -69,3 +69,16 @@ The Language Fiesta, a month-long event featuring a variety of activities, is or
 Various fun and meaningful activities are organised, which include Oratorical Contest, Reader's Theatre, Choral Reading, Spelling Bee, quizzes and games. English game booths, designed and conducted by the EL Club members and EL Ambassadors feature fun language games for the pupils to play during recess.
 
 <img src="/images/english4.jpg" style="width:75%">
+
+Characters from popular children’s books also come alive, such as Pinocchio and Little Red Riding Hood, as they mingle among the Peiying students and converse about their storybook roles.
+
+<img src="/images/english5.jpg" style="width:75%">
+
+##### **3. Extended Reading Programme**
+
+A variety of interesting books have been provided for all levels in the school. These books are found in the classroom library corners, where the English Ambassadors will coordinate the loaning of books borrowed.
+
+<img src="/images/english6.jpg" style="width:45%" align=left>
+
+The programme is pegged with the TicTacToe reading activity, which encourages pupils to complete a set of connection activities. These connection activities (such as designing a poster of the book read and writing a letter to the main character) are designed to provide differentiation for learning abilities and interests of pupils.
+
