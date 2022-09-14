@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Peiying Primary School
-      background: /images/hero-banner.png
+      background: /images/hero banner.gif
       key_highlights:
         - title: Contact Us
           description: ""
