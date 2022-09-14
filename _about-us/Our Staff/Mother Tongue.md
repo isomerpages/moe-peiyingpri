@@ -37,19 +37,19 @@ _For urgent matters, please contact the teacher through the General Office at 62
 
 | Name | Email Address |
 |:---:|:---:|
-|  Mdm Hindon Saini | hindon_saini@schools.gov.sg |
-|  Mdm Nur Hidayah |  nur_hidayah_abdul_rahman@schools.gov.sg |
-|  Mdm Nurul Natasha |  Nurul_natasha_MUHD_FARHAN@schools.gov.sg |
-|  Mdm Rupiah Hamzah | rupiah_hamzah@schools.gov.sg |
-|  Mr Muhammad Reduan  |  muhammad_reduan_yahaya@schools.gov.sg |
+|  Mdm Hindon Saini | [hindon_saini@schools.gov.sg](mailto:hindon_saini@schools.gov.sg) |
+|  Mdm Nur Hidayah |  [nur_hidayah_abdul_rahman@schools.gov.sg](mailto:nur_hidayah_abdul_rahman@schools.gov.sg) |
+|  Mdm Nurul Natasha |  [Nurul_natasha_MUHD_FARHAN@schools.gov.sg](mailto:Nurul_natasha_MUHD_FARHAN@schools.gov.sg) |
+|  Mdm Rupiah Hamzah | [rupiah_hamzah@schools.gov.sg](mailto:rupiah_hamzah@schools.gov.sg) |
+|  Mr Muhammad Reduan  |  [muhammad_reduan_yahaya@schools.gov.sg](mailto:muhammad_reduan_yahaya@schools.gov.sg) |
 | 
 
 #### **Tamil Language**
 
 | Name | Email Address |
 |:---:|:---:|
-|  Ms Manomani |  manomani_shunmuga_sundaram@schools.gov.sg |
-|  Mr Vasanthan  | vasanthan_naderajan@schools.gov.sg  |
-|  Mdm Daisy Leela | daisy_leela_r_ramasamy@schools.gov.sg |
-|  Mr Alahappan  | alahappan_meyyappan@schools.gov.sg  |
-| 
+|  Ms Manomani |  [manomani_shunmuga_sundaram@schools.gov.sg](mailto:manomani_shunmuga_sundaram@schools.gov.sg) |
+|  Mr Vasanthan  | [vasanthan_naderajan@schools.gov.sg](mailto:vasanthan_naderajan@schools.gov.sg)  |
+|  Mdm Daisy Leela | [daisy_leela_r_ramasamy@schools.gov.sg](mailto:daisy_leela_r_ramasamy@schools.gov.sg) |
+|  Mr Alahappan  | [alahappan_meyyappan@schools.gov.sg](mailto:alahappan_meyyappan@schools.gov.sg)  |
+|
