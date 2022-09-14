@@ -29,7 +29,7 @@ description: ""
 </a></p>
 
 <p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/departments/music-and-art/">
-<img style="width:24.4%" src="/images/department6.jpg" align=left>
+<img style="width:24.7%" src="/images/department6.jpg" align=left>
 </a></p>
 
 <p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/departments/pe-and-aesthetics/">
@@ -38,4 +38,11 @@ description: ""
 
 <p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/departments/science/">
 <img style="width:24.4%" src="/images/department8.jpg" align=left>
+</a></p>
+
+<br><br><br>
+<br><br><br>
+
+<p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/departments/student-management/">
+<img style="width:24.4%" src="/images/department9.jpg" align=left>
 </a></p>
