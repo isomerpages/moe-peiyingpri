@@ -2,4 +2,5 @@ collections:
   events-and-programmes:
     output: true
     order:
+      - CCA/.keep
       - PAL/.keep
