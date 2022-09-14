@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Staff/Primary 6.md
       - Our Staff/Mother Tongue.md
       - Our Staff/AED.md
       - Our Staff/EAS.md
