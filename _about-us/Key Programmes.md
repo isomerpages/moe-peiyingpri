@@ -11,3 +11,12 @@ At Peiying Primary School, the underpinning philosophy of teaching and learning
 #### **Applied Learning Programme (ALP): Project THINK (Thinking Holistic Innovative Networked Kids) for Home Earth since 2019**
 Project THINK for Home Earth is focused on environment education and is designed to enable P1 to P6 students to be ‘future-ready’. This is done by enabling them to be environmentally literate individuals who can understand environmental issues and how human decisions affect environmental quality. Through this programme, students will learn how to use the knowledge they have about the environment to problem-solve and derive innovative solutions.
 
+![](/images/kp1.jpg)
+
+-----------------------------------------------------------------------
+
+#### **Code for Fun**
+
+
+<img src="/images/kp2.png" style="width:35%;margin-right:15px;" align = "left">
+
