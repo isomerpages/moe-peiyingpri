@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Information and Communication Technology (ICT).md
       - Music and Art.md
       - PE & Aesthetics.md
       - Student Management.md
