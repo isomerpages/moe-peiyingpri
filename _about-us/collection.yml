@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Crest and School Song.md
       - School Rules.md
       - Our Achievements.md
       - Our Staff/School Management.md
