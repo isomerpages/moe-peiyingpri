@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Keeping In Touch Newsletters.md
       - Parent Support Group.md
       - Useful Forms and Links/Parents.md
       - Useful Forms and Links/Staff.md
