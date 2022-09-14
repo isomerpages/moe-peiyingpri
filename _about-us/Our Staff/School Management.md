@@ -31,26 +31,26 @@ third_nav_title: Our Staff
 
 |  |  |
 |---|---|
-| Physical Education and CCA | Mr Mohamad Ikhwan <br>mohamad_ikhwan_mohamad_haron@schools.gov.sg |
-| Character and Citizenship Education  | Ms Athena Wee <br> athena_wee@schools.gov.sg |
+| Physical Education and CCA | Mr Mohamad Ikhwan <br>[mohamad_ikhwan_mohamad_haron@schools.gov.sg](mailto:mohamad_ikhwan_mohamad_haron@schools.gov.sg) |
+| Character and Citizenship Education  | Ms Athena Wee <br> [athena_wee@schools.gov.sg](mailto:athena_wee@schools.gov.sg) |
 |
 
 #### **Level Head**
 
 |  |  |
 |---|---|
-| English | Mrs Jennifer Fan <br>fan_lee_bee_yen@schools.gov.sg |
-|  Science/ICT | Mdm Loy Su Ann <br> loy_su_ann@schools.gov.sg  |
-|  Mathematics | Ms Pamela Lee <br> lee_qian_ni_pamela@schools.gov.sg  |
+| English | Mrs Jennifer Fan <br>[fan_lee_bee_yen@schools.gov.sg](mailto:fan_lee_bee_yen@schools.gov.sg) |
+|  Science/ICT | Mdm Loy Su Ann <br> [loy_su_ann@schools.gov.sg](mailto:loy_su_ann@schools.gov.sg)  |
+|  Mathematics | Ms Pamela Lee <br> [lee_qian_ni_pamela@schools.gov.sg](mailto:lee_qian_ni_pamela@schools.gov.sg)  |
 | 
 
 #### **Year Heads**
 
 |  |  |
 |---|---|
-| Lower Primary (Primary 1 and 2) | Ms Rosemarie Wong<br>wong_li_ching_rosemarie@schools.gov.sg |
-| Middle Primary (Primary 3 and 4) | Ms Poh Mei Cheng<br>poh_mei_cheng@schools.gov.sg |
-| Upper Primary (Primary 5 and 6) | Mr Eric Chia<br>chia_soong_liang_eric@schools.gov.sg |
+| Lower Primary (Primary 1 and 2) | Ms Rosemarie Wong<br>[wong_li_ching_rosemarie@schools.gov.sg](mailto:wong_li_ching_rosemarie@schools.gov.sg) |
+| Middle Primary (Primary 3 and 4) | Ms Poh Mei Cheng<br>[poh_mei_cheng@schools.gov.sg](mailto:poh_mei_cheng@schools.gov.sg) |
+| Upper Primary (Primary 5 and 6) | Mr Eric Chia<br>[chia_soong_liang_eric@schools.gov.sg](mailto:chia_soong_liang_eric@schools.gov.sg) |
 |
 
 #### **Executive Staff**
