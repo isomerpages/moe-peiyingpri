@@ -213,3 +213,10 @@ Check out the list of e-reading resources specially curated for you. Click on th
 <p><a href="https://childrenandteens.nlb.gov.sg/images/recommendationsprimary/High_Interest_Booklist.PDF">
 <img style="width:20%" src="/images/eresource10.jpg" align=left>
 </a></p>
+
+<br><br><br>
+<br><br>
+
+#### **Peiying Readers Card Templates**
+
+Click [here](/files/Peiying%20Readers%20Card%20Template.pdf) to download a copy of the Peiying Readers Card Templates
