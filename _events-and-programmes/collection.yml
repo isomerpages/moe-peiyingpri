@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Events and Programmes.md
+      - CCA/Clubs and Societies.md
       - CCA/Performing Arts.md
       - CCA/Uniformed Groups.md
       - CCA/Sports and Games.md
