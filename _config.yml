@@ -2,8 +2,8 @@ title: Peiying Primary School
 url: https://peiyingpri.sg
 favicon: /images/logo.jpg
 colors:
-  primary-color: "#4067ae"
-  secondary-color: "#d80606"
+  primary-color: "#d80606"
+  secondary-color: "#4067ae"
   media-colors:
     - title: media-color-one
       color: "#49759a"
