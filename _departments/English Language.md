@@ -130,3 +130,24 @@ Among the activities conducted throughout the year are:
 <br><br><br>
 
 The school also collaborates with other schools in the cluster to conduct workshops for students such as digital storytelling using software such as Newsmaker.
+
+##### **8. Intervention Programmes**
+<img src="/images/english13.jpg" style="width:40%" align=right>
+
+(a) Learning Support Programme (LSP)<br>
+It is an early intervention programme aimed at providing additional support to students who enter Primary 1 lacking developmentally appropriate English language and literacy skills. Its objective is to equip these students with basic reading and spelling skills.
+
+(b) Reading Remediation Programme (RRP)<br>
+The Reading Remediation Programme (RRP) is an additional literacy support programme implemented at P3 and P4 to support students with reading difficulties but who do not have dyslexia.
+
+(c) School Dyslexic Remediation (SDR)<br>
+The School-based Dyslexia Remediation (SDR) Programme enables students to become strategic decoders and spellers, flexible in the use of different strategies. It equips students with decoding and spelling strategies, and internalise these strategies which they would use through practice.
+
+##### **9. P3 and P4 Enrichment Programme**
+With the aim of promoting oracy among students, the English department conducted several enrichment workshops for Primary 3 and Primary 4 students.
+
+Primary 3 students were engaged in Readers’ Theatre, which helped them to learn to express themselves appropriately, confidently, clearly, eloquently and expressively. They were also taught a variety of vocal techniques to present their stories.  
+
+Primary 4 students had the opportunity to do Public Speaking, which helped them to learn the right public speaking skills in order to become an empathetic and effective communicator. The workshop also helped them gain confidence and motivation in delivering a narrative through positive reinforcement.
+
+
