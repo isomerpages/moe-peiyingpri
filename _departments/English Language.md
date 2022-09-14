@@ -12,7 +12,7 @@ description: ""
 |  Senior Teacher | Dr Chin Yoke Mui<br>[chin_yoke_mui@schools.gov.sg](mailto:chin_yoke_mui@schools.gov.sg) |
 |
 
-<img src="/images/department%20objectives.jpg" style="width:35%" align=left>
+<img src="/images/department%20objectives.jpg" style="width:65%" align=left>
 
 <br><br>
 
@@ -23,3 +23,5 @@ We aim to
 *   nurture pupils to become confident speakers and writers in a language-enriched environment.  
  
 *   develop in pupils thinking skills to make critical judgements necessary for the globalised world.
+
+<img src="/images/programmes.png" style="width:40%" align=left>
