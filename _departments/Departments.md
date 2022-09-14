@@ -21,7 +21,7 @@ description: ""
 <img style="width:24.4%" src="/images/department4.jpg" align=left>
 </a></p>
 
-<br><br><br>
+<br><br><br><br>
 <br><br><br>
 
 <p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/departments/mother-tongue/">
@@ -40,7 +40,7 @@ description: ""
 <img style="width:24.4%" src="/images/department8.jpg" align=left>
 </a></p>
 
-<br><br><br>
+<br><br><br><br>
 <br><br><br>
 
 <p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/departments/student-management/">
