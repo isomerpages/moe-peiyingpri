@@ -12,9 +12,9 @@ _For urgent matters, please contact the teacher through the General Office at 62
 
 | Class | Form Teacher | Co-Form Teacher |
 |---|---|---|
-| 3 Perseverance | Ms Joyce Cheok <br> joyce_cheok@schools.gov.sg | Mdm Nurhafieza <br> Nurhafieza_Zainal@schools.gov.sg |
-| 3 Respect | Ms Chandra <br> Gaayathri_K_Chandra@schools.gov.sg | Mr Muhammad Ikhwan <br> mohamad_ikhwan_mohamad_haron@schools.gov.sg<br><br> Mr Danny Xu Yahua <br> Xu_Yahua@schools.gov.sg |
-| 3 Integrity | Ms Vinotheni <br> Vinotheni_VATATHEESWARAN@schools.gov.sg | Mdm Thong Siong Chee <br> thong_siong_chee@schools.gov.sg |
-| 3 Diligence | Ms Pamela Lee <br> lee_qian_ni_pamela@schools.gov.sg | Ms Lian Yiling <br> lian_yi_ling@schools.gov.sg <br><br>Mr Noor Hendra Shahril   <br>noor_hendra_shahril_supaat@schools.gov.sg |
-| 3 Empathy | Mr Joel Quek<br> quek_zhu_hui_joel@schools.gov.sg | Mdm Nur Hidayah <br> nur_hidayah_abdul_rahman@schools.gov.sg |
+| 3 Perseverance | Ms Joyce Cheok <br> [joyce_cheok@schools.gov.sg](mailto:joyce_cheok@schools.gov.sg) | Mdm Nurhafieza <br> [Nurhafieza_Zainal@schools.gov.sg](mailto:Nurhafieza_Zainal@schools.gov.sg) |
+| 3 Respect | Ms Chandra <br> [Gaayathri_K_Chandra@schools.gov.sg](mailto:Gaayathri_K_Chandra@schools.gov.sg) | Mr Muhammad Ikhwan <br> [mohamad_ikhwan_mohamad_haron@schools.gov.sg](mailto:mohamad_ikhwan_mohamad_haron@schools.gov.sg))<br><br> Mr Danny Xu Yahua <br> [Xu_Yahua@schools.gov.sg](mailto:Xu_Yahua@schools.gov.sg) |
+| 3 Integrity | Ms Vinotheni <br> [Vinotheni_VATATHEESWARAN@schools.gov.sg](mailto:Vinotheni_VATATHEESWARAN@schools.gov.sg) | Mdm Thong Siong Chee <br> [thong_siong_chee@schools.gov.sg](mailto:thong_siong_chee@schools.gov.sg) |
+| 3 Diligence | Ms Pamela Lee <br> [lee_qian_ni_pamela@schools.gov.sg](mailto:lee_qian_ni_pamela@schools.gov.sg) | Ms Lian Yiling <br> [lian_yi_ling@schools.gov.sg](mailto:lian_yi_ling@schools.gov.sg) <br><br>Mr Noor Hendra Shahril<br>[noor_hendra_shahril_supaat@schools.gov.sg](mailto:noor_hendra_shahril_supaat@schools.gov.sg) |
+| 3 Empathy | Mr Joel Quek<br> [quek_zhu_hui_joel@schools.gov.sg](mailto:quek_zhu_hui_joel@schools.gov.sg) | Mdm Nur Hidayah <br> [nur_hidayah_abdul_rahman@schools.gov.sg](mailto:nur_hidayah_abdul_rahman@schools.gov.sg) |
 |
