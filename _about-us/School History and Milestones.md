@@ -28,5 +28,5 @@ In 1998, an Adventure Tower was installed in the school compound and accentuated
  Mr K. Govindan (2014 to 2020)<br>
  Mrs Peh-Wong Wei Yong (Current)
  
- ### **Milestones**
+### **Milestones**
  <img src="/images/milestones.jpg" style="width:85%" align=left>
