@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Rules.md
       - Our Achievements.md
       - Our Staff/School Management.md
       - Our Staff/Primary 1.md
