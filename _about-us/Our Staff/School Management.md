@@ -17,14 +17,14 @@ third_nav_title: Our Staff
 
 |  |  |
 |---|---|
-| School Staff Developer | Mrs Connie Chong<br>ang_hong_cheng@schools.gov.sg |
-| English | Mdm Haniza Ahmad<br>haniza_ahmad@schools.gov.sg |
-| Mother Tongue Languages | Ms Tay Chai Teng<br>tay_chai_teng@schools.gov.sg |
-| Mathematics | Mr Jason Heng<br>jason_heng_cheng_han@schools.gov.sg  |
-| Science | Mrs Lee-Ong Chee Lin<br>ong_chee_lin@schools.gov.sg |
-| Character and Citizenship Education | Mdm Hindon Saini<br> hindon_saini@schools.gov.sg |
-| Physical Education and CCA | Mr M Hassan Mohamed<br>m_hassan_mohamed@schools.gov.sg |
-| Student Management |  Mr Lee Khoon Peng<br>lee_khoon_peng@schools.gov.sg |
+| School Staff Developer | Mrs Connie Chong<br>[ang_hong_cheng@schools.gov.sg](mailto:ang_hong_cheng@schools.gov.sg) |
+| English | Mdm Haniza Ahmad<br>[haniza_ahmad@schools.gov.sg](mailto:haniza_ahmad@schools.gov.sg) |
+| Mother Tongue Languages | Ms Tay Chai Teng<br>[tay_chai_teng@schools.gov.sg](mailto:tay_chai_teng@schools.gov.sg) |
+| Mathematics | Mr Jason Heng<br>[jason_heng_cheng_han@schools.gov.sg](mailto:jason_heng_cheng_han@schools.gov.sg)  |
+| Science | Mrs Lee-Ong Chee Lin<br>[ong_chee_lin@schools.gov.sg](mailto:ong_chee_lin@schools.gov.sg) |
+| Character and Citizenship Education | Mdm Hindon Saini<br> [hindon_saini@schools.gov.sg](mailto:hindon_saini@schools.gov.sg) |
+| Physical Education and CCA | Mr M Hassan Mohamed<br>[m_hassan_mohamed@schools.gov.sg](mailto:m_hassan_mohamed@schools.gov.sg) |
+| Student Management |  Mr Lee Khoon Peng<br>[lee_khoon_peng@schools.gov.sg](mailto:lee_khoon_peng@schools.gov.sg) |
 |
 
 #### **Subject Heads**
