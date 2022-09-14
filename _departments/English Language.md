@@ -13,3 +13,13 @@ description: ""
 |
 
 <img src="/images/department%20objectives.jpg" style="width:35%" align=left>
+
+<br><br>
+
+We aim to  
+
+*   inculcate in every child a love for reading and an appreciation of a variety of genres.  
+
+*   nurture pupils to become confident speakers and writers in a language-enriched environment.  
+ 
+*   develop in pupils thinking skills to make critical judgements necessary for the globalised world.
