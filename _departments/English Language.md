@@ -25,3 +25,18 @@ We aim to
 *   develop in pupils thinking skills to make critical judgements necessary for the globalised world.
 
 <img src="/images/programmes.png" style="width:40%" align=left>
+
+<br><br>
+
+1\. **St**rategies for **E**nglish **L**anguage **L**earning **A**nd **R**eading **(STELLAR)**
+
+<img src="/images/english0.jpg" style="width:30%" align=left>
+<img src="/images/english1.jpg" style="width:51%" align=left>
+
+<br><br><br>
+<br><br><br>
+
+The STELLAR Curriculum aims to:  
+
+strengthen both language and reading skills as well as promote a positive attitude towards reading in the foundational years through a variety of learner-centred and developmentally appropriate pedagogical approaches using age-appropriate authentic children's literature.
+
