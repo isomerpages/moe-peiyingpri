@@ -150,4 +150,3 @@ Primary 3 students were engaged in Readers’ Theatre, which helped them to lear
 
 Primary 4 students had the opportunity to do Public Speaking, which helped them to learn the right public speaking skills in order to become an empathetic and effective communicator. The workshop also helped them gain confidence and motivation in delivering a narrative through positive reinforcement.
 
-
