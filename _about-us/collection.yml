@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Principal's Message 2022.md
       - Core Values, Vision and Mission.md
       - Student Vision Outcomes.md
       - Total Curriculum Framework.md
