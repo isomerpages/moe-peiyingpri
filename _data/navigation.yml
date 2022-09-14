@@ -45,7 +45,7 @@ links:
       - title: Student Management
         url: /departments/student-management/
   - title: Events and Programmes
-    url: /events-and-programmes/cca/
+    url: /events-and-programmes/
     sublinks:
       - title: CCA
         url: /events-and-programmes/cca/
