@@ -37,7 +37,7 @@ The Peiying pupil will have the opportunity to engage in learning activities uti
 
 ##### **2. ICT Baseline Skills**
 
-<img src="/images/ict.png" style="width:85%">
+<img src="/images/ict.png" style="width:75%">
 
 ##### **3. Cyberwellness Education**
 Cyber Wellness (CW) refers to the positive well-being of Internet users. It involves an understanding of online behaviour and awareness of how to protect oneself in cyberspace. The focus of CW is about helping students to become responsible digital learners. When navigating cyberspace, students should demonstrate respect for self and others and practise safe and responsible use. Students should also be a positive peer influence by harnessing technology for collaboration, learning and productivity, as well as advocating positive use of technology for the good of the community.
