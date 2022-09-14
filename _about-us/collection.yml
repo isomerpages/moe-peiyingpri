@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - Our Staff/EAS.md
       - Our Staff/Support Staff.md
       - Our Staff/.keep
