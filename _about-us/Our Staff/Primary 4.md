@@ -4,3 +4,18 @@ permalink: /about-us/our-staff/p4/
 description: ""
 third_nav_title: Our Staff
 ---
+### **Primary 4**
+**Year Head:** **Ms Poh Mei Cheng**  
+
+_Please allow teachers up to 3 days to reply to your email queries._   
+_For urgent matters, please contact the teacher through the General Office at 62575684._
+
+| Class | Form Teacher | Co-Form Teacher |
+|---|---|---|
+| 4 Perseverance | Mrs Gayathri Madhan<br>[gayathri_ghandi@schools.gov.sg](mailto:gayathri_ghandi@schools.gov.sg) | Mr Ngan Min Boon<br>[ngan_min_boon@schools.gov.sg](mailto:ngan_min_boon@schools.gov.sg) |
+| 4 Respect | Mr Cyril Matthew Philix<br>[cyril_matthew_philix@schools.gov.sg](mailto:cyril_matthew_philix@schools.gov.sg) | Mr Vasanthan <br>[vasanthan_naderajan@schools.gov.sg](mailto:vasanthan_naderajan@schools.gov.sg)<br><br>Ms Joyce Ang<br>[ng_yen_qing_joyce@schools.gov.sg](mailto:ng_yen_qing_joyce@schools.gov.sg) |
+| 4 Integrity | Mr Alahappan <br><br>[alahappan_meyyappan@schools.gov.sg](mailto:alahappan_meyyappan@schools.gov.sg) | Mdm Diana Tng <br>[diana_tng_meng_tiang@schools.gov.sg](mailto:diana_tng_meng_tiang@schools.gov.sg)<br><br>Ms Athena Wee<br>[athena_wee@schools.gov.sg](mailto:athena_wee@schools.gov.sg) |
+| 4 Diligence | Mr Yong Lih Tze<br>[yong_lih_tze@schools.gov.sg](mailto:yong_lih_tze@schools.gov.sg) | Mr Lee Khoon Peng<br>[lee_khoon_peng@schools.gov.sg](mailto:lee_khoon_peng@schools.gov.sg)<br><br>Ms Ng Zi Chun<br>[ng_zi_chun@schools.gov.sg](mailto:ng_zi_chun@schools.gov.sg) |
+| 4 Empathy | Mr Muhammad Hanafie <br>[muhammad_hanafie_hallil@schools.gov.sg](mailto:muhammad_hanafie_hallil@schools.gov.sg) | Mdm Chen Ying<br>[chen_ying_e@schools.gov.sg](mailto:chen_ying_e@schools.gov.sg) |
+| 4 Wisdom | Mr Jim Yong<br>[yong_chian_fei@schools.gov.sg](mailto:yong_chian_fei@schools.gov.sg) | Mrs Jasmine Goh<br>[lim_shimin@schools.gov.sg](mailto:lim_shimin@schools.gov.sg)<br><br>Mdm Hindon Bte Saini<br>[hindon_saini@schools.gov.sg](mailto:hindon_saini@schools.gov.sg) |
+|
