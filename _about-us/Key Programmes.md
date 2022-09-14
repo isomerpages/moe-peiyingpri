@@ -17,6 +17,9 @@ Project THINK for Home Earth is focused on environment education and is designed
 
 #### **Code for Fun**
 
-
 <img src="/images/kp2.png" style="width:35%;margin-right:15px;" align = "left">
 
+All P3 & P4 students go through a 20-hour Robotics programme that spans two years. Students starts learning the fundamentals of computational thinking at Primary 3 and the programme is continued at Primary 4. 
+
+  
+This programme offers a fun and interactive way for students to learn programming skills. In addition, it  enhances logical   thinking, analytical skills and how  students organise  data. The skills learnt are subsequently applied in the Project Work of the students.
