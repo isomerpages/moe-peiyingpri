@@ -112,3 +112,21 @@ These initiatives include
 
 The school also partners with public libraries to conduct reading activities.
 
+##### **7. Collaborations**
+As part of the school’s whole school approach to develop to a school-wide reading culture, it collaborates with the National Library Board (NLB) to promote a love for reading.
+
+Among the activities conducted throughout the year are:
+* Book 2 Go – Mass Borrowing of books
+* Book Buzz – Book talks conducted by librarians during assembly 
+* Storytelling sessions by the librarians for P1 to P3 classes
+* Book Bugs
+* Reading Interest Profile
+* Read Rail
+* Teachers’ Workshop - storytelling techniques, NLB’s eResources, eBooks
+
+<img src="/images/english11.jpg" style="width:49.5%" align=left>
+<img src="/images/english12.jpg" style="width:31.5%" align=left>
+
+<br><br><br>
+
+The school also collaborates with other schools in the cluster to conduct workshops for students such as digital storytelling using software such as Newsmaker.
