@@ -2,5 +2,6 @@ collections:
   departments:
     output: true
     order:
+      - Music and Art.md
       - PE & Aesthetics.md
       - Student Management.md
