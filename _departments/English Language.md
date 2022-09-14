@@ -220,3 +220,7 @@ Check out the list of e-reading resources specially curated for you. Click on th
 #### **Peiying Readers Card Templates**
 
 Click [here](/files/Peiying%20Readers%20Card%20Template.pdf) to download a copy of the Peiying Readers Card Templates
+
+<p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/files/Peiying%20Readers%20Card%20Template.pdf">
+<img style="width:45%" src="/images/peiying%20readers%20template%20cover.png">
+</a></p>
