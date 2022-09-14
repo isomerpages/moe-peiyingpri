@@ -23,6 +23,48 @@ links:
         url: /about-us/our-achievements/
       - title: Our Staff
         url: /about-us/our-staff/
-  - title: Menu Title
-    url: /permalink
-    sublinks: []
+  - title: Departments
+    url: /departments/english/
+    sublinks:
+      - title: English Language
+        url: /departments/english/
+      - title: Mathematics
+        url: /departments/mathematics/
+      - title: Science
+        url: /departments/science/
+      - title: Mother Tongue Languages
+        url: /departments/mother-tongue/
+      - title: Character & Citizenship Edu
+        url: /departments/cce/
+      - title: Info & Communication Tech
+        url: /departments/ict/
+      - title: Music and Art
+        url: /departments/music-and-art/
+      - title: PE & Aesthetics
+        url: /departments/pe-and-aesthetics/
+      - title: Student Management
+        url: /departments/student-management/
+  - title: Events and Programmes
+    url: /events-and-programmes/cca/
+    sublinks:
+      - title: CCA
+        url: /events-and-programmes/cca/
+      - title: PAL
+        url: /events-and-programmes/pal/
+  - title: Partners
+    url: /partners/level-programmes/
+    sublinks:
+      - title: Level Programmes
+        url: /partners/level-programmes/
+      - title: Family Matters @ School
+        url: /partners/family-matters-at-school/
+      - title: Keeping In Touch Newsletters
+        url: /partners/keeping-in-touch-newsletters/
+      - title: Parent Support Group
+        url: /partners/psg/
+      - title: Useful Forms and Links
+        url: /partners/useful-forms-and-links/
+  - title: Contact-Us
+    url: /contact-us/
+  - title: E-Openhouse
+    url: /e-openhouse/
