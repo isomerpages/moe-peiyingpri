@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Total Curriculum Framework.md
       - School History and Milestones.md
       - School Crest and School Song.md
       - School Rules.md
