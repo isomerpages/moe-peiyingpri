@@ -2,4 +2,5 @@ collections:
   partners:
     output: true
     order:
+      - Useful Forms and Links/Staff.md
       - Useful Forms and Links/.keep
