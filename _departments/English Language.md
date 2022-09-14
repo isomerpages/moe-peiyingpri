@@ -169,3 +169,47 @@ Primary 4 students had the opportunity to do Public Speaking, which helped them 
 5) [School eResource Repository](https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
 
 #### **e-Reading Resources**
+Check out the list of e-reading resources specially curated for you. Click on the images to be re-directed to the websites. Have fun reading!
+
+<p><a href="https://eresources.nlb.gov.sg/ereads/DiscoveReads/All?level=p">
+<img style="width:20%" src="/images/eresource1.jpg" align=left>
+</a></p>
+
+<p><a href="https://eresources.nlb.gov.sg/ereads/DiscoveReads/All?level=p">
+<img style="width:20%" src="/images/eresource2.jpg" align=left>
+</a></p>
+
+<p><a href="https://eresources.nlb.gov.sg/ereads/DiscoveReads/All?level=p">
+<img style="width:20%" src="/images/eresource3.jpg" align=left>
+</a></p>
+
+<p><a href="https://eresources.nlb.gov.sg/ereads/DiscoveReads/All?level=p">
+<img style="width:20%" src="/images/eresource4.jpg" align=left>
+</a></p>
+
+<p><a href="https://eresources.nlb.gov.sg/ereads/DiscoveReads/All?level=p">
+<img style="width:20%" src="/images/eresource5.jpg" align=left>
+</a></p>
+
+<br><br><br>
+<br><br><br>
+
+<p><a href="https://eresources.nlb.gov.sg/ereads/DiscoveReads/All?level=p">
+<img style="width:20%" src="/images/eresource6.jpg" align=left>
+</a></p>
+
+<p><a href="https://eresources.nlb.gov.sg/ereads/DiscoveReads/All?level=p">
+<img style="width:20%" src="/images/eresource7.jpg" align=left>
+</a></p>
+
+<p><a href="https://eresources.nlb.gov.sg/ereads/DiscoveReads/All?level=p">
+<img style="width:20%" src="/images/eresource8.jpg" align=left>
+</a></p>
+
+<p><a href="https://eresources.nlb.gov.sg/ereads/DiscoveReads/All?level=p">
+<img style="width:20%" src="/images/eresource9.jpg" align=left>
+</a></p>
+
+<p><a href="https://eresources.nlb.gov.sg/ereads/DiscoveReads/All?level=p">
+<img style="width:20%" src="/images/eresource10.jpg" align=left>
+</a></p>
