@@ -24,7 +24,7 @@ links:
       - title: Our Staff
         url: /about-us/our-staff/
   - title: Departments
-    url: /departments/english/
+    url: /departments/
     sublinks:
       - title: English Language
         url: /departments/english/
