@@ -28,7 +28,7 @@ We aim to
 
 <br><br>
 
-##### **1\. **St**rategies for **E**nglish **L**anguage **L**earning **A**nd **R**eading **(STELLAR)****
+##### **1\. **St**rategies for **E**nglish **L**anguage **L**earning **A**nd **R**eading **(STELLAR)**\**
 
 <img align="left" style="width:30%" src="/images/english0.jpg">
 <img align="left" style="width:51%" src="/images/english1.jpg">
