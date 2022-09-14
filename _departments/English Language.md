@@ -175,53 +175,41 @@ Check out the list of e-reading resources specially curated for you. Click on th
 <img style="width:20%" src="/images/eresource1.jpg" align=left>
 </a></p>
 
-<p><a href="https://eresources.nlb.gov.sg/ereads/DiscoveReads/All?level=p">
+<p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/files/p1.pdf">
 <img style="width:20%" src="/images/eresource2.jpg" align=left>
 </a></p>
 
-<p><a href="https://eresources.nlb.gov.sg/ereads/DiscoveReads/All?level=p">
+<p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/files/p2.pdf">
 <img style="width:20%" src="/images/eresource3.jpg" align=left>
 </a></p>
 
-<p><a href="https://eresources.nlb.gov.sg/ereads/DiscoveReads/All?level=p">
+<p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/files/p3.pdf">
 <img style="width:20%" src="/images/eresource4.jpg" align=left>
 </a></p>
 
-<p><a href="https://eresources.nlb.gov.sg/ereads/DiscoveReads/All?level=p">
+<p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/files/p4.pdf">
 <img style="width:20%" src="/images/eresource5.jpg" align=left>
 </a></p>
 
 <br><br><br>
 <br><br><br>
 
-<p><a href="https://eresources.nlb.gov.sg/ereads/DiscoveReads/All?level=p">
+<p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/files/p5.pdf">
 <img style="width:20%" src="/images/eresource6.jpg" align=left>
 </a></p>
 
-<p><a href="https://eresources.nlb.gov.sg/ereads/DiscoveReads/All?level=p">
+<p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/files/p5f.pdf">
 <img style="width:20%" src="/images/eresource7.jpg" align=left>
 </a></p>
 
-<p><a href="https://eresources.nlb.gov.sg/ereads/DiscoveReads/All?level=p">
+<p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/files/p6.pdf">
 <img style="width:20%" src="/images/eresource8.jpg" align=left>
 </a></p>
 
-<p><a href="https://eresources.nlb.gov.sg/ereads/DiscoveReads/All?level=p">
+<p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/files/p6f.pdf">
 <img style="width:20%" src="/images/eresource9.jpg" align=left>
 </a></p>
 
 <p><a href="https://childrenandteens.nlb.gov.sg/images/recommendationsprimary/High_Interest_Booklist.PDF">
 <img style="width:20%" src="/images/eresource10.jpg" align=left>
 </a></p>
-
-<br><br><br>
-<br><br><br>
-
-[p1](/files/p1.pdf)
-[p2](/files/p2.pdf)
-[p3](/files/p3.pdf)
-[p4](/files/p4.pdf)
-[p5](/files/p5.pdf)
-[p5f](/files/p5f.pdf)
-[p6](/files/p6.pdf)
-[p6f](/files/p6f.pdf)
