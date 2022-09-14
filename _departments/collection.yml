@@ -2,4 +2,5 @@ collections:
   departments:
     output: true
     order:
+      - PE & Aesthetics.md
       - Student Management.md
