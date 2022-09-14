@@ -160,10 +160,12 @@ Primary 4 students had the opportunity to do Public Speaking, which helped them 
 
 1) [Speak Good English Movement](https://www.goodenglish.org.sg/)  
 
-2) [STELLAR](http://www.stellarliteracy.sg/)   
+2) [STELLAR](http://www.stellarliteracy.sg/)
 
 3) [National Library Board](http://www.nlb.gov.sg/)
 
 4) [Peiying Primary School Library](https://schoolibrary.moe.edu.sg/peiyingpri)
 
 5) [School eResource Repository](https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
+
+#### **e-Reading Resources**
