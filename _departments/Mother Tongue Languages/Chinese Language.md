@@ -24,7 +24,8 @@ We aim to:
 <img src="/images/chi1.jpg" style="width:35%" align=left>
 <img src="/images/chi2.jpg" style="width:35%" align=left>
 
-<br><br><br><br>
+<br><br>
+<br><br><br>
 
 ##### **2. ePride Project**
 We aim to:
