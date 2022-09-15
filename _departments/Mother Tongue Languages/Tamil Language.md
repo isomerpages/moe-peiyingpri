@@ -12,11 +12,11 @@ third_nav_title: Mother Tongue Languages
 <br>
 
 ##### **1. Primary 1 and 2: Singing Competition**
-<img align="left" style="width:40%" src="/images/tamil1.png">
+<img align="left" style="width:30%" src="/images/tamil1.png">
 Through this singing competition students are able to discover their potential musical talents. Their self-confidence improves greatly as well. Student will have the opportunity to learn many new words and phrases in Tamil through this singing competition.
 
 ##### **2. Primary 1 and 2: Vaanga Pesalam 'Let's chat'**
-<img align="left" style="width:40%" src="/images/tamil2.jpg">
+<img align="left" style="width:30%" src="/images/tamil2.jpg">
 This programme helps to enhance the students’ oracy skills. Students became confident speakers and are able to share their thoughts. They are also able to communicate more effectively with their classmates.
 
 ##### **3. Primary 3 and 4: Speech and Drama Workshop**
@@ -25,15 +25,15 @@ Through speech and drama workshops, students learn basic acting skills like expr
 The workshop serves as a confidence booster for the students as well. The stage presence gained helps them to develop leadership capabilities.
 
 ##### **4. Primary 5 and 6: Oratorical Contest**
-<img align="left" style="width:25%" src="/images/tamil4.jpg">
+<img align="left" style="width:15%" src="/images/tamil4.jpg">
 
 Oratorical Contest boosts the students’ confidence and enhances their communication skills. Their public speaking skills also develop.
 
 As a result, the students are able to do presentations with much courage and ease in front of their classmates.  
 
 ##### **5. Primary 5 and 6: Presentation Skills Workshop**
-<img align="left" style="width:25%" src="/images/tamil5.jpg">
-<img align="right" style="width:35%" src="/images/tamil6.jpg">
+<img align="left" style="width:20%" src="/images/tamil5.jpg">
+<img align="right" style="width:30%" src="/images/tamil6.jpg">
 
 This workshop aims to provide an opportunity for students to bolster their confidence and develop their communication skills. The pupils will get to learn how to write speeches and improve their written work, especially grammar. 
 
