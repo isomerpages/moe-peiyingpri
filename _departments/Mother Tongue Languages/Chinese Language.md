@@ -5,9 +5,7 @@ description: ""
 third_nav_title: Mother Tongue Languages
 ---
 ### **Chinese Language**
-<br>
-
-<img align="left" style="width:40%" src="/images/programmes.png">
+<img align="left" style="width:33%" src="/images/programmes.png">
 
 <br>
 
