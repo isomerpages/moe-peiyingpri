@@ -5,9 +5,10 @@ description: ""
 third_nav_title: Mother Tongue Languages
 ---
 ### **Malay Language**
-<br>
 
 <img align="left" style="width:40%" src="/images/programmes.png">
+
+<br>
 
 ##### **1. Malay Language Extensive Reading Programme (Celik Sastera) P1-P6**
 
