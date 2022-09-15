@@ -40,7 +40,7 @@ The Primary 5 camp is an annual 3day & 2night camp. Campers, ex-Peiying pupils c
 <img src="/images/pe1.jpg" style="width:43%" align=left>
 <img src="/images/pe2.jpg" style="width:49%" align=left>
 
-<br><br>
+<br><br><br>
 
 ##### **2. Lower Primary Games Day**
 <img src="/images/pe3.jpg" style="width:60%;margin-right:15px;" align = "left">
