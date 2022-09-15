@@ -39,4 +39,8 @@ This workshop aims to provide an opportunity for students to bolster their confi
 
 The activities in the workshop will help them in their social development and hence, their transition to secondary school.
 
-![](/images/tamil7.jpg)
+##### **6. Learning Journey to Indian Heritage Centre**
+<img src="/images/tamil7.jpg" style="width:45%;margin-right:15px;" align = "left">
+Students get a chance to learn about the Indian Culture through this Learning Journey. They also learn about the activities of early Indians in diverse fields. 
+
+The exhibitions cover various themes with an emphasis on the chronology and role of early institutions established by the community then.
