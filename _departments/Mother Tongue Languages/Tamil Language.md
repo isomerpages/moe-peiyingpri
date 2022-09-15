@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Mother Tongue Languages
 ---
 ### **Tamil Language**
-<img align="left" style="width:40%" src="/images/programmes.png">
+<img align="left" style="width:33%" src="/images/programmes.png">
 
 <br>
 
