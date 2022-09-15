@@ -4,3 +4,20 @@ permalink: /departments/cce/
 description: ""
 third_nav_title: Character and Citizenship Edu
 ---
+### **Character and Citizenship Education (CCE)**
+
+|  |  |
+|---|---|
+| **Head of Department** | Mdm Hindon Saini<br>[hindon_saini@schools.gov.sg](mailto:hindon_saini@schools.gov.sg) |
+| **Subject Head** | Ms Athena<br> [Weeathena_wee@schools.gov.sg](mailto:Weeathena_wee@schools.gov.sg) |
+|
+
+<img align="left" style="width:65%" src="/images/department%20objectives.jpg">
+
+<br><br>
+
+We aim to
+
+*   inculcate values and build competencies in our students  
+    
+*   develop ours students to be good individuals and useful citizens
