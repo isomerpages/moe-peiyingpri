@@ -25,3 +25,9 @@ We aim to
 * develop ability for creative expression and communication through music
     
 * provide the basis to develop an informed and life-long involvement in music
+
+<img align="left" style="width:40%" src="/images/programmes.png">
+
+<br>
+
+##### **1. Handbells**
