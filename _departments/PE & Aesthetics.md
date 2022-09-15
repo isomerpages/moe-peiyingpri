@@ -59,3 +59,10 @@ Camp PRIDE is an annual day camp which we organise for sports leaders from the N
 The activities during the camp consist of High Rope Element Course and Intermediate Wall at our Peiying Primary School Adventure Centre, Team Building Games and Leadership Segment, Orienteering at the Yishun Neighbourhood Park as well as First Aid and Tent Pitching. 
 
 These activities are designed to provide our sports leaders with the learning experiences as well as opportunities to perform so as to develop their leadership skills and Social Emotional Competencies and instill the PRIDE values in them.
+
+##### **5. Sports Education Programme (SEP)**
+Our Sports Education Programme (SEP) aims to advocate the importance of sports education, encourage sports participation in Peiying and increase sporting opportunities for our students. Our Primary 3 students participate in Silat, Primary 4 in Frisbee, Primary 5 in Wushu and Primary 6 in Bowling.
+
+<img src="/images/pe6.jpg" style="width:85%">
+
+These quality sports programmes caters for the development of skills and sports knowledge of our students and help promote active participation of sports in our school. They also promote team spirit and character building in our students, and aim to arouse their interest in continual sports participation.
