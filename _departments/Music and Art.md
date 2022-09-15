@@ -53,3 +53,7 @@ They learn to record and mix their own composition and arrangements. They learn 
 
 <img src="/images/music3.png" style="width:45%;margin-right:15px;" align = "left">
 Our students have the opportunity to learn to play the boomwhackers for a term at Primary 5. They learn to understand the usage of boomwhackers, playing a simple song as an ensemble and experience layering of ostinato rhythms. Through these activities, students learn to demonstrate musical abilities such as following the conductor’s lead and to coordinate confidently with their peers to complete an ensemble performance. They learn to apply fundamental musical skills such as listening and musical abilities as required in an ensemble playing.
+
+<br><br>
+
+<img align="left" style="width:12%" src="/images/art.png">
