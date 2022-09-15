@@ -60,6 +60,8 @@ Our students have the opportunity to learn to play the boomwhackers for a term a
 
 <img align="left" style="width:12%" src="/images/art.png">
 
+<br>
+
 |  |  |
 |---|---|
 | **Coordinator** | Ms Avery Neo<br>[sim_yaen_avery_rhoda@schools.gov.sg](mailto:sim_yaen_avery_rhoda@schools.gov.sg) |
@@ -96,5 +98,3 @@ P5: Chinese Painting<br>
 P6: Printmaking
 
 Art constitutes important ways of knowing and learning about self, others and the world around us. It is a form of language through which personal meanings are generated and cultural identities are formed. Our ACE visual arts programme from P3-6 provides an avenue for our students to develop self and social awareness and appreciate our unique Singaporean forms of expression that are anchored on national values as well as understand and appreciate cultures and traditions beyond Singapore. This enables our students to develop respect for themselves and others, value harmony and thereby cultivating their global awareness and cross cultural skills for the 21st century.
-
-
