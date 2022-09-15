@@ -16,7 +16,7 @@ description: ""
 
 <img align="left" style="width:65%" src="/images/department%20objectives.jpg">
 
-<br><br>
+<br>
 
 We aim to  
 
