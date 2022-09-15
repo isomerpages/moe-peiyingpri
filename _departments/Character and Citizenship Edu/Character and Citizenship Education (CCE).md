@@ -63,8 +63,8 @@ The school’s VIA programme focuses on two key areas; Act of kindness and Envir
 <img src="/images/cce3.png" style="width:30%" align=left>
 <img src="/images/cce4.jpg" style="width:65%" align=left>
 
-<br><br><br>
-<br><br><br>
+<br><br><br><br>
+<br><br><br><br>
 
 ##### **3. National Education**
 **(a) NE Learning Journeys**<br>
