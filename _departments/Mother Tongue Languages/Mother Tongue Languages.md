@@ -24,3 +24,11 @@ We aim to
 
 ##### [**Chinese Language**](https://staging.d2fm9eecd3ej28.amplifyapp.com/departments/mother-tongue/chinese/) | [**Malay Language**](https://staging.d2fm9eecd3ej28.amplifyapp.com/departments/mother-tongue/malay/) | [**Tamil Language**](https://staging.d2fm9eecd3ej28.amplifyapp.com/departments/mother-tongue/tamil/) |
 
+<br>
+
+<img align="left" style="width:70%" src="/images/combined%20mtl%20programmes.png">
+
+##### **1. MTL Fortnight**
+
+Theme: **Joyful Learning of Languages through creativity and innovation**
+
