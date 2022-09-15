@@ -41,7 +41,7 @@ Aims
 * provide opportunities for students to acquire leadership skills
 
 **3-Tiered Leadership Roles**<br>
-<img src="/images/cce2.png" style="width:35%" align=left>
+<img src="/images/cce2.png" style="width:45%;margin-right:15px;" align = "left">
 In Peiying Primary School, we build character and develop our students’ potential through the Student Leadership development Programme.  The school provides leadership opportunities to stretch students’ abilities to lead self, peers, school and community. The school nurtures leadership potential of its students through provision of leadership opportunities and trainings. <br>
 We customised leadership trainings to build character in our students. The ‘I Can Lead’ – is a customised school-wide leadership programme for Primary 1 to Primary 6.
 
