@@ -14,7 +14,7 @@ description: ""
 | **Coordinator** | Miss Joyce Ang<br>[ang_yen_qing_joyce@schools.gov.sg](mailto:ang_yen_qing_joyce@schools.gov.sg)<br><br>Mrs Avery Neo<br>[sim_yaen_avery_rhoda@schools.gov.sg](mailto:sim_yaen_avery_rhoda@schools.gov.sg) |
 |  |  |
 
-<img align="left" style="width:65%" src="/images/department%20objectives.jpg">
+<img align="left" style="width:60%" src="/images/department%20objectives.jpg">
 
 <br>
 
@@ -26,7 +26,7 @@ We aim to
     
 * provide the basis to develop an informed and life-long involvement in music
 
-<img align="left" style="width:40%" src="/images/programmes.png">
+<img align="left" style="width:35%" src="/images/programmes.png">
 
 <br>
 
@@ -59,4 +59,42 @@ Our students have the opportunity to learn to play the boomwhackers for a term a
 <br>
 
 <img align="left" style="width:12%" src="/images/art.png">
+
+|  |  |
+|---|---|
+| **Coordinator** | Ms Avery Neo<br>[sim_yaen_avery_rhoda@schools.gov.sg](mailto:sim_yaen_avery_rhoda@schools.gov.sg) |
+|  |  |
+
+<img align="left" style="width:60%" src="/images/department%20objectives.jpg">
+
+<br>
+
+We aim to  
+
+* foster students’ sense of identity, culture and place in society through Art
+    
+* build students’ capacity to critically discern and process visual information, and communicate effectively in the 21st century 
+    
+* expand students’ imagination and creativity 
+    
+* create a conducive learning environment where students enjoy art, communicate visually, and make meaning through connecting with society and culture
+
+<img align="left" style="width:35%" src="/images/programmes.png">
+
+<br>
+
+##### **1. P1 Oil Pastel Blending  Enrichment Programme(AMIS)**
+Our students took colouring to the next level by applying the colour blending technique in their art work. They were taught to apply, manipulate, and blend oil pastels in a multitude of ways to achieve different effects, hues, and textures to emphasise details in an art work.
+
+##### **2. P2 Acrylic Painting on Canvas Enrichment Programme (AMIS)**
+The process of exploration is one of the most exciting things about acrylic painting! Under the guidance of experienced instructors, students try their hand at acrylic painting on canvas which is a new experience to them, and create texture-rich and vibrant art pieces.
+
+##### **3. P3-P6 Arts and Cultural Experience Programme (ACE) - Visual Arts**
+P3: WAU Kite Making<br>
+P4: Clay Diya<br>
+P5: Chinese Painting<br>
+P6: Printmaking
+
+Art constitutes important ways of knowing and learning about self, others and the world around us. It is a form of language through which personal meanings are generated and cultural identities are formed. Our ACE visual arts programme from P3-6 provides an avenue for our students to develop self and social awareness and appreciate our unique Singaporean forms of expression that are anchored on national values as well as understand and appreciate cultures and traditions beyond Singapore. This enables our students to develop respect for themselves and others, value harmony and thereby cultivating their global awareness and cross cultural skills for the 21st century.
+
 
