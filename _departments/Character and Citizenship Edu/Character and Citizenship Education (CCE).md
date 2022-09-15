@@ -76,3 +76,18 @@ In addition to our learning journeys, our school also conducts Heritage Trails f
 
 During our in-house trails, students work in groups for their assigned tasks. They would get the chance to explore the Heritage displays around the school to learn more the contributions of our founding fathers, our languages and also the traditions and practices of our diverse ethnic groups.
 
+##### **3. PRIDE Star Award**
+PRIDE Star Awards aims to:
+* encourage students to demonstrate core values consistently.
+* Recognize students for demonstrating the core values, showing good character and for being a role model among their peers. <b></b>
+
+We encourage and affirm students for their exemplary conduct, showing good character and for being a role model among their peers. Students will be given the following awards based on the values demonstrated:
+
+* Perseverance Star 
+* Respect Star
+* Integrity Star
+* Diligence Star
+* Empathy Star
+
+##### **4. Values for Breakfast**
+Values for Breakfast is a classroom-based assembly programme. These lesson packages are design to engage students in the explicit teaching of the school core values.  These lessons help our students to gain better understanding of the core values.
