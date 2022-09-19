@@ -27,3 +27,24 @@ Peiying Primary School offers Outdoor Adventure Club as a Co-Curricular Activity
 Activities conducted during the CCA sessions are geared towards character building and inculcating the PRIDE core values. These activities not only inculcate values such as teamwork, resilience and gratitude, they also help students become more confident and caring individuals.
 
 Teahers-in-charge: Mr Jim Yong, Mr Rosnizam, Ms Joyce Ang and Mr Md Reduan
+
+#### **Rope Skipping**
+Peiying Primary School offers Rope Skipping as a Co-Curricular Activity (CCA) to our P3 to P6 boys and girls. Our Rope Skipping CCA aims to strengthen students’ bodies and improve their agility, psychomotor and coordination skills. Members will learn speed and creative skills such as running steps, double dutch, crosses and multiples during their CCA sessions.
+
+Rope Skipping also focuses on character building via PRIDE core values and instilling sportsmanship and cooperative skills in our students. Members are given the opportunity to represent the school in the National School Games Rope Skipping Championships and other platforms to apply the skills, knowledge and attitudes acquired. 
+
+Teachers-in-charge: Mdm Nurhazrida, Mr Vasanthan and Ms Pamela Lee
+
+#### **Sepak Takraw**
+<img src="/images/sepak%20tekraw1.png" style="width:25%;margin-right:15px;" align = "left">
+
+Peiying Primary School offers Sepak Takraw as a Co-Curricular Activity (CCA) to our P3 to P6 boys. Sepak Takraw is an exciting and dynamic sport in Peiying Primary School. As it is a team game, we aim to cultivate sportsmanship and teamwork during the weekly training sessions. Students who display interest and talent in the CCA are identified and selected during Physical Education lessons to join the Sepak Takraw CCA.
+
+<img src="/images/sepak%20tekraw2.png" style="width:30%;margin-right:15px;" align = "right">
+
+Sepak Takraw school team players are given the opportunity to represent the school in the National School Games Sepak Takraw Championships and other platforms where they will have a chance to experience sports at a competitive level, preparing them psychologically for future sporting endeavours as they head on to higher educational institutions.
+
+<img src="/images/sepak%20tekraw3.png" 
+     style="width:85%">
+		 
+Teachers-in-charge: Mr Dinoalfian, Mdm Suzanah, Mr Matthew and Mr Darren Yeo		 
