@@ -79,3 +79,10 @@ Primary 3 students were engaged in Readers’ Theatre, which helped them to lear
 Primary 4 students had the opportunity to do Public Speaking, which helped them to learn the right public speaking skills in order to become an empathetic and effective communicator. The workshop also helped them gain confidence and motivation in delivering a narrative through positive reinforcement.
 
 <iframe allowfullscreen="true" width="800" height="450" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSUShs9JFjq1RLcoBDw1meNkc4I522YAJ956H2B1RECaJM5YMyNOA07FEDYW-RjLIn-cni1jhf8Knti/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
+#### **Chinese New Year Celebrations 2022**
+The appreciation of the Chinese culture and traditions were the focus of our Chinese New Year Celebrations this year. 
+
+We kicked start the celebration with a Pre-CNY Level Decoration Competition two weeks before the Chinese New Year, to create a festive mood in the school. 
+
+During the school celebration on the eve of Chinese New Year, the students learnt about the need to persevere at this point of the pandemic, the importance of communication and the value of filial piety through videos and PowerPoint presentations prepared by our teachers. The students were also engaged in hands-on activities and brought their hand made products home to celebrate the Chinese New Year.
