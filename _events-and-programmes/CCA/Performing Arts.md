@@ -30,3 +30,16 @@ Peiying Primary School offers Choir as a Co-Curricular Activity (CCA) to our P3 
 We also aim to promote choral awareness where our students will acquire skills in voice projection, self-awareness, good posture and correct singing techniques. We also make regular appearances in school events such as Chinese New Year Celebration, National Day Celebration and Prize Presentation Day.
 
 Teachers-in-charge: Mrs Foo Xiao Jing, Mdm Toh Yee Kheng and Mdm Ng Yuet Ling
+
+#### **Modern Dance**
+<img src="/images/modern%20dance%201.png" style="width:35%;margin-right:15px;" align = "right">
+
+Peiying Primary School offers Modern Dance as a Co-Curricular Activity (CCA) to our P3 to P6 girls.  Modern Dance is a multitalented CCA that focuses on developing students with a passion for dance to maximise their potential. The group is trained in the modern contemporary genre. Inculcating an appreciation of various dance is an important aspect of our dance education which prepares the dancers for performances in internal and external events.
+
+![](/images/modern%20dance%202.png)
+
+Dance members were selected to perform at the 2016 SYF Celebrations at Esplanade Outdoor Theatre with an energetic-charged piece entitled “SOAR.” Dance members also received invitations to perform at the National Day Observance Day organised by grassroots leaders at Nee Soon South CC. In addition, dance members also performed during our internal school events such as Chinese New Year Celebrations, National Day Celebrations and Prize Presentation Day.
+
+![](/images/modern%20dance%203.png)
+
+Teachers-in-charge: Ms Hee Chuan Min, Mdm Lim See Voon, Ms Manomani and Mdm Lian Yi Ling
