@@ -58,7 +58,7 @@ Students who display interest in the Volleyball CCA are identified and selected 
 <img src="/images/vball2.png" style="width:35%;margin-right:15px;" align = "left"><b></b>
 Volleyball school team players are given the opportunity to represent the school in the National School Games Volleyball Championships and other platforms to apply the skills, attitudes and knowledge they have gained. 
 
-<br>
+<br><br>
 
 Our teachers-in-charge and coach are committed to develop our Volleyball players holistically – building their character and stretching their potential.
 
