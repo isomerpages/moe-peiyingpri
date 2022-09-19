@@ -55,4 +55,23 @@ description: ""
 <img style="width:48%" src="/images/vpa4.jpg" align=left>
 </a></p>
 
+<br><br><br><br>
+<br><br><br><br>
+
+<p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/infocomm/">
+<img style="width:48%" src="/images/cns1.jpg" align=left>
+</a></p>
+
+<p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/eco-science/">
+<img style="width:48%" src="/images/cns2.jpg" align=left>
+</a></p>
+
+<p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/english/">
+<img style="width:48%" src="/images/cns3.jpg" align=left>
+</a></p>
+
+<p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/mathematics/">
+<img style="width:48%" src="/images/cns4.jpg" align=left>
+</a></p>
+
 <img src="/images/clubs%20and%20societies.jpg" style="width:35%" align=right>
