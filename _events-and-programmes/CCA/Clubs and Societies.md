@@ -23,11 +23,7 @@ The Infocomm Club offers learning activities in the areas of videography, animat
 
 Infocomm Club members are also given the chance to be trained in AVA and help out in the running of the school’s AVA system during morning flag raising ceremony and school events. The Infocomm Club aims to nurture confident learners who are equipped with 21st CC skills in technology.
 
-<img src="/images/infocomm1.jpg" style="width:20%" align=left>
-<img src="/images/infocomm2.jpg" style="width:37%"align=left>
-<img src="/images/infocomm3.jpg" style="width:34%"align=left>
-
-<br><br><br><br><br>
+![](/images/infocomm%20club.jpg)
 
 Advisor: Mdm Loy Su Ann<br>
 Teachers-in-charge: Mr James Clifton, Mr Hanafie, Ms Shih Xiu Rong, Mr Xu Yahua and Ms Ng Zi Chun
