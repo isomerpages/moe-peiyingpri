@@ -3,7 +3,7 @@ title: CCA
 permalink: /e-openhouse/cca/
 description: ""
 ---
-<img src="/images/sports%20and%20games.jpg" style="width:21.5%" align=left><p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/volleyball/">
+<img src="/images/sports%20and%20games.jpg" style="width:21.5%" align=left><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/volleyball/">
 <img style="width:25%" src="/images/sng1.jpg" align=left>
 
 <p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/outdoor-education/">
@@ -38,7 +38,7 @@ description: ""
 <br><br><br><br>
 <br><br><br><br>
 
-<img src="/images/visual%20and%20performing%20arts.jpg" style="width:21.2%" align=left><p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/art-and-craft/">
+<img src="/images/visual%20and%20performing%20arts.jpg" style="width:21.2%" align=left><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/art-and-craft/">
 <img style="width:21.5%" src="/images/vpa1.jpg" align=left>
 
 <p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/dance-international/">
