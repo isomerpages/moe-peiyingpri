@@ -41,7 +41,6 @@ description: ""
 
 <img src="/images/visual%20and%20performing%20arts.jpg" style="width:21.2%" align=left><p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/art-and-craft/">
 <img style="width:21.5%" src="/images/vpa1.jpg" align=left>
-</a></p>
 
 <p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/dance-international/">
 <img style="width:23.1%" src="/images/vpa2.jpg" align=left>
