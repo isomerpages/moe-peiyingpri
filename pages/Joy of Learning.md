@@ -27,7 +27,9 @@ Our visit to the frog farm was very enriching. We got to do things that we have 
 <img src="/images/joy2.jpg" style="width:52%" align=left>
 <img src="/images/joy3.jpg" style="width:47%" align=right>
 
-<br><br>
+<br><br><br><br>
+<br><br><br><br>
+
 
 <img src="/images/open.png" style="width:6%" align=left>
 
