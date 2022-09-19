@@ -3,3 +3,37 @@ title: CCA
 permalink: /e-openhouse/cca/
 description: ""
 ---
+
+<img src="/images/sports%20and%20games.jpg" style="width:21.5%" align=left>
+
+<p><a href="https://scmobile.moe.edu.sg/login">
+<img style="width:25%" src="/images/sng1.jpg" align=left>
+</a></p>
+
+<p><a href="https://scmobile.moe.edu.sg/login">
+<img style="width:25%" src="/images/sng2.jpg" align=left>
+</a></p>
+
+<p><a href="https://scmobile.moe.edu.sg/login">
+<img style="width:21%" src="/images/sng3.jpg" align=left>
+</a></p>
+
+<p><a href="https://scmobile.moe.edu.sg/login">
+<img style="width:35%" src="/images/sng4.jpg" align=left>
+</a></p>
+
+<p><a href="https://scmobile.moe.edu.sg/login">
+<img style="width:35%" src="/images/sng5.jpg" align=left>
+</a></p>
+
+
+
+
+
+
+
+<img src="/images/uniformed%20groups.jpg" style="width:35%" align=right>
+
+<img src="/images/visual%20and%20performing%20arts.jpg" style="width:35%" align=left>
+
+<img src="/images/clubs%20and%20societies.jpg" style="width:35%" align=right>
