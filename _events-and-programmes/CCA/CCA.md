@@ -23,4 +23,3 @@ Students are strongly encouraged to participate actively in their CCA to develop
 At the end of Primary Two, students will get to find out more about the various CCAs. They will then be given a form to select their choices. Students are encouraged to discuss their choices of CCA with their parents before submitting their CCA choices.
 
 The school will try to assign the CCAs according to student’ preference. However, there may be instances when students may not be assigned their first choice CCA if it is over-subscribed. In such cases, they will be assigned to one of their remaining choices of CCA.
-
