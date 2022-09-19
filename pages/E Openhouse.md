@@ -41,8 +41,6 @@ For more details on registration phases and procedures, please visit [https://ww
 <br><br><br><br>
 <br><br><br><br>
 
-<br><br><br><br>
-
 <p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/e-openhouse/culture-of-care/">
 <img style="width:25%" src="/images/culture%20of%20care.jpg" align=left>
 </a></p>
@@ -55,6 +53,7 @@ For more details on registration phases and procedures, please visit [https://ww
 <img style="width:30%" src="/images/student%20vision.jpg" align=left>
 </a></p>
 
+<br><br><br><br>
 <br><br><br><br>
 
 <p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/e-openhouse/llp/">
