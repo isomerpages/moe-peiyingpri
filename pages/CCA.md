@@ -3,8 +3,7 @@ title: CCA
 permalink: /e-openhouse/cca/
 description: ""
 ---
-<img src="/images/sports%20and%20games.jpg" style="width:21.5%" align=left>
-<p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/volleyball/">
+<img src="/images/sports%20and%20games.jpg" style="width:21.5%" align=left><p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/volleyball/">
 <img style="width:25%" src="/images/sng1.jpg" align=left>
 </a></p>
 
@@ -37,6 +36,23 @@ description: ""
 
 <img src="/images/uniformed%20groups.jpg" style="width:22%" align=right>
 
-<img src="/images/visual%20and%20performing%20arts.jpg" style="width:35%" align=left>
+<br><br><br><br>
+<br><br><br><br>
+
+<img src="/images/visual%20and%20performing%20arts.jpg" style="width:25%" align=left><p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/">
+<img style="width:25%" src="/images/vpa1.jpg" align=left>
+</a></p>
+
+<p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/">
+<img style="width:23.1%" src="/images/vpa2.jpg" align=left>
+</a></p>
+
+<p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/">
+<img style="width:25%" src="/images/vpa3.jpg" align=left>
+</a></p>
+
+<p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/">
+<img style="width:48%" src="/images/vpa4.jpg" align=left>
+</a></p>
 
 <img src="/images/clubs%20and%20societies.jpg" style="width:35%" align=right>
