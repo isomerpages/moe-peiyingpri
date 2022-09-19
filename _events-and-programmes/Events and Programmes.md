@@ -113,3 +113,38 @@ The theme for this year’s ceremony is “Best of Peiying”, which embodies th
 This year, 8 staff members received the MOE Service Excellence Award (MSEA) Gold Awards, 3 individual staff members and 3 teams received the Outstanding Contribution Awards. Staff in Peiying Primary School continues to uphold their unwavering belief to work closely with all stakeholders, to innovate the teaching process so that our students will thrive holistically and develop as engaged and resilient leaners, leaders of character and caring citizens.
 
 <iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS4HqMU7en_SgKVb-2nUyllBtVJ0tYeVROmriOrsIi_1WoW2OO3AbgYuKZ7m-36mh2VdxbqRxQuVLMQ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
+#### **Teachers’ Day Celebration 2021**
+This year, Peiying Primary School celebrated Teachers’ Day with the theme “Celebrating the Selfless Giving of the Teachers”, inspired by the story “The Giving Tree”. The values of appreciating the selfless giving of others and paying forward the kindness received were inculcated in the students during the celebration. 
+
+The celebration was put together by the Teachers’ Day committee which consisted of the Allied Educators (AED) team, Executive and Administrative (EAS) team and the Celebration of Learning (COL) team from the Applied Learning Programme (ALP) committee.  
+
+Though the Covid-19 pandemic restricted the way the celebration activities were carried out, it had not dampened the students’ spirits in wanting to show their heartfelt appreciations to their teachers. In the pre-celebration activities, the students wrote beautifully on how they were touched by the selfless giving of their teachers. The students in the lower primary level also drew gorgeous portraits of their teachers. Besides the students, the parents also wrote down their warm appreciations to the teachers via the various channels that were set up by the school as well as by the Ministry of Education on a national wide platform “Thank you ‘Cher”. 
+
+Understanding that the teachers and the non-teaching staff of Peiying had worked extra hard, to keep the school a clean and safe environment for the students to continue their learning in the midst of the pandemic, a self-care bookmark was made and given to all the staff. The students wanted to remind the teachers and the non-teaching staff that they need to take care of themselves too. 
+
+The celebration ended with the students doing a COL activity on how they could pay it forward with the knowledge they learnt from to their teachers to make the environment a better place for everyone.
+
+#### **Children’s Day Celebration 2021**
+The school celebrated Children’s Day on 11 October 2021. As we celebrate Children’s Day in the new normal, we must all realise that we will face many challenges and uncertainties in the future. Hence, to build resilience and promote a culture of care in our students, our theme for this year’s Children’s Day celebration is “Together as One”.
+
+The students were treated to a virtual concert performed by the teachers. Students enjoyed this segment of the celebration immensely. Much laughter and loud exclamations could be heard from every classroom. Feedback from teachers was that students were engaged and wished there were more items in the concert.
+
+Our students also demonstrated the school’s core value of Empathy by donating their pocket money to the Children’s Day Appeal (CDA) which is an annual nationwide campaign by Community Chest. The CDA rallies students from pre-schools and primary schools to donate to help the less fortunate in the community and to develop the students into socially responsible citizens who will contribute meaningfully to the community. 
+
+There were also classroom activities planned for all levels. P1 and P2 students coloured greeting cards and presented them to their classmates. P3 and P4 students coloured bookmarks and wrote words of encouragement on them for their fellow classmates. P5 and P6 students designed cards and also wrote on the cards words of encouragement for their friends.
+
+This year, the Children’s Day gift was a beautifully designed USB flash drive. It is a gift most welcomed by students as learning now involves more digital methodologies as technology advances.
+
+#### **National Day 2021 - Celebrating The Singapore Spirit in Peiying**
+On 6 August 2021, the school celebrated the nation’s 56th birthday in line with this year’s National Day theme, ‘_Together, Our Singapore Spirit’._ The theme calls on Singaporeans to come together as one and draw new strength from our “can-do” spirit amidst challenging circumstances from COVID-19. We want to encourage our students to embrace a “dare-to-try” attitude. All students and staff wore red and/or white to express their pride towards Singapore on that day.
+
+This year, in view of the pandemic, the Observance ceremony and celebration were carried out in the classrooms. An array of fun and engaging activities were organised for the students. Flag buntings with students’ well wishes were displayed outside their classrooms. National Day songs and this year’s virtual dance were among the favourite activities for the students. The school also prepared a _Stronger Together Pack_ consists of a highlighter and a clipboard packed in a drawstring bag.  
+
+To show our gratitude to our stakeholders such as the canteen vendors, bookshop vendor and the cleaning attendants, a note of appreciation was written by each student. Through this celebration, we hope to have instilled a strong sense of national identity, pride and love for Singapore.
+
+#### **Racial Harmony Day Celebrations @Peiying**
+Racial Harmony Day was commemorated on the 19 July 2021. The theme for this year is ‘Common Spaces and Connected Communities’. Students were engaged in ‘Harmony @ School’ activities in the school. They gained understanding by reflecting on their experiences and engaging in respectful online and offline conversations. Students were also engaged in ‘Harmony @Home’ activities with parents through Family engagement activities. These activities will provide opportunities for students to protect their common spaces, strengthen trust and friendship among communities. 
+
+Students were encouraged to wear their ethnic costumes as it provides an opportunity to preserve their cultural heritage and creates a feeling of unity among them. Lastly, students recognized that candid and heartfelt conversations on diverse cultures and multicultural communities can enrich our lives if they are conducted respectfully and sensitively.
+
