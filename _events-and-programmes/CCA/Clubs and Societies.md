@@ -29,8 +29,7 @@ Infocomm Club members are also given the chance to be trained in AVA and help ou
 
 <br><br><br><br><br>
 
-Advisor: Mdm Loy Su Ann  
-  
+Advisor: Mdm Loy Su Ann<br>
 Teachers-in-charge: Mr James Clifton, Mr Hanafie, Ms Shih Xiu Rong, Mr Xu Yahua and Ms Ng Zi Chun
 
 #### **Library Council**
@@ -42,3 +41,10 @@ In the Library Council, the students play icebreaker games which help them under
  Some examples of everyone’s favourites are Blow Wind Blow, Charades and 2 Truths 1 Lie! The students also play a variety of board games such as Scrabble which broadens their scope of vocabulary. For those who like to challenge their brains, there are word puzzles and brain teaser activities.
 
 Drama is also a very exciting experience for those who want to be the star of the show. Through drama, students can overcome any stage fright they might have and improve their oral skills.
+
+<img src="/images/library%20council%202.png" style="width:35%;margin-right:15px;" align = "left">
+
+Members are also responsible in assisting the Mobile Library @ Peiying which is held on the 1st Monday of the month. They assist the students in selecting the books and guiding them to the borrowing counter. Our student librarians take pride in being the ambassadors of reading and encourage other students to develop the reading habit in them.
+
+Advisor: Mdm Haniza & Mrs Gayathri Madhan<br>
+Teachers-in-charge: Mrs Mala Bala, Mdm Chen Ying, Ms Yang Ge and Mrs Lilian Mani
