@@ -47,4 +47,18 @@ Sepak Takraw school team players are given the opportunity to represent the scho
 <img src="/images/sepak%20tekraw3.png" 
      style="width:85%">
 		 
-Teachers-in-charge: Mr Dinoalfian, Mdm Suzanah, Mr Matthew and Mr Darren Yeo		 
+Teachers-in-charge: Mr Dinoalfian, Mdm Suzanah, Mr Matthew and Mr Darren Yeo
+
+#### **Volleyball**
+<img src="/images/vball1.png" style="width:35%;margin-right:15px;" align = "right"><b></b>
+Peiying Primary School offers Volleyball as a Co-Curricular Activity (CCA) to our P3 to P6 boys and girls. The objective of the Volleyball CCA is to develop volleyball skills in each player, build character and team work, instill sportsmanship and PRIDE core values in our students. 
+
+Students who display interest in the Volleyball CCA are identified and selected during Physical Education lessons to join our volleyball team at the start of Primary 3.
+
+<img src="/images/vball2.png" style="width:35%;margin-right:15px;" align = "left"><b></b>
+Volleyball school team players are given the opportunity to represent the school in the National School Games Volleyball Championships and other platforms to apply the skills, attitudes and knowledge they have gained. 
+
+Our teachers-in-charge and coach are committed to develop our Volleyball players holistically – building their character and stretching their potential.
+
+<img src="/images/vball3.png" style="width:35%;margin-right:15px;" align = "left"><b></b>
+Teachers-in-charge: Mr Joel Quek, Mr Ikhwan, Mdm Natasha and Mrs Jennifer Fan
