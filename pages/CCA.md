@@ -9,11 +9,11 @@ description: ""
 <img style="width:21%" src="/images/sng3.jpg" align=left><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/sepak-takraw/">
 <img style="width:36%" src="/images/sng4.jpg" align=left><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/swimming/">
 <img style="width:35%" src="/images/sng5.jpg" align=left>
-</a></p>
+</a>
 
 <br><br><br>
-<br><br><br><br>
-
+<br><br><br>
+	
 <p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/brownies/">
 <img style="width:38%" src="/images/ug1.jpg" align=left>
 </a></p>
