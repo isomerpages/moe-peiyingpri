@@ -32,5 +32,47 @@ For more details on registration phases and procedures, please visit [https://ww
 <img style="width:49.5%" src="/images/life%20in%20peiying.jpg" align=left>
 </a></p>
 
-![](/images/culture%20of%20care.jpg)
-![](/images/joy%20of%20learning.jpg)
+<br><br><br><br>
+<br><br><br><br>
+
+<br><br><br><br>
+<br><br><br><br>
+
+<br><br><br><br>
+
+<p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/e-openhouse/life-in-peiying/">
+<img style="width:25%" src="/images/culture%20of%20care.jpg" align=left>
+</a></p>
+
+<p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/e-openhouse/life-in-peiying/">
+<img style="width:45%" src="/images/joy%20of%20learning.jpg" align=left>
+</a></p>
+
+<p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/e-openhouse/life-in-peiying/">
+<img style="width:30%" src="/images/student%20vision.jpg" align=left>
+</a></p>
+
+<br><br><br><br>
+
+<p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/e-openhouse/life-in-peiying/">
+<img style="width:24%" src="/images/llp.jpg" align=left>
+</a></p>
+
+<p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/e-openhouse/life-in-peiying/">
+<img style="width:25%" src="/images/alp.jpg" align=left>
+</a></p>
+
+<p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/e-openhouse/life-in-peiying/">
+<img style="width:25%" src="/images/reflection.jpg" align=left>
+</a></p>
+
+<p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/e-openhouse/life-in-peiying/">
+<img style="width:24%" src="/images/other%20key%20programme.jpg" align=left>
+</a></p>
+
+<br><br><br><br>
+<br><br>
+
+<p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/e-openhouse/life-in-peiying/">
+<img style="width:50%" src="/images/cca.jpg">
+</a></p>
