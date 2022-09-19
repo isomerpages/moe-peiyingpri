@@ -42,18 +42,17 @@ For more details on registration phases and procedures, please visit [https://ww
 <br><br><br><br>
 
 <p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/e-openhouse/culture-of-care/">
-<img style="width:25%" src="/images/culture%20of%20care.jpg" align=left>
+<img style="width:23%" src="/images/culture%20of%20care.jpg" align=left>
 </a></p>
 
 <p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/e-openhouse/joy-of-learning/">
-<img style="width:45%" src="/images/joy%20of%20learning.jpg" align=left>
+<img style="width:47%" src="/images/joy%20of%20learning.jpg" align=left>
 </a></p>
 
 <p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/e-openhouse/student-vision-outcomes/">
-<img style="width:30%" src="/images/student%20vision.jpg" align=left>
+<img style="width:28%" src="/images/student%20vision.jpg" align=left>
 </a></p>
 
-<br><br><br>
 <br><br><br>
 
 <p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/e-openhouse/llp/">
@@ -61,20 +60,17 @@ For more details on registration phases and procedures, please visit [https://ww
 </a></p>
 
 <p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/e-openhouse/alp/">
-<img style="width:15%" src="/images/alp.jpg" align=left>
+<img style="width:23.5%" src="/images/alp.jpg" align=left>
 </a></p>
 
 <p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/e-openhouse/reflections/">
-<img style="width:15%" src="/images/reflection.jpg" align=left>
+<img style="width:22%" src="/images/reflection.jpg" align=left>
 </a></p>
 
 <p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/e-openhouse/other-key-programmes/">
 <img style="width:24%" src="/images/other%20key%20programme.jpg" align=left>
 </a></p>
 
-<br><br><br><br>
-<br><br>
-
 <p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/e-openhouse/cca/">
-<img style="width:50%" src="/images/cca.jpg">
+<img style="width:45%" src="/images/cca.jpg" align=left>
 </a></p>
