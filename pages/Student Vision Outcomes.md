@@ -25,5 +25,5 @@ Our Applied Learning Programme (ALP), Project THINK for Home Earth, provides exp
 <br><br><br>
 <br><br>
 
-<img src="/images/svo3.jpg" style="width:49%" align=left>
-<img src="/images/svo4.jpg" style="width:49%" align=right>
+<img src="/images/svo3.jpg" style="width:48%" align=left>
+<img src="/images/svo4.jpg" style="width:50%" align=right>
