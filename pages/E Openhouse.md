@@ -32,5 +32,5 @@ For more details on registration phases and procedures, please visit [https://ww
 <img style="width:49.5%" src="/images/life%20in%20peiying.jpg" align=left>
 </a></p>
 
-
-
+![](/images/culture%20of%20care.jpg)
+![](/images/joy%20of%20learning.jpg)
