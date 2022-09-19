@@ -22,8 +22,8 @@ description: ""
 <img style="width:35%" src="/images/sng5.jpg" align=left>
 </a></p>
 
-<br><br><br><br>
-<br><br><br><br>
+<br><br><br>
+<br><br><br>
 
 <p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/brownies/">
 <img style="width:38%" src="/images/ug1.jpg" align=left>
@@ -35,8 +35,8 @@ description: ""
 
 <img src="/images/uniformed%20groups.jpg" style="width:22.5%" align=left>
 
-<br><br><br><br>
-<br><br><br><br>
+<br><br><br>
+<br><br><br>
 
 <img src="/images/visual%20and%20performing%20arts.jpg" style="width:21.2%" align=left><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/art-and-craft/">
 <img style="width:21.5%" src="/images/vpa1.jpg" align=left>
@@ -53,8 +53,8 @@ description: ""
 <img style="width:48%" src="/images/vpa4.jpg" align=left>
 </a></p>
 
-<br><br><br><br>
-<br><br><br><br>
+<br><br><br>
+<br><br><br>
 
 <p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/infocomm/">
 <img style="width:42%" src="/images/cns1.jpg" align=left>
