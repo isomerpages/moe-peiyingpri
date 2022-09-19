@@ -15,3 +15,20 @@ Our students’ artwork titled, “Daily Reflections” was awarded the Certific
 <img src="/images/art%202.jpg" style="width:38%;margin-right:15px;" align = "left">
 <img src="/images/art%203.jpg" style="width:25%;margin-right:15px;" align = "left">
 Teachers-in-charge: Mrs Avery Neo, Mr Ngan Min Boon, Mdm Fieza and Mdm Hidayah.
+
+<br><br><br>
+
+#### **Infocomm Club**
+The Infocomm Club offers learning activities in the areas of videography, animation and robotics. Weekly learning activities cover both theories and group work. Members are also given the opportunities to participate in competitions related to the field of information and communication technology.
+
+Infocomm Club members are also given the chance to be trained in AVA and help out in the running of the school’s AVA system during morning flag raising ceremony and school events. The Infocomm Club aims to nurture confident learners who are equipped with 21st CC skills in technology.
+
+<img src="/images/infocomm1.jpg" style="width:20%" align=left>
+<img src="/images/infocomm2.jpg" style="width:37%"align=left>		 
+<img src="/images/infocomm3.jpg" style="width:34%"align=left>
+
+<br><br><br><br><br>
+
+Advisor: Mdm Loy Su Ann  
+  
+Teachers-in-charge: Mr James Clifton, Mr Hanafie, Ms Shih Xiu Rong, Mr Xu Yahua and Ms Ng Zi Chun
