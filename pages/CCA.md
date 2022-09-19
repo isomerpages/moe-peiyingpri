@@ -18,7 +18,7 @@ description: ""
 </a></p>
 
 <p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/sepak-takraw/">
-<img style="width:35%" src="/images/sng4.jpg" align=left>
+<img style="width:36%" src="/images/sng4.jpg" align=left>
 </a></p>
 
 <p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/swimming/">
