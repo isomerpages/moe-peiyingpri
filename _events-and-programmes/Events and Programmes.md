@@ -11,4 +11,4 @@ The theme, “**Stronger Together, Majulah!**” is a call for all Singaporeans 
 
 Our students viewed a showcase of Singapore’s defence capabilities and enjoyed the Singapore Story depicted by a colourful display of sights and sounds. For many students, it was their first time watching the NDP at the venue itself. The NE Show had certainly evoked a sense of patriotism amongst our students and imparted the significance of our National Day Parade to them.
 
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRJQAxLPCoU7KGfn-zaP7g7lHD7u9Tfsxn9KgwDfP3ZNnQy_LEYy2fVdnbNp3K9omywSvTsZQCB9JIb/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="350" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRJQAxLPCoU7KGfn-zaP7g7lHD7u9Tfsxn9KgwDfP3ZNnQy_LEYy2fVdnbNp3K9omywSvTsZQCB9JIb/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
