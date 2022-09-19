@@ -56,21 +56,25 @@ For more details on registration phases and procedures, please visit [https://ww
 <br><br><br>
 
 <p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/e-openhouse/llp/">
-<img style="width:24%" src="/images/llp.jpg" align=left>
+<img style="width:30%" src="/images/llp.jpg" align=left>
 </a></p>
 
 <p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/e-openhouse/alp/">
-<img style="width:23.5%" src="/images/alp.jpg" align=left>
+<img style="width:20%" src="/images/alp.jpg" align=left>
 </a></p>
 
 <p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/e-openhouse/reflections/">
-<img style="width:22%" src="/images/reflection.jpg" align=left>
-</a></p>
-
-<p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/e-openhouse/other-key-programmes/">
-<img style="width:24%" src="/images/other%20key%20programme.jpg" align=left>
+<img style="width:19%" src="/images/reflection.jpg" align=left>
 </a></p>
 
 <p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/e-openhouse/cca/">
-<img style="width:45%" src="/images/cca.jpg" align=left>
+<img style="width:39%" src="/images/cca.jpg" align=left>
 </a></p>
+
+<p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/e-openhouse/other-key-programmes/">
+<img style="width:30%" src="/images/other%20key%20programme.jpg">
+</a></p>
+
+
+
+
