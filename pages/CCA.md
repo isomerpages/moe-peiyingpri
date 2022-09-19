@@ -4,21 +4,10 @@ permalink: /e-openhouse/cca/
 description: ""
 ---
 <img src="/images/sports%20and%20games.jpg" style="width:21.5%" align=left><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/volleyball/">
-<img style="width:25%" src="/images/sng1.jpg" align=left>
-
-<p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/outdoor-education/">
-<img style="width:25%" src="/images/sng2.jpg" align=left>
-</a></p>
-
-<p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/netball/">
-<img style="width:21%" src="/images/sng3.jpg" align=left>
-</a></p>
-
-<p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/sepak-takraw/">
-<img style="width:36%" src="/images/sng4.jpg" align=left>
-</a></p>
-
-<p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/swimming/">
+<img style="width:25%" src="/images/sng1.jpg" align=left><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/outdoor-education/">
+<img style="width:25%" src="/images/sng2.jpg" align=left><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/netball/">
+<img style="width:21%" src="/images/sng3.jpg" align=left><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/sepak-takraw/">
+<img style="width:36%" src="/images/sng4.jpg" align=left><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/swimming/">
 <img style="width:35%" src="/images/sng5.jpg" align=left>
 </a></p>
 
