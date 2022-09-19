@@ -12,12 +12,25 @@ For more details on registration phases and procedures, please visit [https://ww
 
 [Register for Virtual Open House Parents Engagement](https://go.gov.sg/pypsvoh)
 
-https://staging.d2fm9eecd3ej28.amplifyapp.com/e-openhouse/character-development/
+<p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/e-openhouse/character-development/">
+<img style="width:49.5%" src="/images/character%20development.jpg" align=left>
+</a></p>
 
-https://staging.d2fm9eecd3ej28.amplifyapp.com/e-openhouse/virtual-school-tour/
+<p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/e-openhouse/virtual-school-tour/">
+<img style="width:49.5%" src="/images/virtual%20school%20tour.jpg" align=right>
+</a></p>
 
-https://staging.d2fm9eecd3ej28.amplifyapp.com/e-openhouse/student-leadership/
+<p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/e-openhouse/student-leadership/">
+<img style="width:48.5%" src="/images/student%20leadership.jpg" align=left>
+</a></p>
 
-https://staging.d2fm9eecd3ej28.amplifyapp.com/e-openhouse/song-of-peiying/
+<p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/e-openhouse/song-of-peiying/">
+<img style="width:49.5%" src="/images/song%20of%20peiying.jpg" align=right>
+</a></p>
 
-https://staging.d2fm9eecd3ej28.amplifyapp.com/e-openhouse/life-in-peiying/
+<p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/e-openhouse/life-in-peiying/">
+<img style="width:49.5%" src="/images/life%20in%20peiying.jpg" align=left>
+</a></p>
+
+
+
