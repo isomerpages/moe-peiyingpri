@@ -10,6 +10,8 @@ Learning is fun at Peiying. Our programmes are broad-based, holistic and engagin
 
 <img src="/images/open.png" style="width:6%" align=left>
 
+<br>
+
 It was fun performing for our classmates. We had created amazing memories which we would treasure. We learned how to work together as a team. We had learned the importance of encouraging our friends to make right decisions through ‘Conscience Alley’. The PAL Drama lessons had taught us how to express our feelings. We had chances to create our own freeze frames. The lessons had also helped us discover our love for drama.<br>
 -Edelyn, Yinuo, Zakyah, Evans, Joseph and Hong Hao (1 Courage, 2019)
 
@@ -28,6 +30,8 @@ Our visit to the frog farm was very enriching. We got to do things that we have 
 <br><br>
 
 <img src="/images/open.png" style="width:6%" align=left>
+
+<br>
 
 We had lots of creative fun during our finger painting session today! We had to innovate and create other colours so we mixed our paints and created new colours ourselves. We had learnt to respect one another and displayed empathy when we took turns and shared the paints with one another.<br>
 -Ding Hao, Sharlyn, Amos, Le En, Niranjanaa, Kavya (1 Empathy, 2018)
