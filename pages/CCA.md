@@ -4,7 +4,6 @@ permalink: /e-openhouse/cca/
 description: ""
 ---
 <img src="/images/sports%20and%20games.jpg" style="width:21.5%" align=left>
-
 <p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/volleyball/">
 <img style="width:25%" src="/images/sng1.jpg" align=left>
 </a></p>
