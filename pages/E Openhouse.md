@@ -64,7 +64,7 @@ For more details on registration phases and procedures, please visit [https://ww
 <img style="width:15%" src="/images/alp.jpg" align=left>
 </a></p>
 
-<p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/e-openhouse/reflection/">
+<p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/e-openhouse/reflections/">
 <img style="width:15%" src="/images/reflection.jpg" align=left>
 </a></p>
 
