@@ -11,3 +11,4 @@ For more details on registration phases and procedures, please visit [https://ww
 <img src="/images/voh2022.jpg" style="width:15%">
 
 [Register for Virtual Open House Parents Engagement](https://go.gov.sg/pypsvoh)
+
