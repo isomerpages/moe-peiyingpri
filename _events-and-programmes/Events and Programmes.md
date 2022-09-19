@@ -99,3 +99,8 @@ The Investiture was kick-started with a speech made by our 2022 Head Prefect and
 Besides receiving their respective badges, our key student leaders also received a Congratulatory Card. This card seeks to affirm the student leaders’ appointment to their roles and to congratulate parents of their child’s achievement.
 
 <iframe allowfullscreen="true" width="800" height="450" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTwxWzanijwJVso0lUWvAziooseWOU32pVTLKUrpEcQLeLIe_fT6zpKs-4ZYchsv9b03rU4Xjmafib8/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
+#### **Cyberwellness Week 2022**
+Cyber Safety was the focus for the Cyberwelless Week this year. Through a digital drama show, students were introduced to healthy cybersecurity habits and the importance of balanced screen time. Through participating in the school activities, they came to understand the risks involved when using digital devices and engaging in online activities. Besides acquiring knowledge of online safety rules, students learnt how to prevent unauthorised access to their devices and online accounts, and learnt to be better equipped at becoming a responsible and smart digital citizen.
+
+![](/images/cyberwellness%20week.jpg)
