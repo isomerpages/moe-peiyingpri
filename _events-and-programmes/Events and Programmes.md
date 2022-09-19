@@ -11,7 +11,7 @@ The theme, “**Stronger Together, Majulah!**” is a call for all Singaporeans 
 
 Our students viewed a showcase of Singapore’s defence capabilities and enjoyed the Singapore Story depicted by a colourful display of sights and sounds. For many students, it was their first time watching the NDP at the venue itself. The NE Show had certainly evoked a sense of patriotism amongst our students and imparted the significance of our National Day Parade to them.
 
-<iframe allowfullscreen="true" height="350" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRJQAxLPCoU7KGfn-zaP7g7lHD7u9Tfsxn9KgwDfP3ZNnQy_LEYy2fVdnbNp3K9omywSvTsZQCB9JIb/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRJQAxLPCoU7KGfn-zaP7g7lHD7u9Tfsxn9KgwDfP3ZNnQy_LEYy2fVdnbNp3K9omywSvTsZQCB9JIb/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="600" height="350" allowfullscreen="true"></iframe>
 
 #### **P4 Cultural Experience**
 
@@ -21,7 +21,7 @@ Our Primary 4 students went for an eye-opening cultural experience to Kampung Gl
 
 Our students learnt to identify spices used in local recipes, went on a walking trail around Kampung Glam and tried their hands at batik painting at the Aliwal Arts Centre. Everyone was amazed with the art pieces done by our students. We never knew we had so many budding artists! It was also a good opportunity for bonding among schoolmates and they got to develop character values and life skills.
 
- <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQHukTagv47ETzSbEVmThgNfKKGOa3-yXytJP7hTE2Mw4GTTGdImSQXRl_kZ2orAh5_F2mmRsaNUR4O/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" height="350" width="600" allowfullscreen="true"></iframe>
+ <iframe allowfullscreen="true" width="600" height="350" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQHukTagv47ETzSbEVmThgNfKKGOa3-yXytJP7hTE2Mw4GTTGdImSQXRl_kZ2orAh5_F2mmRsaNUR4O/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
  
  #### **Earth Month 2022**
 
@@ -37,5 +37,15 @@ The Grassroot Advisor for Nee Soon South, Ms Carrie Tan, as well as four other g
 
 These origami trash bins will soon be distributed at the food centres in Nee Soon South. We hope to kickstart a ‘Bring-Your-Own-Bin’ movement within our community where members of the public embrace the joy of ‘a simple act of upcycling’ that can also keep our dining spaces clean for the comfort of everyone!
 
-<iframe allowfullscreen="true" height="350" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTo2fsSY425_uXCo-_JyI319MJFOSD_6ogevOiSxwjjyE8HY9WDvTVUeIUHrWQmNs3a_556laVTNi-E/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTo2fsSY425_uXCo-_JyI319MJFOSD_6ogevOiSxwjjyE8HY9WDvTVUeIUHrWQmNs3a_556laVTNi-E/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="600" height="350" allowfullscreen="true"></iframe>
 
+#### **International Friendship Day 2022**
+Peiying Primary School commemorated International Friendship Day (IFD) on 4th April 2022.The Chair for 2022 is Cambodia, so an emphasis was placed on the customs and traditions of the country.&nbsp; Not all the ten ASEAN countries were showcased due to time constraints. The PowerPoint presentation for the Assembly Period focused on Vietnam, Cambodia and Myanmar because of the similarities these countries shared with Singapore like the New Year and Dragon boat festival.&nbsp;&nbsp;
+
+The theme for IFD 2022 was Singapore in Asia. There was information given about Singapore’s contribution to ASEAN countries during times of natural disasters and emergencies. The slides showed Singapore sending our soldiers, doctors, civil defence personnel, equipment, vaccines and financial aid to Indonesia, Malaysia, Laos and the Philippines.&nbsp;&nbsp;
+
+For the CCE-FTGP lesson, the Primary One level did an activity to help them recognise the flags of the ASEAN countries. The Primary Two level learned greetings in different ASEAN country languages. The Primary Three level learned about the national flowers of the ASEAN countries. The Primary 4 to 6 countries had discussions on how ASEAN countries can help each other, how working as a cohesive community is beneficial and what commonalities ASEAN countries shared.&nbsp;
+
+It was heartening to hear from various form teachers how the students recognised many of the flags and had meaningful conversations about how ASEAN countries need each other’s help in times of difficulties.
+
+<iframe allowfullscreen="true" width="600" height="350" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQKhQv0fnLNodXagkREAhN1p3QdzAeuH0q1YzBVlxgasYmxR1xuw1AAnqP99akT6560kXqhreCX6w0R/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
