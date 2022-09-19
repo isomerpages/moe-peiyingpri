@@ -19,4 +19,3 @@ description: ""
 
 <img src="/images/infocommclub5.jpg" style="width:49%" align=left>
 <img src="/images/infocommclub6.jpg" style="width:49%" align=right>
-
