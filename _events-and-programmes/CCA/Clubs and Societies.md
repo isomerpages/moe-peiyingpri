@@ -32,3 +32,13 @@ Infocomm Club members are also given the chance to be trained in AVA and help ou
 Advisor: Mdm Loy Su Ann  
   
 Teachers-in-charge: Mr James Clifton, Mr Hanafie, Ms Shih Xiu Rong, Mr Xu Yahua and Ms Ng Zi Chun
+
+#### **Library Council**
+
+<img src="/images/library%20council%201.png" style="width:35%;margin-right:15px;" align = "right">
+
+In the Library Council, the students play icebreaker games which help them understand their friends in the CCA better.
+
+ Some examples of everyone’s favourites are Blow Wind Blow, Charades and 2 Truths 1 Lie! The students also play a variety of board games such as Scrabble which broadens their scope of vocabulary. For those who like to challenge their brains, there are word puzzles and brain teaser activities.
+
+Drama is also a very exciting experience for those who want to be the star of the show. Through drama, students can overcome any stage fright they might have and improve their oral skills.
