@@ -48,3 +48,28 @@ Members are also responsible in assisting the Mobile Library @ Peiying which is 
 
 Advisor: Mdm Haniza & Mrs Gayathri Madhan<br>
 Teachers-in-charge: Mrs Mala Bala, Mdm Chen Ying, Ms Yang Ge and Mrs Lilian Mani
+
+#### **Mathematics Club**
+<img src="/images/mathematics%20club%201.png" style="width:35%;margin-right:15px;" align = "right">
+
+In Mathematics Club, members will be intrigued by the beauty of Math in ways that are approachable and understandable. Students and teachers will explore and find different ways in which Math is used in our lives. Students will also experiment with Mathematical tricks and play Math board games and online games to develop and improve logical reasoning, spatial visualisation, analysis and abstract thoughts.
+
+<img src="/images/mathematics%20club%202.png" style="width:45%;margin-right:15px;" align = "left">
+
+ Through these activities, students will develop positive attitudes towards Mathematics and be encouraged to pursue mathematics beyond the classroom walls.
+ 
+ Advisor: Mr Jason Heng<br>
+Teachers-in-charge: Mdm Ng Kang Ping, Mdm Vasanthi and Mrs June Lau
+
+#### **Physical Science Club**
+<img src="/images/sci%20club%201.png" style="width:25%;margin-right:15px;" align = "right">
+The Physical Science Club members will be provided with a unique experience of doing Science activities indoors, as well as outdoors. For the indoor experience, students will be engaged in doing experiments once a term. They will also carry out research using the internet to help them with Science card activities, Science Competitions like the Elementz Competition or the Sony Creative Toy Competition.
+
+![](/images/sci%20club%202.png)
+
+<img src="/images/sci%20club%203.png" style="width:25%;margin-right:15px;" align = "left">
+
+For the Outdoor learning experience, they will learn how to propagate plants for the Mothers’ Day Sale of plants project. Through this plant propagation project, they will learn how to take care of the plants. They also learn that plants can be propagated by various methods. Members of the Physical Science Club find that the activities are meaningful and fun. They look forward to attending the weekly sessions.
+
+Advisor: Mrs Lee-Ong Chee Lin<br>
+Teachers-in-charge: Mr Faizal, Mrs Shallene Tan and Ms Vinotheni
