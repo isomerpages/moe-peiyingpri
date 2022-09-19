@@ -23,7 +23,7 @@ Our students learnt to identify spices used in local recipes, went on a walking 
 
  <iframe allowfullscreen="true" width="800" height="450" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQHukTagv47ETzSbEVmThgNfKKGOa3-yXytJP7hTE2Mw4GTTGdImSQXRl_kZ2orAh5_F2mmRsaNUR4O/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
  
- #### **Earth Month 2022**
+#### **Earth Month 2022**
 
 Peiying Primary School commemorates Earth Day annually with a myriad of eco-friendly activities to emphasise the importance of environmental sustainability and eco-stewardship.
 
