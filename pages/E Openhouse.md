@@ -12,3 +12,12 @@ For more details on registration phases and procedures, please visit [https://ww
 
 [Register for Virtual Open House Parents Engagement](https://go.gov.sg/pypsvoh)
 
+https://staging.d2fm9eecd3ej28.amplifyapp.com/e-openhouse/
+
+https://staging.d2fm9eecd3ej28.amplifyapp.com/
+
+https://staging.d2fm9eecd3ej28.amplifyapp.com/
+
+https://staging.d2fm9eecd3ej28.amplifyapp.com/
+
+https://staging.d2fm9eecd3ej28.amplifyapp.com/
