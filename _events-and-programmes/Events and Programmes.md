@@ -11,7 +11,7 @@ The theme, “**Stronger Together, Majulah!**” is a call for all Singaporeans 
 
 Our students viewed a showcase of Singapore’s defence capabilities and enjoyed the Singapore Story depicted by a colourful display of sights and sounds. For many students, it was their first time watching the NDP at the venue itself. The NE Show had certainly evoked a sense of patriotism amongst our students and imparted the significance of our National Day Parade to them.
 
-<iframe allowfullscreen="true" height="350" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRJQAxLPCoU7KGfn-zaP7g7lHD7u9Tfsxn9KgwDfP3ZNnQy_LEYy2fVdnbNp3K9omywSvTsZQCB9JIb/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRJQAxLPCoU7KGfn-zaP7g7lHD7u9Tfsxn9KgwDfP3ZNnQy_LEYy2fVdnbNp3K9omywSvTsZQCB9JIb/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="600" height="350" allowfullscreen="true"></iframe>
 
 #### **P4 Cultural Experience**
 
@@ -21,7 +21,7 @@ Our Primary 4 students went for an eye-opening cultural experience to Kampung Gl
 
 Our students learnt to identify spices used in local recipes, went on a walking trail around Kampung Glam and tried their hands at batik painting at the Aliwal Arts Centre. Everyone was amazed with the art pieces done by our students. We never knew we had so many budding artists! It was also a good opportunity for bonding among schoolmates and they got to develop character values and life skills.
 
- <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQHukTagv47ETzSbEVmThgNfKKGOa3-yXytJP7hTE2Mw4GTTGdImSQXRl_kZ2orAh5_F2mmRsaNUR4O/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" height="350" width="600" allowfullscreen="true"></iframe>
+ <iframe allowfullscreen="true" width="600" height="350" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQHukTagv47ETzSbEVmThgNfKKGOa3-yXytJP7hTE2Mw4GTTGdImSQXRl_kZ2orAh5_F2mmRsaNUR4O/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
  
  #### **Earth Month 2022**
 
@@ -37,7 +37,7 @@ The Grassroot Advisor for Nee Soon South, Ms Carrie Tan, as well as four other g
 
 These origami trash bins will soon be distributed at the food centres in Nee Soon South. We hope to kickstart a ‘Bring-Your-Own-Bin’ movement within our community where members of the public embrace the joy of ‘a simple act of upcycling’ that can also keep our dining spaces clean for the comfort of everyone!
 
-<iframe allowfullscreen="true" height="350" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTo2fsSY425_uXCo-_JyI319MJFOSD_6ogevOiSxwjjyE8HY9WDvTVUeIUHrWQmNs3a_556laVTNi-E/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTo2fsSY425_uXCo-_JyI319MJFOSD_6ogevOiSxwjjyE8HY9WDvTVUeIUHrWQmNs3a_556laVTNi-E/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="600" height="350" allowfullscreen="true"></iframe>
 
 #### **International Friendship Day 2022**
 Peiying Primary School commemorated International Friendship Day (IFD) on 4th April 2022.The Chair for 2022 is Cambodia, so an emphasis was placed on the customs and traditions of the country.&nbsp; Not all the ten ASEAN countries were showcased due to time constraints. The PowerPoint presentation for the Assembly Period focused on Vietnam, Cambodia and Myanmar because of the similarities these countries shared with Singapore like the New Year and Dragon boat festival.&nbsp;&nbsp;
@@ -48,14 +48,14 @@ For the CCE-FTGP lesson, the Primary One level did an activity to help them reco
 
 It was heartening to hear from various form teachers how the students recognised many of the flags and had meaningful conversations about how ASEAN countries need each other’s help in times of difficulties.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQKhQv0fnLNodXagkREAhN1p3QdzAeuH0q1YzBVlxgasYmxR1xuw1AAnqP99akT6560kXqhreCX6w0R/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" height="350" width="600" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" width="600" height="350" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQKhQv0fnLNodXagkREAhN1p3QdzAeuH0q1YzBVlxgasYmxR1xuw1AAnqP99akT6560kXqhreCX6w0R/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 #### **Let’s Celebrate English with a Touch of Magic**
 The annual English Language Fiesta was held on 28 March 2022 to 22 April 2022. It was organised by the English Department to encourage our students to speak good English, to be avid readers and to infuse creativity in their writing. This year’s theme was ‘Let’s Celebrate English with a Touch of Magic’. The students celebrated the English Language ‘with a touch of magic’ by participating in class activities like Readers’ Theatre, Poetry and Creative Writing. Guest readers were invited to share interesting stories held at the school library. The students also experienced ‘A Blind Date with a Book’.&nbsp;
 
 On 1 April 2022, the staff and students were dressed up to the theme of ‘Magic and Enchantment’ and the school was filled with magical characters like fairies, wizards and witches. Our students were taken on a trip to their favourite magical wonderland where many book characters came alive in the school compound. These included storybook characters like Harry Potter, Hermione Granger and even Prince Charming. Instantly, Peiying Primary School was transformed into a land of magic!&nbsp; It was indeed a memorable event for the school.
 
-<iframe allowfullscreen="true" height="350" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQRzlf13cOjaz7Wx1bMozIYSvW8t5zu_9bbUVwRUK-1Wj_fwvCUIkkpfK5_kKjRUIhGMAc53JNJ4-S9/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQRzlf13cOjaz7Wx1bMozIYSvW8t5zu_9bbUVwRUK-1Wj_fwvCUIkkpfK5_kKjRUIhGMAc53JNJ4-S9/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="600" height="350" allowfullscreen="true"></iframe>
 
 #### **Friendship Week**
 We commemorated Friendship Week on the first week of Term 2 (21 March 2022 - 1 April 2022). The theme for this year’s Friendship Week is Sustaining Friendships. The planned activities were a combined effort of the Art, MRL and CCE Departments. The activities aimed to strengthen peer support relationships among students.
@@ -63,4 +63,6 @@ We commemorated Friendship Week on the first week of Term 2 (21 March 2022 - 1 A
 It was a great opportunity for the students to show appreciation for their peers, and to foster stronger and more positive friendships. We started the week with an E-assembly talk. Primary 1 to Primary 3 students watched a skit - “We Can All Be Friends”, while Primary 4 to Primary 6 students learnt about “accepting our friends and their differences”.&nbsp;
 
 Next, the students proceeded to make friendship bookmarks for their buddies in class. The students expressed their gratitude towards their buddies and exchanged their token of appreciation with one another. During recess, students also had the chance to explore books that were “friendship” themed! We hope that this Friendship Week would reinforce the importance of positive relationships built on trust, empathy and respect for one another.
+
+<iframe allowfullscreen="true" width="600" height="350" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR7fZubGG4aspmtDTtO9bD23WgdxZyLlEYBlJ2rjulz8j1wvmyvZLIvjgPwiBSdVYf8NSjbYarqSzT2/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
