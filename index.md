@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Peiying Primary School
       background: /images/hero banner.gif
       key_highlights:
         - title: Announcements
