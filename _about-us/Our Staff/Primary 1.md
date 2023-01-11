@@ -13,8 +13,8 @@ For urgent matters, please contact the teacher through the General Office at 625
 | Class | Form Teacher | Co-Form Teacher |
 |---|---|---|
 | 1 Perseverance | Ms Kalsa Ross<br>[kalsa\_kolankodu\_ross\_nair@schools.gov.sg](mailto:kalsa_kolankodu_ross_nair@schools.gov.sg) | Mdm Chen Ying<br>[chen\_ying\_e@schools.gov.sg](mailto:chen_ying_e@schools.gov.sg)<br><br>Mr M Hassan Mohamed<br>[m_hassan_mohamed@schools.gov.sg](mailto:m_hassan_mohamed@schools.gov.sg) |
-| 1 Respect | Mrs Linda Prem<br>[linda_gratia@schools.gov.sg](mailto:linda_gratia@schools.gov.sg) | Ms Lim See Voon<br>[lim_see_voon@schools.gov.sg](mailto:lim_see_voon@schools.gov.sg) |
-| 1 Integrity | Mrs Veronica Tiang<br>[tan_liew_siang_veronica@schools.gov.sg](mailto:tan_liew_siang_veronica@schools.gov.sg) | Mdm Nurul Natasha <br>[nurul_natasha_muhd_farhan@schools.gov.sg](mailto:nurul_natasha_muhd_farhan@schools.gov.sg) |
+| 1 Respect | Ms Farhanah<br>[farhanah\_borhan@schools.gov.sg](mailto:farhanah_borhan@schools.gov.sg) | Ms Jane Ang<br>[Lim\_Meng\_Gek\_Jane@schools.gov.sg](mailto:Lim_Meng_Gek_Jane@schools.gov.sg) |
+| 1 Integrity | Ms Shih Xiu Rong<br>[shih\_xiu\_rong@schools.gov.sg](mailto:shih_xiu_rong@schools.gov.sg) | Mdm Nurul Natasha <br>[nurul_natasha_muhd_farhan@schools.gov.sg](mailto:nurul_natasha_muhd_farhan@schools.gov.sg) |
 | 1 Diligence | Mdm Ng Kang Ping<br>[ng_kang_ping@schools.gov.sg](mailto:ng_kang_ping@schools.gov.sg) | Mrs Lilian Mani<br>[hsu_hwee_luck_lilian@schools.gov.sg](mailto:hsu_hwee_luck_lilian@schools.gov.sg)<br><br>Mdm Suzanah<br>[suzanah_rahim@schools.gov.sg](mailto:suzanah_rahim@schools.gov.sg) |
 | 1 Empathy | Mr Mohammed Faizal <br>[mohammed_faizal_isa@schools.gov.sg](mailto:mohammed_faizal_isa@schools.gov.sg) | Mdm Low Hui Li<br>[low_hui_li@schools.gov.sg](mailto:low_hui_li@schools.gov.sg)<br><br>Ms Leanna Low<br>[low_lay_lay@schools.gov.sg](mailto:low_lay_lay@schools.gov.sg) |
 | 1 Wisdom | Mrs Mala Balasupramaniyam<br>[mala_balasupramaniyam@schools.gov.sg](mailto:mala_balasupramaniyam@schools.gov.sg) | Mdm Yang Xiaojing<br>[yang_xiaojing@schools.gov.sg](mailto:yang_xiaojing@schools.gov.sg) |
