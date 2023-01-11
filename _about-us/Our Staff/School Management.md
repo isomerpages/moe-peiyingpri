@@ -41,9 +41,8 @@ third_nav_title: Our Staff
 |  |  |
 |---|---|
 | **English** | Mrs Jennifer Fan <br>[fan_lee_bee_yen@schools.gov.sg](mailto:fan_lee_bee_yen@schools.gov.sg) |
-|  **Science/ICT** | Mdm Loy Su Ann <br> [loy_su_ann@schools.gov.sg](mailto:loy_su_ann@schools.gov.sg)  |
 |  **Mathematics** | Ms Pamela Lee <br> [lee_qian_ni_pamela@schools.gov.sg](mailto:lee_qian_ni_pamela@schools.gov.sg)  |
-| 
+|  **Mother-Tongue Language** | Mr Soh Chung Wei <br> [soh\_chung\_wei@schools.gov.sg](mailto:soh_chung_wei@schools.gov.sg)  |
 
 #### **Year Heads**
 
