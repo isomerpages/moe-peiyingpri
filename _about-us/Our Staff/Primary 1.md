@@ -12,7 +12,7 @@ For urgent matters, please contact the teacher through the General Office at 625
 
 | Class | Form Teacher | Co-Form Teacher |
 |---|---|---|
-| 1 Perseverance | Ms Soh Mun Leng<br>[soh_mun_leng@schools.gov.sg](mailto:soh_mun_leng@schools.gov.sg) | Ms Rita Gupta<br>[rita_gupta_k_prasad@schools.gov.sg](mailto:rita_gupta_k_prasad@schools.gov.sg)<br><br>Mr M Hassan Mohamed<br>[m_hassan_mohamed@schools.gov.sg](mailto:m_hassan_mohamed@schools.gov.sg) |
+| 1 Perseverance | Ms Kalsa Ross<br>[kalsa\_kolankodu\_ross\_nair@schools.gov.sg](mailto:kalsa_kolankodu_ross_nair@schools.gov.sg) | Mdm Chen Ying<br>[chen\_ying\_e@schools.gov.sg](mailto:chen_ying_e@schools.gov.sg)<br><br>Mr M Hassan Mohamed<br>[m_hassan_mohamed@schools.gov.sg](mailto:m_hassan_mohamed@schools.gov.sg) |
 | 1 Respect | Mrs Linda Prem<br>[linda_gratia@schools.gov.sg](mailto:linda_gratia@schools.gov.sg) | Ms Lim See Voon<br>[lim_see_voon@schools.gov.sg](mailto:lim_see_voon@schools.gov.sg) |
 | 1 Integrity | Mrs Veronica Tiang<br>[tan_liew_siang_veronica@schools.gov.sg](mailto:tan_liew_siang_veronica@schools.gov.sg) | Mdm Nurul Natasha <br>[nurul_natasha_muhd_farhan@schools.gov.sg](mailto:nurul_natasha_muhd_farhan@schools.gov.sg) |
 | 1 Diligence | Mdm Ng Kang Ping<br>[ng_kang_ping@schools.gov.sg](mailto:ng_kang_ping@schools.gov.sg) | Mrs Lilian Mani<br>[hsu_hwee_luck_lilian@schools.gov.sg](mailto:hsu_hwee_luck_lilian@schools.gov.sg)<br><br>Mdm Suzanah<br>[suzanah_rahim@schools.gov.sg](mailto:suzanah_rahim@schools.gov.sg) |
