@@ -25,6 +25,7 @@ third_nav_title: Our Staff
 | **Character and Citizenship Education** | Mdm Hindon Saini<br> [hindon_saini@schools.gov.sg](mailto:hindon_saini@schools.gov.sg) |
 | **Physical Education and CCA** | Mr M Hassan Mohamed<br>[m_hassan_mohamed@schools.gov.sg](mailto:m_hassan_mohamed@schools.gov.sg) |
 | **Student Management** |  Mr Lee Khoon Peng<br>[lee_khoon_peng@schools.gov.sg](mailto:lee_khoon_peng@schools.gov.sg) |
+| **ICT** |  Mdm Loy Su Ann<br>[loy\_su\_ann@schools.gov.sg](mailto:loy_su_ann@schools.gov.sg) |
 |
 
 #### **Subject Heads**
