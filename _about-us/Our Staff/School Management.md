@@ -10,7 +10,7 @@ third_nav_title: Our Staff
 |---|---|
 | **Principal** | Mrs Peh-Wong Wei Yong |
 | **Vice-Principal (EO)** | Mr Abdul Rani Bin Idris |
-| **Vice-Principal (Admin)** | Ms Evelyn Lee |
+| **Vice-Principal (EO)** | Ms Ng Pei Sun |
 |
 
 #### **Head of Departments**
