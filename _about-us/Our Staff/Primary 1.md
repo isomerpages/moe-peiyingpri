@@ -18,5 +18,5 @@ For urgent matters, please contact the teacher through the General Office at 625
 | 1 Diligence | Ms Jacqueline Ten<br>[ten\_li\_hui\_jacqueline@schools.gov.sg](mailto:ten_li_hui_jacqueline@schools.gov.sg) | Mdm Roslindah<br>[roslindah\_buang@schools.gov.sg](mailto:roslindah_buang@schools.gov.sg)<br><br>Mdm Daisy Leela<br>[daisy\_leela\_r\_ramasamy@schools.gov.sg](mailto:daisy_leela_r_ramasamy@schools.gov.sg) |
 | 1 Empathy | Ms Vanitha <br>[vanitha\_paneerselvam@schools.gov.sg](mailto:vanitha_paneerselvam@schools.gov.sg) | Ms Ting Shu Han<br>[ting\_shu\_han@schools.gov.sg](mailto:ting_shu_han@schools.gov.sg)<br><br>Mdm Suzanah<br>[suzanah\_rahim@schools.gov.sg](mailto:suzanah_rahim@schools.gov.sg) |
 | 1 Wisdom | Mrs Mala Balasupramaniyam<br>[mala_balasupramaniyam@schools.gov.sg](mailto:mala_balasupramaniyam@schools.gov.sg) | Mdm Yang Xiaojing<br>[yang_xiaojing@schools.gov.sg](mailto:yang_xiaojing@schools.gov.sg) |
-| 1 Courage | Mdm Nurhazrida <br>[nurhazrida_mohamed_shafri@schools.gov.sg](mailto:nurhazrida_mohamed_shafri@schools.gov.sg) | Ms Hee Chuan Min<br>[hee_chuan_min@schools.gov.sg](mailto:hee_chuan_min@schools.gov.sg) |
+| 1 Courage | Mr Mohammed Faizal<br>[mohammed\_faizal\_isa@schools.gov.sg](mailto:mohammed_faizal_isa@schools.gov.sg) | Ms Hee Chuan Min<br>[hee_chuan_min@schools.gov.sg](mailto:hee_chuan_min@schools.gov.sg) |
 |  |  |  |
