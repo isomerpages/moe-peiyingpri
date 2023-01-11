@@ -10,16 +10,16 @@ third_nav_title: Useful Forms and Links
     \-  [Information](/files/Useful%20Forms%20and%20Links/ECHA%20%202020.pdf)<br>
     \- [Nomination Form](/files/Useful%20Forms%20and%20Links/ECHA_Nomination%20Forms%202020%20(Parents).pdf) 
     
-*   Book review Template [Book\_Review\_Template(Jun\_12).pdf](/files/Book_Review_Template(Jun_12).pdf)
+*   [Book Review Template](/files/Useful%20Forms%20and%20Links/Book_Review_Template(Jun_12).pdf) 
       
     
-*   Application for Lunch Pass 2021 [application form for lunch pass 2021.pdf](/files/application%20form%20for%20lunch%20pass.pdf)
+*   [Application for Lunch Pass](/files/Useful%20Forms%20and%20Links/application%20form%20for%20lunch%20pass.pdf)
       
     
-*   Travel Declaration form Primary 1 [travel declaration p1.pdf](/files/travel%20declaration%20p1.pdf)
+*   [Travel Declaration Form for Primary 1](/files/Useful%20Forms%20and%20Links/travel%20declaration%20p1.pdf)
       
     
-*   Travel Declaration form Primary 2-6 [travel declaration p2-p6.pdf](/files/travel%20declaration%20p2-p6.pdf)
+*   [Travel Declaration Form for Primary 2 to 6](/files/Useful%20Forms%20and%20Links/travel%20declaration%20p2-p6.pdf)
 
 #### **Links**
 *   [MOE Schoolbag](https://www.schoolbag.sg/) **Privacy error**<br>
