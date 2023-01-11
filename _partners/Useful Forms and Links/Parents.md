@@ -22,7 +22,7 @@ third_nav_title: Useful Forms and Links
 *   [Travel Declaration Form for Primary 2 to 6](/files/Useful%20Forms%20and%20Links/travel%20declaration%20p2-p6.pdf)
 
 #### **Links**
-*   [MOE Schoolbag](https://www.schoolbag.sg/) **Privacy error**<br>
+*   [MOE Schoolbag](https://www.schoolbag.edu.sg/) <br>
     Schoolbag.sg provides parents, educators and the general public with education news, school features and tips.  
       
     
