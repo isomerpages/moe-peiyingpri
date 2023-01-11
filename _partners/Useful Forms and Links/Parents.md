@@ -6,9 +6,9 @@ third_nav_title: Useful Forms and Links
 ---
 ### **Parents**
 
-*   Edusave Character Award 2019  
-    \- Information [ECHA 2020.pdf](/files/ECHA%20%202020.pdf)<br>
-    \- Nomination Form [ECHA\_Nomination Forms 2020 (Parents).doc](/files/ECHA_Nomination%20Forms%202020%20(Parents).pdf)
+*   Edusave Character Award  
+    \-  [Information](/files/Useful%20Forms%20and%20Links/ECHA%20%202020.pdf)<br>
+    \- [Nomination Form](/files/Useful%20Forms%20and%20Links/ECHA_Nomination%20Forms%202020%20(Parents).pdf) 
     
 *   Book review Template [Book\_Review\_Template(Jun\_12).pdf](/files/Book_Review_Template(Jun_12).pdf)
       
