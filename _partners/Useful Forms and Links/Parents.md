@@ -26,7 +26,7 @@ third_nav_title: Useful Forms and Links
     Schoolbag.sg provides parents, educators and the general public with education news, school features and tips.  
       
     
-*   [ICT Connection](https://ictconnection.moe.edu.sg/cyber-wellness/for-parents)**Website unavail**<br>
+*   [Educational Technology (EdTech) Plan](https://www.moe.gov.sg/education-in-sg/educational-technology-journey/edtech-plan)<br>
 A list of guides &amp; tips, resources and useful links to help you to reinforce Cyber Wellness education at home.  
       
     
