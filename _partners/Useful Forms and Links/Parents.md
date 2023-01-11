@@ -37,7 +37,7 @@ A list of guides &amp; tips, resources and useful links to help you to reinforce
     
 *   [MOE videos](https://www.youtube.com/channel/UC8PAXQlNeQ5w4n4uKC0hRmw)
 
-*   [Helping your child excel at Project Work](https://www.nlb.gov.sg/sure/wp-content/uploads/2013/07/Parents-guidebook_FA.pdf)  
+*   [Helping Your Child Excel at Project Work](https://www.nlb.gov.sg/sure/wp-content/uploads/2013/07/Parents-guidebook_FA.pdf)  
       
     
 *   [Edusave](https://www.moe.gov.sg/education/edusave)  
