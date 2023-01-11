@@ -47,12 +47,3 @@ A list of guides &amp; tips, resources and useful links to help you to reinforce
       
     
 *   [Subject Syllabuses](https://www.moe.gov.sg/primary/curriculum/syllabus)
-      
-    
-*   [Changes to the PSLE Scoring and Sec 1 Posting from 2121](https://www.moe.gov.sg/microsites/psle/)**Website unavail**
-      
-    
-*   [Primary School Education Booklet](https://www.moe.gov.sg/education/primary/primary-school-education-booklet)**Website unavail** 
-      
-    
-*   [Primary School Curriculum](https://www.moe.gov.sg/education/primary/primary-school-curriculum) **Website unavail**
