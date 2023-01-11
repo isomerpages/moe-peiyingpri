@@ -43,10 +43,10 @@ A list of guides &amp; tips, resources and useful links to help you to reinforce
 *   [Edusave](https://www.moe.gov.sg/education/edusave)  
       
     
-*   [Financial Assistance Scheme (FAS)](https://www.moe.gov.sg/education/financial-assistance)**Website unavail**
+*   [Financial Assistance Scheme (FAS)](https://www.moe.gov.sg/financial-matters/financial-assistance)
       
     
-*   [Subject Syllabuses](https://www.moe.gov.sg/education/syllabuses/)**Website unavail**
+*   [Subject Syllabuses](https://www.moe.gov.sg/primary/curriculum/syllabus)
       
     
 *   [Changes to the PSLE Scoring and Sec 1 Posting from 2121](https://www.moe.gov.sg/microsites/psle/)**Website unavail**
