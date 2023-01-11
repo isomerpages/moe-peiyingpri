@@ -9,11 +9,13 @@ description: ""
 <img src="/images/cvm1.jpg" style="width:45%">
 
 #### **Vision**
-<img src="/images/cvm2.jpg" style="width:25%" align=left><br>
+
 <img src="/images/cvm3.png" style="width:35%;margin-right:15px;" align = "left">
-PRIDE is the key defining word of our vision.  
+
+**Lifelong Learners, Leaders of Character**
+
   
-It embodies our core values that will influence the mindset of our school community.
+
 
 #### **Mission**
 
