@@ -6,4 +6,4 @@ description: ""
 ### **Keeping In Touch Newsletters**
 ##### **2023**
 
-[Keeping in Touch Term 1 - 4th January 2023]((/files/Keeping%20in%20Touch%20Newsletter/2023_%20Term%201_%20Keeping%20in%20Touch%20Letter%20to%20Parents%20(aa%203%20Jan%202023)(2).pdf))
+[Keeping in Touch Term 1 - 4th January 2023](/files/Keeping%20in%20Touch%20Newsletter/2023_%20Term%201_%20Keeping%20in%20Touch%20Letter%20to%20Parents%20(aa%203%20Jan%202023)(2).pdf)
