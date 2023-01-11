@@ -3,7 +3,8 @@ title: Principal's Message 2022
 permalink: /about-us/principals-message-2022/
 description: ""
 ---
-### **Principal's Message 2022**
+## Principal's Message
+
 
 Peiying Primary School has a long history in the Yishun estate. It was formerly known as Poi Eng Public School and is one of the oldest schools in Nee Soon. Its roots can be traced back to 1919. In Chinese, “Pei Ying’ means ‘to nurture citizens for nation building”. The school is steeped in traditions and values. In 2022, the school embarked on a re-envisioning exercise. The new vision “**_Lifelong Learners, Leaders of Character_**” will guide our planning and decision-making process in the next few years.
 
