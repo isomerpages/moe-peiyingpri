@@ -12,7 +12,7 @@ _For urgent matters, please contact the teacher through the General Office at 62
 
 | Class | Form Teacher | Co-Form Teacher |
 |---|---|---|
-| 5 Perseverance | Mr James Clifton Alexis<br>[james_clifton_alexis@schools.gov.sg](mailto:james_clifton_alexis@schools.gov.sg) | Mrs Vasanthi Nanda<br>[vasanthi_tanabalan@schools.gov.sg](mailto:vasanthi_tanabalan@schools.gov.sg) |
+| 5 Perseverance | Ms Hee Chuan Min<br>[hee\_chuan\_min@schools.gov.sg](mailto:hee_chuan_min@schools.gov.sg) | Mrs Vasanthi Nanda<br>[vasanthi_tanabalan@schools.gov.sg](mailto:vasanthi_tanabalan@schools.gov.sg) |
 | 5 Respect/Wisdom | Mr Dinoalfian <br>[dinoalfian_b_abdul_rashid@schools.gov.sg](mailto:dinoalfian_b_abdul_rashid@schools.gov.sg) | Mrs June Lau<br>[chew_koo_hui@schools.gov.sg](mailto:chew_koo_hui@schools.gov.sg) |
 | 5 Integrity | Mdm Toh Yee Kheng<br>[toh_yee_kheng@schools.gov.sg](mailto:toh_yee_kheng@schools.gov.sg) | Mr Jason Heng<br>[jason_heng_cheng_han@schools.gov.sg](mailto:jason_heng_cheng_han@schools.gov.sg) |
 | 5 Diligence | Mrs Avery Neo<br>[sim_yaen_avery_rhoda@schools.gov.sg](mailto:sim_yaen_avery_rhoda@schools.gov.sg) | Mrs Chan Khai Hong<br>[ho_wee_kung@schools.gov.sg](mailto:ho_wee_kung@schools.gov.sg)<br><br>Miss Poh Mei Cheng<br>[poh_mei_cheng@schools.gov.sg](mailto:poh_mei_cheng@schools.gov.sg) |
