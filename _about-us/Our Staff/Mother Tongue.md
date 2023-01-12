@@ -43,7 +43,7 @@ _For urgent matters, please contact the teacher through the General Office at 62
 |  Mdm Nurul Natasha |  [Nurul_natasha_MUHD_FARHAN@schools.gov.sg](mailto:Nurul_natasha_MUHD_FARHAN@schools.gov.sg) |
 |  Mdm Rupiah Hamzah | [rupiah_hamzah@schools.gov.sg](mailto:rupiah_hamzah@schools.gov.sg) |
 |  Mr Muhammad Reduan  |  [muhammad_reduan_yahaya@schools.gov.sg](mailto:muhammad_reduan_yahaya@schools.gov.sg) |
-| Mr Muhammad Reduan  |  [muhammad_reduan_yahaya@schools.gov.sg](mailto:muhammad_reduan_yahaya@schools.gov.sg)|  
+| Mr Muhammad Riduwan  | |  
 | Mr Muhammad Reduan  |  [muhammad_reduan_yahaya@schools.gov.sg](mailto:muhammad_reduan_yahaya@schools.gov.sg)
 | 
 
