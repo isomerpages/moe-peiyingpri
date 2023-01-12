@@ -15,6 +15,7 @@ _For urgent matters, please contact the teacher through the General Office at 62
 | Name | Email Address |
 |:---:|:---:|
 |  Ms Tay Chai Teng |  [tay_chai_teng@schools.gov.sg](mailto:tay_chai_teng@schools.gov.sg) |
+| Mr Soh Chung Wei | [soh\_chung\_wei@schools.gov.sg](mailto:soh_chung_wei@schools.gov.sg)
 |  Mrs Chan Khai Hong | [ho_wee_kung@schools.gov.sg](mailto:ho_wee_kung@schools.gov.sg)  |
 |  Mdm Yong Fook Lui | [yong_fook_lui@schools.gov.sg](mailto:yong_fook_lui@schools.gov.sg)  |
 |  Mr Ngan Min Boon | [ngan_min_boon@schools.gov.sg](mailto:ngan_min_boon@schools.gov.sg)   |
