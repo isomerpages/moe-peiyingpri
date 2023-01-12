@@ -11,5 +11,6 @@ third_nav_title: Our Staff
 | Office Receptionist |  Mdm Koh Hui Kiang |
 |  Librarian |  Mdm Sapia Md Alias |
 | Desktop Engineer | Mr Saifuladin  |
+| Desktop Engineer | Mr Cavan Chong  |
 | Admin Support/Lab assistant  |  Mdm Zawiyah |
 |
