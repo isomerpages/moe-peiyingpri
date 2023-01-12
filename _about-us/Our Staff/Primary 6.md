@@ -12,7 +12,7 @@ _For urgent matters, please contact the teacher through the General Office at 62
 
 | Class | Form Teacher | Co-Form Teacher |
 |---|---|---|
-| 6 Perseverance | Mr James Clifton Alexis<br>[james\_clifton\_alexis@schools.gov.sg](mailto:james_clifton_alexis@schools.gov.sg)|Mrs Esther Lee<br>[Esther_LEE@schools.gov.sg](mailto:Esther_LEE@schools.gov.sg)
+| 6 Perseverance | Mr James Clifton Alexis<br>[james\_clifton\_alexis@schools.gov.sg](mailto:james_clifton_alexis@schools.gov.sg)| Mrs Vasanthi Nanda<br>[vasanthi\_tanabalan@schools.gov.sg](mailto:vasanthi_tanabalan@schools.gov.sg)
 | 6 Respect/Wisdom | Mr Muhammad Rosnizam<br>[muhammad_rosnizam_b_umar@schools.gov.sg](mailto:muhammad_rosnizam_b_umar@schools.gov.sg) | Mr Seah Kheng Kiat<br>[seah_kheng_kiat@schools.gov.sg](mailto:seah_kheng_kiat@schools.gov.sg)<br><br>Ms Tay Chai Teng<br>[tay_chai_teng@schools.gov.sg](mailto:tay_chai_teng@schools.gov.sg) |
 | 6 Integrity | Ms Lee Pei Yu<br>[lee_pei_yu_a@schools.gov.sg](mailto:lee_pei_yu_a@schools.gov.sg) | Dr Chin Yoke Mui<br>[chin_yoke_mui@schools.gov.sg](mailto:chin_yoke_mui@schools.gov.sg) |
 | 6 Diligence | Mdm Toh Ling Juan<br>[toh_ling_juan@schools.gov.sg](mailto:toh_ling_juan@schools.gov.sg) | Mrs Jennifer Fan<br>[fan_lee_bee_yen@schools.gov.sg](mailto:fan_lee_bee_yen@schools.gov.sg)<br><br>Mr Eric Chia<br>[chia_soong_liang_eric@schools.gov.sg](mailto:chia_soong_liang_eric@schools.gov.sg) |
