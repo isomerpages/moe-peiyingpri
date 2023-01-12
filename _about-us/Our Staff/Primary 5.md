@@ -17,5 +17,5 @@ _For urgent matters, please contact the teacher through the General Office at 62
 | 5 Integrity | Mr Jim Yong<br>[yong\_chian\_fei@schools.gov.sg](mailto:yong_chian_fei@schools.gov.sg) | Ms Athena Wee<br>[athena\_wee@schools.gov.sg](mailto:athena_wee@schools.gov.sg)|
 | 5 Diligence | Ms Lee Pei Yu<br>[lee\_pei\_yu\_a@schools.gov.sg](mailto:lee_pei_yu_a@schools.gov.sg) | Mr Eric Chia<br>[chia\_soong\_liang\_eric@schools.gov.sg](mailto:chia_soong_liang_eric@schools.gov.sg) |
 | 5 Empathy | Mrs Theresa Teo<br>[Theresa\_Ng\_A@schools.gov.sg](mailto:Theresa_Ng_A@schools.gov.sg) | Mdm Thong Siong Chee<br>[thong\_siong\_chee@schools.gov.sg](mailto:thong_siong_chee@schools.gov.sg)
-| 5 Empathy | Ms Or Mary<br>[thong\_siong\_chee@schools.gov.sg](mailto:thong_siong_chee@schools.gov.sg) | Mdm Loy Su Ann<br>[loy_su_ann@schools.gov.sg](mailto:loy_su_ann@schools.gov.sg) 
+| 5 Courage | Ms Or Mary<br>[thong\_siong\_chee@schools.gov.sg](mailto:thong_siong_chee@schools.gov.sg) | Mdm Loy Su Ann<br>[loy_su_ann@schools.gov.sg](mailto:loy_su_ann@schools.gov.sg) 
 |
