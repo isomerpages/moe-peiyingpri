@@ -44,7 +44,7 @@ _For urgent matters, please contact the teacher through the General Office at 62
 |  Mdm Rupiah Hamzah | [rupiah_hamzah@schools.gov.sg](mailto:rupiah_hamzah@schools.gov.sg) |
 |  Mr Muhammad Reduan  |  [muhammad_reduan_yahaya@schools.gov.sg](mailto:muhammad_reduan_yahaya@schools.gov.sg) |
 | Mr Muhammad Riduwan  | |  
-| Mr Muhammad Reduan  |  [muhammad_reduan_yahaya@schools.gov.sg](mailto:muhammad_reduan_yahaya@schools.gov.sg)
+| Ms Nurhafeza Hanem  | [nurhafeza\_hanem\_abdul\_azal@schools.gov.sg](mailto:nurhafeza_hanem_abdul_azal@schools.gov.sg)
 | 
 
 #### **Tamil Language**
