@@ -19,12 +19,12 @@ links:
         url: /about-us/school-crest-and-school-song/
       - title: School Rules
         url: /about-us/school-rules/
+      - title: School Calendar
+        url: schoolcalendar
       - title: Our Achievements
         url: /about-us/our-achievements/
       - title: Our Staff
         url: /about-us/our-staff/
-      - title: School Calendar
-        url: schoolcalendar
   - title: Departments
     url: /departments/
     sublinks:
