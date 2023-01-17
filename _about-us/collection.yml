@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School's Calendar.md
       - Key Programmes.md
       - Principal's Message.md
       - Core Values, Vision and Mission.md
