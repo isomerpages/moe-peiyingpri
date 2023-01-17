@@ -23,6 +23,8 @@ links:
         url: /about-us/our-achievements/
       - title: Our Staff
         url: /about-us/our-staff/
+      - title: School Calendar
+        url: schoolcalendar
   - title: Departments
     url: /departments/
     sublinks:
