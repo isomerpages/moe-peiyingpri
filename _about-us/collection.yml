@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School Calendar.md
       - Key Programmes.md
       - Principal's Message.md
       - Core Values, Vision and Mission.md
@@ -11,6 +10,7 @@ collections:
       - School History and Milestones.md
       - School Crest and School Song.md
       - School Rules.md
+      - School Calendar.md
       - Our Achievements.md
       - Our Staff/.keep
       - Our Staff/School Management.md
