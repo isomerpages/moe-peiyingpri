@@ -1,30 +1,7 @@
 logo: /images/logo.jpg
 links:
   - title: About Us
-    url: /about-us/key-programmes/
-    sublinks:
-      - title: Key Programmes
-        url: /about-us/key-programmes/
-      - title: Principal's Message
-        url: /about-us/principals-message/
-      - title: Core Values, Vision & Mission
-        url: /about-us/core-values-vision-mission/
-      - title: Student Vision Outcomes
-        url: /about-us/student-vision-outcomes/
-      - title: Total Curriculum Framework
-        url: /about-us/total-curriculum-framework/
-      - title: School History and Milestones
-        url: /about-us/school-history-and-milestones/
-      - title: School Crest and School Song
-        url: /about-us/school-crest-and-school-song/
-      - title: School Rules
-        url: /about-us/school-rules/
-      - title: School Calendar
-        url: /about-us/school-calendar/
-      - title: Our Achievements
-        url: /about-us/our-achievements/
-      - title: Our Staff
-        url: /about-us/our-staff/
+    collection: about-us
   - title: Departments
     url: /departments/
     sublinks:
