@@ -32,5 +32,3 @@ Enriching Lives is about providing our school community with a holistic educatio
 
 **Stretching PoTential**<br>
 Stretching Potential is about giving opportunities to all to excel to the best of their ability.
-
-
