@@ -12,7 +12,7 @@ description: ""
 
 <img src="/images/cvm3.png" style="width:35%;margin-right:15px;" align = "left"><br>
 
-**Lifelong Learners, Leaders of Character**<br>
+**Lifelong Learners, Leaders of Character**<br><br>
 
   
 
