@@ -5,6 +5,13 @@ description: ""
 third_nav_title: CCA
 ---
 ### **Clubs and Societies**
+#### **Photography Club**
+Peiying Primary School’s Photography Club aims to hone our members’ photography skills, promote a passion for photography and visual arts among our students and inculcate creativity for learning through fun and enriching CCA sessions.
+
+Members will gain a basic understanding of a digital camera handling and will be familiar with the different camera modes and how each setting is chosen to create an intended effect. Members are constantly exposed to different perceptions to open their minds to different photography styles. They would build their personal portfolio through these experiences.
+
+Teachers-in-charge: Mr Muhd Reduan and Ms Ng Zi Chun
+
 #### **Art Club**
 Art Club is a platform where students’ creativity and imagination are allowed to take flight as well as developing their thinking skills. Students are exposed to different art forms such as 3-Dimensional mixed media techniques, acrylic painting and print making.
 
@@ -45,17 +52,6 @@ Members are also responsible in assisting the Mobile Library @ Peiying which is 
 Advisor: Mdm Haniza & Mrs Gayathri Madhan<br>
 Teachers-in-charge: Mrs Mala Bala, Mdm Chen Ying, Ms Yang Ge and Mrs Lilian Mani
 
-#### **Mathematics Club**
-<img src="/images/mathematics%20club%201.png" style="width:35%;margin-right:15px;" align = "right">
-
-In Mathematics Club, members will be intrigued by the beauty of Math in ways that are approachable and understandable. Students and teachers will explore and find different ways in which Math is used in our lives. Students will also experiment with Mathematical tricks and play Math board games and online games to develop and improve logical reasoning, spatial visualisation, analysis and abstract thoughts.
-
-<img src="/images/mathematics%20club%202.png" style="width:45%;margin-right:15px;" align = "left">
-
- Through these activities, students will develop positive attitudes towards Mathematics and be encouraged to pursue mathematics beyond the classroom walls.
- 
- Advisor: Mr Jason Heng<br>
-Teachers-in-charge: Mdm Ng Kang Ping, Mdm Vasanthi and Mrs June Lau
 
 #### **Physical Science Club**
 <img src="/images/sci%20club%201.png" style="width:25%;margin-right:15px;" align = "right">
