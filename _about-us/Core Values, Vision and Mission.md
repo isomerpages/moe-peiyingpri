@@ -12,13 +12,13 @@ description: ""
 
 <img src="/images/cvm3.png" style="width:35%;margin-right:15px;" align = "left">
 
-**Lifelong Learners, Leaders of Character**
+**Lifelong Learners, Leaders of Character**<br>
 
   
 
 
 
-<br>
+
 #### **Mission**
 
 <img src="/images/cvm4.png" style="width:45%">
