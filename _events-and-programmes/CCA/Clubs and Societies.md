@@ -21,7 +21,7 @@ Our students’ artwork titled, “Daily Reflections” was awarded the Certific
 
 <img src="/images/art%202.jpg" style="width:38%;margin-right:15px;" align = "left">
 <img src="/images/art%203.jpg" style="width:25%;margin-right:15px;" align = "left">
-Teachers-in-charge: Mrs Avery Neo, Mr Ngan Min Boon, Mdm Fieza and Mdm Hidayah.
+Teachers-in-charge: Mrs Avery Neo, Mr Ngan Min Boon, Mdm Fieza and Ms Leanna Low.
 
 <br><br><br>
 
@@ -32,8 +32,7 @@ Infocomm Club members are also given the chance to be trained in AVA and help ou
 
 ![](/images/infocomm%20club.jpg)
 
-Advisor: Mdm Loy Su Ann<br>
-Teachers-in-charge: Mr James Clifton, Mr Hanafie, Ms Shih Xiu Rong, Mr Xu Yahua and Ms Ng Zi Chun
+Teachers-in-charge: Mr James Clifton, Mr Hanafie and Ms Shih Xiu Rong
 
 #### **Library Council**
 
@@ -49,8 +48,7 @@ Drama is also a very exciting experience for those who want to be the star of th
 
 Members are also responsible in assisting the Mobile Library @ Peiying which is held on the 1st Monday of the month. They assist the students in selecting the books and guiding them to the borrowing counter. Our student librarians take pride in being the ambassadors of reading and encourage other students to develop the reading habit in them.
 
-Advisor: Mdm Haniza & Mrs Gayathri Madhan<br>
-Teachers-in-charge: Mrs Mala Bala, Mdm Chen Ying, Ms Yang Ge and Mrs Lilian Mani
+Teachers-in-charge: Mrs Mala Bala, Mdm Ng Kang Ping and Mrs Gayathri Madhan, Mrs Jennifer Fan and Mrs Linda Prem
 
 
 #### **Physical Science Club**
@@ -63,5 +61,4 @@ The Physical Science Club members will be provided with a unique experience of d
 
 For the Outdoor learning experience, they will learn how to propagate plants for the Mothers’ Day Sale of plants project. Through this plant propagation project, they will learn how to take care of the plants. They also learn that plants can be propagated by various methods. Members of the Physical Science Club find that the activities are meaningful and fun. They look forward to attending the weekly sessions.
 
-Advisor: Mrs Lee-Ong Chee Lin<br>
-Teachers-in-charge: Mr Faizal, Mrs Shallene Tan and Ms Vinotheni
+Teachers-in-charge: Mrs June Lau and Mrs Theresa Teo
