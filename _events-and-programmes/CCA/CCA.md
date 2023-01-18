@@ -13,7 +13,7 @@ At Peiying Primary School, every Primary 3 to Primary 6 student takes part in on
 |  |  |
 |:---:|:---:|
 | **Sports and Games**<br>Netball, Outdoor Adventure Club, Rope Skipping,<br>Sepak Takraw, Volleyball | **Performing Arts**<br>Angklung, Choir, Modern Dance |
-| **Uniformed Groups**<br>Brownies, Red Cross | **Clubs and Societies**<br>Art Club, Infocomm Club, Library Council, Mathematics Club, Physical Science Club |
+| **Uniformed Groups**<br>Brownies, Red Cross | **Clubs and Societies**<br>Art Club, Infocomm Club, Library Council, Photography Club, Physical Science Club |
 |
 
 ##### **Participation in CCA**
