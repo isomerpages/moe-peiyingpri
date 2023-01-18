@@ -9,13 +9,13 @@ description: ""
 <table class="tg">
   <thead>
     <tr>
+      <th class="tg-brl1"></th>
       <th class="tg-brl1">P1</th>
       <th class="tg-brl1">P2</th>
       <th class="tg-brl1">P3</th>
       <th class="tg-brl1">P4</th>
       <th class="tg-brl1">P5</th>
-      <th class="tg-brl1">P6</th>
-      <th class="tg-0lax"></th>
+      <th class="tg-0lax">P6</th>
     </tr>
   </thead>
   <tbody>
