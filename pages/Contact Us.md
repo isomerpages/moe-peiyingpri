@@ -25,11 +25,11 @@ Nearest MRT Station: Khatib
   
 (If you're using GPS to guide you to our school or are booking any form of transport, please ensure that you key in the full address instead of just the school name. Alternatively you can type in Peiying Primary School and select "Front Lobby" as the drop off point. Also, double check that your GPS is **not** leading you to the back gate of our school near Bah Soon Pah Road)
 
-#### **School Hours 2022**
-In 2022, students will be dismissed at **1.00pm on two days (Tue & Fri)** and at **1.30pm on three days (Mon, Wed & Thur)**. School will start at the usual time at 7.30am daily.
+#### **School Hours 2023**
+In 2023, students will be dismissed at **1.00pm on two days (Tue & Wed)** and at **1.30pm on three days (Mon, Thur & Fri)**. School will start at the usual time at 7.30am daily.
 
 | Day | Start Time | Dismissal Time |
 |:---:|:---:|:---:|
-| Mon, Wed, Thur | 7.30am | 1.30pm |
-| Tue, Fri | 7.30am | 1.00pm |
+| Mon, Thur, Fri | 7.30am | 1.30pm |
+| Tue, Wed | 7.30am | 1.00pm |
 |
