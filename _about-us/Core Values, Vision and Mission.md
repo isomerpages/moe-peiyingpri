@@ -10,7 +10,7 @@ description: ""
 
 #### **Vision**
 
-<img src="/images/cvm3.png" style="width:35%;margin-right:15px;" align = "left">
+<img src="/images/cvm3.png" style="width:35%;margin-right:15px;" align = "left"><br>
 
 **Lifelong Learners, Leaders of Character**<br>
 
@@ -32,3 +32,5 @@ Enriching Lives is about providing our school community with a holistic educatio
 
 **Stretching PoTential**<br>
 Stretching Potential is about giving opportunities to all to excel to the best of their ability.
+
+
