@@ -13,7 +13,7 @@ For more details on registration phases and procedures, please visit [https://ww
 [Register for Virtual Open House Parents Engagement](https://go.gov.sg/pypsvoh)
 
 <p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/e-openhouse/character-development/">
-<img style="width:49.5%" src="/images/character%20development.jpg" align=left>
+<img style="width:49.5%" src="/images/E%20Open%20House/Character%20Development.png" align=left>
 </a></p>
 
 <p><a href="https://staging.d2fm9eecd3ej28.amplifyapp.com/e-openhouse/virtual-school-tour/">
