@@ -17,7 +17,7 @@ They have also participated in the Singapore Youth Festival Arts Presentation (S
 
 The Angklung Ensemble aims to develop students’ musical skills and instil our core PRIDE values in our members, through their appreciation for music. Angklung members are also given ample opportunities to perform on stage to showcase their talents.
 
-Teachers-in-charge: Ms Mary Or, Mrs Chan Khai Hong and Mr Hendra
+Teachers-in-charge: Ms Mary Or, Mrs Chan Khai Hong, Mr Hendra and Mdm Low Hui Li
 
 #### **Choir**
 Peiying Primary School offers Choir as a Co-Curricular Activity (CCA) to our P3 to P6 boys and girls. Peiying Choir aims to develop the students’ talents in choral singing by providing a platform for students with beautiful voices to showcase their talents.
@@ -29,7 +29,7 @@ Peiying Primary School offers Choir as a Co-Curricular Activity (CCA) to our P3 
 
 We also aim to promote choral awareness where our students will acquire skills in voice projection, self-awareness, good posture and correct singing techniques. We also make regular appearances in school events such as Chinese New Year Celebration, National Day Celebration and Prize Presentation Day.
 
-Teachers-in-charge: Mrs Foo Xiao Jing, Mdm Toh Yee Kheng and Mdm Ng Yuet Ling
+Teachers-in-charge: Mrs Foo Xiao Jing, Mdm Toh Yee Kheng, Ms Athena Wee and Mdm Chen Ying
 
 #### **Modern Dance**
 <img src="/images/modern%20dance%201.png" style="width:35%;margin-right:15px;" align = "right">
@@ -42,4 +42,4 @@ Dance members were selected to perform at the 2016 SYF Celebrations at Esplanade
 
 ![](/images/modern%20dance%203.png)
 
-Teachers-in-charge: Ms Hee Chuan Min, Mdm Lim See Voon, Ms Manomani and Mdm Lian Yi Ling
+Teachers-in-charge: Ms Hee Chuan Min, Mdm Lim See Voon, Ms Manomani and Ms Nurhafeza
