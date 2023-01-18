@@ -104,4 +104,3 @@ Besides receiving their respective badges, our key student leaders also received
 Cyber Safety was the focus for the Cyberwelless Week this year. Through a digital drama show, students were introduced to healthy cybersecurity habits and the importance of balanced screen time. Through participating in the school activities, they came to understand the risks involved when using digital devices and engaging in online activities. Besides acquiring knowledge of online safety rules, students learnt how to prevent unauthorised access to their devices and online accounts, and learnt to be better equipped at becoming a responsible and smart digital citizen.
 
 ![](/images/cyberwellness%20week.jpg)
-
