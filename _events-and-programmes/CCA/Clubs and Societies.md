@@ -10,6 +10,8 @@ Peiying Primary School’s Photography Club aims to hone our members’ photogra
 
 Members will gain a basic understanding of a digital camera handling and will be familiar with the different camera modes and how each setting is chosen to create an intended effect. Members are constantly exposed to different perceptions to open their minds to different photography styles. They would build their personal portfolio through these experiences.
 
+![](/images/CCA/Photography.png)
+
 Teachers-in-charge: Mr Muhd Reduan and Ms Ng Zi Chun
 
 #### **Art Club**
