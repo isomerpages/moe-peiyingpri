@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: Click here for more info
-          url: /announcements/
+          url: https://peiyingpri.sg/announcements/
         - title: Facebook
           description: Peiying Primary Facebook Page
           url: https://www.facebook.com/PeiyingPrimarySchool
