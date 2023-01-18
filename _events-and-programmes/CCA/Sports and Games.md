@@ -14,7 +14,7 @@ Peiying Primary School offers Netball as a Co-Curricular Activity (CCA) to our P
 
 P5 and P6 school team players will represent the school in the National School Games Netball Championships and other platforms to apply the skills, knowledge and attitudes acquired.
 
-Teachers-in-charge: Ms Farhanah, Ms Lee Pei Yu, Ms Ting Shu Han and Ms Jacqueline Ten
+Teachers-in-charge: Ms Farhanah, Ms Lian Yiling, Ms Ting Shu Han and Ms Jacqueline Ten
 
 #### **Outdoor Adventure Club**
 <img src="/images/OAC1.png" style="width:25%;margin-right:15px;" align = "left">
@@ -26,14 +26,14 @@ Peiying Primary School offers Outdoor Adventure Club as a Co-Curricular Activity
 
 Activities conducted during the CCA sessions are geared towards character building and inculcating the PRIDE core values. These activities not only inculcate values such as teamwork, resilience and gratitude, they also help students become more confident and caring individuals.
 
-Teahers-in-charge: Mr Jim Yong, Mr Rosnizam, Ms Joyce Ang and Mr Md Reduan
+Teahers-in-charge: Mr Jim Yong, Mr Rosnizam and Ms Joyce Ang
 
 #### **Rope Skipping**
 Peiying Primary School offers Rope Skipping as a Co-Curricular Activity (CCA) to our P3 to P6 boys and girls. Our Rope Skipping CCA aims to strengthen students’ bodies and improve their agility, psychomotor and coordination skills. Members will learn speed and creative skills such as running steps, double dutch, crosses and multiples during their CCA sessions.
 
 Rope Skipping also focuses on character building via PRIDE core values and instilling sportsmanship and cooperative skills in our students. Members are given the opportunity to represent the school in the National School Games Rope Skipping Championships and other platforms to apply the skills, knowledge and attitudes acquired. 
 
-Teachers-in-charge: Mdm Nurhazrida, Mr Vasanthan and Ms Pamela Lee
+Teachers-in-charge: Mdm Nurhazrida, Mr Vasanthan, Ms Pamela Lee and Mr Muhd Faizal
 
 #### **Sepak Takraw**
 <img src="/images/sepak%20tekraw1.png" style="width:25%;margin-right:15px;" align = "left">
@@ -47,7 +47,7 @@ Sepak Takraw school team players are given the opportunity to represent the scho
 <img src="/images/sepak%20tekraw3.png" 
      style="width:85%">
 		 
-Teachers-in-charge: Mr Dinoalfian, Mdm Suzanah, Mr Matthew and Mr Darren Yeo
+Teachers-in-charge: Mr Dinoalfian, Mdm Suzanah, Mr Darren Yeo and Mr Soh Chung Wei
 
 #### **Volleyball**
 <img src="/images/vball1.png" style="width:35%;margin-right:15px;" align = "right"><b></b>
@@ -63,4 +63,4 @@ Volleyball school team players are given the opportunity to represent the school
 Our teachers-in-charge and coach are committed to develop our Volleyball players holistically – building their character and stretching their potential.
 
 <img src="/images/vball3.png" style="width:35%;margin-right:15px;" align = "left"><b></b>
-Teachers-in-charge: Mr Joel Quek, Mr Ikhwan, Mdm Natasha and Mrs Jennifer Fan
+Teachers-in-charge: Mr Cyril Matthew Philix, Mr Ikhwan, Ms Yang Ge and Ms Kalsa Ross
