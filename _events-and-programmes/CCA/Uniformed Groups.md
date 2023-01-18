@@ -22,7 +22,7 @@ Brownies are guided by a comprehensive 5-Point Programme, which develops them in
 *   Community – My Country, My Neighbourhood, Helper
 *   International – My Brownie Friend, My World
 
-Teachers-in-charge: Mdm Thong Siong Chee, Mrs Veronica Tiang, Miss Brenda Tan
+Teachers-in-charge: Mdm Thong Siong Chee, Mrs Veronica Tiang, Mrs Vasanthi Nanda
 
 #### **Red Cross**
 <img src="/images/redcross%201.png" style="width:30%;margin-right:15px;" align = "right">
@@ -38,4 +38,4 @@ Links are groomed to become good citizens with strong senses of civic responsibi
 
 ![](/images/redcross%204.png)
 
-Teachers-in-charge: Ms Soh Mun Leng, Dr Linda Chin, Mdm Toh Ling Juan and Ms Leanna Low
+Teachers-in-charge: Ms Soh Mun Leng, Dr Linda Chin, Mdm Toh Ling Juan and Ms Joyce Cheok
