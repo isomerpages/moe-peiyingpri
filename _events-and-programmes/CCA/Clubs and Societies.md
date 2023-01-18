@@ -23,7 +23,7 @@ Our students’ artwork titled, “Daily Reflections” was awarded the Certific
 
 <img src="/images/art%202.jpg" style="width:38%;margin-right:15px;" align = "left">
 <img src="/images/art%203.jpg" style="width:25%;margin-right:15px;" align = "left">
-Teachers-in-charge: Mrs Avery Neo, Mr Ngan Min Boon, Mdm Fieza and Ms Leanna Low.
+Teachers-in-charge: Mrs Avery Neo, Mr Ngan Min Boon, Mdm Fieza and Ms Leanna Low
 
 <br><br><br>
 
