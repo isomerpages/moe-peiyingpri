@@ -92,15 +92,6 @@ Primary 4 students had the opportunity to do Public Speaking, which helped them 
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSUShs9JFjq1RLcoBDw1meNkc4I522YAJ956H2B1RECaJM5YMyNOA07FEDYW-RjLIn-cni1jhf8Knti/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" height="450" width="800" allowfullscreen="true"></iframe>
 
-#### **Chinese New Year Celebrations 2022**
-The appreciation of the Chinese culture and traditions were the focus of our Chinese New Year Celebrations this year.&nbsp;
-
-We kicked start the celebration with a Pre-CNY Level Decoration Competition two weeks before the Chinese New Year, to create a festive mood in the school.&nbsp;
-
-During the school celebration on the eve of Chinese New Year, the students learnt about the need to persevere at this point of the pandemic, the importance of communication and the value of filial piety through videos and PowerPoint presentations prepared by our teachers. The students were also engaged in hands-on activities and brought their hand made products home to celebrate the Chinese New Year.
-
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRH5jCBJc8cLWMZX7-1NUvtz8iDhe_qNuwNa-rlBDfBMEJUBvpen8XPmA880OMq6CAv8YBNJlm5n4s0/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-
 #### **Key Student Leaders’ Investiture Ceremony**
 The Key Student Leaders’ Investiture Ceremony was held on 7 March 2022. This Investiture is held annually to formally appoint our Prefects and Junior Sports Leaders as key student leaders of the school.
 
