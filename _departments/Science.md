@@ -8,7 +8,6 @@ description: ""
 |  |  |
 |---|---|
 | **Head of Department** | Mrs Lee-Ong<br>[ong_chee_lin@schools.gov.sg](mailto:ong_chee_lin@schools.gov.sg) |
-| **Level Head** | Mdm Loy Su Ann<br>[loy_su_ann@schools.gov.sg](mailto:loy_su_ann@schools.gov.sg) |
 | **Coordinator** | Miss Lee Pei Yu<br>[lee_pei_yu_a@schools.gov.sg](mailto:lee_pei_yu_a@schools.gov.sg) |
 |
 
