@@ -7,7 +7,7 @@ description: ""
 
 |  |  |
 |---|---|
-| **Subject Head (Covering)** | Mdm Loy Su Ann<br>[loy_su_ann@schools.gov.sg](mailto:loy_su_ann@schools.gov.sg) |
+| **Head of Department** | Mdm Loy Su Ann<br>[loy_su_ann@schools.gov.sg](mailto:loy_su_ann@schools.gov.sg) |
 | **ICT Coordinator** | Ms Gaayathri K Chandra<br>[gaayathri_k_chandra@schools.gov.sg](mailto:gaayathri_k_chandra@schools.gov.sg)  |
 |  |  |
 
