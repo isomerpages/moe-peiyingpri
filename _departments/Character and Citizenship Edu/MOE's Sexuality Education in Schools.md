@@ -29,3 +29,12 @@ b.	Character and Citizenship Education (CCE)
 2. Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. 
 
 #### At Peiying Primary School, the following Sexuality Education lessons will be taught in 2023:
+![](/images/Department/CCE/P5_1.png)
+![](/images/Department/CCE/P5_2.png)<BR>
+![](/images/Department/CCE/P6_1.png)
+![](/images/Department/CCE/P6_2.png)
+
+#### INFORMATION FOR PARENTS
+1. Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers. 
+2. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. The form link will be provided to parents at the start of the year via Parents Gateway. The completed opt-out form is to be submitted by 10/02/2023
+3. Parents can contact the school at 62575684 for discussion or to seek clarification about the school’s Sexuality Education programme.
