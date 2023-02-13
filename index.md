@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Main Page/WebsiteBanner5_2.gif
+      background: /images/Main Page/WebsiteBanner5_3.gif
       key_highlights:
         - title: Newsletter
           description: Click here for more info
