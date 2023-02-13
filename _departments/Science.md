@@ -8,6 +8,7 @@ description: ""
 |  |  |
 |---|---|
 | **Head of Department** | Mrs Lee-Ong<br>[ong_chee_lin@schools.gov.sg](mailto:ong_chee_lin@schools.gov.sg) |
+| **Senior Teacher** | Mrs Theresa Teo<br>[Theresa_Ng_A@schools.gov.sg](mailto:Theresa_Ng_A@schools.gov.sg) |
 | **Coordinator** | Miss Lee Pei Yu<br>[lee_pei_yu_a@schools.gov.sg](mailto:lee_pei_yu_a@schools.gov.sg) |
 |
 
