@@ -1,32 +1,21 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Peiying Primary School
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/logo.jpg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/Main Page/WebsiteBanner5_4.gif
+      key_highlights:
+        - title: Newsletter
+          description: Click here for more info
+          url: https://peiyingpri.sg/partners/keeping-in-touch-newsletters/
+        - title: Facebook
+          description: Peiying Primary Facebook Page
+          url: https://www.facebook.com/PeiyingPrimarySchool
+        - title: Instagram
+          description: "@peiying_primary_school"
+          url: https://www.instagram.com/peiying_primary_school/
 ---
-
