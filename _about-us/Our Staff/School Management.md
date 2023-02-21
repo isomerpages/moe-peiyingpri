@@ -49,8 +49,14 @@ third_nav_title: Our Staff
 |  |  |
 |---|---|
 | **Lower Primary (Primary 1 and 2)** | Ms Rosemarie Wong<br>[wong_li_ching_rosemarie@schools.gov.sg](mailto:wong_li_ching_rosemarie@schools.gov.sg) |
-| **Middle Primary (Primary 3 and 4)** | Ms Poh Mei Cheng<br>[poh_mei_cheng@schools.gov.sg](mailto:poh_mei_cheng@schools.gov.sg)<br><br>Assistant Year Head: Ms Nurhafeza Hanem<br>[nurhafeza\_hanem\_abdul\_azal@schools.gov.sg](mailto:nurhafeza_hanem_abdul_azal@schools.gov.sg) |
+| **Middle Primary (Primary 3 and 4)** | Ms Poh Mei Cheng<br>[poh_mei_cheng@schools.gov.sg](mailto:poh_mei_cheng@schools.gov.sg)<br>
 | **Upper Primary (Primary 5 and 6)** | Mr Eric Chia<br>[chia_soong_liang_eric@schools.gov.sg](mailto:chia_soong_liang_eric@schools.gov.sg) |
+|
+
+#### **Assistant Year Head**
+|  |  |
+|---|---|
+| **Middle Primary (Primary 3 and 4)** | Ms Nurhafeza Hanem<br>[nurhafeza\_hanem\_abdul\_azal@schools.gov.sg](mailto:nurhafeza_hanem_abdul_azal@schools.gov.sg)|
 |
 
 #### **Executive Staff**
