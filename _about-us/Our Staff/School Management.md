@@ -53,6 +53,12 @@ third_nav_title: Our Staff
 | **Upper Primary (Primary 5 and 6)** | Mr Eric Chia<br>[chia_soong_liang_eric@schools.gov.sg](mailto:chia_soong_liang_eric@schools.gov.sg) |
 |
 
+#### **Assistant Year Head**
+|  |  |
+|---|---|
+| **Middle Primary (Primary 3 and 4)** | Ms Nurhafeza Hanem<br>[nurhafeza\_hanem\_abdul\_azal@schools.gov.sg](mailto:nurhafeza_hanem_abdul_azal@schools.gov.sg)|
+|
+
 #### **Executive Staff**
 
 |  |  |
