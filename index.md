@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Peiying Primary School
-description: Brief site description here
+description: Lifelong Learners, Leaders of Character
 image: /images/logo.jpg
 permalink: /
 notification: ""
@@ -19,3 +19,4 @@ sections:
           description: "@peiying_primary_school"
           url: https://www.instagram.com/peiying_primary_school/
 ---
+
