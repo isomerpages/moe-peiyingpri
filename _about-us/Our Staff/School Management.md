@@ -57,7 +57,6 @@ third_nav_title: Our Staff
 |  |  |
 |---|---|
 | **Middle Primary (Primary 3 and 4)** | Ms Nurhafeza Hanem<br>[nurhafeza\_hanem\_abdul\_azal@schools.gov.sg](mailto:nurhafeza_hanem_abdul_azal@schools.gov.sg)|
-|
 
 #### **Executive Staff**
 
