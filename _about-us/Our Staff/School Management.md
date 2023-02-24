@@ -61,7 +61,7 @@ third_nav_title: Our Staff
 #### **Executive Staff**
 
 |  |  |
-|---|---|
+|-|-|
 | **Administration Manager** | Mdm Lee Hui Chern<br>[lee_hui_chern@schools.gov.sg](mailto:lee_hui_chern@schools.gov.sg) |
 |  **Operation Manager** | Mr Seow Teck Lam<br>[seow_teck_lam@schools.gov.sg](mailto:seow_teck_lam@schools.gov.sg)  |
 |
