@@ -54,16 +54,15 @@ third_nav_title: Our Staff
 |
 
 #### **Assistant Year Head**
-|  |  |
-|---|---|
-| **Middle Primary (Primary 3 and 4)** | Ms Nurhafeza Hanem<br>[nurhafeza\_hanem\_abdul\_azal@schools.gov.sg](mailto:nurhafeza_hanem_abdul_azal@schools.gov.sg)|
-|
+
+|||
+|-|-|
+|**Middle Primary (Primary 3 and 4)**|Ms Nurhafeza Hanem<br>[nurhafeza\_hanem\_abdul\_azal@schools.gov.sg](mailto:nurhafeza_hanem_abdul_azal@schools.gov.sg)|
 
 #### **Executive Staff**
 
 |  |  |
-|---|---|
+|-|-|
 | **Administration Manager** | Mdm Lee Hui Chern<br>[lee_hui_chern@schools.gov.sg](mailto:lee_hui_chern@schools.gov.sg) |
-| **Administration Executive** | Mr Wang Chuan Soon<br>[wang_chuan_soon@schools.gov.sg](mailto:wang_chuan_soon@schools.gov.sg) |
 |  **Operation Manager** | Mr Seow Teck Lam<br>[seow_teck_lam@schools.gov.sg](mailto:seow_teck_lam@schools.gov.sg)  |
 |
