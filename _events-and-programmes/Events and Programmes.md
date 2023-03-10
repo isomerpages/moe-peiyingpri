@@ -5,6 +5,12 @@ description: ""
 ---
 ### **Events and Programmes**
 
+#### P5 Camp
+Our Primary 5 students attended the Outdoor Adventure Camp from 13-15 February 2023. The 3 days 2 nights camp was held at the MOE Dairy Farm Outdoor Adventure Learning Centre. Led by MOE’s Outdoor Adventure Educators (OAEs) and teachers, our students had the opportunity to experience learning through a variety of activities. These include the challenge rope course, team building activities, stream exploration and many more! The highlight of the camp was definitely the night walk, whereby students trekked through Dairy Farm Nature Park with just the moonlight illuminating the way.   
+
+Through this camp, our students were actively engaged cognitively, physically and affectively with the learning environment. They were also put in challenging situations where they developed resilience and courage. It was an unforgettable experience for the students and it will definitely stay with them for a long time.
+
+
 #### Chinese New Year Celebration
          
 It has been a while since we were able to celebrate Chinese New Year together. In the days leading up to the celebrations, our teachers and students worked together to decorate the classrooms.
