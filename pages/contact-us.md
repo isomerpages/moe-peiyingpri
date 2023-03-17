@@ -9,20 +9,15 @@ locations:
       - Singapore 768687
       - ""
     operating_hours:
-      - days: Sat
-        time: 8.30am - 12.00pm
+      - days: Mon to Fri
+        time: 7.30am - 1.30pm
         description: ""
     maps_link: ""
     title: Address
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: careers@abc.gov.sg
+      - phone: +65 6257 5684
+      - email: peiying_ps@moe.edu.sg
       - other: ""
-    title: Careers
+    title: General Enquiries & Feedback
 ---
