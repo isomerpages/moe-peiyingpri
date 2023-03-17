@@ -8,10 +8,7 @@ locations:
       - 651 Yishun Ring Road
       - Singapore 768687
       - ""
-    operating_hours:
-      - days: Mon to Fri
-        time: 7.30am - 1.30pm
-        description: ""
+    operating_hours: []
     maps_link: ""
     title: Address
 contacts:
