@@ -17,5 +17,5 @@ _For urgent matters, please contact the teacher through the General Office at 62
 | 5 Integrity | Mr Jim Yong<br>[yong\_chian\_fei@schools.gov.sg](mailto:yong_chian_fei@schools.gov.sg) | Ms Athena Wee<br>[athena\_wee@schools.gov.sg](mailto:athena_wee@schools.gov.sg)|
 | 5 Diligence | Ms Lee Pei Yu<br>[lee\_pei\_yu\_a@schools.gov.sg](mailto:lee_pei_yu_a@schools.gov.sg) | Mr Eric Chia<br>[chia\_soong\_liang\_eric@schools.gov.sg](mailto:chia_soong_liang_eric@schools.gov.sg) |
 | 5 Empathy | Mrs Theresa Teo<br>[Theresa\_Ng\_A@schools.gov.sg](mailto:Theresa_Ng_A@schools.gov.sg) | Mdm Thong Siong Chee<br>[thong\_siong\_chee@schools.gov.sg](mailto:thong_siong_chee@schools.gov.sg)
-| 5 Courage | Mrs Gayathri Madhan<br>[gayathri\_ghandi@schools.gov.sg](mailto:gayathri_ghandi@schools.gov.sg) | Ms Rita Gupta<br>[rita\_gupta\_k\_prasad@schools.gov.sg](mailto:rita_gupta_k_prasad@schools.gov.sg)<br>
+| 5 Courage | Dr Chin Yoke Mui<br>[chin_yoke_mui@schools.gov.sg](mailto:chin_yoke_mui@schools.gov.sg) | Mrs Gayathri Madhan<br>[gayathri\_ghandi@schools.gov.sg](mailto:gayathri_ghandi@schools.gov.sg)<br><br> Mr Mohamad Ikhwan<br>[mohamad_ikhwan_mohamad_haron@schools.gov.sg](mailto:mohamad_ikhwan_mohamad_haron@schools.gov.sg)
 |
