@@ -62,8 +62,8 @@ third_nav_title: Our Staff
 #### **Senior Teachers**
 |  |  |
 |-|-|
-| **Administration Manager** | Mdm Lee Hui Chern<br>[lee_hui_chern@schools.gov.sg](mailto:lee_hui_chern@schools.gov.sg) |
-|  **Operation Manager** | Mr Seow Teck Lam<br>[seow_teck_lam@schools.gov.sg](mailto:seow_teck_lam@schools.gov.sg)  |
+| **English** | Dr Chin Yoke Mui<br>[chin_yoke_mui@schools.gov.sg](mailto:chin_yoke_mui@schools.gov.sg) |
+|  **Mathematics** | Mr Seow Teck Lam<br>[seow_teck_lam@schools.gov.sg](mailto:seow_teck_lam@schools.gov.sg)  |
 |
 
 
