@@ -63,7 +63,9 @@ third_nav_title: Our Staff
 |  |  |
 |-|-|
 | **English** | Dr Chin Yoke Mui<br>[chin_yoke_mui@schools.gov.sg](mailto:chin_yoke_mui@schools.gov.sg) |
-|  **Mathematics** | Mr Seow Teck Lam<br>[seow_teck_lam@schools.gov.sg](mailto:seow_teck_lam@schools.gov.sg)  |
+|  **Mathematics** | Mrs Vasanthi Nanda<br>[vasanthi\_tanabalan@schools.gov.sg](mailto:vasanthi_tanabalan@schools.gov.sg)  |
+| **Science** | Dr Chin Yoke Mui<br>[chin_yoke_mui@schools.gov.sg](mailto:chin_yoke_mui@schools.gov.sg) |
+|  **Chinese Language** | Mrs Vasanthi Nanda<br>[vasanthi\_tanabalan@schools.gov.sg](mailto:vasanthi_tanabalan@schools.gov.sg)  |
 |
 
 
