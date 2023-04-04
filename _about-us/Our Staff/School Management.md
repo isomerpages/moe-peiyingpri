@@ -58,16 +58,16 @@ third_nav_title: Our Staff
 |||
 |-|-|
 |**Middle Primary (Primary 3 and 4)**|Ms Nurhafeza Hanem<br>[nurhafeza\_hanem\_abdul\_azal@schools.gov.sg](mailto:nurhafeza_hanem_abdul_azal@schools.gov.sg)|
-
-#### **Senior Teachers**
-|  |  |
-|-|-|
-|**Chinese Language** | Mrs Chan Khai Hong<br>[ho\_wee\_kung@schools.gov.sg](mailto:ho_wee_kung@schools.gov.sg)|
-| **English Language** | Dr Chin Yoke Mui<br>[chin_yoke_mui@schools.gov.sg](mailto:chin_yoke_mui@schools.gov.sg) |
-|  **Mathematics** | Mrs Vasanthi Nanda<br>[vasanthi\_tanabalan@schools.gov.sg](mailto:vasanthi_tanabalan@schools.gov.sg)  |
-| **Science** | Mrs Theresa Teo<br>[Theresa\_Ng\_A@schools.gov.sg](mailto:Theresa_Ng_A@schools.gov.sg)  |
 |
 
+#### **Senior Teachers**
+
+|  |  |
+|---|---|
+| **English Language** | Dr Chin Yoke Mui<br>[chin_yoke_mui@schools.gov.sg](mailto:chin_yoke_mui@schools.gov.sg) |
+| **Mathematics** | Mrs Vasanthi Nanda<br>[vasanthi_tanabalan@schools.gov.sg](mailto:vasanthi_tanabalan@schools.gov.sg)<br>
+| **Science** | Mrs Theresa Teo<br>[Theresa_Ng_A@schools.gov.sg](mailto:Theresa_Ng_A@schools.gov.sg) |
+|
 
 
 #### **Executive Staff**
