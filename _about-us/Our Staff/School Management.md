@@ -61,6 +61,7 @@ third_nav_title: Our Staff
 |
 
 #### **Senior Teachers**
+
 |  |  |
 |---|---|
 | **English Language** | Dr Chin Yoke Mui<br>[chin_yoke_mui@schools.gov.sg](mailto:chin_yoke_mui@schools.gov.sg) |
