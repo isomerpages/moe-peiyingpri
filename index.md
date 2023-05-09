@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/Main Page/WebsiteBanner5_5.gif
       key_highlights:
-        - title: Newsletter
+        - title: Termly Check-In
           description: Click here for more info
-          url: /partners/keeping-in-touch-newsletters/
+          url: /2023termlycheckin
         - title: Facebook
           description: Peiying Primary Facebook Page
           url: https://www.facebook.com/PeiyingPrimarySchool
@@ -19,4 +19,3 @@ sections:
           description: "@peiying_primary_school"
           url: https://www.instagram.com/peiying_primary_school/
 ---
-
