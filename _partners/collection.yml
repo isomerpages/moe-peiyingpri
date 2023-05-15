@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Supplier.md
       - Level Programmes.md
       - Family Matters @ School.md
       - Keeping In Touch Newsletters.md
