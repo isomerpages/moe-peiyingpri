@@ -9,7 +9,7 @@ third_nav_title: Mother Tongue Languages
 |  |  |
 |---|---|
 | **Head of Department** | Miss Tay Chai Teng<br>[tay_chai_teng@schools.gov.sg](mailto:tay_chai_teng@schools.gov.sg) |
-| **Level Head** | Mr Soh Chung Wei<br>[soh_chung_wei@schools.gov.sg](mailto:soh_chung_wei@schools.gov.sg)  |
+| **Level Head/Chinese Language** | Mr Soh Chung Wei<br>[soh_chung_wei@schools.gov.sg](mailto:soh_chung_wei@schools.gov.sg)  |
 |
 
 
