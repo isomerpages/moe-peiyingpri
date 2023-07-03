@@ -7,7 +7,7 @@ third_nav_title: Our Staff
 ### **Primary 5**
 **Year Head: Mr Eric Chia**
 
-_Please allow teachers up to 3 days to reply to your email queries._   
+_Please allow teachers up to 3 days to reply to your email queries._&nbsp;  
 _For urgent matters, please contact the teacher through the General Office at 62575684._
 
 | Class | Form Teacher | Co-Form Teacher |
@@ -17,5 +17,5 @@ _For urgent matters, please contact the teacher through the General Office at 62
 | 5 Integrity | Mr Jim Yong<br>[yong\_chian\_fei@schools.gov.sg](mailto:yong_chian_fei@schools.gov.sg) | Ms Athena Wee<br>[athena\_wee@schools.gov.sg](mailto:athena_wee@schools.gov.sg)|
 | 5 Diligence | Ms Lee Pei Yu<br>[lee\_pei\_yu\_a@schools.gov.sg](mailto:lee_pei_yu_a@schools.gov.sg) | Mr Eric Chia<br>[chia\_soong\_liang\_eric@schools.gov.sg](mailto:chia_soong_liang_eric@schools.gov.sg) |
 | 5 Empathy | Mrs Theresa Teo<br>[Theresa\_Ng\_A@schools.gov.sg](mailto:Theresa_Ng_A@schools.gov.sg) | Mdm Thong Siong Chee<br>[thong\_siong\_chee@schools.gov.sg](mailto:thong_siong_chee@schools.gov.sg)
-| 5 Courage | Dr Chin Yoke Mui<br>[chin_yoke_mui@schools.gov.sg](mailto:chin_yoke_mui@schools.gov.sg) | Mrs Gayathri Madhan<br>[gayathri\_ghandi@schools.gov.sg](mailto:gayathri_ghandi@schools.gov.sg)<br><br> Mr Mohamad Ikhwan<br>[mohamad_ikhwan_mohamad_haron@schools.gov.sg](mailto:mohamad_ikhwan_mohamad_haron@schools.gov.sg)
+| 5 Courage | Dr Chin Yoke Mui<br>[chin_yoke_mui@schools.gov.sg](mailto:chin_yoke_mui@schools.gov.sg) | Mr Mohamad Ikhwan<br>[mohamad_ikhwan_mohamad_haron@schools.gov.sg](mailto:mohamad_ikhwan_mohamad_haron@schools.gov.sg)<br><br>Ms Tan Jia Hui<br>[Tan_Jia_Hui@schools.gov.sg](mailto:Tan_Jia_Hui@schools.gov.sg) 
 |
