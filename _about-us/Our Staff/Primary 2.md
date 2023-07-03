@@ -5,16 +5,16 @@ description: ""
 third_nav_title: Our Staff
 ---
 ### **Primary 2**
-**Year Head:** **Ms Rosemarie Wong**  
+**Year Head:**&nbsp;**Ms Rosemarie Wong**  
 
-_Please allow teachers up to 3 days to reply to your email queries._   
+_Please allow teachers up to 3 days to reply to your email queries._&nbsp;  
 _For urgent matters, please contact the teacher through the General Office at 62575684._
 
 | Class | Form Teacher | Co-Form Teacher |
-|:---:|:---:|:---:|
+|---|---|---|
 | 2 Perseverance | Ms Soh Mun Leng<br>[soh\_mun\_leng@schools.gov.sg](mailto:soh_mun_leng@schools.gov.sg) | Mdm Toh Ling Juan<br>[toh\_ling\_juan@schools.gov.sg](mailto:toh_ling_juan@schools.gov.sg) <br><br>Mr M Hassan Mohamed<br>[m_hassan_mohamed@schools.gov.sg](mailto:m_hassan_mohamed@schools.gov.sg)|
 | 2 Respect | Mrs Linda Prem<br>[linda\_gratia@schools.gov.sg](mailto:linda_gratia@schools.gov.sg) | Mdm Yong Fook Lui<br>[yong\_fook\_lui@schools.gov.sg](mailto:yong_fook_lui@schools.gov.sg) |
-|  2 Integrity |  Mrs Veronica Tiang<br>[tan\_liew\_siang\_veronica@schools.gov.sg](mailto:tan_liew_siang_veronica@schools.gov.sg)  |  Mr Vasanthan<br>[vasanthan\_naderajan@schools.gov.sg](mailto:vasanthan_naderajan@schools.gov.sg) <br><br>Mr Muhammad Riduwan<br>[muhammad_riduwan_selamat@schools.gov.sg](muhammad_riduwan_selamat@schools.gov.sg) |
+|  2 Integrity | &nbsp;Mrs Veronica Tiang<br>[tan\_liew\_siang\_veronica@schools.gov.sg](mailto:tan_liew_siang_veronica@schools.gov.sg)  |  Mr Vasanthan<br>[vasanthan\_naderajan@schools.gov.sg](mailto:vasanthan_naderajan@schools.gov.sg) <br><br>Mr Muhammad Riduwan<br>[muhammad_riduwan_selamat@schools.gov.sg](muhammad_riduwan_selamat@schools.gov.sg) |
 |  2 Diligence | Mdm Ng Kang Ping <br>[ng\_kang\_ping@schools.gov.sg](mailto:ng_kang_ping@schools.gov.sg)  |  Ms Rajeswari<br>[rajeswari\_bejoyan@schools.gov.sg](mailto:rajeswari_bejoyan@schools.gov.sg) |
 |  2 Empathy | Mrs Asyaari<br>[nur\_faiszah\_ishak@schools.gov.sg](mailto:nur_faiszah_ishak@schools.gov.sg)  | Mdm Low Hui Li <br>[low\_hui\_li@schools.gov.sg](mailto:low_hui_li@schools.gov.sg) <br><br> Ms Leanna Low<br> [low\_lay\_lay@schools.gov.sg](mailto:low_lay_lay@schools.gov.sg)   |
 |  2 Wisdom | Mrs Mala Balasupramaniyam<br>[mala\_balasupramaniyam@schools.gov.sg](mailto:mala_balasupramaniyam@schools.gov.sg) | Mr Lee Khoon Peng<br>[lee\_khoon\_peng@schools.gov.sg](mailto:lee_khoon_peng@schools.gov.sg) <br><br> Ms Valerie Heng Cheng Ngee<br>[heng_cheng_ngee_valerie@schools.gov.sg](mailto:heng_cheng_ngee_valerie@schools.gov.sg) |
