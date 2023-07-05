@@ -5,7 +5,7 @@ description: ""
 ---
 ### **Events and Programmes**
 
-#### English Language Reading Fiesta
+#### English Language Fiesta
 The English Language department had organised the English Language (EL) Fiesta from 30 March to 28 April 2023 to encourage students to read widely and be confident speakers. An array of events and activities were curated for the different levels, as well as those for the whole school. 
 This year, the school had invited Mdm Cheng Puay Koon, our School Advisory Committee member and illustrator of a P2 STELLAR unit ‘Roti Prata’ to read and draw with the P2 students. In addition, the school invited students and staff to come to school dressed in the theme of ‘Superheroes’ on 31 March 2023. It was heartening to see the students dressed in characters such as princes, princesses and superheroes from the storybooks they like. <br><br>
 To further encourage the love of reading, some of our students from P3 to P6 were invited to share their favourite stories during the Pre-Assembly periods. This activity had certainly captivated the students as they listened to the storybook reviews and excerpts of stories. The promotion of a reading culture is one of the cornerstones of the school and the EL Fiesta brings about the joy of reading through the activities designed for the students. 
