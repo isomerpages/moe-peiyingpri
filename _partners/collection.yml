@@ -2,7 +2,7 @@ collections:
   partners:
     output: true
     order:
-      - eKaleidoscope.md
+      - Kaleidoscope.md
       - Supplier.md
       - Level Programmes.md
       - Family Matters @ School.md
