@@ -15,7 +15,8 @@ Curriculum Project supports programmes and events related to Curriculum Subjects
 
 | ![](/images/PSG/applep.png) | Apple<br>Curriculum Project Coordinators| 
 | -------- | -------- | 
-| ![](/images/PSG/ummupp.png)    | Ummu<br> Outreach &amp; Publicity Project Coordinator
+| ![](/images/PSG/ummupp.png)    |Ummu<br> Curriculum Project Coordinator
+
 
 ### Outreach &amp; Publicity Project
 Outreach &amp; Publicity Project supports programmes and areas that are non-curriculum based and these include:
@@ -41,3 +42,8 @@ Co-Curriculum Project supports programmes and events related to Co-Curriculum Su
 * Track and Field Meet
 * P1-P2 Lower Primary Games Day
 * P3-P5 Games Carnival
+
+**Co-Curriculum Project Coordinators:**
+| ![](/images/PSG/ritapp.png) | Rita<br>Co-Curriculum Project Coordinator| 
+| -------- | -------- | 
+| ![](/images/PSG/deasyp.png)    | Deasy<br> Co-Curriculum Project Coordinator
