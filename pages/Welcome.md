@@ -5,4 +5,7 @@ description: ""
 ---
 Our Parent Support Group (PSG) is a group of parent volunteers who come together to provide support to our students. They add value to the education of our students through their involvement in school programmes and activities. The active and positive partnership among parents, teachers and the community help to make the school a safe place for our students to learn in, making school life more vibrant and caring.
 
-If you would like to play an active support role in your child's learning environment, fill in this form to join us!
+If you would like to play an active support role in your child's learning environment, join us by registering via the link or QR code below.
+
+https://form.gov.sg/63326fcceb453b0012efa51f
+
