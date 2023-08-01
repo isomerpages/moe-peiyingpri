@@ -9,3 +9,4 @@ If you would like to play an active support role in your child's learning enviro
 
 https://form.gov.sg/63326fcceb453b0012efa51f
 
+You may also sign up with us during P1 Orientation at our PSG Booth. We will contact you in January of the following year via Parents Gateway.
