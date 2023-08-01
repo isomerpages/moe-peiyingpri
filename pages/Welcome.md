@@ -9,6 +9,6 @@ Our Parent Support Group (PSG) is a group of parent volunteers who come together
 If you would like to play an active support role in your child's learning environment, join us by registering via the link or QR code below.
 
 https://form.gov.sg/63326fcceb453b0012efa51f
-![](/images/PSG/psg%20qr.png)
+
 
 You may also sign up with us during P1 Orientation at our PSG Booth. We will contact you in January of the following year via Parents Gateway.
