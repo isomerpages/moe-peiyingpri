@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - PSG ExCo/PSG ExCo.md
       - PSG ExCo/.keep
       - Kaleidoscope.md
       - Supplier.md
