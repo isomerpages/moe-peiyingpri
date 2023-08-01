@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Parent Support Group/Welcome.md
       - Parent Support Group/.keep
       - Kaleidoscope.md
       - Supplier.md
