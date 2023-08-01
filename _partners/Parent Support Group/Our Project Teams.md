@@ -17,6 +17,19 @@ Curriculum Project supports programmes and events related to Curriculum Subjects
 | -------- | -------- | 
 | ![](/images/PSG/ummupp.png)    | Ummu<br> Outreach &amp; Publicity Project Coordinator
 
+### Outreach &amp; Publicity Project
+Outreach &amp; Publicity Project supports programmes and areas that are non-curriculum based and these include:
+
+* PSG Noticeboard
+* Racial Harmony Day
+* Hari Raya
+* Teacher’s Day
+* Children’s Day
+* Deepavali
+* P1 Orientation Booth
+
+
+
 
 
 
