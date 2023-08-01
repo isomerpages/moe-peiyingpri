@@ -2,9 +2,9 @@ collections:
   partners:
     output: true
     order:
-      - Parent Support Group/PSG ExCo.md
-      - Parent Support Group/Welcome.md
       - Parent Support Group/.keep
+      - Parent Support Group/Welcome.md
+      - Parent Support Group/PSG ExCo.md
       - Kaleidoscope.md
       - Supplier.md
       - Level Programmes.md
