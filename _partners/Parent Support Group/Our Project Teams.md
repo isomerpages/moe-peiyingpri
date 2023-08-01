@@ -34,3 +34,10 @@ Outreach &amp; Publicity Project supports programmes and areas that are non-curr
 | -------- | -------- | 
 | ![](/images/PSG/ummupp.png)    | Ummu<br> Outreach &amp; Publicity Project Coordinator
 | ![](/images/PSG/fionap.jpg)    | Fiona<br> Outreach &amp; Publicity Project Coordinator
+
+### Co-Curriculum Project
+Co-Curriculum Project supports programmes and events related to Co-Curriculum Subjects and these include:
+
+* Track and Field Meet
+* P1-P2 Lower Primary Games Day
+* P3-P5 Games Carnival
