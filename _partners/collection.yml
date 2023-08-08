@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Kaleidoscope.md
-      - Supplier.md
       - Level Programmes.md
       - Family Matters @ School.md
       - Keeping In Touch Newsletters.md
