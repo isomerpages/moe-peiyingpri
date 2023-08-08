@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Sample.md
       - Kaleidoscope.md
       - Level Programmes.md
       - Family Matters @ School.md
