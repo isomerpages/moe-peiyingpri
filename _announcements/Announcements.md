@@ -3,7 +3,8 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
+Dear Alumni,
 
-Dear Parents,  
-Please click [here](/files/Keeping%20in%20Touch%20Newsletter/2023_%20Term%201_%20Keeping%20in%20Touch%20Letter%20to%20Parents%20(aa%203%20Jan%202023)(2).pdf) for the Keeping in Touch Term 1 Newsletter                                                                  
-*Last Update on 04/01/2023
+Please note that since we will be required to hand over the school on 31 August 2023 for Polling Day the next day, we will not be able to open up the school and facilitate any meet up with the teachers in the school on  that day. We appreciate your understanding in this matter.
+
+***Last Update 23 August 2023**
