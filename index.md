@@ -13,7 +13,7 @@ sections:
           description: Click here for more info
           url: /partners/keeping-in-touch-newsletters/
         - title: Announcement
-          description: Click here for more info
+          description: Teacher's Day Celebration for Alumni
           url: ""
         - title: Facebook
           description: Peiying Primary Facebook Page
