@@ -12,6 +12,9 @@ sections:
         - title: Keeping in Touch Term 3
           description: Click here for more info
           url: /partners/keeping-in-touch-newsletters/
+        - title: Announcement
+          description: Click here for more info
+          url: ""
         - title: Facebook
           description: Peiying Primary Facebook Page
           url: https://www.facebook.com/PeiyingPrimarySchool
