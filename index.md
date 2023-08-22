@@ -14,7 +14,7 @@ sections:
           url: /partners/keeping-in-touch-newsletters/
         - title: Announcement
           description: Teacher's Day Celebration for Alumni
-          url: ""
+          url: https://peiyingpri.sg/announcements/
         - title: Facebook
           description: Peiying Primary Facebook Page
           url: https://www.facebook.com/PeiyingPrimarySchool
