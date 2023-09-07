@@ -5,7 +5,7 @@ description: ""
 ---
 ### PSG ExCo
 
-<img src="/images/PSG/psg%20exco.png" style="width:120%">
+![](/images/PSG/psg%20exco%202.jpg)![](/images/PSG/psg%20vision.png)
 
 #### PSG Executive Committee
 ![](/images/PSG/screenshot%202023-09-07%20104831.png)
