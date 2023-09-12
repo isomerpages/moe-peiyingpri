@@ -12,9 +12,6 @@ sections:
         - title: Termly Check-In
           description: Click here for more info
           url: /2023termlycheckin/
-        - title: Announcement
-          description: Teacher's Day Celebration for Alumni
-          url: /announcements/
         - title: Facebook
           description: Peiying Primary Facebook Page
           url: https://www.facebook.com/PeiyingPrimarySchool
