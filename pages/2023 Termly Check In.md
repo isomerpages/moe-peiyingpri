@@ -7,7 +7,7 @@ description: ""
 
 
 
-| Primary 1 - 2| [https://forms.moe.edu.sg/forms/vEXYwe](https://forms.moe.edu.sg/forms/vEXYwe)<br>| 
+| Primary 1 - 2| [https://go.gov.sg/pyps-lptermlycheckin](https://go.gov.sg/pyps-lptermlycheckin)<br>| 
 | -------- | -------- | 
-|**Primary 3 - 4**|[https://forms.moe.edu.sg/forms/eLN6dJ](https://forms.moe.edu.sg/forms/eLN6dJ)<br>| 
-|**Primary 5 - 6**|[https://forms.moe.edu.sg/forms/egnX9o](https://forms.moe.edu.sg/forms/egnX9o)<br>
+|**Primary 3 - 4**|[https://go.gov.sg/pyps-mptermlycheckin](https://go.gov.sg/pyps-mptermlycheckin)<br>| 
+|**Primary 5 - 6**|[https://go.gov.sg/pyps-uptermlycheckin](https://go.gov.sg/pyps-uptermlycheckin)<br>
