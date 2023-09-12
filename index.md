@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Termly Check-In
           description: Click here for more info
-          url: /partners/keeping-in-touch-newsletters/
+          url: /2023termlycheckin/
         - title: Announcement
           description: Teacher's Day Celebration for Alumni
           url: /announcements/
