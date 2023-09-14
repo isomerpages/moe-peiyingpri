@@ -18,4 +18,7 @@ sections:
         - title: Instagram
           description: "@peiying_primary_school"
           url: https://www.instagram.com/peiying_primary_school/
+        - title: "Keeping in Touch "
+          description: Click here for more info
+          url: /partners/keeping-in-touch-newsletters/
 ---
