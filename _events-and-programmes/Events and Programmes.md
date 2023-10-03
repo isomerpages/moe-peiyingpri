@@ -5,6 +5,13 @@ description: ""
 ---
 ### **Events and Programmes**
 
+#### National Day Celebration
+This year’s National Day theme ‘Onward As One’ calls upon Singaporeans to look forward confidently and move onward together in building our shared future as one united people. As part of the National Day celebrations in school, interactive activity stations were set up during recess on August 3, 2023. Students were engaged in solving quizzes about Singapore and National Day on iPads. They also indulged in colouring and captured memories at the photo booth. CCE Ambassadors and National Day committee teachers organised and facilitated the activities, ensuring a seamless experience for all Peiying students.
+
+During the National Day Ceremonial segment, students solemnly observed the Colour Party bringing in the State flag and school flag with pride. After which, the school celebrated Singapore’s birthday with the singing of National Day songs and a Peiying Fashion Parade where teachers and students paraded and danced down the hall to loud cheers from the whole school. 
+
+What an enjoyable day for all! Happy Birthday Singapore! May you stay strong and resilient in the years to come!
+
 #### English Language Fiesta
 The English Language department had organised the English Language (EL) Fiesta from 30 March to 28 April 2023 to encourage students to read widely and be confident speakers. An array of events and activities were curated for the different levels, as well as those for the whole school. 
 This year, the school had invited Mdm Cheng Puay Koon, our School Advisory Committee member and illustrator of a P2 STELLAR unit ‘Roti Prata’ to read and draw with the P2 students. In addition, the school invited students and staff to come to school dressed in the theme of ‘Superheroes’ on 31 March 2023. It was heartening to see the students dressed in characters such as princes, princesses and superheroes from the storybooks they like. <br><br>
