@@ -14,6 +14,10 @@ What an enjoyable day for all! Happy Birthday Singapore! May you stay strong and
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ8RL4jM-itrUC9M5nX6L5IxwHyhaZt50cLrJFQxu1AReAGMur3X1SmwBDIafNCi-0bnsOxFIh6cYPd/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="800" height="450" allowfullscreen="true"></iframe>
 
+#### Racial Harmony Day
+In July, we commemorated Racial Harmony Day to remind everyone on the importance of maintaining racial, religious harmony and tolerance among the different communities in Singapore. Besides the meaningful and fun-filled classroom discussions and assembly programme, students were introduced to different cultural motifs and their meanings during recess activities. With the great support of our school’s Parent Support Group members and our very own CCE ambassadors, students were guided to colour the motifs to form collages, which aptly ties in with this year’s theme, “Our Multicultural Mosaic”. 
+
+
 #### English Language Fiesta
 The English Language department had organised the English Language (EL) Fiesta from 30 March to 28 April 2023 to encourage students to read widely and be confident speakers. An array of events and activities were curated for the different levels, as well as those for the whole school. 
 This year, the school had invited Mdm Cheng Puay Koon, our School Advisory Committee member and illustrator of a P2 STELLAR unit ‘Roti Prata’ to read and draw with the P2 students. In addition, the school invited students and staff to come to school dressed in the theme of ‘Superheroes’ on 31 March 2023. It was heartening to see the students dressed in characters such as princes, princesses and superheroes from the storybooks they like. <br><br>
