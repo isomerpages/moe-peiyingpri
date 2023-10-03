@@ -6,7 +6,7 @@ description: ""
 ### **Our Achievements**
 #### **2023**
 **Junior Sepak Takraw Team 2**<br>
-National Senior Division Championships - 3rd
+National Junior Division Championships - 3rd
 <br>
 <br>
 **Senior Sepak Takraw**<br>
