@@ -15,7 +15,7 @@ third_nav_title: Our Staff
 | Administrative Executive  |  Mr Sharvin | [r_sharvin_ganesh@schools.gov.sg](mailto:r_sharvin_ganesh@schools.gov.sg)  |
 | ICT Associate  | Ms Noormalah  | [noormalah_rabu@schools.gov.sg](mailto:noormalah_rabu@schools.gov.sg)  |
 |  MSO |  Mdm Latipah | [latipah_binti_abu_bakar@schools.gov.sg](mailto:latipah_binti_abu_bakar@schools.gov.sg)  |
-| CSO  |  Mrs Tan Ee Lian Charlene | [tan_ee_lian_charlene@schools.gov.sg](mailto:tan_ee_lian_charlene@schools.gov.sg)  |
+| CSO  |  Ms Tan Ee Lian Charlene | [tan_ee_lian_charlene@schools.gov.sg](mailto:tan_ee_lian_charlene@schools.gov.sg)  |
 | OSO |  Mdm P Sumathi |  - |
 | OSO |  Mr Mohan |  - |
 | OSO | Mdm Yeo Yuat Suan |  - |
