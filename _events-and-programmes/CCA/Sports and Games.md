@@ -32,7 +32,13 @@ Teahers-in-charge: Mr Jim Yong, Mr Rosnizam and Ms Joyce Ang
 #### **Rope Skipping**
 Peiying Primary School offers Rope Skipping as a Co-Curricular Activity (CCA) to our P3 to P6 boys and girls. Our&nbsp;Rope Skipping CCA aims to strengthen students’ bodies and improve their agility, psychomotor and coordination skills. Members will learn speed and creative skills such as running steps, double dutch, crosses and multiples during their CCA sessions.
 
+<img src="/images/CCA/Rope%20Skipping/rope%20skipping%2001.jpeg" style="width:45%" align="right">
+<img src="/images/CCA/Rope%20Skipping/rope%20skipping%2002.jpeg" style="width:45%"><br>
+<img src="/images/CCA/Rope%20Skipping/rope%20skipping%2003.jpeg" style="width:45%">
+
 Rope Skipping also focuses on character building via PRIDE core values and instilling sportsmanship and cooperative skills in our students. Members are given the opportunity to represent the school in the&nbsp;National School Games Rope Skipping Championships&nbsp;and other platforms to apply the skills, knowledge and attitudes acquired.&nbsp;
+
+![](/images/CCA/Rope%20Skipping/rope%20skipping%2004.jpeg)
 
 Teachers-in-charge: Mdm Nurhazrida, Mr Vasanthan,&nbsp;Ms Pamela Lee and Mr Muhd Faizal
 
