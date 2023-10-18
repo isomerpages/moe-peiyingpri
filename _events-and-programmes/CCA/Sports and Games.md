@@ -4,7 +4,7 @@ permalink: /events-and-programmes/cca/sports-and-games/
 description: ""
 third_nav_title: CCA
 ---
-# Sports and Games
+## Sports and Games
 
 #### **Netball**
 <img src="/images/netball%201.png" style="width:25%;margin-right:15px;" align="left">
