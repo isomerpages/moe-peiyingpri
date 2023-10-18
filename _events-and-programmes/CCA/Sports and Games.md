@@ -63,4 +63,4 @@ Volleyball school team players are given the opportunity to represent the school
 Our teachers-in-charge and coach are committed to develop our Volleyball players holistically – building their character and stretching their potential.
 
 <img src="/images/vball3.png" style="width:35%;margin-right:15px;" align="left"><b></b>
-Teachers-in-charge: Mr Cyril Matthew Philix, Mr Ikhwan, Ms Yang Ge and Ms Kalsa Ross
+Teachers-in-charge: Mr Cyril Matthew Philix, Mr Ikhwan, Mr Kevin Lune and Ms Kalsa Ross
