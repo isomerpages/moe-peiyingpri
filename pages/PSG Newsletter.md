@@ -7,4 +7,4 @@ Looking for our Biannual Newsletter, what to do during school activities or arti
 
 Check it out here!
 
-<a href="https://online.fliphtml5.com/cuxpm/chwl/">![](/images/PSG/newsletter%20page%202.png)</a>
+<a href="https://online.fliphtml5.com/cuxpm/iwoo/">![](/images/PSG/newsletter%20page%20final.png)</a>
