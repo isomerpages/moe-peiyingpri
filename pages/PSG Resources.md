@@ -3,13 +3,16 @@ title: PSG Resources
 permalink: /permalink/
 description: ""
 ---
-### Resources
+   
 
-**[Families for Life](https://ffl.familiesforlife.sg/pages/Activity/FFL-Family-Values?utm_source=SEM&amp;gclid=CjwKCAjwt52mBhB5EiwA05YKo-jguEkg6zLW0R1SL52cqmDxjxyappkwXvordfLm8pgpeGmuJrR3SBoCCLQQAvD_BwE)**<br>
+MOE Parent Kit<br>
+[https://www.moe.gov.sg/parentkit](https://www.moe.gov.sg/parentkit)
 
+MOE Schoolbag<br>
+[https://www.schoolbag.edu.sg/story/partnering-parents-in-education](https://www.schoolbag.edu.sg/story/partnering-parents-in-education)
 
-**[Dads for Life](https://dadsforlife.sg/)**<br>
+Dads for Life<br>
+[https://dadsforlife.sg/](https://dadsforlife.sg/)
 
-
-
-**[MOE Schoolbag](https://www.schoolbag.edu.sg/story/my-daddy-is-a-psg-leader)**<br>
+Families for Life<br>
+[https://ffl.familiesforlife.sg/pages/homepage](https://ffl.familiesforlife.sg/pages/homepage)
