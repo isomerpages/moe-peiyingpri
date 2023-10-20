@@ -10,6 +10,7 @@ Our Parent Support Group (PSG) is a group of parent volunteers who come together
 If you wish to join the Parent Support Group, please register [here](https://for.edu.sg/pypspsg).
 
 
-<img src="/images/PSG/psgqrcode.png" style="width:35%"> 
+<img src="/images/PSG/psg%20qr%20final.png" style="width:35%"> 
 
-You may also sign up with us during the school's Primary 1 Orientation Day at our PSG Booth. We will contact you in January of the following year.
+
+You may also sign up with us during P1 Orientation at our PSG Booth. We will contact you in January of the following year via Parents Gateway.
