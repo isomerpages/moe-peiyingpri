@@ -13,4 +13,4 @@ If you wish to join the Parent Support Group, please register [here](https://for
 <img src="/images/PSG/psg%20qr%20final.png" style="width:35%"> 
 
 
-You may also sign up with us during P1 Orientation at our PSG Booth. We will contact you in January of the following year via Parents Gateway.
+You may also sign up with us during the school's Primary 1 Orientation Day at our PSG Booth. We will contact you in January of the following year.
