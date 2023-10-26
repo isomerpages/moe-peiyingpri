@@ -4,6 +4,7 @@ permalink: /psg/resources/
 description: ""
 third_nav_title: Parent Support Group
 ---
+### Resources
 **MOE Parent Kit**<br>
 [https://www.moe.gov.sg/parentkit](https://www.moe.gov.sg/parentkit)
 
