@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Parent Support Group/PSG Newsletter.md
       - Parent Support Group/PSG Calendar of Events.md
       - Parent Support Group/PSG ExCo.md
       - Parent Support Group/PSG Chairperson's Message.md
