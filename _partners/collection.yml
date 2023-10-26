@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - PSG Welcome.md
       - School Advisory Committee.md
       - Level Programmes.md
       - Keeping In Touch Newsletters.md
