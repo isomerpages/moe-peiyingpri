@@ -4,7 +4,7 @@ permalink: /permalink/psg/exco/
 description: ""
 third_nav_title: Parent Support Group
 ---
-### PSG ExCo
+### ExCo
 
 ![](/images/PSG/psg%20exco%202-3.jpg)
 ![](/images/PSG/psg%20vision.png)<br>
