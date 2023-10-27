@@ -2,7 +2,9 @@ collections:
   partners:
     output: true
     order:
-      - School Advisory Committee.md
+      - Kaleidoscope.md
+      - Keeping In Touch Newsletters.md
+      - Level Programmes.md
       - Parent Support Group/.keep
       - Parent Support Group/Welcome.md
       - Parent Support Group/Chairperson's Message.md
@@ -10,9 +12,7 @@ collections:
       - Parent Support Group/Calendar of Events.md
       - Parent Support Group/Newsletter.md
       - Parent Support Group/Resources.md
-      - Level Programmes.md
-      - Keeping In Touch Newsletters.md
+      - School Advisory Committee.md
       - Useful Forms and Links/.keep
       - Useful Forms and Links/Parents.md
       - Useful Forms and Links/Staff.md
-      - Kaleidoscope.md
