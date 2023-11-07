@@ -8,13 +8,10 @@ description: ""
 
 
 
-Type of Stall| Closing Date | Requirements |
-| -------- | -------- | -------- |
-| Chinese Food       | 30 November 2023     | NIL     |
+![](/images/canteen.png)
 
 **Application Procedure**
-1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
-Application Form
+1. Download and complete the [application form](https://www.sengkangpri.moe.edu.sg/files/application%20for%20canteen%20stall%20in%20existing%20school.pdf). You may also request for a hardcopy from the School’s General Office.
 2.	Attached the following documents together with the application form:
 * Photocopy of the NRIC (front and back)
 * List of proposed menu and pricing for all items
@@ -41,8 +38,3 @@ Application Form
 * Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA). They may apply the License from GoBusiness website. 
 
 *Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.*
-
-
-
-
-
