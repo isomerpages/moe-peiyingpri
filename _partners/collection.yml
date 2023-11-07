@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - School Canteen Stall Vacancy.md
       - Kaleidoscope.md
       - Keeping In Touch Newsletters.md
       - Level Programmes.md
