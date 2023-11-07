@@ -35,20 +35,20 @@ links:
   - title: Partners
     url: /partners/level-programmes/
     sublinks:
+      - title: Kaleidescope
+        url: partners/kaleidoscope/
       - title: Keeping In Touch Newsletters
         url: /partners/keeping-in-touch-newsletters/
+      - title: Level Programmes
+        url: /partners/level-programmes/
       - title: Parent Support Group
         url: /partners/psg/welcome/
       - title: School Advisory Committee
         url: /partners/sac/
-      - title: Kaleidescope
-        url: partners/kaleidoscope/
-      - title: Level Programmes
-        url: /partners/level-programmes/
-      - title: Useful Forms and Links
-        url: /partners/useful-forms-and-links/parents/
       - title: School Canteen Stall Vacancy
         url: /canteenvacancy
+      - title: Useful Forms and Links
+        url: /partners/useful-forms-and-links/parents/
   - title: Contact-Us
     url: /contact-us-here/
   - title: E-Openhouse
