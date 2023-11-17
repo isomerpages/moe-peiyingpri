@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/Main Page/WebsiteBanner5_5.gif
       key_highlights:
-        - title: Termly Check-In
+        - title: P1 Orientation Slides
           description: Click here for more info
-          url: /2023termlycheckin/
+          url: /partners/useful-forms-and-links/parents/
         - title: Keeping in Touch
           description: Click here for more info
           url: /partners/keeping-in-touch-newsletters/

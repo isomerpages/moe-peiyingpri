@@ -3,9 +3,12 @@ title: Parents
 permalink: /partners/useful-forms-and-links/parents/
 description: ""
 third_nav_title: Useful Forms and Links
+variant: markdown
 ---
-
 ### **Parents**
+#### P1 Orientation Slides
+Please click [here](https://online.fliphtml5.com/cuxpm/oiti/)
+
 #### **Briefing Slides for Parents**
 Primary 2&nbsp;&nbsp;[Click Here to Download](/files/Useful%20Forms%20and%20Links/P2%20Briefing%20for%20Parents.pdf)<br>
 Primary 3&nbsp;&nbsp;[Click Here to Download](https://peiyingpri.moe.edu.sg/qql/slot/u161/2021%20briefing%20slides/P3%20Briefing%20for%20Parents.pdf)<br>
