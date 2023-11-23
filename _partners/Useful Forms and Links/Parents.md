@@ -11,8 +11,8 @@ Please click [here](https://online.fliphtml5.com/cuxpm/oiti/)
 
 #### **Briefing Slides for Parents**
 Primary 2&nbsp;&nbsp;[Click Here to Download](/files/Useful%20Forms%20and%20Links/P2%20Briefing%20for%20Parents.pdf)<br>
-Primary 3&nbsp;&nbsp;[Click Here to Download](https://peiyingpri.moe.edu.sg/qql/slot/u161/2021%20briefing%20slides/P3%20Briefing%20for%20Parents.pdf)<br>
-Primary 4&nbsp;&nbsp;[Click Here to Download](https://peiyingpri.moe.edu.sg/qql/slot/u161/2021%20briefing%20slides/P4%20Briefing%20for%20parents.pdf)<br>
+Primary 3 [Click Here to Download](/files/Useful%20Forms%20and%20Links/P3P4_Parents__Briefing_2023_PG.pdf)<br>
+Primary 4 [Click Here to Download](/files/Useful%20Forms%20and%20Links/P3P4_Parents__Briefing_2023_PG.pdf)<br>
 Primary 5&nbsp;&nbsp;[Click Here to Download](/files/Useful%20Forms%20and%20Links/P5%20Briefing%20for%20Parents.pdf)<br>
 Primary 6  [Click Here to Download](/files/Useful%20Forms%20and%20Links/P6%20Briefing%20for%20Parents_compressed.pdf)
 
