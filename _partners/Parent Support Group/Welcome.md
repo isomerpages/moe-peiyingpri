@@ -3,12 +3,13 @@ title: Welcome
 permalink: /partners/psg/welcome/
 description: ""
 third_nav_title: Parent Support Group
+variant: markdown
 ---
 ### Welcome
 ![](/images/PSG/welcome.jpg)
 Our Parent Support Group (PSG) is a group of parent volunteers who come together to provide support to our students. They add value to the education of our students through their involvement in school programmes and activities. The active and positive partnership among parents, teachers and the community help to make the school a safe place for our students to learn in, making school life more vibrant and caring.
 
-If you wish to join the Parent Support Group, please register [here](https://for.edu.sg/pypspsg).
+If you wish to join the Parent Support Group, please register [here](https://go.gov.sg/pypsg).
 
 
 <img src="/images/PSG/psg%20qr%20final.png" style="width:35%"> 
