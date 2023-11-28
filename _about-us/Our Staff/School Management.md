@@ -33,7 +33,7 @@ variant: markdown
 
 |  |  |
 |---|---|
-| **Physical Education and CCA** | Mr Mohamad Ikhwan <br>[mohamad_ikhwan_mohamad_haron@schools.gov.sg](mailto:mohamad_ikhwan_mohamad_haron@schools.gov.sg) |
+| **Student Management** | Mr Mohamad Ikhwan <br>[mohamad_ikhwan_mohamad_haron@schools.gov.sg](mailto:mohamad_ikhwan_mohamad_haron@schools.gov.sg) |
 | **Character and Citizenship Education**  | Ms Athena Wee <br> [athena_wee@schools.gov.sg](mailto:athena_wee@schools.gov.sg) |
 |
 
