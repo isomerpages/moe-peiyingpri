@@ -3,6 +3,7 @@ title: School Management
 permalink: /about-us/our-staff/school-management/
 description: ""
 third_nav_title: Our Staff
+variant: markdown
 ---
 ### **School Management**
 
@@ -23,7 +24,7 @@ third_nav_title: Our Staff
 | **Mathematics** | Mr Jason Heng<br>[jason_heng_cheng_han@schools.gov.sg](mailto:jason_heng_cheng_han@schools.gov.sg)  |
 | **Science** | Mrs Lee-Ong Chee Lin<br>[ong_chee_lin@schools.gov.sg](mailto:ong_chee_lin@schools.gov.sg) |
 | **Character and Citizenship Education** | Mdm Hindon Saini<br> [hindon_saini@schools.gov.sg](mailto:hindon_saini@schools.gov.sg) |
-| **Physical Education and CCA** | Mr M Hassan Mohamed<br>[m_hassan_mohamed@schools.gov.sg](mailto:m_hassan_mohamed@schools.gov.sg) |
+| **Physical Education and CCA** | Mr Mohamad Ikhwan <br>[mohamad_ikhwan_mohamad_haron@schools.gov.sg](mailto:mohamad_ikhwan_mohamad_haron@schools.gov.sg) |
 | **Student Management** |  Mr Lee Khoon Peng<br>[lee_khoon_peng@schools.gov.sg](mailto:lee_khoon_peng@schools.gov.sg) |
 | **ICT** |  Mdm Loy Su Ann<br>[loy\_su\_ann@schools.gov.sg](mailto:loy_su_ann@schools.gov.sg) |
 |
