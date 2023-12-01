@@ -6,6 +6,17 @@ third_nav_title: Useful Forms and Links
 variant: markdown
 ---
 ### **Parents**
+#### 2024 Book and Uniform List
+Primary 1 Booklist Click [Here](/files/Useful%20Forms%20and%20Links/Primary_1_booklist.pdf)<br>
+Primary 2 Booklist Click [Here](/files/Useful%20Forms%20and%20Links/Primary_2_booklist.pdf)<br>
+Primary 3 Booklist Click [Here](/files/Useful%20Forms%20and%20Links/Primary_3_booklist.pdf)<br>
+Primary 4 Booklist Click [Here](/files/Useful%20Forms%20and%20Links/Primary_4_booklist.pdf)<br>
+Primary 5 Booklist Click [Here](/files/Useful%20Forms%20and%20Links/Primary_5_booklist.pdf)<br>
+Primary 5 Foundation Booklist Click [Here](/files/Useful%20Forms%20and%20Links/Primary_5_Foundation_booklist.pdf)<br>
+Primary 6 Booklist Click [Here](/files/Useful%20Forms%20and%20Links/Primary_6_booklist.pdf)<br>
+Primary 6 Foundation Booklist Click [Here](/files/Useful%20Forms%20and%20Links/Primary_6_Foundation_booklist.pdf)<br>
+<br>
+Sowell Uniform List Click [Here](/files/Useful%20Forms%20and%20Links/SOWELL_UNIFORM.pdf)
 #### P1 Orientation Slides
 Please click [here](https://online.fliphtml5.com/cuxpm/oiti/)
 
