@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/Main Page/WebsiteBanner5_5.gif
       key_highlights:
-        - title: P1 Orientation Slides
+        - title: 2024 Book & Uniform List
           description: Click here for more info
           url: /partners/useful-forms-and-links/parents/
         - title: Keeping in Touch
