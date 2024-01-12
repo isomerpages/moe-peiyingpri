@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/Main Page/WebsiteBanner5_5.gif
       key_highlights:
-        - title: 2024 Termly Check-In
+        - title: Voices of Peiying
           description: Click here for more info
-          url: /2024termlycheckin/
+          url: https://go.gov.sg/voicesofpeiying
         - title: Keeping in Touch
           description: Click here for more info
           url: /partners/keeping-in-touch-newsletters/
