@@ -10,7 +10,7 @@ sections:
       background: /images/Main Page/WebsiteBanner5_5.gif
       key_highlights:
         - title: Voices of Peiying
-          description: Click here for more info
+          description: "*Leadership Role Application*"
           url: https://go.gov.sg/voicesofpeiying
         - title: Keeping in Touch
           description: Click here for more info
