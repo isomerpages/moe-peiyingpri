@@ -10,14 +10,14 @@ sections:
       background: /images/Main Page/WebsiteBanner5_5.gif
       key_highlights:
         - title: Voices of Peiying
-          description: Click here for more info
+          description: "*Leadership Role Application*"
           url: https://go.gov.sg/voicesofpeiying
         - title: Keeping in Touch
           description: Click here for more info
           url: /partners/keeping-in-touch-newsletters/
         - title: Facebook
           description: Peiying Primary Facebook Page
-          url: https://www.facebook.com/profile.php?id=100090738535356
+          url: https://www.facebook.com/PeiyingPrimarySchool
         - title: Instagram
           description: "@peiying_primary_school"
           url: https://www.instagram.com/peiying_primary_school/
