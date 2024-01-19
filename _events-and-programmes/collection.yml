@@ -2,7 +2,6 @@ collections:
   events-and-programmes:
     output: true
     order:
-      - School Events and Programmes.md
       - Events and Programmes.md
       - CCA/CCA.md
       - CCA/Clubs and Societies.md
