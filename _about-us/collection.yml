@@ -1,0 +1,26 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Key Programmes.md
+      - Principal's Message.md
+      - Core Values, Vision and Mission.md
+      - Student Vision Outcomes.md
+      - Total Curriculum Framework.md
+      - School History and Milestones.md
+      - School Crest and School Song.md
+      - School Rules.md
+      - School Calendar.md
+      - Our Achievements.md
+      - Our Staff/.keep
+      - Our Staff/School Management.md
+      - Our Staff/Primary 1.md
+      - Our Staff/Primary 2.md
+      - Our Staff/Primary 3.md
+      - Our Staff/Primary 4.md
+      - Our Staff/Primary 5.md
+      - Our Staff/Primary 6.md
+      - Our Staff/Mother Tongue.md
+      - Our Staff/AED.md
+      - Our Staff/EAS.md
+      - Our Staff/Support Staff.md
