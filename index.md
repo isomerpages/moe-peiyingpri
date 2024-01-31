@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/Main Page/WebsiteBanner5_5.gif
       key_highlights:
-        - title: Voices of Peiying
-          description: "*Leadership Role Application*"
-          url: https://go.gov.sg/voicesofpeiying
+        - title: MOE SEXUALITY EDUCATION
+          description: Click here for more info
+          url: /departments/cce/sex-edu/
         - title: Keeping in Touch
           description: Click here for more info
           url: /partners/keeping-in-touch-newsletters/
