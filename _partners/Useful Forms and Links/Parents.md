@@ -14,14 +14,14 @@ variant: tiptap
 <p>Primary 5 and 6 <a href="/files/Useful Forms and Links/P5P6_Parents__Briefing_2024_2Feb___parents_copy.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to Download</a>
 </p>
 <h4>2024 Book and Uniform List</h4>
-<p>Primary 1 Booklist Click <a href="/files/Useful%20Forms%20and%20Links/Primary_1_booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a>
-<br>Primary 2 Booklist Click <a href="/files/Useful%20Forms%20and%20Links/Primary_2_booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a>
-<br>Primary 3 Booklist Click <a href="/files/Useful%20Forms%20and%20Links/Primary_3_booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a>
-<br>Primary 4 Booklist Click <a href="/files/Useful%20Forms%20and%20Links/Primary_4_booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a>
-<br>Primary 5 Booklist Click <a href="/files/Useful%20Forms%20and%20Links/Primary_5_booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a>
-<br>Primary 5 Foundation Booklist Click <a href="/files/Useful%20Forms%20and%20Links/Primary_5_Foundation_booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a>
-<br>Primary 6 Booklist Click <a href="/files/Useful%20Forms%20and%20Links/Primary_6_booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a>
-<br>Primary 6 Foundation Booklist Click <a href="/files/Useful%20Forms%20and%20Links/Primary_6_Foundation_booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a>
+<p>Primary 1 Booklist Click <a href="/files/Useful%20Forms%20and%20Links/Primary_1_booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a> 
+<br>Primary 2 Booklist Click <a href="/files/Useful%20Forms%20and%20Links/Primary_2_booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a> 
+<br>Primary 3 Booklist Click <a href="/files/Useful%20Forms%20and%20Links/Primary_3_booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a> 
+<br>Primary 4 Booklist Click <a href="/files/Useful%20Forms%20and%20Links/Primary_4_booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a> 
+<br>Primary 5 Booklist Click <a href="/files/Useful%20Forms%20and%20Links/Primary_5_booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a> 
+<br>Primary 5 Foundation Booklist Click <a href="/files/Useful%20Forms%20and%20Links/Primary_5_Foundation_booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a> 
+<br>Primary 6 Booklist Click <a href="/files/Useful%20Forms%20and%20Links/Primary_6_booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a> 
+<br>Primary 6 Foundation Booklist Click <a href="/files/Useful%20Forms%20and%20Links/Primary_6_Foundation_booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a> 
 <br>
 <br>Sowell Uniform List Click <a href="/files/Useful%20Forms%20and%20Links/SOWELL_UNIFORM.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a>
 </p>
@@ -32,7 +32,7 @@ variant: tiptap
 <ul>
 <li>
 <p>Edusave Character Award
-<br>- <a href="/files/Useful%20Forms%20and%20Links/ECHA%20%202020.pdf" rel="noopener noreferrer nofollow" target="_blank">Information</a>
+<br>- <a href="/files/Useful%20Forms%20and%20Links/ECHA%20%202020.pdf" rel="noopener noreferrer nofollow" target="_blank">Information</a> 
 <br>- <a href="/files/Useful%20Forms%20and%20Links/ECHA_Nomination%20Forms%202020%20(Parents).pdf" rel="noopener noreferrer nofollow" target="_blank">Nomination Form</a>
 </p>
 </li>
@@ -61,7 +61,7 @@ variant: tiptap
 news, school features and tips.</p>
 </li>
 <li>
-<p><a href="https://www.moe.gov.sg/education-in-sg/educational-technology-journey/edtech-plan" rel="noopener noreferrer nofollow" target="_blank">Educational Technology (EdTech) Plan</a>
+<p><a href="https://www.moe.gov.sg/education-in-sg/educational-technology-journey/edtech-plan" rel="noopener noreferrer nofollow" target="_blank">Educational Technology (EdTech) Plan</a> 
 <br>A list of guides &amp; tips, resources and useful links to help you to
 reinforce Cyber Wellness education at home.</p>
 </li>
