@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/Main Page/WebsiteBanner5_5.gif
       key_highlights:
-        - title: Parent Briefing Slides
+        - title: Parents' Briefing Slides
           description: Click here for more info
           url: /partners/useful-forms-and-links/parents/
         - title: Keeping in Touch
