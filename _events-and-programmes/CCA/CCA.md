@@ -28,21 +28,21 @@ part in one CCA from the following four CCA categories:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Sports and Games</strong>
+<p><strong>Sports and Games</strong> 
 <br>Netball, Outdoor Education, Rope Skipping, Sepak Takraw, Volleyball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Performing Arts</strong>
+<p><strong>Performing Arts</strong> 
 <br>Ensemble Angklung, Choir, International Dance</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Uniformed Groups</strong>
+<p><strong>Uniformed Groups</strong> 
 <br>Brownies, Red Cross</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Clubs and Societies</strong>
+<p><strong>Clubs and Societies</strong> 
 <br>Visual Arts, Infocomm Club, Library Club, Photography Club, Physical Science
 Club</p>
 </td>
