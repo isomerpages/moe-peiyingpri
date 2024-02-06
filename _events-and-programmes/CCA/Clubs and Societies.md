@@ -54,7 +54,7 @@ learners who are equipped with 21st&nbsp;CC skills in technology.</p>
 </div>
 <p>Teachers-in-charge: Mr James Clifton, Ms Shih Xiu Rong, Mr Yong Lih Tze
 and Mrs Esther Lee</p>
-<h4><strong>Library Council</strong></h4>
+<h4>Library Club</h4>
 <div class="isomer-image-wrapper">
 <img style="width:35%;margin-right:15px;" height="auto" width="100%" src="/images/library%20council%201.png">
 </div>
@@ -75,9 +75,8 @@ which is held on the 1st&nbsp;Monday of the month. They assist the students
 in selecting the books and guiding them to the borrowing counter. Our student
 librarians take pride in being the ambassadors of reading and encourage
 other students to develop the reading habit in them.</p>
-<p>Teachers-in-charge: Mrs Mala Bala, Mdm Ng Kang Ping and Mrs Gayathri Madhan,
-Mrs Jennifer Fan and Mrs Linda Prem</p>
-<h4><strong>Physical Science Club</strong></h4>
+<p>Teachers-in-charge: Mrs Mala Bala, Mdm Ng Kang Ping and Mrs Jennifer Fan</p>
+<h4>Physical Science Club</h4>
 <div class="isomer-image-wrapper">
 <img style="width:25%;margin-right:15px;" height="auto" width="100%" src="/images/sci%20club%201.png">
 </div>
@@ -99,4 +98,5 @@ propagation project, they will learn how to take care of the plants. They
 also learn that plants can be propagated by various methods. Members of
 the Physical Science Club find that the activities are meaningful and fun.
 They look forward to attending the weekly sessions.</p>
-<p>Teachers-in-charge: Mrs June Lau and Mrs Theresa Teo</p>
+<p>Teachers-in-charge: Mrs June Lau, Mrs Theresa Teo, Ms Tan Ai Lin and Mdm
+Roslindah</p>
