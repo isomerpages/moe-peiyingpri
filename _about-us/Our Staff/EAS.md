@@ -3,22 +3,173 @@ title: EAS
 permalink: /about-us/our-staff/eas/
 description: ""
 third_nav_title: Our Staff
+variant: tiptap
 ---
-### **EAS**
-
-| Area | Staff | Email Address |
-|:---:|:---:|:---:|
-| Operation Manager |  Mr Seow Teck Lam | [seow_teck_lam@schools.gov.sg](mailto:seow_teck_lam@schools.gov.sg)  |
-|  Operation Manager | Mr Tan Khiam Kng |[Tan_Khiam_Kng@schools.gov.sg](mailto:Tan_Khiam_Kng@schools.gov.sg)  |
-|  Administration Manager |  Mdm Lee Hui Chern | [lee_hui_chern@schools.gov.sg](mailto:lee_hui_chern@schools.gov.sg) |
-|  Administrative Executive |  Mr Wang Chuan Soon |  [wang_chuan_soon@schools.gov.sg](mailto:wang_chuan_soon@schools.gov.sg) |
-| Administrative Executive  |  Mr Sharvin | [r_sharvin_ganesh@schools.gov.sg](mailto:r_sharvin_ganesh@schools.gov.sg)  |
-| ICT Associate  | Ms Noormalah  | [noormalah_rabu@schools.gov.sg](mailto:noormalah_rabu@schools.gov.sg)  |
-|  MSO |  Mdm Latipah | [latipah_binti_abu_bakar@schools.gov.sg](mailto:latipah_binti_abu_bakar@schools.gov.sg)  |
-| CSO  |  Ms Tan Ee Lian Charlene | [tan_ee_lian_charlene@schools.gov.sg](mailto:tan_ee_lian_charlene@schools.gov.sg)  |
-| OSO |  Mdm P Sumathi |  - |
-| OSO |  Mr Mohan |  - |
-| OSO | Mdm Yeo Yuat Suan |  - |
-| OSO  | Mr Ricky Koh  |  - |
-| OSO  | Mdm Yong Yuet Peng  |  - |
-|
+<h3><strong>EAS</strong></h3>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Area</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Staff</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email Address</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operation Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Seow Teck Lam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:seow_teck_lam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">seow_teck_lam@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operation Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Khiam Kng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Tan_Khiam_Kng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Khiam_Kng@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lee Hui Chern</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_hui_chern@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_hui_chern@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Administrative Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Wang Chuan Soon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wang_chuan_soon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wang_chuan_soon@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Administrative Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Sharvin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:r_sharvin_ganesh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">r_sharvin_ganesh@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ICT Associate</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Noormalah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:noormalah_rabu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">noormalah_rabu@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MSO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Latipah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:latipah_binti_abu_bakar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">latipah_binti_abu_bakar@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CSO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Ee Lian Charlene</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_ee_lian_charlene@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_ee_lian_charlene@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>OSO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm P Sumathi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>OSO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Yeo Yuat Suan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>OSO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ricky Koh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>OSO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Yong Yuet Peng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
