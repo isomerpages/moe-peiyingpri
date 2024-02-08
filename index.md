@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Main Page/banner2024_3_8.gif
+      background: /images/Main Page/WebsiteBanner5_1.gif
       key_highlights:
         - title: Parents' Briefing Slides
           description: Click here for more info
