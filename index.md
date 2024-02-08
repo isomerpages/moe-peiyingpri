@@ -12,9 +12,9 @@ sections:
         - title: Parents' Briefing Slides
           description: Click here for more info
           url: /partners/useful-forms-and-links/parents/
-        - title: Keeping in Touch
+        - title: Inspiring Language Teachers Award 2024
           description: Click here for more info
-          url: /partners/keeping-in-touch-newsletters/
+          url: /ilta2024/
         - title: Facebook
           description: Peiying Primary Facebook Page
           url: https://www.facebook.com/peiyingpri
