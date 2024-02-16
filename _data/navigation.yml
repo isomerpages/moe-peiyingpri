@@ -5,8 +5,8 @@ links:
   - title: Departments
     url: /departments/
     sublinks:
-      - title: Departments
-        url: /departments/
+      - title: Level Programmes
+        url: /departments/level-programmes/
       - title: English Language
         url: /departments/english/
       - title: Mathematics

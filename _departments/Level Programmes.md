@@ -1,7 +1,8 @@
 ---
 title: Level Programmes
-permalink: /partners/level-programmes/
+permalink: /departments/level-programmes/
 description: ""
+variant: tiptap
 ---
 ### **Level Programmes**
 
