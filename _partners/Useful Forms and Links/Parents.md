@@ -6,6 +6,9 @@ third_nav_title: Useful Forms and Links
 variant: tiptap
 ---
 <h3><strong>Parents</strong></h3>
+<h4>P1 and P2 HBL</h4>
+<p><a href="/files/HBL_P1_P2.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to download</a>
+</p>
 <h4>Briefing Slides for Parents</h4>
 <p>Primary 1 and 2 <a href="/files/Useful Forms and Links/P1_and_P2_Parents__Briefing_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to Download</a>
 </p>
