@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/Main Page/WebsiteBanner2024_5_2.gif
       key_highlights:
-        - title: Parents' Briefing Slides
+        - title: P1 and P2 HBL
           description: Click here for more info
           url: /partners/useful-forms-and-links/parents/
         - title: Inspiring Language Teachers Award 2024
