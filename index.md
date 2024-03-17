@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Term 1 Pride Star
           description: Click here for more info
-          url: https://go.gov.sg/voicesofpeiying
+          url: https://go.gov.sg/voicesofpeiying-pridestars
         - title: Safety & Discipline in/near Canteen
           description: Click here for more info
           url: https://go.gov.sg/voicesofpeiying
