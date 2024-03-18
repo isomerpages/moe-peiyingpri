@@ -9,12 +9,12 @@ sections:
   - hero:
       background: /images/Main Page/WebsiteBanner2024_5_2.gif
       key_highlights:
-        - title: P1 and P2 HBL
+        - title: Term 1 Pride Star
           description: Click here for more info
-          url: /partners/useful-forms-and-links/parents/
-        - title: Inspiring Language Teachers Award 2024
+          url: https://go.gov.sg/voicesofpeiying-pridestars
+        - title: Safety & Discipline in/near Canteen
           description: Click here for more info
-          url: /ilta2024/
+          url: https://go.gov.sg/voicesofpeiying
         - title: Facebook
           description: Peiying Primary Facebook Page
           url: https://www.facebook.com/peiyingpri
