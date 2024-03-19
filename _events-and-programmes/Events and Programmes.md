@@ -16,7 +16,9 @@ included Wushu and Dance performances by our very own Peiying talents!</p>
 the Dragon and Lion Dance troupes. Students were exhilarated to see them
 in our school hall!</p>
 <p>Here’s wishing everyone a joyous and smooth Dragon year ahead!</p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQDnLzskKsWqYwm6ZWnN8jQjCjaF7QG09otIlgYUHznYkLjVYlsP7CWTl3vnVSIaU4wD5YbJazs9Ufe/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <h4>Cyber-wellness Week</h4>
 <p>The Student Management Department orchestrated a dynamic Cyber Wellness
 Week from 5 February to 8 February, bursting with engaging activities.
