@@ -5,10 +5,23 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
-<h4>First Day of School</h4>
+<h4>Cyber-wellness Week</h4>
+<p>The Student Management Department orchestrated a dynamic Cyber Wellness
+Week from 5 February to 8 February, bursting with engaging activities.
+This year's theme is on fostering responsible digital habits and managing
+screen time. With a spotlight on the detrimental effects of excessive screen
+exposure on mental and physical well-being, particularly among our youth,
+the event aimed to ignite awareness and spark action for Cyber Wellness.</p>
+<p>From captivating assembly talks to vibrant Cyber Wellness information
+board displays stationed in the library, students were immersed in an interactive
+journey to learn about Cyber Wellness. Quizzes challenged their knowledge,
+while reflective sessions prompted deep introspection.</p>
+<p>The ultimate goal? To empower our students to navigate the digital landscape
+with confidence and discernment, making choices that prioritise their well-being.</p>
 <div class="iframe-wrapper">
-<iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRWdoIrR9_HxDwO-YC5SPvZ2216PJko8H-frYAJiBoToYrfW4SSHaZfQmUJciNB-oMKvPCb9U_HFORm/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRgt1oUdeus0h2Sc2c12y6N1VWylC0iaky2aXe0K7syT-jRKEkbBJZ3PAQDA9ywA9xR3e8gpWF5DNmq/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
+<h4>First Day of School</h4>
 <p>Embarking on a new journey with excitement and smiles! Our P1 students
 kicked off their first day at school with a mix of emotions. Waving goodbyes
 to their parents at the school hall, they walked to their classrooms under
@@ -22,6 +35,9 @@ signaled the end of the day. Our P1 students looked forward to reuniting
 with their families, with some anticipating their very first school bus
 ride or immersing themselves in the student care experience. Wishing all
 our P1 students the best on this exciting journey ahead!</p>
+<div class="iframe-wrapper">
+<iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRWdoIrR9_HxDwO-YC5SPvZ2216PJko8H-frYAJiBoToYrfW4SSHaZfQmUJciNB-oMKvPCb9U_HFORm/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <h4>P1 Orientation</h4>
 <p>On 10 November 2023, our school organised an orientation to welcome our
 2024 Primary 1 students and for them and their parents to learn more about
