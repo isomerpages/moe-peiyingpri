@@ -5,6 +5,30 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
+<h4>Track and Field Meet</h4>
+<p>The vibrant atmosphere of excitement filled the air as students, teachers,
+and parents gathered at Yishun Stadium for our Annual Track and Field Meet
+on 1st March 2024.</p>
+<p>The day kicked off with a march pass, as each house team proudly marched
+onto the track, donning their distinct house colours. Cheers and chants
+echoed across the stadium, igniting a sense of camaraderie and sportsmanship
+among the participants.</p>
+<p>The annual Track and Field Meet was a medley of fun-filled events, catering
+to the diverse interests and talents of the students. From traditional
+track and field races like sprints and relays to unconventional games like
+ladder running and long rope skipping. There was something for everyone
+to enjoy. The cheers of encouragement from classmates and teachers echoed
+through the field, uplifting the spirits of the participants and fueling
+their determination to do their best.</p>
+<p>Amidst the fierce competition, it was heartwarming to witness the bonds
+of friendship and support that flourished throughout the day, transcending
+the boundaries of competition.</p>
+<p>As the participants bid farewell to another successful Track and Field
+Meet, they carried with them a sense of pride and accomplishment, knowing
+that they had given their all and made memories that would last a lifetime.</p>
+<div class="iframe-wrapper">
+<iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ530CqR2F6oqB-938AKjBhVMndUwzpdsItrI6xefeF2JqoD42opWT261SU_gP1ik7cSwcl6G_kmnRN/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <h4>Total Defence Day</h4>
 <p>On 15 February 2024, our school observed a significant milestone: the
 40th anniversary of Total Defence in Singapore. It's a day etched in our
