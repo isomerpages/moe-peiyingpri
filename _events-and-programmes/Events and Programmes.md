@@ -232,26 +232,6 @@ about the joy of reading through the activities designed for the students.</p>
 <div class="iframe-wrapper">
 <iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRcVoraJw-GgRZG45o8uRpTwhTyZe5-tKstpJ2aW0-VyFIbrJONw5Nyi22TXnEdyhY-uc0za-JB3bZI/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-<h4>Annual Track and Field Meet</h4>
-<p>We had our Annual Track and Field Meet (P3 to P6) on 7 March 2023 at Yishun
-Stadium. All students had the opportunity to participate in at least one
-relay event competing with other houses in the same level.
-<br>
-<br>The event was met with enthusiasm and excitement from the students as
-they participated in the various track and field events such as 4x100m
-Relay, Baton Relay, Ladder Running Relay, Long Rope Skipping Relay and
-Egg Spoon Relay.
-<br>
-<br>The event’s goal was to apply the motor skills learnt in Athletics in
-the PE syllabus to cultivate our PRIDE values as well as to promote our
-school’s vision – Lifelong Learners, Leaders of Character. It also developed
-the camaraderie in students as they compete, cheer on their house mates
-and interact with their peers. We are confident that such sports opportunities
-in school will motivate the students to go on to pursue other sports-related
-endeavors in the future.</p>
-<div class="iframe-wrapper">
-<iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQHN4ZJL4LX5c7ECdBtw7yVJHkeASiykRiTATf9ma4S6i3Q-UBokxb3Rwj8G6LlYlwKgdjGx1z0a3OV/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
 <h4>P5 Camp</h4>
 <p>Our Primary 5 students attended the Outdoor Adventure Camp from 13-15
 February 2023. The 3 days 2 nights camp was held at the MOE Dairy Farm
@@ -269,35 +249,4 @@ long time.</p>
 <div class="iframe-wrapper">
 <iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQEkjzhs7WHb2sgzhQamVKEErTw9ZOPjRbyoxr5H2jZgzoj7ByHUYmMlhZRrbSkHX6wDkE0YJAk45Gy/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-<h4>Chinese New Year Celebration</h4>
-<p>It has been a while since we were able to celebrate Chinese New Year together.
-In the days leading up to the celebrations, our teachers and students worked
-together to decorate the classrooms.</p>
-<p>This year, we were delighted to welcome the year of the Rabbit with a
-face-to-face concert and a Lion Dance performance. Our teachers and students
-were entertained by the lion dance with many students eager to touch the
-lion and interact with the rabbit! They also enjoyed the Wushu performance
-put up by our very own student and the Peiying CNY Mass Dance choregraphed
-by our Mother Tongue Language teachers. We ended the concert with a joyous
-Sing-along session. &nbsp;</p>
-<p>As we hop into the Year of the Rabbit, we would like to take this opportunity
-to wish everyone a Happy and Prosperous Chinese New Year.</p>
-<div class="iframe-wrapper">
-<iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS8217RGUt2jjszWpaemqQXlV0e7buEG6-YgnRIN3lyhHQjpo43c4OcxrWym8qvfWAdHOu81PzGZG_D/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
-<h4>Our P1’s First Day of School</h4>
-<p>It was an exciting day for our P1 students and their parents on their
-first day of school in Peiying Primary! Our P1 students were welcomed by
-teachers as they entered the school feeling excited and anxious at the
-same time. They were engaged in class activities and got to know their
-form and co-form teachers and their new classmates. Parents were invited
-to join their child and bond over food during recess time. Some managed
-to squeeze in some time to explore the school ground together after they
-had finished eating. At around 1 pm, it was time for our P1 students to
-go home. The students waved excitedly when they saw their parents at the
-school gate.</p>
-<div class="iframe-wrapper">
-<iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTkfvmdqVY1xRprj9VavDwqLC3wtrbA3LkhF8wTKIqBfi0eQhgqOwhi6IsM0MBayWPRnegm3i-u7voH/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
-<p></p>
 <p></p>
