@@ -7,8 +7,21 @@ variant: tiptap
 <h3><strong>Events and Programmes</strong></h3>
 <h4>First Day of School</h4>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRWdoIrR9_HxDwO-YC5SPvZ2216PJko8H-frYAJiBoToYrfW4SSHaZfQmUJciNB-oMKvPCb9U_HFORm/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRWdoIrR9_HxDwO-YC5SPvZ2216PJko8H-frYAJiBoToYrfW4SSHaZfQmUJciNB-oMKvPCb9U_HFORm/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
+<p>Embarking on a new journey with excitement and smiles! Our P1 students
+kicked off their first day at school with a mix of emotions. Waving goodbyes
+to their parents at the school hall, they walked to their classrooms under
+the care of their Form Teachers and engaged in fun activities with their
+teachers and friends in the classrooms. The P1 students swiftly embraced
+the primary school experience and settled into the new environment.</p>
+<p>They were happy to have their first recess with their parents and were
+eager to explore the food options in the school canteen. A day brimming
+with smiles and fresh beginnings! Before they knew it, the school bell
+signaled the end of the day. Our P1 students looked forward to reuniting
+with their families, with some anticipating their very first school bus
+ride or immersing themselves in the student care experience. Wishing all
+our P1 students the best on this exciting journey ahead!</p>
 <h4>P1 Orientation</h4>
 <p>On 10 November 2023, our school organised an orientation to welcome our
 2024 Primary 1 students and for them and their parents to learn more about
