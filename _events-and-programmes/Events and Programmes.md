@@ -5,6 +5,18 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
+<h4>Chinese New Year Celebration</h4>
+<p>Peiying welcomed the Year of the Dragon with a blast this year with an
+exciting lineup of Chinese New Year activities for the students.</p>
+<p>Students were engaged in interesting classroom activities at the start
+of the day. The mass dance involvement by the whole school also added much
+vibrancy to the occasion. Another highlight for this year’s CNY celebrations
+included Wushu and Dance performances by our very own Peiying talents!</p>
+<p>We ended the school celebrations on a high note, with the arrival of both
+the Dragon and Lion Dance troupes. Students were exhilarated to see them
+in our school hall!</p>
+<p>Here’s wishing everyone a joyous and smooth Dragon year ahead!</p>
+<p></p>
 <h4>Cyber-wellness Week</h4>
 <p>The Student Management Department orchestrated a dynamic Cyber Wellness
 Week from 5 February to 8 February, bursting with engaging activities.
