@@ -5,6 +5,28 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
+<h4>Total Defence Day</h4>
+<p>On 15 February 2024, our school observed a significant milestone: the
+40th anniversary of Total Defence in Singapore. It's a day etched in our
+hearts, reminding us of the resilience of our nation during challenging
+times when Singapore fell to the Japanese in 1942 during World War II.</p>
+<p>As part of the commemoration, both students and staff immersed themselves
+in an energy disruption simulation. Imagine the hum of electricity fading
+away as the clocks struck 8.00 am, plunging our school into temporary darkness
+until 9.00 am. It was a tangible reminder of our vulnerability, given Singapore's
+dependence on fuel imports and the potential disruptions it could entail.</p>
+<p>Through this exercise, we aimed to equip our students with the readiness
+to face such disruptions, where we would need to prioritise the allocation
+of electricity for critical sectors. It was a glimpse into a possible future
+where households, including our schools, might have to adapt to such challenges.</p>
+<p>After the simulation, our students engaged in reflective discussions,
+sharing their emotions and insights with their peers. It's not just about
+experiencing the simulation; it's about fostering a sense of solidarity
+and resilience within our school community, echoing the spirit of Total
+Defence that has sustained our nation for four decades.</p>
+<div class="iframe-wrapper">
+<iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRktdhpzZizqZ2tbLhIUWy54mD5cyElnd57TCLOn1R7jrg0C-JuxH9nxzHglZ1qhh0pY8ul3KrNXIME/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <h4>Chinese New Year Celebration</h4>
 <p>Peiying welcomed the Year of the Dragon with a blast this year with an
 exciting lineup of Chinese New Year activities for the students.</p>
