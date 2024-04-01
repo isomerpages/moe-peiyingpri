@@ -5,6 +5,18 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
+<h4>Key Student Leaders’ Investiture</h4>
+<p>To recognise and affirm our student leaders of their commitment towards
+serving the school community, the school held its annual Key Student Leaders’
+Investiture for our Primary 3 to 6 Prefects and Junior Sports Leaders (JSLs)
+on Thursday, 7 March 2024, during assembly.</p>
+<p>Our student leaders play a vital role in our school community and have
+shown exemplary dedication in serving and supporting their peers, making
+a positive difference in our school. Let us continue to support and encourage
+these young leaders as they continue to lead by example and model the way!</p>
+<div class="iframe-wrapper">
+<iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSIzxxNmrduqIGsnVkosg1lt-xaPeIkX2Lq9NDdeCGZ0L_jWnPKkOtfZFuvb6PX5LVj7E8k4ZBB_X4f/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <h4>Track and Field Meet</h4>
 <p>The vibrant atmosphere of excitement filled the air as students, teachers,
 and parents gathered at Yishun Stadium for our Annual Track and Field Meet
