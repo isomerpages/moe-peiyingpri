@@ -106,7 +106,7 @@ Christmas Eve and New Year Eve) &amp; Public Holidays.</p>
 <br>Pte Ltd</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:enquiry@commitlearning.com.sg" rel="noopener noreferrer nofollow" target="_blank">enquiry@commitlearning.com.sg</a>
+<p><a href="mailto:enquiry@commitlearning.com.sg" rel="noopener noreferrer nofollow" target="_blank">enquiry@commitlearning.com.sg</a> 
 <br>98366836</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -116,7 +116,7 @@ Christmas Eve and New Year Eve) &amp; Public Holidays.</p>
 </tbody>
 </table>
 <h4><strong>Address</strong></h4>
-<p><strong>Peiying Primary School</strong>
+<p><strong>Peiying Primary School</strong> 
 <br>651 Yishun Ring Road 768687&nbsp;
 <br>&nbsp;&nbsp; &nbsp;&nbsp;
 <br>Phone: 62575684
