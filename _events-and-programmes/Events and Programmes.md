@@ -5,6 +5,36 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
+<h4>English Language Fiesta</h4>
+<p><strong><u>English Language Fiesta</u></strong>
+</p>
+<p>From 28 March to 26 April 2024, the school organised the English Language
+Reading Fiesta to encourage students to read widely and be confident speakers.
+A range of month-long activities was organised for the student. On the
+launch of the English Language Fiesta, both the school staff and students
+were encouraged to dress as their beloved book characters, with the aim
+to enhance the joy of reading while nurturing creativity, critical thinking,
+and a stronger bond with the stories they cherish. Through the Fiesta activities,
+the school hopes to cultivate a community of engaged learners, sparking
+an enthusiasm for literacy.</p>
+<p><strong><u>P1 Choral Reading Presentation and Read@Peiying</u></strong>
+</p>
+<p>To foster a love for reading and language, this year, our Primary One
+students were given the opportunity to do a choral reading presentation
+to their cohort friends and parents in school. It was a great platform
+to engage our students in reading together while also developing their
+language skills, confidence, and teamwork.</p>
+<p>Parents of our Primary One students were also invited for our Read@Peiying
+event. The English Department, in collaboration with the Mother Tongue
+Department and School Library, provided resources and support for parents
+to read with their child and enjoy story time together in the school. Some
+of our parents were also dressed in their favourite book characters. Everyone
+had a fantastic time reading with their parents!</p>
+<p>We would like to encourage parents to continue reading with your child!
+Spark a love for reading by sharing stories with them regularly.</p>
+<div class="iframe-wrapper">
+<iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTSyhXFGuSWtBge2JUAqxtQj50s6WcaSi4WZtaqtt6BXnP7nEPlk7DgiJvK_v3Jofu_N8tffKGgH0-F/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <h4>Key Student Leaders’ Investiture</h4>
 <p>To recognise and affirm our student leaders of their commitment towards
 serving the school community, the school held its annual Key Student Leaders’
