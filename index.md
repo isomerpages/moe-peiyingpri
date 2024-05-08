@@ -12,9 +12,9 @@ sections:
         - title: Term 2 Pride Star
           description: Click here for more info
           url: https://go.gov.sg/voicesofpeiying-pridestars
-        - title: Safety & Discipline in/near Canteen
+        - title: Catch Me Right
           description: Click here for more info
-          url: https://go.gov.sg/voicesofpeiying
+          url: https://go.gov.sg/voicesofpeiying-catchmeright
         - title: Facebook
           description: Peiying Primary Facebook Page
           url: https://www.facebook.com/peiyingpri
