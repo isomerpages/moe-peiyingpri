@@ -11,10 +11,10 @@ sections:
       key_highlights:
         - title: Term 2 Pride Star & Catch Me Right
           description: Click here for more info
-          url: https://peiyingpri.sg/pride-stars-catch-me-right/
+          url: pride-stars-catch-me-right/
         - title: Termly Check-In
           description: Click here for more info
-          url: https://peiyingpri.sg/2024termlycheckin/
+          url: 2024termlycheckin/
         - title: Facebook
           description: Peiying Primary Facebook Page
           url: https://www.facebook.com/peiyingpri
