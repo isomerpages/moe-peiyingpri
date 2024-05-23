@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Term 2 HBL
           description: Click here for more info
-          url: /2024hbl
+          url: /partners/useful-forms-and-links/parents/
         - title: Termly Check-In
           description: Click here for more info
           url: 2024termlycheckin/
