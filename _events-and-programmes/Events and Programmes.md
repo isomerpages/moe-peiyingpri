@@ -5,6 +5,26 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
+<h4>Hari Raya Celebration</h4>
+<p>Our school celebrated Hari Raya with an array of activities for the students
+to learn the significance of Ramadhan, Hari Raya Puasa as well as the Muslim
+culture and traditions.</p>
+<p>Other than participating in classroom decorations using Ketupat and Hari
+Raya greeting cards, our students also had the opportunity to learn more
+about the Muslim culture and traditions during our assembly programme where
+teachers and students showcased their talents through traditional Malay
+dances and songs.</p>
+<p>Recess activities such as Giant Ketupat Weaving, Giant Ketupat Matching
+and Hari Raya Quizzes were also organised to engage our students in their
+learning! Our dedicated Parent Support Group had provided much support
+and guidance to our students during these recess activities!</p>
+<p>Through these activities, our school hopes to continue to foster a community
+that values perseverance, gratitude, empathy, respect, and togetherness,
+making the fasting month and Hari Raya Puasa not just a significant Islamic
+event but also a vital part of Singapore’s cultural identity.</p>
+<div class="iframe-wrapper">
+<iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSatEFvbNxVRmGl_6sIC-KQTyc9sqGhQMu5770O469tZXjbIuQ-pOd_tNg9_FGORJYboANbHPbFjd-g/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <h4>English Language Fiesta</h4>
 <p><strong><u>English Language Fiesta</u></strong>
 </p>
