@@ -6,7 +6,7 @@ third_nav_title: Useful Forms and Links
 variant: tiptap
 ---
 <h3><strong>Parents</strong></h3>
-<h4>Term 2 HBL </h4>
+<h4>Term 2 HBL</h4>
 <p>23 May 2023: <a href="/files/HBL_23_May.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
 </p>
 <p>24 May 2023: <a href="/files/HBL_24_May.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
