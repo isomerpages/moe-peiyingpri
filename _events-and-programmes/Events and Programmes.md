@@ -11,18 +11,18 @@ VS Plastics". Through a variety of engaging activities, our students learned
 about the harmful impact of plastics, and ways to take active steps towards
 a greener environment.</p>
 <p>Activities:</p>
-<p><u>Educate Yourself: Snakes and Ladders Boardgame</u>
+<p><u>Educate Yourself: Snakes and Ladders Boardgame</u> 
 <br>An interactive and educational board game designed by our teachers to
 raise awareness on environment conservation.</p>
-<p><u>No more plastic: Reject Single Use Plastic Challenge</u>
+<p><u>No more plastic: Reject Single Use Plastic Challenge</u> 
 <br>A hands-on challenge where students commit to avoiding single-use plastics
 for a day. This activity promotes critical thinking as students identify
 alternatives to common plastic items and explore sustainable practices.</p>
-<p><u>Act for a Greener Environment: Poster Design</u>
+<p><u>Act for a Greener Environment: Poster Design</u> 
 <br>Students channeled their creativity to design posters for reducing plastic
 use and protecting our planet. This activity aims to spread powerful, student-created
 messages about the importance of environmental stewardship.</p>
-<p><u>Act for a Greener Environment: Upcycling</u>
+<p><u>Act for a Greener Environment: Upcycling</u> 
 <br>Students used recyclables and upcycled them into useful or decorative
 items. This activity teaches students on sustainability and innovation,
 showing students how to give new life to discarded materials.</p>
