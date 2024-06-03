@@ -22,7 +22,9 @@ a fun leadership workshop where they honed their problem-solving and decision-ma
 skills, getting ready to tackle challenges and build a growth mindset!
 It was a day filled with excitement and meaningful learning experiences
 for all!</p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ1d1z6MAaWJJspPRIqq1wzRzGZGFrMTJaEyyfAfpr-eVk5Cpn4m0qho0Nrda9L-SeR1Df7ZL8100Xx/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <h3>ALP Day 2024: Invest in our Earth</h3>
 <p>Our students from Primary 1 to Primary 6, focused on the theme "Planet
 VS Plastics". Through a variety of engaging activities, our students learned
@@ -47,7 +49,7 @@ showing students how to give new life to discarded materials.</p>
 <p>Together, we can make a significant impact by investing in our Earth and
 working towards a future, free from plastic pollution.</p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQnmoxUfAaHmz0jjeCK_Bj2MH8XHy3z2o6HPIB4EayfEWmESdYR2KSjRdV3LHukXbKafS0eoCKQ9w_y/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQnmoxUfAaHmz0jjeCK_Bj2MH8XHy3z2o6HPIB4EayfEWmESdYR2KSjRdV3LHukXbKafS0eoCKQ9w_y/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h3>Hari Raya Celebration</h3>
 <p>Our school celebrated Hari Raya with an array of activities for the students
