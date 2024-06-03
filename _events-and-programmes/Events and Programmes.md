@@ -5,7 +5,33 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
-<h4>Hari Raya Celebration</h4>
+<h3>ALP Day 2024: Invest in our Earth</h3>
+<p>Our students from Primary 1 to Primary 6, focused on the theme "Planet
+VS Plastics". Through a variety of engaging activities, our students learned
+about the harmful impact of plastics, and ways to take active steps towards
+a greener environment.</p>
+<p>Activities:</p>
+<p><u>Educate Yourself: Snakes and Ladders Boardgame</u> 
+<br>An interactive and educational board game designed by our teachers to
+raise awareness on environment conservation.</p>
+<p><u>No more plastic: Reject Single Use Plastic Challenge</u> 
+<br>A hands-on challenge where students commit to avoiding single-use plastics
+for a day. This activity promotes critical thinking as students identify
+alternatives to common plastic items and explore sustainable practices.</p>
+<p><u>Act for a Greener Environment: Poster Design</u> 
+<br>Students channeled their creativity to design posters for reducing plastic
+use and protecting our planet. This activity aims to spread powerful, student-created
+messages about the importance of environmental stewardship.</p>
+<p><u>Act for a Greener Environment: Upcycling</u> 
+<br>Students used recyclables and upcycled them into useful or decorative
+items. This activity teaches students on sustainability and innovation,
+showing students how to give new life to discarded materials.</p>
+<p>Together, we can make a significant impact by investing in our Earth and
+working towards a future, free from plastic pollution.</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQnmoxUfAaHmz0jjeCK_Bj2MH8XHy3z2o6HPIB4EayfEWmESdYR2KSjRdV3LHukXbKafS0eoCKQ9w_y/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<h3>Hari Raya Celebration</h3>
 <p>Our school celebrated Hari Raya with an array of activities for the students
 to learn the significance of Ramadhan, Hari Raya Puasa as well as the Muslim
 culture and traditions.</p>
