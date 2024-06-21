@@ -2,8 +2,25 @@
 title: Our Achievements
 permalink: /about-us/our-achievements/
 description: ""
+variant: markdown
 ---
 ### **Our Achievements**
+
+#### **2024**
+**Anglung Ensemble**<br>
+SYF Certificate of Distinction
+![](/images/Angklung_1.jpg)
+
+**Choir**<br>
+SYF Certificate of Accomplishment
+![](/images/Choir_2.jpg)
+
+
+**International Dance**<br>
+SYF Certificate of Distinction
+
+![](/images/Dance_3.jpg)
+
 #### **2023**
 **Junior Sepak Takraw Team 2**<br>
 National Junior Division Championships - 3rd
