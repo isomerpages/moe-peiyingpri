@@ -5,6 +5,26 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
+<h3>P.L.A.Y Day 1</h3>
+<p>On Friday, 26 April 2024, our students enjoyed the Peiying Learn and Play
+(P.L.A.Y) Day. It was a special day designed to extend learning beyond
+academic subjects and the classroom.</p>
+<p>Our P1 and P2 students braved the heat and had a fantastic time outdoor.
+P1 students were excited to see the animals at the Singapore Zoological
+Gardens, while P2 students delighted in learning the names of various plants
+at Gardens by the Bay.</p>
+<p>For P3 to P6 students, engaging activities took place at school. P3 students
+participated in the Code for Fun programme, enhancing their digital literacy
+and computational thinking by using block programming to create their own
+games. P4 and P5 students planned their Values-in-Action projects through
+a series of interactive activities, while our P6 students took part in
+a fun leadership workshop where they honed their problem-solving and decision-making
+skills, getting ready to tackle challenges and build a growth mindset!
+It was a day filled with excitement and meaningful learning experiences
+for all!</p>
+<div class="iframe-wrapper">
+<iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ1d1z6MAaWJJspPRIqq1wzRzGZGFrMTJaEyyfAfpr-eVk5Cpn4m0qho0Nrda9L-SeR1Df7ZL8100Xx/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <h3>ALP Day 2024: Invest in our Earth</h3>
 <p>Our students from Primary 1 to Primary 6, focused on the theme "Planet
 VS Plastics". Through a variety of engaging activities, our students learned
@@ -29,7 +49,7 @@ showing students how to give new life to discarded materials.</p>
 <p>Together, we can make a significant impact by investing in our Earth and
 working towards a future, free from plastic pollution.</p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQnmoxUfAaHmz0jjeCK_Bj2MH8XHy3z2o6HPIB4EayfEWmESdYR2KSjRdV3LHukXbKafS0eoCKQ9w_y/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQnmoxUfAaHmz0jjeCK_Bj2MH8XHy3z2o6HPIB4EayfEWmESdYR2KSjRdV3LHukXbKafS0eoCKQ9w_y/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h3>Hari Raya Celebration</h3>
 <p>Our school celebrated Hari Raya with an array of activities for the students
