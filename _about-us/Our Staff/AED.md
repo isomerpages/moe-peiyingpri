@@ -3,16 +3,101 @@ title: AED
 permalink: /about-us/our-staff/aed/
 description: ""
 third_nav_title: Our Staff
+variant: tiptap
 ---
-### **AED**
-_Please allow teachers up to 3 days to reply to your email queries._   
-_For urgent matters, please contact the teacher through the General Office at 62575684._
-
-| Area | AED  | Email Address |
-|:---:|:---:|:---:|
-| Counselling |  Ms Phua Siew Keng | [phua_siew_keng_a@schools.gov.sg](mailto:phua_siew_keng_a@schools.gov.sg) |
-|  Student Welfare Officer | Mr Jonathan Fong  | [Fong_Yu_Min_Jonathan@schools.gov.sg](mailto:Fong_Yu_Min_Jonathan@schools.gov.sg)  |
-| Learning and Behavioural Support |  Mrs Michelle Lau | [michelle_lim_teng_ting@schools.gov.sg](mailto:michelle_lim_teng_ting@schools.gov.sg) |
-| Teaching and Learning  |  Ms Leanna Low |  [low_lay_lay@schools.gov.sg](mailto:low_lay_lay@schools.gov.sg) |
-| Learning and Behavioural Support | Mrs Joice Sia   |  [joice_chan_shu_wan@schools.gov.sg](mailto:joice_chan_shu_wan@schools.gov.sg) |
-| 
+<h3><strong>AED</strong></h3>
+<p><em>Please allow teachers up to 3 days to reply to your email queries.</em>&nbsp;
+<br><em>For urgent matters, please contact the teacher through the General Office at 62575684.</em>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Area</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>AED</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email Address</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Phua Siew Keng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:phua_siew_keng_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">phua_siew_keng_a@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Student Welfare Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Jonathan Fong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Fong_Yu_Min_Jonathan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Fong_Yu_Min_Jonathan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Learning and Behavioural Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Joice Sia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:joice_chan_shu_wan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">joice_chan_shu_wan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Learning and Behavioural Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Michelle Lau</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:michelle_lim_teng_ting@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">michelle_lim_teng_ting@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teaching and Learning Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Leanna Low</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:low_lay_lay@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_lay_lay@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
