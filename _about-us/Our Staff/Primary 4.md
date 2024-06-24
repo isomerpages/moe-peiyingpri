@@ -38,11 +38,6 @@ variant: tiptap
 <p>4 Perseverance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Koo Yingjia</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">koo_yingjia@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Brenda Tan</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">brenda_tan_yan_ni@schools.gov.sg</a>
 </p>
@@ -51,6 +46,9 @@ variant: tiptap
 <p>Mdm Nur Hidayah</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">nur_hidayah_abdul_rahman@schools.gov.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -63,14 +61,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Rahilah Rahmat</p>
-<p><a href="mailto:rahilah_rahmat_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rahilah_rahmat_a@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mrs Jennifer Fan</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">fan_lee_bee_yen@schools.gov.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -96,14 +92,12 @@ variant: tiptap
 <p>4 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng Yuet Ling</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">ng_yuet_ling@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Alahappan s/o Meyyappan</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">alahappan_meyyappan@schools.gov.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Farhana Bte Moinodeen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
