@@ -79,12 +79,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Nurhafeza Hanem</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">nurhafeza_hanem_abdul_azal@schools.gov.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
