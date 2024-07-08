@@ -6,11 +6,6 @@ third_nav_title: Useful Forms and Links
 variant: tiptap
 ---
 <h3><strong>Parents</strong></h3>
-<h4>Term 2 HBL</h4>
-<p>23 May 2024: <a href="/files/HBL_23_May.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
-</p>
-<p>24 May 2024: <a href="/files/HBL_24_May.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
-</p>
 <h4>Briefing Slides for Parents</h4>
 <p>Primary 1 and 2 <a href="/files/Useful Forms and Links/P1_and_P2_Parents__Briefing_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to Download</a>
 </p>
@@ -56,6 +51,50 @@ variant: tiptap
 <li>
 <p><a href="/files/Useful%20Forms%20and%20Links/travel%20declaration%20p2-p6.pdf" rel="noopener noreferrer nofollow" target="_blank">Travel Declaration Form for Primary 2 to 6</a>
 </p>
+</li>
+<li>
+<p>Leave of Absence (LOA)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The LOA scheme allows your child to rejoin our school after they return
+from overseas. If your child is granted LOA, they will remain as a registered
+student of the school. They can then be readmitted to the school directly
+after returning to Singapore.</p>
+</li>
+<li>
+<p>To be granted LOA, your child must fulfil all the following criteria:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>An SC or PR.</p>
+</li>
+<li>
+<p>Presently studying in an MOE school.</p>
+</li>
+<li>
+<p>Accompanying you on an overseas posting with the intention of rejoining
+their school after returning to Singapore.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>School will charge a nominal fee for a child on LOA. Upon successful application,
+the school will advise on the payment procedure for the LOA fee.</p>
+</li>
+<li>
+<p>You may wish to know that the LOA is renewable annually. By November each
+year, you will need to decide whether to renew the LOA for another year.
+Your child’s LOA status will expire if you choose not to renew.</p>
+</li>
+<li>
+<p>For more information, please visit <a href="https://www.moe.gov.sg/returning-singaporeans/loa-scheme" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/returning-singaporeans/loa-scheme</a>
+</p>
+</li>
+<li>
+<p>To apply for LOA, please email the school at <a href="mailto:peiying_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peiying_ps@moe.edu.sg</a> for the application
+form.</p>
+</li>
+</ul>
+<p></p>
 </li>
 </ul>
 <h4>Links</h4>
