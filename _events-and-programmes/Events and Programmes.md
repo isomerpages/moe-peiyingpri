@@ -5,6 +5,25 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
+<h3>P3 Kompang Performance</h3>
+<p>Our primary 3 students embarked on an enriching journey of cultural exploration
+by learning and performing with the kompang, a traditional Malay percussion
+instrument. The rhythmic beats and lively sounds of the kompang introduced
+the students to the rich musical heritage of the Malay culture, enhancing
+their musical skills and appreciation for diverse cultural traditions.</p>
+<p>Through rehearsals, students developed confidence, teamwork, and a sense
+of pride in their abilities. Each rehearsal required attentive listening,
+precise synchronization, and mutual support, which significantly improved
+their coordination. The spirited performances provided an opportunity for
+students to showcase their newfound talents to their peers and teachers.</p>
+<p>Incorporating the vibrant sounds of the kompang into their educational
+experience, our Primary 3 students not only enriched their musical abilities
+but also embraced the beauty and diversity of cultural traditions. This
+experience helped them cultivate a broader understanding and appreciation
+of the world around them.</p>
+<div class="iframe-wrapper">
+<iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQqTciO0ALdEh8HckqNw_U1JiLJtWH23rHAmVi1SBs7nWK70pvqhVnvy1iQzNwylH0ppZajURz4vl--/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <h3>P.L.A.Y Day 1</h3>
 <p>On Friday, 26 April 2024, our students enjoyed the Peiying Learn and Play
 (P.L.A.Y) Day. It was a special day designed to extend learning beyond
