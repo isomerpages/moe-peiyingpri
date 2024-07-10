@@ -5,6 +5,30 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
+<h3>International Friendship Day (IFD)</h3>
+<p>International Friendship Day (IFD) is commemorated on 18 April 2024. The
+theme for International Friendship Day(IFD) 2024 is “Singapore In Asia”.
+For this year’s IFD Commemoration, the Character and Citizenship Education
+(CCE) committee put together an assembly programme and a series of activities
+for both CCE-FTGP lessons as well as recess activities to emphasise the
+importance of our country's role in the region and fostering strong bonds
+with our neighbours.</p>
+<p>Through the assembly programme, we learnt more about countries from ASEAN.
+We learned that we can also play a part by making friends from ASEAN countries
+and learning more about the countries. This year, the focus is on Laos
+PDR who is the ASEAN Chairmanship 2024. Four of our CCE ambassadors shared
+about the culture, language, food and people from Laos with a short skit
+during the assembly programme.</p>
+<p>Recess activities were carried out to complement the learning from the
+assembly programme. Students gained knowledge about the flags from ASEAN
+countries, identified the currencies used by ASEAN countries. Through answering
+quizzes, students were able to reaffirm their understanding of International
+Friendship Day.</p>
+<p>We hope that these learning experiences will reinforce the understanding
+of Singapore's relations with neighbouring countries and beyond.</p>
+<div class="iframe-wrapper">
+<iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTWgKnoGmgMr6a8IX8qoqnqjdgMpzJeT8NjsMWEHzSAvIXlRTNStLRTc2bys-6VQ0FVhvOOVI8w30hq/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <h3>MTL Fortnight Celebration at Peiying Primary School (9 - 21 May 2024)</h3>
 <p>Peiying Primary School celebrated Mother Tongue Language (MTL) Fortnight
 from 9 to 21 May 2024, embracing the theme "Embrace the Joy of Learning
