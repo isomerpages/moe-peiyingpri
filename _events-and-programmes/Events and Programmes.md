@@ -5,6 +5,84 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
+<h3>MTL Fortnight Celebration at Peiying Primary School (9 - 21 May 2024)</h3>
+<p>Peiying Primary School celebrated Mother Tongue Language (MTL) Fortnight
+from 9 to 21 May 2024, embracing the theme "Embrace the Joy of Learning
+Mother Tongue through Arts and Cultures". This event showcased the vibrant
+and diverse cultures of our Mother Tongue languages, encouraging students
+to explore their cultural heritage through dynamic, hands-on activities.</p>
+<p><strong><u>Launch Event</u></strong>
+</p>
+<p>MTL Fortnight was launched with great enthusiasm on 9 May 2024, featuring
+a captivating Masks Changing performance during the school assembly period.
+This event set the stage for a series of engaging activities organized
+by the school for students across different levels.</p>
+<p><strong><u>Objectives and Outcomes</u></strong>
+</p>
+<p>MTL Fortnight aims to help students appreciate their Mother Tongue Languages
+and cultures through interactive activities. By immersing in the cultural
+environment, students cultivated a love for their heritage. They also developed
+21st-century skills and strengthened peer relationships through the activities.
+MTL Fortnight was a great opportunity for students to cherish their cultural
+roots!</p>
+<p><strong><u>Chinese Programs</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Primary 1 and 2: Storytelling on folklore and fables, arts appreciation
+with music and dance, and Dumpling Festival art and craft (贴画).</p>
+</li>
+<li>
+<p>Primary 3 and 4: Cultural appreciation through Kahoot games and an Amazing
+Race themed around "Journey to the West."</p>
+</li>
+<li>
+<p>Primary 4: Pipa Craft Making.</p>
+</li>
+<li>
+<p>Primary 5: Chinese Chess.</p>
+</li>
+<li>
+<p>Primary 6: Romance of the Three Kingdoms Board Game.</p>
+</li>
+</ul>
+<p><strong><u>Tamil Programs</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Primary 1 and 2: Traditional dance and creative clay modelling.</p>
+</li>
+<li>
+<p>Primary 3 and 4: Traditional games and their history through ICT.</p>
+</li>
+<li>
+<p>Primary 5 and 6: Creative reconstruction of traditional games and their
+historical significance.</p>
+</li>
+</ul>
+<p><strong><u>Malay Programs</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Primary 1 and 2: Technique and art of storytelling of Malay folklore/fables
+by NLB.</p>
+</li>
+<li>
+<p>Primary 3: Introduction to Bunga Rampai.</p>
+</li>
+<li>
+<p>Primary 4: Introduction to Kipas Pengantin, the bridal fan.</p>
+</li>
+<li>
+<p>Primary 5: Introduction to Seni Khat, the art of Islamic calligraphy.</p>
+</li>
+<li>
+<p>Primary 6: Introduction to coaster weaving.</p>
+</li>
+</ul>
+<div class="iframe-wrapper">
+<iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRtna8rJmKZsPir1yQpVBoweV5VwPHMRwneXbc1kf3ipbub-IUbLtFgRhaMLelTFdnR1DR7a8osGwfr/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <h3>P3 Kompang Performance</h3>
 <p>Our primary 3 students embarked on an enriching journey of cultural exploration
 by learning and performing with the kompang, a traditional Malay percussion
