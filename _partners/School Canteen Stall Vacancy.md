@@ -76,7 +76,7 @@ email OR to the School’s General Office.</p>
 <p>Email: peiying_ps@moe.edu.sg</p>
 </li>
 <li>
-<p>Contact Person: Mdm Lee Hui Chern/ Mr Seow Teck Lam</p>
+<p>Contact Person: Mdm Lee Hui Chern/ Mr Tan Khiam Kng</p>
 </li>
 </ul>
 <p><strong>Interest applicants must meet the following criteria:</strong>
