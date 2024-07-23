@@ -98,6 +98,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Farhana Bte Moinodeen</p>
+<p><a href="mailto:farhana_moinodeen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">farhana_moinodeen@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
