@@ -132,6 +132,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Thilagam</p>
+<p><a href="mailto:thilagam_ramalingam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">thilagam_ramalingam@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
