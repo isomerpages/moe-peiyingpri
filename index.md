@@ -10,8 +10,8 @@ sections:
       background: /images/Main Page/WebsiteBanner2024_5_2.gif
       key_highlights:
         - title: 29 July 2024 HBL Schedule
-          description: Key Highlight description
-          url: ""
+          description: Click here for more info
+          url: HBL_29_July_2024_Final
         - title: Termly Check-In
           description: Click here for more info
           url: 2024termlycheckin/
