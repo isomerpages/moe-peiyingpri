@@ -6,6 +6,9 @@ third_nav_title: Useful Forms and Links
 variant: tiptap
 ---
 <h3><strong>Parents</strong></h3>
+<h4>HBL Schedule</h4>
+<p>29 July 2024 HBL Schedule <a href="/files/HBL_29_July_2024_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here to Download</a>
+</p>
 <h4>Briefing Slides for Parents</h4>
 <p>Primary 1 and 2 <a href="/files/Useful Forms and Links/P1_and_P2_Parents__Briefing_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to Download</a>
 </p>
