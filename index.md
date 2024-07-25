@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: 29 July 2024 HBL Schedule
           description: Click here for more info
-          url: HBL_29_July_2024_Final
+          url: /partners/useful-forms-and-links/parents/
         - title: Termly Check-In
           description: Click here for more info
           url: 2024termlycheckin/
