@@ -4,7 +4,7 @@ permalink: /pride-stars-catch-me-right/
 variant: tiptap
 description: ""
 ---
-<p>Term 2 Pride Stars - <a href="https://go.gov.sg/voicesofpeiying-pridestars" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/voicesofpeiying-pridestars</a>
+<p>Term 3 Pride Stars - <a href="https://go.gov.sg/voicesofpeiying-pridestars" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/voicesofpeiying-pridestars</a>
 </p>
 <p>Catch Me Right - <a href="https://go.gov.sg/voicesofpeiying-catchmeright" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/voicesofpeiying-catchmeright</a>
 </p>
