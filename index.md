@@ -14,7 +14,7 @@ sections:
           url: /partners/useful-forms-and-links/parents/
         - title: Pride Stars & Catch Me Right
           description: Click here for more info
-          url: 2024termlycheckin/
+          url: /pride-stars-catch-me-right/
         - title: Facebook
           description: Peiying Primary Facebook Page
           url: https://www.facebook.com/peiyingpri
