@@ -12,7 +12,7 @@ sections:
         - title: 29 July 2024 HBL Schedule
           description: Click here for more info
           url: /partners/useful-forms-and-links/parents/
-        - title: Pride Stars & Catch Me Right
+        - title: Pride Stars/Catch Me Right/Teacher's Day EdT
           description: Click here for more info
           url: /pride-stars-catch-me-right/
         - title: Facebook
