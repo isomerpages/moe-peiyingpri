@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/Main Page/WebsiteBanner2024_5_2.gif
       key_highlights:
-        - title: 29 July 2024 HBL Schedule
+        - title: Voices of Peiying (Teacher's Day EdT)
           description: Click here for more info
-          url: /partners/useful-forms-and-links/parents/
+          url: https://go.gov.sg/voicesofpeiying
         - title: Pride Stars & Catch Me Right
           description: Click here for more info
           url: /pride-stars-catch-me-right/
