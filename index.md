@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/Main Page/WebsiteBanner2024_5_2.gif
       key_highlights:
-        - title: 13 & 14 Aug 2024 HBL Schedule
+        - title: Term 4 Pride Stars
           description: Click here for more info
-          url: /partners/useful-forms-and-links/parents/
+          url: https://go.gov.sg/voicesofpeiying-pridestars
         - title: Voices of Peiying (Teacher's Day EdT)
           description: Click here for more info
           url: https://go.gov.sg/voicesofpeiying
