@@ -2,6 +2,7 @@ collections:
   events-and-programmes:
     output: true
     order:
+      - Key Programmes.md
       - Events and Programmes.md
       - CCA/CCA.md
       - CCA/Clubs and Societies.md
