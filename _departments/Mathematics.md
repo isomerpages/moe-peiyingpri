@@ -54,10 +54,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:65%" height="auto" width="100%" src="/images/department%20objectives.jpg">
 </div>
-<p>
-<br>
-<br>
-</p>
 <p>We aim to</p>
 <ul>
 <li>
@@ -76,9 +72,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:40%" height="auto" width="100%" src="/images/programmes.png">
 </div>
-<p>
-<br>
-</p>
 <h5><strong>1. Fun$mart Programme</strong></h5>
 <div class="isomer-image-wrapper">
 <img style="width:25%;margin-right:15px;" height="auto" width="100%" src="/images/math1.jpg">
