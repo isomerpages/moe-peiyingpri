@@ -5,6 +5,30 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
+<h3>Celebrating Racial Harmony Day at Peiying Primary School</h3>
+<p>At Peiying Primary School, Racial Harmony Day is a cherished occasion
+that emphasizes unity and diversity. This year’s celebrations were a testament
+to our vibrant multicultural community.</p>
+<p>Leading up to Racial Harmony Day, our school organized engaging activities
+to promote cultural understanding. A highlight was the recess coloring
+activity, where students explored a multicultural theme through art, supported
+by our dedicated Parents Support Group. This initiative not only encouraged
+creative expression but also deepened students’ appreciation for our diverse
+cultural heritage.</p>
+<p>The assembly program served as the centerpiece of our celebration, featuring
+a thought-provoking address on the importance of racial harmony. Highlighting
+the event was a captivating fashion parade by our teachers and pupils showcasing
+traditional attire from various cultures, symbolizing our collective pride
+in our differences and unity in diversity.</p>
+<p>During recess, students eagerly participated in traditional games from
+different cultures, fostering friendships and cultural exchange.</p>
+<p>Racial Harmony Day at Peiying Primary School was a resounding success,
+uniting our school community through shared experiences that celebrated
+diversity and promoted mutual respect. Moving forward, we remain committed
+to nurturing an inclusive environment where every individual feels valued.</p>
+<div class="iframe-wrapper">
+<iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1-26S6GKX4biulJRuf3qAVoXqOMnhZs5nBvQJ3llykig/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <h3>International Friendship Day (IFD)</h3>
 <p>International Friendship Day (IFD) is commemorated on 18 April 2024. The
 theme for International Friendship Day(IFD) 2024 is “Singapore In Asia”.
