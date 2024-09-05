@@ -5,6 +5,55 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
+<h3>Primary 5 Cohort Camp Experience</h3>
+<p>From 11 to 13 July, our Primary 5 students went on an unforgettable journey
+of learning and fun at the cohort camp. Nestled in lush greenery and offering
+many exciting activities, the camp at MOE Jalan Bahtera Outdoor Adventure
+Learning Centre gave students the chance to step out of their comfort zones,
+build strong bonds with friends, and create lasting memories of their primary
+school life.</p>
+<p><strong><u>Exploring Nature: Sungei Buloh Wetland Reserve</u></strong>
+</p>
+<p>The students went on a hiking trail at Sungei Buloh Wetland Reserve. This
+experience encouraged them to observe closely and appreciate the wetland
+ecosystem in Singapore. Through this hike, the students learned about the
+importance of mangroves and felt a deeper connection with nature.</p>
+<p><strong><u>Building Resilience: High and Low Element Activities</u></strong>
+</p>
+<p>Throughout the camp, the students built resilience by overcoming challenges
+in activities such as abseiling and zip-lining. Descending from the tall
+structures, pupils tested their courage and learned to trust their peers,
+instructors and equipment. These activities taught them resilience and
+the importance of pushing through difficulties.</p>
+<p><strong><u>Perseverance and Grit: Rock Climbing and Challenge Rope Course</u></strong>
+</p>
+<p>During rock climbing and the challenge rope course, the students learned
+about perseverance and grit as they faced their fear of heights. They discovered
+their inner strength and ability to build their physical and mental toughness,
+fostering a positive self-image. The experience also taught them diligence,
+as they had to focus and put in sustained effort to succeed.</p>
+<p><strong><u>Teamwork and Collaboration: Low Rope Elements</u></strong>
+</p>
+<p>Teamwork was evident through collaborative activities and team-building
+games like the low rope elements. Students learned the importance of cooperation,
+communication, and supporting one another. They developed a sense of responsibility
+towards their team and a willingness to contribute their best. Working
+together towards common goals fostered empathy and respect for others,
+with students learning to appreciate different perspectives and value their
+peers' contributions.</p>
+<p><strong><u>Leadership Development: Taking the Lead</u></strong>
+</p>
+<p>The camp gave students many opportunities to step up and take on leadership
+roles. Whether it was motivating their team during problem-solving challenges,
+leading performances during the campfire finale, or simply offering encouragement
+to peers, students showcased their potential in developing leadership skills.
+They learned to be leaders of character – to lead with integrity, demonstrating
+honesty and strong moral principles in their actions.</p>
+<p>The camp was indeed an enriching experience for our Primary 5 students.
+They returned to school with a renewed sense of confidence, resilience,
+and teamwork, ready to apply their newfound skills and school values to
+other aspects of their lives.</p>
+<p></p>
 <h3>Celebrating Racial Harmony Day at Peiying Primary School</h3>
 <p>At Peiying Primary School, Racial Harmony Day is a cherished occasion
 that emphasizes unity and diversity. This year’s celebrations were a testament
