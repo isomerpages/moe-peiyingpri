@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Key Programmes.md
       - Principal's Message.md
       - Core Values, Vision and Mission.md
       - Student Vision Outcomes.md
