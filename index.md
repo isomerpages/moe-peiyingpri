@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/Main Page/WebsiteBanner2024_5_2.gif
       key_highlights:
-        - title: Term 4 Pride Stars
+        - title: Term 4 Check-In
           description: Click here for more info
-          url: https://go.gov.sg/voicesofpeiying-pridestars
+          url: /2024termlycheckin/
         - title: Voices of Peiying (Teacher's Day EdT)
           description: Click here for more info
           url: https://go.gov.sg/voicesofpeiying
