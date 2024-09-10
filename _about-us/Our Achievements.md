@@ -115,7 +115,11 @@ Writing</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>2023</strong></h4>
+<hr>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>2023</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Junior Sepak Takraw Team 2</strong>
 <br>National Junior Division Championships - 3rd
 <br>
@@ -127,7 +131,11 @@ Writing</p>
 <br>
 <br><strong>Brownies</strong>
 <br>Puan Noor Aishah Silver Award for 2022</p>
-<h4><strong>2022</strong></h4>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2022</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Red Cross</strong>
 <br>Excellent Unit Gold Award
 <br>
@@ -136,3 +144,7 @@ Writing</p>
 <br>
 <br><strong>Senior Girls Netball</strong>
 <br>National Senior Division Championships - 4th</p>
+</div>
+</details>
+</div>
+<p></p>
