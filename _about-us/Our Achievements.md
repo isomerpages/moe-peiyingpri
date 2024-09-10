@@ -24,8 +24,7 @@ variant: tiptap
 <p>22nd Elementz Science Competition 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Certificate of</p>
-<p>Commendation</p>
+<p>Certificate of Commendation</p>
 <p>Silver</p>
 </td>
 </tr>
@@ -40,8 +39,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Peraduan Saya Boleh Mengarang 2024</p>
-<p>(National Writing Competition)</p>
+<p>Peraduan Saya Boleh Mengarang 2024 (National Writing Competition)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 Gold (National)</p>
@@ -54,10 +52,8 @@ variant: tiptap
 <p>Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Consolation (Oratorical</p>
-<p>Competition)</p>
-<p>Consolation (Online</p>
-<p>Quiz)</p>
+<p>Consolation (Oratorical Competition)</p>
+<p>Consolation (Online Quiz)</p>
 </td>
 </tr>
 <tr>
@@ -67,8 +63,7 @@ variant: tiptap
 <p>Competition)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Most Promising</p>
-<p>Award</p>
+<p>The Most Promising Award</p>
 </td>
 </tr>
 <tr>
