@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/Main Page/WebsiteBanner2024_5_2.gif
       key_highlights:
-        - title: Term 4 Check-In
+        - title: Term 4 Check-In Survey
           description: Click here for more info
           url: /2024termlycheckin/
         - title: Voices of Peiying (Teacher's Day EdT)
