@@ -48,8 +48,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nee Soon IAEC Tamil Literary</p>
-<p>Competition</p>
+<p>Nee Soon IAEC Tamil Literary Competition</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Consolation (Oratorical Competition)</p>
@@ -58,9 +57,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2024 North Zone Schools Speech</p>
-<p>Competition (Chinese Language</p>
-<p>Competition)</p>
+<p>2024 North Zone Schools Speech Competition (Chinese Language Competition)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The Most Promising Award</p>
