@@ -5,12 +5,35 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Our Achievements</strong></h3>
-<p><strong>25th International Chinese Language Competition (ICLC) 2024 - Creative Writing</strong>
-</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Competition</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement(s)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25th International Chinese Language Competition (ICLC) 2024 - Creative
+Writing</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Singapore Level - Silver</p>
 <p>International Level - Bronze</p>
-<p><strong>National School Games (NSG)</strong>
-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games (NSG)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Rope Skipping (Junior and Senior Division):</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -29,33 +52,69 @@ variant: tiptap
 <p>Junior Girls Double Dutch - 2nd placing</p>
 </li>
 </ul>
-<p><strong>Red Cross CCA</strong>
-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Excellent Unit Gold Award</p>
-<p><strong>Red Cross Youth</strong>
-</p>
-<p>Bronze Award in the First Aid Championship 2024</p>
-<p><strong>Brownies CCA</strong>
-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Red Cross CCA</p>
+<p>Gold Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>First Aid Championship 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Red Cross Youth</p>
+<p>Bronze Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Puan Noor Aishah Gold Award for 2023</p>
-<p><strong>2024 North Zone Schools Speech Competition for Chinese Language</strong>
-</p>
-<p>“The Most Promising Award”</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Brownies CCA</p>
+<p>Gold Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 North Zone Schools Speech Competition for Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Most Promising Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Anglung Ensemble</strong>
-<br>SYF Certificate of Distinction</p>
+<br>Certificate of Distinction</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Angklung_1.jpg">
 </div>
+<p></p>
 <p><strong>Choir</strong>
-<br>SYF Certificate of Accomplishment</p>
+<br>Certificate of Accomplishment</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir_2.jpg">
 </div>
+<p></p>
 <p><strong>International Dance</strong>
-<br>SYF Certificate of Distinction</p>
+<br>Certificate of Distinction</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance_3.jpg">
 </div>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>2023</strong></h4>
 <p><strong>Junior Sepak Takraw Team 2</strong>
 <br>National Junior Division Championships - 3rd
