@@ -21,11 +21,73 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>22nd Elementz Science Competition 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of</p>
+<p>Commendation</p>
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17th Annual Mathlympics 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Peraduan Saya Boleh Mengarang 2024</p>
+<p>(National Writing Competition)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Gold (National)</p>
+<p>2 Bronze (National)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nee Soon IAEC Tamil Literary</p>
+<p>Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Consolation (Oratorical</p>
+<p>Competition)</p>
+<p>Consolation (Online</p>
+<p>Quiz)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 North Zone Schools Speech</p>
+<p>Competition (Chinese Language</p>
+<p>Competition)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Most Promising</p>
+<p>Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10th National Primary School Picture</p>
+<p>Book Creation Competition 2024</p>
+<p>(Chinese Language Competition)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>25th International Chinese Language Competition (ICLC) 2024 - Creative
 Writing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Level - Silver</p>
+<p>National Level - Silver</p>
 <p>International Level - Bronze</p>
 </td>
 </tr>
@@ -50,6 +112,16 @@ Writing</p>
 </li>
 <li>
 <p>Junior Girls Double Dutch - 2nd placing</p>
+</li>
+</ul>
+<p></p>
+<p>Sepak Takraw Junior Boys:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Achievement Pin (2nd Place Tier 1 Gold – Peiying Team 1)</p>
+</li>
+<li>
+<p>Medal (1st Place Tier 3 Silver 2 – Peiying Team 2)</p>
 </li>
 </ul>
 </td>
