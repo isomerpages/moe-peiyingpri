@@ -12,5 +12,5 @@ variant: tiptap
 </p>
 <p><a href="/files/Keeping in Touch Newsletter/3rd_Keeping_in_Touch_Letter_to_Parents_2024_Final_210624.pdf" rel="noopener noreferrer nofollow" target="_blank">21 June 2024 Keeping in Touch</a>
 </p>
-<p><a href="/files/Keeping in Touch Newsletter/4th_Keeping_in_Touch_Letter_to_Parents_2024_Final.pdf" rel="noopener nofollow" target="_blank">6 Sept 2024 Keeping in Touch</a>
+<p><a href="/files/Keeping in Touch Newsletter/4th_Keeping_in_Touch_Letter_to_Parents_2024_Final_Final.pdf" rel="noopener nofollow" target="_blank">6 Sept 2024 Keeping in Touch</a>
 </p>
