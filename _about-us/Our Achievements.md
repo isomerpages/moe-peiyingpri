@@ -65,9 +65,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10th National Primary School Picture</p>
-<p>Book Creation Competition 2024</p>
-<p>(Chinese Language Competition)</p>
+<p>10th National Primary School Picture Book Creation Competition 2024 (Chinese
+Language Competition)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Merit Award</p>
