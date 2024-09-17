@@ -25,8 +25,6 @@ variant: tiptap
 <br>Primary 5 Foundation Booklist Click <a href="/files/Useful%20Forms%20and%20Links/Primary_5_Foundation_booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a> 
 <br>Primary 6 Booklist Click <a href="/files/Useful%20Forms%20and%20Links/Primary_6_booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a> 
 <br>Primary 6 Foundation Booklist Click <a href="/files/Useful%20Forms%20and%20Links/Primary_6_Foundation_booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a> 
-<br>
-<br>Sowell Uniform List Click <a href="/files/Useful%20Forms%20and%20Links/SOWELL_UNIFORM.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a>
 </p>
 <h4>P1 Orientation Slides</h4>
 <p>Please click <a href="https://online.fliphtml5.com/cuxpm/oiti/" rel="noopener noreferrer nofollow" target="_blank">here</a>
