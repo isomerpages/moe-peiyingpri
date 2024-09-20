@@ -7,7 +7,12 @@ variant: tiptap
 ---
 <h3><strong>Parents</strong></h3>
 <h4>HBL Schedule</h4>
-<p><a href="/files/HBL_13_Sep_2024_Final.pdf" rel="noopener nofollow" target="_blank">13 Sept 2024 HBL Schedule</a>
+<p><a href="/files/HBL_13_Sep_2024_Final.pdf" rel="noopener nofollow" target="_blank">26 Sep 2024 (P1 &amp; P2)</a>
+</p>
+<p><a href="/files/HBL_13_Sep_2024_Final.pdf" rel="noopener nofollow" target="_blank">27 Sep 2024 (P1 &amp; P2)</a>
+</p>
+<p><a href="/files/HBL_13_Sep_2024_Final.pdf" rel="noopener nofollow" target="_blank">30 Sep 2024 (P3</a>
+<a href="/files/HBL_30_Sep__P3_.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/HBL_13_Sep_2024_Final.pdf" rel="noopener nofollow" target="_blank">)</a>
 </p>
 <h4>Briefing Slides for Parents</h4>
 <p>Primary 1 and 2 <a href="/files/Useful Forms and Links/P1_and_P2_Parents__Briefing_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to Download</a>
@@ -24,7 +29,7 @@ variant: tiptap
 <br>Primary 5 Booklist Click <a href="/files/Useful%20Forms%20and%20Links/Primary_5_booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a> 
 <br>Primary 5 Foundation Booklist Click <a href="/files/Useful%20Forms%20and%20Links/Primary_5_Foundation_booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a> 
 <br>Primary 6 Booklist Click <a href="/files/Useful%20Forms%20and%20Links/Primary_6_booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a> 
-<br>Primary 6 Foundation Booklist Click <a href="/files/Useful%20Forms%20and%20Links/Primary_6_Foundation_booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a> 
+<br>Primary 6 Foundation Booklist Click <a href="/files/Useful%20Forms%20and%20Links/Primary_6_Foundation_booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a>
 </p>
 <h4>P1 Orientation Slides</h4>
 <p>Please click <a href="https://online.fliphtml5.com/cuxpm/oiti/" rel="noopener noreferrer nofollow" target="_blank">here</a>
