@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h3><strong>Parents</strong></h3>
 <h4>HBL Schedule</h4>
-<p><a href="/files/HBL_13_Sep_2024_Final.pdf" rel="noopener nofollow" target="_blank">26 Sep 2024 (P1 &amp; P2)</a>
+<p><a href="/files/HBL_26_SEP__P1___P2_.pdf" rel="noopener nofollow" target="_blank">26 Sep 2024 (P1 &amp; P2)</a>
 </p>
 <p><a href="/files/HBL_13_Sep_2024_Final.pdf" rel="noopener nofollow" target="_blank">27 Sep 2024 (P1 &amp; P2)</a>
 </p>
