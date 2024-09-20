@@ -7,9 +7,9 @@ variant: tiptap
 ---
 <h3><strong>Parents</strong></h3>
 <h4>HBL Schedule</h4>
-<p><a href="/files/HBL_26_SEP__P1___P2_.pdf" rel="noopener nofollow" target="_blank">26 Sep 2024 (P1&amp;P2)</a>
+<p><a href="/files/HBL_26_SEP__P1___P2_.pdf" rel="noopener nofollow" target="_blank">26 Sep 2024 (P1 &amp; P2)</a>
 </p>
-<p><a href="/files/HBL_27_SEP__P1___P2_.pdf" rel="noopener nofollow" target="_blank">27 Sep 2024 (P1&amp;P2)</a>
+<p><a href="/files/HBL_27_SEP__P1___P2_.pdf" rel="noopener nofollow" target="_blank">27 Sep 2024 (P1 &amp; P2)</a>
 </p>
 <p><a href="/files/HBL_30_Sep__P3_.pdf" rel="noopener nofollow" target="_blank">30 Sep 2024 (P3)</a>
 </p>
