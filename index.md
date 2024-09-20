@@ -12,7 +12,7 @@ sections:
         - title: Term 4 Check-In Survey
           description: Click here for more info
           url: /2024termlycheckin/
-        - title: 13 Sept HBL Schedule
+        - title: 26, 27 & 30 Sept HBL Schedule
           description: Click here for more info
           url: /partners/useful-forms-and-links/parents/
         - title: Facebook
