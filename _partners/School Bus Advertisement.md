@@ -5,63 +5,89 @@ variant: tiptap
 description: ""
 ---
 <h2>School Bus Vendor</h2>
-<p>To apply, please refer to the Service Requirements and the Application
-Procedure below.</p>
-<p><strong>Service Requirements</strong>
+<p><strong>Teo Boon Transport Pte Ltd</strong>
 </p>
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="/files/1__Call_for_Proposals__For_Single_Bus_Service__pyps_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal</a>
+<p>Please contact Manager Mr. Teo on School Bus transport matters.</p>
+<p>If you are unable to contact Mr. Teo via call, please send him a message
+via SMS.</p>
+<p>*HP: 67585382</p>
+<p>*Email: <a rel="noopener noreferrer nofollow" target="_blank">enquiry@teoboon.com</a>
 </p>
-</li>
-<li>
-<p><a href="/files/3__T_C_for_School_Bus_Operator_to_Provide_School_Bus_Services__For_Single_Bus_Service__pyps_v.pdf" rel="noopener noreferrer nofollow" target="_blank">Terms and Conditions for School Bus Operator to Provide School Bus Services\</a>
+<p>&nbsp;</p>
+<p><strong>Period: 1 Jan 2025 to 31 Dec 2026</strong>
 </p>
-</li>
-<li>
-<p><a href="/files/4__Request_for_School_Bus_Service_and_T_C_Governing_the_Requests_for_Services___For_Single_Bus_Service__pyps_v.pdf" rel="noopener noreferrer nofollow" target="_blank">Request for School Bus Services</a>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>Distance</strong>
 </p>
-</li>
-</ol>
-<p><strong>Application Procedure</strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Complete the <a href="/files/2__Information_from_Vendor__For_Single_Bus_Service__v.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal - Annex A (Information Required from Vendor)</a>
-</p>
-</li>
-<li>
-<p>Submit the completed Call for Proposal – Annex A by closing date, 30 AUG
-2024, to the School’s General Office.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Address: 651 Yishun Ring Road, Singapore 768687</p>
-</li>
-<li>
-<p>Contact No: 62575684</p>
-</li>
-<li>
-<p>Email: <a href="mailto:peiying_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peiying_ps@moe.edu.sg</a>
-</p>
-</li>
-<li>
-<p>Contact Person: Mdm Lee Hui Chern</p>
-</li>
-</ul>
-</li>
-</ol>
-<p><strong>How to get there?</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Nearest MRT: Khatib MRT (NS13 line) – 7 minutes walking distance</p>
-</li>
-<li>
-<p>Bus number:</p>
-<p>807 , 811 – 6 minutes walking distance</p>
-<p>39, 85, 117, 851, 852, 853, 854, 855, 857, 858, 965, 969 – 7 minutes walking
-distance</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Up to 15-seater</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>&gt;15-seater</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1-Way Trip</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2-Way Trip</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1-Way Trip</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2-Way Trip</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Up to 2KM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$135</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$150</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$135</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$150</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&gt;2 – 4KM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$160</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$170</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$160</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$170</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<hr>
 <p></p>
-</li>
-</ul>
 <p></p>
