@@ -5,6 +5,34 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
+<h3>Racial Harmony Day </h3>
+<p>Celebrating Racial Harmony Day at Peiying Primary School</p>
+<p>At Peiying Primary School, Racial Harmony Day is a cherished occasion
+that emphasizes unity and diversity. This year’s celebrations were a testament
+to our vibrant multicultural community.</p>
+<p>Leading up to Racial Harmony Day, our school organized engaging activities
+to promote cultural understanding. A highlight was the recess coloring
+activity, where students explored a multicultural theme through art, supported
+by our dedicated Parents Support Group. This initiative not only encouraged
+creative expression but also deepened students’ appreciation for our diverse
+cultural heritage.</p>
+<p>The assembly program served as the centerpiece of our celebration, featuring
+a thought-provoking address on the importance of racial harmony. Highlighting
+the event was a captivating fashion parade by our teachers and pupils showcasing
+traditional attire from various cultures, symbolizing our collective pride
+in our differences and unity in diversity.</p>
+<p>During recess, students eagerly participated in traditional games from
+different cultures, fostering friendships and cultural exchange.</p>
+<p>Racial Harmony Day at Peiying Primary School was a resounding success,
+uniting our school community through shared experiences that celebrated
+diversity and promoted mutual respect. Moving forward, we remain committed
+to nurturing an inclusive environment where every individual feels valued.</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS7D38KrbEo6F2rplKY2bfXor30fbOUsoD4Wnv0CwsB-qh4piA9nJxRYTsCAymNqzy8c5Y0Ez4sfatZ/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p></p>
+<p></p>
+<p></p>
 <h3>Primary 5 Cohort Camp Experience</h3>
 <p>From 11 to 13 July, our Primary 5 students went on an unforgettable journey
 of learning and fun at the cohort camp. Nestled in lush greenery and offering
