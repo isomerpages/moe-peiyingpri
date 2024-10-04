@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
-<h3>Racial Harmony Day </h3>
+<h3>Racial Harmony Day</h3>
 <p>Celebrating Racial Harmony Day at Peiying Primary School</p>
 <p>At Peiying Primary School, Racial Harmony Day is a cherished occasion
 that emphasizes unity and diversity. This year’s celebrations were a testament
