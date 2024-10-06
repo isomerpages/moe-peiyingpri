@@ -1,5 +1,5 @@
 ---
-title: School Bus Advertisement
+title: School Bus Vendor
 permalink: /school-bus-advertisement/
 variant: tiptap
 description: ""

@@ -5,6 +5,98 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
+<h3>P.L.A.Y Day 2 at Peiying: A day of fun and learning</h3>
+<p></p>
+<p>To promote the joy of learning and for students to acquire dispositions
+to learn for life, our school designed a variety of experiential learning
+activities for our students during P.L.A.Y Day 2! Each level participated
+in activities that not only sparked curiosity but also promoted critical
+thinking, leadership, and values education. Here’s an overview of the exciting
+activities that took place:&nbsp;</p>
+<p><strong><u>Primary 1: S.E.A. Aquarium&nbsp;</u></strong>
+<br>Our Primary 1 students embarked on an underwater adventure at the S.E.A.
+Aquarium, where they were introduced to the diverse marine life that inhabits
+our oceans. Through this interactive excursion, students learned about
+ocean conservation, the importance of protecting marine ecosystems, and
+the role they can play in preserving the environment. This hands-on experience
+broadened their understanding of the world beneath the sea and left them
+inspired to care for our planet's oceans.&nbsp;</p>
+<p><strong><u>Primary 2: River Wonders</u></strong>
+<br>Our Primary 2 students explored the wonders of river ecosystems at River
+Wonders, encountering amazing animals and learning about biodiversity and
+conservation efforts. &nbsp;</p>
+<p><strong><u>Primary 3: Values in Action (VIA) Programme</u></strong>
+<br>Our Primary 3 students participated in a Values in Action (VIA) programme
+aimed at cultivating kindness and empathy within their school community.
+This year’s theme, “Spreading Kindness, Building Bonds,” focused on teaching
+students the value of helping others, fostering friendships, and understanding
+how their actions can positively impact those around them. Through group
+activities, discussions, and a class gratitude wall, students reflected
+on the importance of kindness and pledged to carry these life lessons forward
+in their daily interactions.</p>
+<p><strong><u>Primary 4: Code for Fun&nbsp;</u></strong>
+<br>Our Primary 4 students dived into the world of coding through the Code
+for Fun programme. Using block programming and Minecraft Education, they
+developed their own games while acquiring essential programming skills.
+This engaging platform encouraged students to think creatively, solve problems,
+and collaborate with their peers. The activity provided a foundation for
+computational thinking and prepares our students for a future tech-based
+learning.</p>
+<p><strong><u>Primary 5: School-wide Student Leadership Programme</u></strong>
+<br>Our Primary 5 students participated in our school-wide Student Leadership
+Programme, where they learned that leadership is about effective communication,
+creative thinking, and teamwork. Through various group activities, they
+practised important skills such as clear articulation, active listening,
+and generating innovative ideas to solve problems. The programme emphasised
+the belief that anyone can be a leader, and all students are empowered
+to take on leadership roles within their school and community.</p>
+<p><strong><u>Primary 6: Applied Learning Programme (ALP) – Singapore Green Plan&nbsp;</u></strong>
+<br>Our Primary 6 students focused on environmental sustainability through
+the unpacking of the Singapore Green Plan. As part of our school’s Applied
+Learning Programme (ALP), students researched key initiatives of the Singapore
+Green Plan and applied their knowledge to design e-books that promote environmental
+awareness. This activity not only strengthened their understanding of sustainability
+issues but also encouraged them to think critically about how they can
+contribute to a greener future.</p>
+<p></p>
+<p>Play Day 2 was a wonderful success, offering our students opportunities
+to learn through fun, meaningful experiences that complemented their school
+experiences. We are proud of our students’ enthusiasm, creativity, and
+dedication to becoming thoughtful, empathetic, and environmentally-conscious
+individuals.</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSywyYjxdfPqsVxb92bPmUW4Z8DpupbZ5IllCovjCHygfXfbx3jH94S5LHdDHi_wxROE-99xv45SatH/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p></p>
+<p></p>
+<h3>Racial Harmony Day</h3>
+<p>Celebrating Racial Harmony Day at Peiying Primary School</p>
+<p>At Peiying Primary School, Racial Harmony Day is a cherished occasion
+that emphasizes unity and diversity. This year’s celebrations were a testament
+to our vibrant multicultural community.</p>
+<p>Leading up to Racial Harmony Day, our school organized engaging activities
+to promote cultural understanding. A highlight was the recess coloring
+activity, where students explored a multicultural theme through art, supported
+by our dedicated Parents Support Group. This initiative not only encouraged
+creative expression but also deepened students’ appreciation for our diverse
+cultural heritage.</p>
+<p>The assembly program served as the centerpiece of our celebration, featuring
+a thought-provoking address on the importance of racial harmony. Highlighting
+the event was a captivating fashion parade by our teachers and pupils showcasing
+traditional attire from various cultures, symbolizing our collective pride
+in our differences and unity in diversity.</p>
+<p>During recess, students eagerly participated in traditional games from
+different cultures, fostering friendships and cultural exchange.</p>
+<p>Racial Harmony Day at Peiying Primary School was a resounding success,
+uniting our school community through shared experiences that celebrated
+diversity and promoted mutual respect. Moving forward, we remain committed
+to nurturing an inclusive environment where every individual feels valued.</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS7D38KrbEo6F2rplKY2bfXor30fbOUsoD4Wnv0CwsB-qh4piA9nJxRYTsCAymNqzy8c5Y0Ez4sfatZ/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p></p>
+<p></p>
+<p></p>
 <h3>Primary 5 Cohort Camp Experience</h3>
 <p>From 11 to 13 July, our Primary 5 students went on an unforgettable journey
 of learning and fun at the cohort camp. Nestled in lush greenery and offering
