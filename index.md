@@ -12,7 +12,7 @@ sections:
         - title: Term 4 Check-In Survey
           description: Click here for more info
           url: /2024termlycheckin/
-        - title: 26, 27 & 30 Sept HBL Schedule
+        - title: Primary 5 Head Prefect Nomination
           description: Click here for more info
           url: /partners/useful-forms-and-links/parents/
         - title: Facebook
