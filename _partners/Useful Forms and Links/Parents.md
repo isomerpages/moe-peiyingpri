@@ -6,6 +6,10 @@ third_nav_title: Useful Forms and Links
 variant: tiptap
 ---
 <h3><strong>Parents</strong></h3>
+<h4>Primary 5 Head Prefect Nomination</h4>
+<p><a href="https://forms.moe.edu.sg/forms/oOkQVn" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/oOkQVn</a>
+</p>
+<p></p>
 <h4>HBL Schedule</h4>
 <p><a href="/files/HBL_26_SEP__P1___P2_.pdf" rel="noopener nofollow" target="_blank">26 Sep 2024 (P1 &amp; P2)</a>
 </p>
