@@ -5,6 +5,32 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
+<h3>Children's Day</h3>
+<p>In line with this year’s theme for Children’s Day- ‘Think BIG, Dream BIG’,
+exciting activities were rolled out for our students across all levels.
+Supported by the PSG, Primary 1/2 students were engaged in the Games Carnival
+to promote active participation in fun and healthy physical activities.
+While Primary 3/4 students received training from the Student Leadership
+Workshops, Primary 5/6 students attended the Education and Career Guidance
+(ECG) workshops. Other than being able to explore future career opportunities
+by accessing information on jobs and aspirations via the Skills Future
+portal, the students also got to identify their interests and preferences
+and set SMART goals for entrance into their preferred secondary schools.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4.jpg">
+</div>
 <h3>P.L.A.Y Day 2 at Peiying: A day of fun and learning</h3>
 <p></p>
 <p>To promote the joy of learning and for students to acquire dispositions
