@@ -94,6 +94,33 @@ individuals.</p>
 <iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSywyYjxdfPqsVxb92bPmUW4Z8DpupbZ5IllCovjCHygfXfbx3jH94S5LHdDHi_wxROE-99xv45SatH/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
+<h3>National Day</h3>
+<p></p>
+<p>Celebrating National Day at Peiying Primary School</p>
+<p>Peiying Primary School commemorated Singapore's National Day 2024 with
+a series of engaging activities aimed at deepening our students' sense
+of national pride and identity. Through the educational programs and activities,
+our students delved into the significance of National Day and the symbols
+that embody our nation's core values and aspirations.</p>
+<p>During recess, students enthusiastically participated in a variety of
+enjoyable activities including vibrant colouring sessions, interactive
+online quizzes, and capturing joyful moments at the photobooth. The classrooms
+were adorned with Singapore flags, creating a festive atmosphere that truly
+immersed the students in the spirit of celebration.</p>
+<p>The National Day ceremonial segment was a moment of solemn reflection,
+as our students observed with reverence, acknowledging the significance
+of the occasion. The National Day concert was a hit, with our students
+learning about its importance through captivating performances by our teacher
+emcees and CCE ambassadors. These experiences collectively fostered a stronger
+sense of unity and national pride among our young learners.</p>
+<p>At Peiying Primary School, we are dedicated to nurturing a deep-rooted
+national identity and fostering an appreciation for Singapore's rich heritage
+through such meaningful and celebratory events. We are proud to have provided
+our students with an unforgettable National Day celebration that instilled
+a deep love for our nation.</p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <h3>Racial Harmony Day</h3>
 <p>Celebrating Racial Harmony Day at Peiying Primary School</p>
