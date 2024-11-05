@@ -5,8 +5,29 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
-<h3>P.L.A.Y Day 2 at Peiying: A day of fun and learning</h3>
+<h3>Teacher's Day</h3>
+<p>At Peiying Primary School, we are incredibly fortunate to have a dedicated
+team of educators who consistently go above and beyond to nurture and inspire
+our students. This Teachers’ Day 2024, we gather to honour and celebrate
+the unwavering dedication and passion of our teachers and staff, who tirelessly
+sow the seeds of knowledge and values, foster students’ growth and illuminate
+the potential within every student.</p>
+<p>This year’s theme, “Sow, Grow, and Glow,” perfectly encapsulates the journey
+our teachers embark on with each student. Through a vibrant concert featuring
+a piano recital, dynamic dance performances, heartfelt singing, and an
+innovative drumming act using recycled materials, our students not only
+showcased their talents but also demonstrated their gratitude to their
+teachers.</p>
+<p>As we celebrate Teachers’ Day, we express our heartfelt gratitude to our
+teachers and staff for their unwavering commitment to nurturing the minds
+and hearts of our future generations.</p>
 <p></p>
+<p></p>
+<p></p>
+<h3>P.L.A.Y Day 2 at Peiying: A day of fun and learning</h3>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTeVi0Jj9n6bCOW_5CZlLmid6bNp9rzbi_sfVRnOcD_FM1u6VxLbsMSY6kPXjifCSJOfWIff2zfaXtY/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <p>To promote the joy of learning and for students to acquire dispositions
 to learn for life, our school designed a variety of experiential learning
 activities for our students during P.L.A.Y Day 2! Each level participated
@@ -64,12 +85,11 @@ to learn through fun, meaningful experiences that complemented their school
 experiences. We are proud of our students’ enthusiasm, creativity, and
 dedication to becoming thoughtful, empathetic, and environmentally-conscious
 individuals.</p>
-<div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSywyYjxdfPqsVxb92bPmUW4Z8DpupbZ5IllCovjCHygfXfbx3jH94S5LHdDHi_wxROE-99xv45SatH/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
 <p></p>
 <h3>National Day</h3>
-<p></p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS-SFAO_n1sJid6FCNOl8GXPgYKJYy5SyfYZF_3VFF__C7Bn0hQMPdvGYSNy2b3hiqkiSWjmHvfTMhT/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <p>Celebrating National Day at Peiying Primary School</p>
 <p>Peiying Primary School commemorated Singapore's National Day 2024 with
 a series of engaging activities aimed at deepening our students' sense
