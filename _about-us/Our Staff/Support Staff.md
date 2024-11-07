@@ -6,7 +6,11 @@ third_nav_title: Our Staff
 variant: tiptap
 ---
 <h3><strong>Support Staff</strong></h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -62,6 +66,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Louis Tay</p>
+<p>Mdm Christina Lim Ai Hong</p>
 </td>
 </tr>
 </tbody>
