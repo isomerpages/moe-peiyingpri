@@ -66,7 +66,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Louis Tay</p>
-<p>Mdm Christina Lim Ai Hong</p>
 </td>
 </tr>
 </tbody>
