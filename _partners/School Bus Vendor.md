@@ -1,6 +1,6 @@
 ---
-title: School Bus Vendor (2024)
-permalink: /partners/school-bus-vendor-2024/
+title: School Bus Vendor
+permalink: /partners/school-bus-vendor/
 variant: tiptap
 description: ""
 ---
