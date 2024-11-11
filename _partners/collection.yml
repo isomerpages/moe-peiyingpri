@@ -2,7 +2,7 @@ collections:
   partners:
     output: true
     order:
-      - School Bus Vendor (2024).md
+      - School Bus Vendor.md
       - Kaleidoscope.md
       - Keeping In Touch Newsletters.md
       - Parent Support Group/.keep
