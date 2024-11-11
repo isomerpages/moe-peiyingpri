@@ -1,6 +1,6 @@
 ---
-title: School Bus Vendor
-permalink: /school-bus-vendor/
+title: School Bus Vendor (2024)
+permalink: /school-bus-vendor-2024/
 variant: tiptap
 description: ""
 ---
@@ -89,5 +89,4 @@ via SMS.</p>
 </table>
 <p>&nbsp;</p>
 <hr>
-<p></p>
 <p></p>
