@@ -6,7 +6,12 @@ third_nav_title: Our Staff
 variant: tiptap
 ---
 <h3><strong>EAS</strong></h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -69,7 +74,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administrative Executive</p>
+<p>Administrative Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Sharvin</p>
@@ -161,13 +166,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>OSO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Christina Lim Ai Hong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>-</p>
 </td>
 </tr>
 </tbody>
