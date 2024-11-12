@@ -49,7 +49,7 @@ variant: tiptap
 <p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Afrinah</p>
+<p>Mr Hashvin Chandran</p>
 </td>
 </tr>
 <tr>

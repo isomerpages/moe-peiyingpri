@@ -2,13 +2,14 @@
 title: Information and Communication Technology (ICT)
 permalink: /departments/ict/
 description: ""
+variant: markdown
 ---
 ### **Information and Communication Technology (ICT)**
 
 |  |  |
 |---|---|
 | **Head of Department** | Mdm Loy Su Ann<br>[loy_su_ann@schools.gov.sg](mailto:loy_su_ann@schools.gov.sg) |
-| **ICT Coordinator** | Ms Gaayathri K Chandra<br>[gaayathri_k_chandra@schools.gov.sg](mailto:gaayathri_k_chandra@schools.gov.sg)  |
+
 |  |  |
 
 <img align="left" style="width:65%" src="/images/department%20objectives.jpg">

@@ -13,7 +13,11 @@ student and staff learning. Its goal is to support the school in its efforts
 to provide a holistic education for all students and to involve the community
 in the educational process.</p>
 <p>Peiying Primary School Advisory Committee comprises the following members:</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -77,6 +81,14 @@ in the educational process.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Xie Jiahao</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Loh Eng Chin</p>
 </td>
 </tr>
 <tr>
