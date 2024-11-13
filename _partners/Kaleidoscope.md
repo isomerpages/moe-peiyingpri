@@ -7,7 +7,7 @@ variant: markdown
 ### Kaleidoscope
 
 
-<a href="https://online.fliphtml5.com/cuxpm/aqvz/"><img src="/images/Screenshot_2024_11_13_101515.png" style="width:40%"> </a>
+<a href="https://online.fliphtml5.com/cuxpm/iuqj/"><img src="/images/Screenshot_2024_11_13_101515.png" style="width:40%"> </a>
 <br>
 
 <a href="https://online.fliphtml5.com/cuxpm/ebda/"><img src="/images/kaleidoscope.png" style="width:40%"> </a>
