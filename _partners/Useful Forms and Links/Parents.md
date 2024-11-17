@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h3><strong>Parents</strong></h3>
 <p></p>
-<h4>Joint Year-End School Holidays Advisory </h4>
+<h4>Joint Year-End School Holidays Advisory</h4>
 <p><a href="/files/Useful Forms and Links/Annex_A___Primary_Level_Joint_Advisory.pdf" rel="noopener nofollow" target="_blank">Primary Level Joint Advisory</a>
 </p>
 <p></p>
