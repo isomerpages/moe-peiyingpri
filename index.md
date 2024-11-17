@@ -12,9 +12,6 @@ sections:
         - title: Term 4 Check-In Survey
           description: Click here for more info
           url: /2024termlycheckin/
-        - title: Primary 5 Head Prefect Nomination
-          description: Click here for more info
-          url: /partners/useful-forms-and-links/parents/
         - title: Facebook
           description: Peiying Primary Facebook Page
           url: https://www.facebook.com/peiyingpri
