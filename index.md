@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/Main Page/WebsiteBanner2024_5_2.gif
       key_highlights:
-        - title: School Holidays Advisory
+        - title: Year-End School Holidays Advisory
           description: Click here for more info
           url: https://www.peiyingpri.moe.edu.sg/partners/useful-forms-and-links/parents/
         - title: Facebook
