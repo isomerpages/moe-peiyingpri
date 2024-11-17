@@ -6,8 +6,9 @@ third_nav_title: Useful Forms and Links
 variant: tiptap
 ---
 <h3><strong>Parents</strong></h3>
-<h4>Primary 5 Head Prefect Nomination</h4>
-<p><a href="https://forms.moe.edu.sg/forms/oOkQVn" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/oOkQVn</a>
+<p></p>
+<h4>Joint Year-End School Holidays Advisory </h4>
+<p><a href="/files/Useful Forms and Links/Annex_A___Primary_Level_Joint_Advisory.pdf" rel="noopener nofollow" target="_blank">Primary Level Joint Advisory</a>
 </p>
 <p></p>
 <h4>HBL Schedule</h4>
