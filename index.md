@@ -9,12 +9,9 @@ sections:
   - hero:
       background: /images/Main Page/WebsiteBanner2024_5_2.gif
       key_highlights:
-        - title: Term 4 Check-In Survey
+        - title: Year-End School Holidays Advisory
           description: Click here for more info
-          url: /2024termlycheckin/
-        - title: Primary 5 Head Prefect Nomination
-          description: Click here for more info
-          url: /partners/useful-forms-and-links/parents/
+          url: https://www.peiyingpri.moe.edu.sg/partners/useful-forms-and-links/parents/
         - title: Facebook
           description: Peiying Primary Facebook Page
           url: https://www.facebook.com/peiyingpri
