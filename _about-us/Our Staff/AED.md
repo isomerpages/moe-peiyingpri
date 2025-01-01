@@ -53,6 +53,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Lead SEN Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ng Mei Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_mei_ling_c@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_mei_ling_c@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Senior Learning and Behavioural Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -72,18 +84,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:michelle_lim_teng_ting@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">michelle_lim_teng_ting@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teaching and Learning Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Leanna Low</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:low_lay_lay@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_lay_lay@schools.gov.sg</a>
 </p>
 </td>
 </tr>
