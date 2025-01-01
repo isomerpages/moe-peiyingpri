@@ -18,7 +18,4 @@ sections:
         - title: Instagram
           description: "@peiying_primary_school"
           url: https://www.instagram.com/peiying_primary_school/
-        - title: Termly Check In Survery
-          description: Click here for more infomation
-          url: /2025-termly-check-in/
 ---
