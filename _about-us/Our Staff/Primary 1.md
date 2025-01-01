@@ -148,7 +148,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs June Law</p>
-<p>Koo HUI CHEW &lt;<a href="mailto:chew_koo_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_koo_hui@schools.gov.sg</a>
+<p><a href="mailto:chew_koo_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_koo_hui@schools.gov.sg</a>
 </p>
 <p></p>
 </td>
