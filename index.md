@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Year-End School Holidays Advisory
           description: Click here for more info
-          url: https://www.peiyingpri.moe.edu.sg/partners/useful-forms-and-links/parents/
+          url: https://www.peiyingpri.moe.edu.sg/partners/useful-forms-and-links/student/
         - title: Facebook
           description: Peiying Primary Facebook Page
           url: https://www.facebook.com/peiyingpri
