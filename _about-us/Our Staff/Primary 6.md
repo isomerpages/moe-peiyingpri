@@ -125,7 +125,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Or Mary	<a href="mailto:or_mary@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">or_mary@schools.gov.sg</a>
+<p>Or Mary <a href="mailto:or_mary@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">or_mary@schools.gov.sg</a>
 </p>
 <p></p>
 </td>
