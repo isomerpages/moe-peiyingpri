@@ -139,7 +139,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ng Kang Ping</p>
-<p><a href="mailto:ng_kang_ping@schools.gov" rel="noopener noreferrer nofollow" target="_blank">ng_kang_ping@schools.gov</a>.sg</p>
+<p><a href="mailto:ng_kang_ping@schools.gov" rel="noopener noreferrer nofollow" target="_blank">ng_kang_ping@schools.gov.sg</a>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
