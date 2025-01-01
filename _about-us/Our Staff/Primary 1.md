@@ -104,11 +104,15 @@ variant: tiptap
 <p>1 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Linda Prem</p>
-<p><a href="mailto:linda_gratia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">linda_gratia@schools.gov.sg</a>
+<p>Ms Gaayathri K Chandra</p>
+<p><a href="mailto:gaayathri_k_chandra@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gaayathri_k_chandra@schools.gov.sg</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Hee Chuan Min</p>
+<p><a href="mailto:hee_chuan_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hee_chuan_min@schools.gov.sg</a>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
