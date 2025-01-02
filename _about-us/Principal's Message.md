@@ -2,28 +2,26 @@
 title: Principal's Message
 permalink: /about-us/principals-message/
 description: ""
+variant: markdown
 ---
+## Principal's Message 2025
 
-## Principal's Message
 
+Established in 1919, Peiying Primary School stands as a beacon of educational heritage in the Yishun estate. Our name, 'Pei Ying', embodies our century-long mission of nurturing citizens for nation building. As we honour our rich history, we also lead the way in innovative education, through our distinctive programmes and robust character development initiatives.
 
-Peiying Primary School has a long history in the Yishun estate. It was formerly known as Poi Eng Public School and is one of the oldest schools in Nee Soon. Its roots can be traced back to 1919. In Chinese, “Pei Ying’ means ‘to nurture citizens for nation building”. The school is steeped in traditions and values. In 2022, the school embarked on a re-envisioning exercise. The new vision “**_Lifelong Learners, Leaders of Character_**” will guide our planning and decision-making process in the next few years.
+At the heart of our forward-thinking approach lies our Applied Learning Programme (ALP), "Project T.H.I.N.K. (Thinking Holistic Innovative Networked Kids) for Home Earth." This programme sets Peiying apart, cultivating in our students a deep-rooted love for the environment and equipping them with Design Thinking skills. Through Project T.H.I.N.K., our students actively contribute to making Singapore a greener, more sustainable city, bridging classroom learning with real-world impact.
 
-#### _Lifelong Learners_
+Complementing our ALP is our unique Learning for Life Programme (LLP), "Sports, Character Development, Adventure Learning Experiences (SCALE) @ Peiying". SCALE develops our students' sense of adventure and ruggedness through outdoor exploration, while also promoting a lifelong appreciation for sports and healthy living. Our SCALE programme challenges students physically and mentally, building resilience and teamwork skills.
 
-As a school, we aspire to meaningfully pique our students' interest in their learning and encourage them to be lifelong learners. It is important to guide our students to discover, distill and discern information. Our key task is thus to help our students sense-make, be self-directed and to start from young. We create opportunities for our students to collaborate, connect and create. This is achievable through our school programmes. One of them is our Applied Learning Programme “Project T.H.I.N.K. (Thinking Holistic Innovative Networked Kids) for Home Earth.” This programme helps to instill within our students a love for the environment that we are all living in and guides students in creating a real and positive impact towards making Singapore a greener and more sustainable city through Design Thinking.
+Character development is a cornerstone of the Peiying experience. Our comprehensive Citizenship and Character Education (CCE) programme is designed to nurture students into Leaders of Character. Guided by our PRIDE values - Perseverance, Respect, Integrity, Diligence, and Empathy - we create numerous opportunities for character growth. Character and Citizenship Education lessons allow students to discuss and understand important values and social issues.
 
-#### _Leaders of Character_
+Values in Action (VIA) projects allow students to apply their values in real-world contexts, fostering empathy and social responsibility. Student Leadership development programmes empower students to take on roles of responsibility, cultivating confidence and decision-making skills. Reflection sessions encourage students to think critically about their actions and experiences, promoting self-awareness and personal growth. Character-building initiatives such as Growth Mindset lessons work in tandem with our strong academic curriculum, ensuring that Peiying students develop into well-rounded individuals prepared for life's challenges.
 
-We focus on character-building and leadership development of our students and are guided by our school values: PRIDE which stands for Perseverance, Respect, Integrity, Diligence and Empathy. Through our Citizenship and Character Programmes and Student Development Programmes, we enable and encourage our students to grow in wisdom, be open and develop courage to face whatever uncertainties that may come their way. We hope that in turn, they will use their gifts for the greater good of our school, the community and the nation.
+At Peiying Primary School, we are committed to fostering a joyful learning environment. Our approach encompasses a myriad of hands-on activities, technology-enhanced education, and creative expression across different subjects. We extend learning beyond classroom walls through learning journeys and community partnerships, while empowering students to lead initiatives. Our educators employ differentiated learning strategies and positive reinforcement to ensure each child experiences success. Through collaborative projects and peer-to-peer learning opportunities, we cultivate a vibrant educational atmosphere. This multifaceted approach instils a lifelong passion for knowledge acquisition, aligning with our vision of nurturing lifelong learners prepared for future challenges.
 
-Through our Learning for Life Programme “Sports, Character Development, Adventure Learning Experiences (SCALE) @ Peiying”, we develop in our students a sense of adventure and ruggedness through exploration of the outdoor environment. Students also learn different types of sports to hone their psychomotor skills and acquire a mindset of enjoying sports for healthy living.
+Peiying Primary School stands as a beacon of educational excellence, where a century of wisdom meets contemporary innovation. Our staff, united in their commitment to nurturing young minds, embrace this rich legacy whilst driving progress. We believe in nurturing every child's potential. Our dedicated educators and admin staff provide attention, inspiring students to stretch beyond their perceived limits and discover their unique strengths. We work closely with parents and partners to create an environment where curiosity thrives, critical thinking is honed, and a love for learning is instilled for life.
+As we look to the future, we remain steadfast in our mission: to provide each student with a robust foundation for success, honouring our heritage whilst preparing them for the challenges and opportunities of tomorrow.
 
-The human touch of teachers to nurture, guide, and inspire, is at the heart of teaching in our school. Staff in Peiying Primary School focus on higher value-added work with the students, inspire learners from all backgrounds, and stoke the curiosity of our students to learn not just for exams, and not just for their time in school, but to learn throughout life.
-
-We inspire our students to stretch themselves accordingly in all that they do so that they can realise their own potential, be resilient and discover their own motivation to try to surpass themselves every day. We strongly believe in Building Character, Enriching Lives and Stretching Potential of our students. We value and embrace every child who enters our school and we put in our best efforts to nurture them to become Engaged and Resilient learners, Caring Citizens and Leaders of Character.
-
-  
 
 **Mrs Peh-Wong Wei Yong**<br>
 Principal, Peiying Primary School
