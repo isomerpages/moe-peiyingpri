@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Termly Check-In Survey
           description: Click here for more info
-          url: /partners/useful-forms-and-links/students//
+          url: /partners/useful-forms-and-links/students/
         - title: Facebook
           description: Peiying Primary Facebook Page
           url: https://www.facebook.com/peiyingpri
