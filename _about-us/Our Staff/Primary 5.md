@@ -105,7 +105,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Imelda</p>
-<p><a href="mailto:imelda_asari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">imelda_asari@moe.edu.sg</a>
+<p><a href="mailto:imelda_asari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">imelda_asari@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
