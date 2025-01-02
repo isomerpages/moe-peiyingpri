@@ -29,18 +29,6 @@ variant: tiptap
 <p>Operation Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Seow Teck Lam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:seow_teck_lam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">seow_teck_lam@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operation Manager</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Tan Khiam Kng</p>
 </td>
 <td rowspan="1" colspan="1">

@@ -78,8 +78,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Connie Chong
-<br><a href="mailto:ang_hong_cheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_hong_cheng@schools.gov.sg</a>
+<p>Mr Joel Tee
+<br>
 </p>
 </td>
 </tr>
@@ -245,17 +245,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>English</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Jennifer Fan
-<br><a href="mailto:fan_lee_bee_yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fan_lee_bee_yen@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Mother-Tongue Language</strong>
 </p>
 </td>
@@ -263,6 +252,15 @@ variant: tiptap
 <p>Mr Soh Chung Wei
 <br><a href="mailto:soh_chung_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">soh_chung_wei@schools.gov.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Science</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Imelda As'ari</p>
 </td>
 </tr>
 </tbody>
@@ -354,10 +352,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Upper Primary (Primary 5 and 6)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Jennifer Fan
+<br><a href="mailto:fan_lee_bee_yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fan_lee_bee_yen@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
