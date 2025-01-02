@@ -5,7 +5,13 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Contact Us</strong></h3>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -87,10 +93,12 @@ Christmas Eve and New Year Eve) &amp; Public Holidays.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Hui Tong Transport Service</p>
+<p>Teo Boon Transport Pte Ltd</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>97872967</p>
+<p><a href="mailto:enquiry@teoboon.com" rel="noopener noreferrer nofollow" target="_blank"><u>enquiry@teoboon.com</u></a>
+</p>
+<p>67585382</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -133,7 +141,12 @@ of our school near Bah Soon Pah Road)</p>
 <p>In 2024, students will be dismissed at&nbsp;<strong>1.00pm on two days (Tue &amp; Wed)</strong>&nbsp;and
 at&nbsp;<strong>1.30pm on three days (Mon, Thur &amp; Fri)</strong>. School
 will start at the usual time at 7.30am daily.</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">

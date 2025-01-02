@@ -78,8 +78,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Joel Tee</p>
-<p><a href="mailto:tee_han_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tee_han_yun@schools.gov.sg</a>
+<p>Mr Joel Tee
+<br><a href="mailto:haniza_ahmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tee_han_yun@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -260,7 +260,17 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Imelda As'ari</p>
+<p>Ms Imelda As'ari
+<br><a href="mailto:soh_chung_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">imelda_asari@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -299,7 +309,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Poh Mei Cheng
 <br><a href="mailto:poh_mei_cheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">poh_mei_cheng@schools.gov.sg</a>
-<br>
 </p>
 </td>
 </tr>
@@ -359,6 +368,14 @@ variant: tiptap
 <p>Mrs Jennifer Fan
 <br><a href="mailto:fan_lee_bee_yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fan_lee_bee_yen@schools.gov.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -454,19 +471,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr R Sharvin Ganesh</p>
-<p><a href="mailto:r_sharvin_ganesh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">r_sharvin_ganesh@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Operation Manager</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Seow Teck Lam
-<br><a href="mailto:seow_teck_lam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">seow_teck_lam@schools.gov.sg</a>
+<p>Mr R Sharvin Ganesh
+<br><a href="mailto:lee_hui_chern@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">r_sharvin_ganesh@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -479,14 +485,6 @@ variant: tiptap
 <p>Mr Tan Khiam Kng
 <br><a href="mailto:Tan_Khiam_Kng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Khiam_Kng@schools.gov.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
