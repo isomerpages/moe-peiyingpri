@@ -465,17 +465,6 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Seow Teck Lam
-<br><a href="mailto:seow_teck_lam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">seow_teck_lam@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Operation Manager</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Tan Khiam Kng
 <br><a href="mailto:Tan_Khiam_Kng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Khiam_Kng@schools.gov.sg</a>
 </p>
