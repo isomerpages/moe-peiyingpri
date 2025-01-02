@@ -45,3 +45,42 @@ third_nav_title: Useful Forms and Links
 </tbody>
 </table>
 <p></p>
+<h2>Useful Links</h2>
+<p>You can now login to the following accounts using your MIMS email and
+password.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Student Learning Space</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg/login</a></strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Students MIMS Portal</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://idp.mims.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://idp.mims.moe.gov.sg/</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
