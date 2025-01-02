@@ -472,7 +472,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr R Sharvin Ganesh
-<br><a href="mailto:lee_hui_chern@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">r_sharvin_ganesh@schools.gov.sg </a>
+<br><a href="mailto:lee_hui_chern@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">r_sharvin_ganesh@schools.gov.sg</a>
 </p>
 </td>
 </tr>
