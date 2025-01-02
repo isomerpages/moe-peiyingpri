@@ -103,7 +103,9 @@ variant: tiptap
 <p>3 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Grace Tan Meng CHoo</p>
+<p>Ms Grace Tan Meng Choo</p>
+<p><a href="mailto:tan_meng_choo_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_meng_choo_A@schools.gov.sg</a> 
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Toh LingJuan</p>
