@@ -79,6 +79,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Hui Wing Yan</p>
+<p><a href="mailto:hui_wing_yan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hui_wing_yan@schools.gov.sg</a>
+</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Wee Shu Yun, Athena</p>
@@ -102,6 +105,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Imelda</p>
+<p><a href="mailto:imelda_asari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">imelda_asari@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Low Hui Li</p>
@@ -116,6 +121,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Poi Mei Ping Sharon</p>
+<p><a href="mailto:poi_mei_ping_sharon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">poi_mei_ping_sharon@schools.gov.sg</a>
+</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Manomani d/o Shunmuga Sundaram</p>
