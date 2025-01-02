@@ -10,33 +10,8 @@ variant: tiptap
 <h4>Year-End School Holidays Advisory</h4>
 <p><a href="/files/Useful Forms and Links/Annex_A___Primary_Level_Joint_Advisory.pdf" rel="noopener nofollow" target="_blank">Primary Level Joint Advisory</a>
 </p>
-<p></p>
-<h4>HBL Schedule</h4>
-<p><a href="/files/HBL_26_SEP__P1___P2_.pdf" rel="noopener nofollow" target="_blank">26 Sep 2024 (P1 &amp; P2)</a>
-</p>
-<p><a href="/files/HBL_27_SEP__P1___P2_.pdf" rel="noopener nofollow" target="_blank">27 Sep 2024 (P1 &amp; P2)</a>
-</p>
-<p><a href="/files/HBL_30_Sep__P3_.pdf" rel="noopener nofollow" target="_blank">30 Sep 2024 (P3)</a>
-</p>
 <h4>Briefing Slides for Parents</h4>
-<p>Primary 1 and 2 <a href="/files/Useful Forms and Links/P1_and_P2_Parents__Briefing_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to Download</a>
-</p>
-<p>Primary 3 and 4 <a href="/files/Useful Forms and Links/P3P4_Parents__Briefing_2024_PGSlides.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to Download</a>
-</p>
-<p>Primary 5 and 6 <a href="/files/Useful Forms and Links/P5P6_Parents__Briefing_2024_2Feb___parents_copy.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to Download</a>
-</p>
-<h4>2024 Book and Uniform List</h4>
-<p>Primary 1 Booklist Click <a href="/files/Useful%20Forms%20and%20Links/Primary_1_booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a> 
-<br>Primary 2 Booklist Click <a href="/files/Useful%20Forms%20and%20Links/Primary_2_booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a> 
-<br>Primary 3 Booklist Click <a href="/files/Useful%20Forms%20and%20Links/Primary_3_booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a> 
-<br>Primary 4 Booklist Click <a href="/files/Useful%20Forms%20and%20Links/Primary_4_booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a> 
-<br>Primary 5 Booklist Click <a href="/files/Useful%20Forms%20and%20Links/Primary_5_booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a> 
-<br>Primary 5 Foundation Booklist Click <a href="/files/Useful%20Forms%20and%20Links/Primary_5_Foundation_booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a> 
-<br>Primary 6 Booklist Click <a href="/files/Useful%20Forms%20and%20Links/Primary_6_booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a> 
-<br>Primary 6 Foundation Booklist Click <a href="/files/Useful%20Forms%20and%20Links/Primary_6_Foundation_booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a>
-</p>
-<h4>P1 Orientation Slides</h4>
-<p>Please click <a href="https://online.fliphtml5.com/cuxpm/oiti/" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<p>Primary 1 Orientation Slides <a href="/files/2025_Day_1_Parents_Engagement_2_Jan.pdf" rel="noopener nofollow" target="_blank">Click here to download</a>
 </p>
 <h4>Forms</h4>
 <ul>
