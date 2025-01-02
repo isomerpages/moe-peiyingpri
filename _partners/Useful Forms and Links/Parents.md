@@ -7,10 +7,7 @@ variant: tiptap
 ---
 <h3><strong>Parents</strong></h3>
 <p></p>
-<h4>Year-End School Holidays Advisory</h4>
-<p><a href="/files/Useful Forms and Links/Annex_A___Primary_Level_Joint_Advisory.pdf" rel="noopener nofollow" target="_blank">Primary Level Joint Advisory</a>
-</p>
-<h4>Briefing Slides for Parents</h4>
+<h4>Briefing Slides for Parents (2025)</h4>
 <p>Primary 1 Orientation Slides <a href="/files/2025_Day_1_Parents_Engagement_2_Jan.pdf" rel="noopener nofollow" target="_blank">Click here to download</a>
 </p>
 <h4>Forms</h4>
