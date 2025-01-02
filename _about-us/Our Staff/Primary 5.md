@@ -70,6 +70,9 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Joel Tee</p>
+<p><a href="mailto:tee_han_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tee_han_yun@schools.gov.sg</a>
+</p>
 <p></p>
 </td>
 </tr>
