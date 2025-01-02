@@ -47,22 +47,14 @@ third_nav_title: Useful Forms and Links
 <p></p>
 <h2>Useful Links</h2>
 <p>You can now login to the following accounts using your MIMS email and
-password.</p>
+password. Please remember to keep your passwords safe and log out from
+all your accounts after you have completed your tasks.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Student Learning Space</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg/login</a></strong>
-</p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Student MIMS Portal</strong>
@@ -74,11 +66,22 @@ password.</p>
 </td>
 </tr>
 <tr>
+<th rowspan="1" colspan="1">
+<p>Student Learning Space</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg/login</a></strong>
+</p>
+</th>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Student iCON account</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">https://workspace.google.com/dashboard</a></strong>
+</p>
 </td>
 </tr>
 </tbody>
