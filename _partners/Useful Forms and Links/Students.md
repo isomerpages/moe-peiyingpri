@@ -65,7 +65,7 @@ password.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Students MIMS Portal</strong>
+<p><strong>Student MIMS Portal</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
