@@ -80,7 +80,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Foo, Yang Xiaojing</p>
-<p><a href="mailto:yang_xiaojing@schools.gov" rel="noopener noreferrer nofollow" target="_blank">yang_xiaojing@schools.gov</a>.sg</p>
+<p><a href="mailto:yang_xiaojing@schools.gov" rel="noopener noreferrer nofollow" target="_blank">yang_xiaojing@schools.gov.sg</a>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -126,7 +127,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Yep Lee Yong</p>
-<p><a href="mailto:Yep_Lee_Yong@schools.gov" rel="noopener noreferrer nofollow" target="_blank">Yep_Lee_Yong@schools.gov</a>.sg</p>
+<p><a href="mailto:Yep_Lee_Yong@schools.gov" rel="noopener noreferrer nofollow" target="_blank">Yep_Lee_Yong@schools.gov.sg</a>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
