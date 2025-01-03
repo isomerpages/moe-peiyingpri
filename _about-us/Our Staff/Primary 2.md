@@ -68,6 +68,9 @@ variant: tiptap
 <p>Ms Nyoe Hui Yee</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Rita Gupta Abdullah</p>
+<p><a href="mailto:rita_gupta_k_prasad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rita_gupta_k_prasad@schools.gov.sg</a>
+</p>
 <p></p>
 </td>
 </tr>
@@ -162,12 +165,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Roslindah Bte Buang Sidik</p>
-<p></p>
 <p><a href="mailto:roslindah_buang_sidik@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">roslindah_buang_sidik@schools.gov.sg</a>
 </p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Yong Fook Lui</p>
+<p><a href="mailto:yong_fook_lui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yong_fook_lui@schools.gov.sg</a>
+</p>
 <p></p>
 </td>
 </tr>
