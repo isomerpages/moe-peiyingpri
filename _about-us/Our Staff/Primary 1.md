@@ -153,7 +153,7 @@ variant: tiptap
 <p>1 Wisdom</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs June Law</p>
+<p>Mrs June Lau</p>
 <p><a href="mailto:chew_koo_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_koo_hui@schools.gov.sg</a>
 </p>
 <p></p>
