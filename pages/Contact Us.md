@@ -161,7 +161,7 @@ will start at the usual time at 7.30am daily.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mon, Thur, Fri</p>
+<p>Mon, Tue, Thur, Fri</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7.30am</p>
@@ -172,7 +172,7 @@ will start at the usual time at 7.30am daily.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tue, Wed</p>
+<p>Wed</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7.30am</p>
