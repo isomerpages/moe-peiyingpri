@@ -68,6 +68,9 @@ variant: tiptap
 <p>Ms Nyoe Hui Yee</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Rita Gupta Abdullah</p>
+<p><a href="mailto:rita_gupta_k_prasad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rita_gupta_k_prasad@schools.gov.sg</a>
+</p>
 <p></p>
 </td>
 </tr>
@@ -77,7 +80,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Foo, Yang Xiaojing</p>
-<p><a href="mailto:yang_xiaojing@schools.gov" rel="noopener noreferrer nofollow" target="_blank">yang_xiaojing@schools.gov</a>.sg</p>
+<p><a href="mailto:yang_xiaojing@schools.gov" rel="noopener noreferrer nofollow" target="_blank">yang_xiaojing@schools.gov.sg</a>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -123,7 +127,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Yep Lee Yong</p>
-<p><a href="mailto:Yep_Lee_Yong@schools.gov" rel="noopener noreferrer nofollow" target="_blank">Yep_Lee_Yong@schools.gov</a>.sg</p>
+<p><a href="mailto:Yep_Lee_Yong@schools.gov" rel="noopener noreferrer nofollow" target="_blank">Yep_Lee_Yong@schools.gov.sg</a>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -162,12 +167,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Roslindah Bte Buang Sidik</p>
-<p></p>
 <p><a href="mailto:roslindah_buang_sidik@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">roslindah_buang_sidik@schools.gov.sg</a>
 </p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Yong Fook Lui</p>
+<p><a href="mailto:yong_fook_lui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yong_fook_lui@schools.gov.sg</a>
+</p>
 <p></p>
 </td>
 </tr>

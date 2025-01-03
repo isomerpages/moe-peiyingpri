@@ -65,8 +65,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lian Yiling</p>
-<p><a href="mailto:lian_yi_ling@schools.gov" rel="noopener noreferrer nofollow" target="_blank">lian_yi_ling@schools.gov</a>.sg</p>
-<p></p>
+<p><a href="mailto:lian_yi_ling@schools.gov" rel="noopener noreferrer nofollow" target="_blank">lian_yi_ling@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nur Hidayah Binte Abdul Rahman</p>
@@ -147,7 +147,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Lim Diana Tng Meng Tiang</p>
-<p><a href="mailto:diana_tng_meng_tiang@schools.gov" rel="noopener noreferrer nofollow" target="_blank">diana_tng_meng_tiang@schools.gov</a>.sg</p>
+<p><a href="mailto:diana_tng_meng_tiang@schools.gov" rel="noopener noreferrer nofollow" target="_blank">diana_tng_meng_tiang@schools.gov.sg</a>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">

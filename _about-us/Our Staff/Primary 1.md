@@ -60,8 +60,8 @@ variant: tiptap
 <p>1 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Soh Mun Leng</p>
-<p><a href="mailto:soh_mun_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">soh_mun_leng@schools.gov.sg</a>
+<p>Ms Thilagam</p>
+<p><a href="mailto:Thilagam_Ramalingam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Thilagam_Ramalingam@schools.gov.sg</a>
 </p>
 <p></p>
 </td>
@@ -89,7 +89,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Chen Ying</p>
-<p><a href="mailto:chen_ying_e@schools.gov" rel="noopener noreferrer nofollow" target="_blank">chen_ying_e@schools.gov</a>.sg</p>
+<p><a href="mailto:chen_ying_e@schools.gov" rel="noopener noreferrer nofollow" target="_blank">chen_ying_e@schools.gov.sg</a>
+</p>
+<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -151,7 +153,7 @@ variant: tiptap
 <p>1 Wisdom</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs June Law</p>
+<p>Mrs June Lau</p>
 <p><a href="mailto:chew_koo_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_koo_hui@schools.gov.sg</a>
 </p>
 <p></p>
