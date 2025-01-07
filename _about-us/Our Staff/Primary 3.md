@@ -52,7 +52,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Shih Xiu Rong</p>
-<p><a href="mailto:shih_xiu_rong@schools.gov" rel="noopener noreferrer nofollow" target="_blank">shih_xiu_rong@schools.gov</a>.sg</p>
+<p><a href="mailto:shih_xiu_rong@schools.gov" rel="noopener noreferrer nofollow" target="_blank">shih_xiu_rong@schools.gov.sg</a>
+</p>
 <p></p>
 </td>
 </tr>
@@ -95,6 +96,9 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Muhammad Riduwan Bin Selamat</p>
+<p><a href="mailto:Muhammad_Riduwan_Selamat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Muhammad_Riduwan_Selamat@schools.gov.sg</a>
+</p>
 <p></p>
 </td>
 </tr>
