@@ -118,10 +118,6 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Riduwan Bin Selamat</p>
-<p><a href="mailto:Muhammad_Riduwan_Selamat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Muhammad_Riduwan_Selamat@schools.gov.sg</a>
-</p>
-<p></p>
 <p></p>
 </td>
 </tr>
