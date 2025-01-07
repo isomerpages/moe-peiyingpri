@@ -6,7 +6,8 @@ variant: tiptap
 ---
 <h3><strong>Keeping In Touch Newsletters</strong></h3>
 <h2><strong>2025</strong></h2>
-<p></p>
+<p><a href="/files/Keeping in Touch Newsletter/1st_Keeping_in_Touch_Letter_to_Parents_2025.pdf" rel="noopener nofollow" target="_blank">02 Jan 2024 Keeping in Touch</a>
+</p>
 <h2><strong>2024</strong></h2>
 <p><a href="/files/Keeping in Touch Newsletter/1st_Keeping_in_Touch_Letter_to_Parents_2024_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">03 Jan 2024 Keeping in Touch</a>
 </p>
