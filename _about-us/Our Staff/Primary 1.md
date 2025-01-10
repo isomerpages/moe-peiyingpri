@@ -47,6 +47,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Seline Chen</p>
+<p><a href="mailto:chen_peiyu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_peiyu@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
