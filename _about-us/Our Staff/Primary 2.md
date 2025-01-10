@@ -66,6 +66,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nyoe Hui Yee</p>
+<p><a href="mailto:nyoe_hui_yee_C@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nyoe_hui_yee_C@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Rita Gupta Abdullah</p>
