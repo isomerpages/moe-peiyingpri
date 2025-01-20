@@ -5,6 +5,31 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
+<p></p>
+<h3>Peiying Primary School Welcomes Primary 1 Cohort on Day 1 2025</h3>
+<p></p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ5zczcs2o5_nG798YhwYoqAbv39U93qJWhy9gmkqZBxi3B4E59drv7kIOZdbUsvr9BIJ5X2JB82E5C/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>On 2 January 2025, Peiying Primary School warmly welcomed its new cohort
+of Primary 1 students as they embarked on an exciting educational journey
+with us. The day began with parents accompanying their children to their
+respective classrooms, where students had the opportunity to meet their
+teachers and new classmates. Engaging classroom activities were planned
+to help students ease into their new environment and foster connections
+with their peers.</p>
+<p>While the students settled into their routines, parents attended an engagement
+session with our Principal and Year Head. The parents were given insights
+into the school’s holistic approach to education, the support systems,
+and the importance of a strong school-home partnership.</p>
+<p>A highlight of the day was the parent-child bonding during recess, where
+parents joined their children in the school canteen. This shared experience
+not only strengthened familial ties but also helped students adapt to the
+school environment with greater confidence.</p>
+<p>We at Peiying Primary School are dedicated to nurturing every child’s
+growth and empowering them to become lifelong learners and confident leaders.
+Day 1 marked a promising start to this journey.</p>
+<p></p>
 <h3>Teacher's Day</h3>
 <p>At Peiying Primary School, we are incredibly fortunate to have a dedicated
 team of educators who consistently go above and beyond to nurture and inspire

@@ -431,10 +431,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Music</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Joyce Ang
+<br><a href="mailto:ang_yen_qing_joyce@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_yen_qing_joyce@schools.gov.sg</a>
+<br>
+</p>
 </td>
 </tr>
 </tbody>
