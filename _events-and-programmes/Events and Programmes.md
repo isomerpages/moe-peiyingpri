@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
 <p></p>
-<h3>Peiying Primary School E3 Day 2025: Explore, Experience, and Engage </h3>
+<h3>Peiying Primary School E3 Day 2025: Explore, Experience, and Engage</h3>
 <p>The Explore, Experience, and Engage (E3) Day is a 3-day programme designed
 by our school to warmly welcome our students back to school and support
 them in settling into the new academic year with confidence and enthusiasm.</p>
