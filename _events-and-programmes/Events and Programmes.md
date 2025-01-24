@@ -6,6 +6,23 @@ variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
 <p></p>
+<h3>Peiying Primary School E3 Day 2025: Explore, Experience, and Engage</h3>
+<p>The Explore, Experience, and Engage (E3) Day is a 3-day programme designed
+by our school to warmly welcome our students back to school and support
+them in settling into the new academic year with confidence and enthusiasm.</p>
+<p>Through a variety of engaging activities such as teambuilding games, class
+bonding and routines from the "Start It Right!" package, students get to
+know and build strong relationships with their peers and teachers. Highlights
+include the P1 and P4 Buddy Programme, fostering peer support from our
+P4 students to our P1 students.</p>
+<p>E3 Day emphasises the importance of self-management, social skills, and
+teamwork, providing our students with meaningful experiences to forge positive
+relationships and kickstart the school year with a sense of belonging.</p>
+<div class="iframe-wrapper">
+<iframe height="839" width="1440" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSSOma1iUzxmS25XMShg_OFlUtWKFni-N2mfX4kqSWKdNW41S1s4kuD0Y2jZUbnlVyCxdaFLQ8egoDa/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
+<p></p>
+<p></p>
 <h3>Peiying Primary School Welcomes Primary 1 Cohort on Day 1 2025</h3>
 <p></p>
 <div class="iframe-wrapper">
@@ -30,6 +47,24 @@ school environment with greater confidence.</p>
 growth and empowering them to become lifelong learners and confident leaders.
 Day 1 marked a promising start to this journey.</p>
 <p></p>
+<h3>Woodlands Police Division Green Challenge 2024</h3>
+<p>From 31 May to 31 July 2024, our school actively participated in the <strong>Woodlands Police Division Green Challenge 2024</strong>.
+Open to preschools and primary schools within the Woodlands Police Division,
+the challenge included engaging activities such as a colouring activity,
+word search, and poster design, aimed at promoting environmental and crime
+awareness among students.</p>
+<p>Our students enthusiastically participated in the challenge and demonstrated
+their creativity and dedication. Their efforts were recognised as our school
+was awarded a Winner’s Plaque for being among the top three primary schools
+with the highest number of participants. This achievement highlights our
+school’s commitment to nurturing socially responsible and environmentally
+conscious individuals.</p>
+<p>We are proud of our students for their active participation and look forward
+to more opportunities to inspire positive change in our community!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/woodlandspolice.jpg">
+</div>
 <h3>Teacher's Day</h3>
 <p>At Peiying Primary School, we are incredibly fortunate to have a dedicated
 team of educators who consistently go above and beyond to nurture and inspire
