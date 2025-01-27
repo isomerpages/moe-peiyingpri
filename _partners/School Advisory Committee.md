@@ -96,6 +96,14 @@ in the educational process.</p>
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Kevin Lee Poh Keong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Cheng Puay Koon</p>
 </td>
 </tr>
