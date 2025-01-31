@@ -5,7 +5,28 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
-<p></p>
+<h3><strong>🐍🎊 Peiying Primary School's Chinese New Year Celebration 2025 🎊🐍&nbsp;</strong></h3>
+<p>This year, Peiying Primary School welcomed the Year of the Snake with
+a vibrant celebration that brought our school community together in the
+spirit of joy, unity, and cultural appreciation. The event served as a
+meaningful platform for students to learn about the origins of Chinese
+New Year, the significance of its traditions, and the symbolism of the
+12 Chinese Zodiac animals, with a focus on the zodiac Snake.&nbsp;</p>
+<p>The celebration featured a series of captivating performances by our talented
+students, including a mesmerizing Guzheng recital, a dynamic Wushu display,
+and an elegant traditional dance. Teachers contributed to the festive atmosphere
+with a specially choreographed mass dance to the iconic Chinese New Year
+song 《贺新年》, engaging both staff and students in a shared moment of joy.&nbsp;</p>
+<p>Adding to the excitement, the event included a thrilling Lion Dance performance,
+symbolizing positive energy and happiness for the year ahead. Students
+and staff also came together to sing traditional Chinese New Year songs,
+reinforcing the festive spirit.&nbsp;</p>
+<p>Through this memorable occasion, Peiying Primary School continues to nurture
+caring citizens and foster a deeper appreciation to customs and cultural
+practices in Singapore.</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSdyRRmAhciiYasfknMZqizpuOB23gKTOEl0AmOGiwWcYr0H9ODEjt4HZDf9iAHEBq5hFqpgcCnKbtk/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
 <h3>Peiying Primary School E3 Day 2025: Explore, Experience, and Engage</h3>
 <p>The Explore, Experience, and Engage (E3) Day is a 3-day programme designed
 by our school to warmly welcome our students back to school and support
