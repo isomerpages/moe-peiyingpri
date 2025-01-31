@@ -6,6 +6,9 @@ variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
 <h3><strong>🐍🎊 Peiying Primary School's Chinese New Year Celebration 2025 🎊🐍&nbsp;</strong></h3>
+<div class="iframe-wrapper">
+<iframe height="839" width="1440" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSdyRRmAhciiYasfknMZqizpuOB23gKTOEl0AmOGiwWcYr0H9ODEjt4HZDf9iAHEBq5hFqpgcCnKbtk/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
 <p>This year, Peiying Primary School welcomed the Year of the Snake with
 a vibrant celebration that brought our school community together in the
 spirit of joy, unity, and cultural appreciation. The event served as a
@@ -24,9 +27,6 @@ reinforcing the festive spirit.&nbsp;</p>
 <p>Through this memorable occasion, Peiying Primary School continues to nurture
 caring citizens and foster a deeper appreciation to customs and cultural
 practices in Singapore.</p>
-<div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSdyRRmAhciiYasfknMZqizpuOB23gKTOEl0AmOGiwWcYr0H9ODEjt4HZDf9iAHEBq5hFqpgcCnKbtk/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
-</div>
 <h3>Peiying Primary School E3 Day 2025: Explore, Experience, and Engage</h3>
 <p>The Explore, Experience, and Engage (E3) Day is a 3-day programme designed
 by our school to warmly welcome our students back to school and support
