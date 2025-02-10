@@ -12,9 +12,9 @@ sections:
         - title: Termly Check-In Survey
           description: Click here for more info
           url: /partners/useful-forms-and-links/students/
-        - title: Voices of Peiying
-          description: Leadership Role Application
-          url: https://go.gov.sg/leadership-role-application
+        - title: Term 1 Pride Stars
+          description: Click here for more info
+          url: https://go.gov.sg/voicesofpeiying-pridestars
         - title: Facebook
           description: Peiying Primary Facebook Page
           url: https://www.facebook.com/peiyingpri
