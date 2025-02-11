@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/Main Page/WebsiteBanner2024_5_2.gif
       key_highlights:
-        - title: Termly Check-In Survey
+        - title: Parents' Briefing Slides
           description: Click here for more info
-          url: /partners/useful-forms-and-links/students/
+          url: /partners/useful-forms-and-links/parents/
         - title: Inspiring Language Teachers Award 2025
           description: Click here for more info
           url: /inspiring-language-teachers-award-2025/
