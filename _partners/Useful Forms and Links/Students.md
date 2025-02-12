@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Useful Forms and Links
 ---
+<h2>14 Feb HBL Schedule</h2>
+<p><strong>Primary 1 &amp; 2 HBL Schedule</strong>  <a href="/files/HBL_14_February.pdf" rel="noopener nofollow" target="_blank">Click here to view</a>
+</p>
 <h2>Term 1 Check-in survey</h2>
 <table style="minWidth: 50px">
 <colgroup>
