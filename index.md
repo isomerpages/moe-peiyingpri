@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Parents' Briefing Slides
           description: Click here for more info
-          url: /partners/useful-forms-and-links/parents/
+          url: HBL_14_February
         - title: Inspiring Language Teachers Award 2025
           description: Click here for more info
           url: /inspiring-language-teachers-award-2025/
