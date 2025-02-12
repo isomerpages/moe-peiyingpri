@@ -5,6 +5,39 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
+<p></p>
+<h3>✨🎉 <strong>Friendship Week 2025</strong> 💖🤝</h3>
+<div class="iframe-wrapper">
+<iframe height="839" width="1440" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSFZmzFg5Ihof8rxsz2baGAC9FgMLrnCrd2awdIQlLP4uX3rHJjggoLeQV6ZFQUqsAPXH46-OYqPwIF/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>In January, Peiying Primary School celebrated the joy of friendship—both
+old and new! With the theme <em>“Everyone Can Learn to Be a Friend,”</em> the
+exciting week tied in with the school’s peer support message, <em>“Every Peiying Student is a Buddy”.</em>
+</p>
+<p>The Friendship Week kicked off with lively pre-assembly talks and class
+activities led by Form Teachers. Through fun role-plays and discussions,
+students picked up useful skills on being upstanders and peacemakers, learning
+how to step up when a friend needs help. Each level explored different
+friendship themes:</p>
+<p><strong>Primary 1 &amp; 2</strong> – <em>How to Make Friends</em>
+<br><strong>Primary 3 &amp; 4</strong> – <em>How to Help My Friends</em>
+<br><strong>Primary 5 &amp; 6</strong> – <em>How to Be Peacemakers and Help Friends Manage Conflicts</em>
+</p>
+<p>Throughout the week, the school was buzzing with friendship-filled activities!
+In the canteen, students had a blast at the <strong>Bingo Game Booth</strong>,
+where they searched for friends who matched descriptions on their Bingo
+Cards. At the <strong>Friendship Card Booth</strong>, they wrote notes of
+appreciation to their friends. Over in the library, students were encouraged
+to borrow books about friendship, discovering even more ways to be a great
+friend!</p>
+<p>The Friendship Week was a wonderful reminder of our Term 1 Growth Mindset
+theme, <em>“Everyone Can Learn,”</em> to be a good friend. Here at Peiying
+Primary School, we believe in building a caring and inclusive environment
+where friendships grow and flourish—one kind act at a time!<strong>&nbsp;</strong>
+</p>
+<p></p>
+<p></p>
+<p></p>
 <h3><strong>🐍🎊 Peiying Primary School's Chinese New Year Celebration 2025 🎊🐍&nbsp;</strong></h3>
 <p></p>
 <div class="iframe-wrapper">

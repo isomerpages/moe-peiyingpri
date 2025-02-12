@@ -10,6 +10,14 @@ variant: tiptap
 <h4>Briefing Slides for Parents (2025)</h4>
 <p>Primary 1 Orientation Slides <a href="/files/2025_Day_1_Parents_Engagement_2_Jan.pdf" rel="noopener nofollow" target="_blank">Click here to download</a>
 </p>
+<p>Primary 2 Parents Briefing Slides <a href="https://online.fliphtml5.com/cuxpm/vtpf/" rel="noopener nofollow" target="_blank">Click here to view</a>
+</p>
+<p>Primary 3 Parents Briefing Slides <a href="https://online.fliphtml5.com/cuxpm/jhxm/" rel="noopener nofollow" target="_blank">Click here to view</a>
+</p>
+<p>Primary 4 Parents Briefing Slides <a href="https://online.fliphtml5.com/cuxpm/tzcw/" rel="noopener nofollow" target="_blank">Click here to view</a>
+</p>
+<p>Primary 5 &amp; 6 Parents Briefing Slides <a href="https://online.fliphtml5.com/cuxpm/vpiy/" rel="noopener nofollow" target="_blank">Click here to view</a>
+</p>
 <h4>Forms</h4>
 <ul>
 <li>
