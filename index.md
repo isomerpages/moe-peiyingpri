@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/Main Page/WebsiteBanner2024_5_2.gif
       key_highlights:
-        - title: 14 Feb HBL Schedule
-          description: Click here for more info
-          url: /partners/useful-forms-and-links/students/
+        - title: Voices of Peiying
+          description: PRIDE Stars & Catch Me Right
+          url: https://www.peiyingpri.moe.edu.sg/partners/useful-forms-and-links/students/
         - title: Inspiring Language Teachers Award 2025
           description: Click here for more info
           url: /inspiring-language-teachers-award-2025/
