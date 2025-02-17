@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Voices of Peiying
           description: PRIDE Stars & Catch Me Right
-          url: ""
+          url: /partners/useful-forms-and-links/students/
         - title: Inspiring Language Teachers Award 2025
           description: Click here for more info
           url: /inspiring-language-teachers-award-2025/
