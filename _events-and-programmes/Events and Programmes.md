@@ -5,6 +5,31 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
+<p></p>
+<h3><strong>🛡️💧 Total Defence Day 2025 💧🛡️</strong></h3>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRMbm6IGEvyWpea47Q96RmqgbT6UNxkbr-o6-3gL2MXKe65HtS5kmdORFAk7UZINFs4nKdflZiXi_wH/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>On 13 February 2025, our school commemorated Total Defence Day. 15 February
+is a day etched in our hearts, reminding us of the resilience of our nation
+during challenging times when Singapore fell to the Japanese in 1942 during
+World War II.</p>
+<p>As part of the commemoration, students and staff experienced a water disruption
+simulation. All the water points in the canteen and Staff Room were cordoned
+off during the recess periods. Students and staff had to find other sources
+of water in another location in the school. It was a tangible reminder
+of our vulnerability, given Singapore's dependence on water supply and
+the potential disruptions it could entail. This exercise also helped our
+students develop the resilience and adaptability needed to cope with such
+real-world challenges.&nbsp;</p>
+<p>After the simulation, our students engaged in reflective discussions,
+sharing their emotions and insights. It's not just about experiencing the
+simulation; it's about fostering a sense of solidarity and resilience within
+our school community, echoing the spirit of Total Defence that has sustained
+our nation.</p>
+<p></p>
+<p></p>
+<p></p>
 <h3><strong>Cyber Wellness Week 2025: Fostering Responsible Digital Citizens</strong></h3>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTK6d0-zM0qHNvrs5kLKEn1lpbBf02Mrqy01Xk_y0wBEzRCv0-nfNK2B-YIeNtoZp8y4jxS7Q7_Rct6/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
