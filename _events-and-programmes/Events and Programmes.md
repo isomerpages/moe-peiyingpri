@@ -5,6 +5,30 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
+<h3><strong>Cyber Wellness Week 2025: Fostering Responsible Digital Citizens</strong></h3>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTK6d0-zM0qHNvrs5kLKEn1lpbBf02Mrqy01Xk_y0wBEzRCv0-nfNK2B-YIeNtoZp8y4jxS7Q7_Rct6/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>Cyber Wellness Week 2025, held from 3 to 7 February 2025, was a meaningful
+and enriching event aimed at promoting online etiquette and balanced technology
+use among students. Through engaging activities, students gained valuable
+insights into responsible digital behaviour that helped them become smarter
+and safer digital citizens.</p>
+<p>The week kicked off with the Cyber Wellness Pledge, where all students
+proudly promised to become Cyber Wellness Champions, to observe responsible
+and respectful behaviour online. During the assembly programme, the engaging
+presenter highlighted key aspects of safe and respectful online interactions.
+Students were encouraged to think critically about their digital footprint
+and the impact of their online actions.</p>
+<p>The fun didn’t stop there! In the school library, students were drawn
+into captivating storytelling sessions that brought online safety lessons
+to life. Recess time became a thrilling challenge as students tested their
+cyber smarts with Kahoot quizzes—cheers and laughter filled the air as
+they raced to answer questions about staying safe online.</p>
+<p>Cyber Wellness Week 2025 successfully equipped students with essential
+digital literacy skills, empowering them to navigate the online world safely
+and responsibly. Peiying Primary School remains committed to nurturing
+kind, thoughtful, and responsible digital citizens!</p>
 <p></p>
 <h3>✨🎉 <strong>Friendship Week 2025</strong> 💖🤝</h3>
 <div class="iframe-wrapper">
