@@ -5,6 +5,28 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
+<h3><strong>Track &amp; Field Meet 2025</strong></h3>
+<p></p>
+<p>Our Primary 3 to Primary 6 students assembled at Yishun Stadium in the
+early morning of 14 February 2025 for the school’s Track and Field Meet.
+This annual event is an ideal platform to showcase not only the athletic
+prowess of the students but also the core values that define our school
+community.</p>
+<p>Before the start of the Meet, student joined in the Jump Jam routine led
+by the Junior Sports Leaders. Every student had the opportunity to participate
+in at least one of the running events, namely the 4x100 metres Relay, 12x80
+metres Baton Relay, Ladder Running Relay, Sprint Hurdle Relay and Long
+Rope Skipping Relay.</p>
+<p>Through their enthusiastic participation, students demonstrated perseverance
+while striving for personal best in the various events. Integrity was exemplified
+through the athletes’ fair play and spirit of sportsmanship. The students
+showed respect and empathy to one another by cheering their schoolmates
+on with the Peiying’s 55-claps Welcome Cheer and their respective house
+cheers.</p>
+<p>The annual Track and Field Meet is more than just our school’s sporting
+event; it is a testament to the P.R.I.D.E. values that our teachers instil
+in our students.</p>
+<p></p>
 <p></p>
 <h3><strong>🛡️💧 Total Defence Day 2025 💧🛡️</strong></h3>
 <div class="iframe-wrapper">
