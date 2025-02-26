@@ -42,29 +42,22 @@ variant: tiptap
 <p>We aim to</p>
 <ul>
 <li>
-<p>inculcate in every child a love for reading and an appreciation of a variety
-of genres.</p>
+<p>foster a love for reading and an appreciation of diverse literary genres
+in every child</p>
 </li>
 <li>
-<p>nurture pupils to become confident speakers and writers in a language-enriched
+<p>cultivate confident speakers and writers by providing a language-rich
 environment.</p>
 </li>
 <li>
-<p>develop in pupils thinking skills to make critical judgements necessary
-for the globalised world.</p>
+<p>equip pupils with critical thinking skills essential for making informed
+judgments in a globalised world.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
 <img style="width:40%" height="auto" width="100%" src="/images/programmes.png">
 </div>
-<p>1. <strong>St</strong>rategies for <strong>E</strong>nglish <strong>L</strong>anguage <strong>L</strong>earning <strong>A</strong>nd <strong>R</strong>eading <strong>(STELLAR)</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/english0.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:51%" height="auto" width="100%" src="/images/english1.jpg">
-</div>
+<h4><strong><u>St</u></strong><u>rategies for </u><strong><u>E</u></strong><u>nglish </u><strong><u>L</u></strong><u>anguage </u><strong><u>L</u></strong><u>earning </u><strong><u>A</u></strong><u>nd </u><strong><u>R</u></strong><u>eading </u><strong><u>(STELLAR)</u></strong></h4>
 <p>The STELLAR Curriculum aims to:</p>
 <p>strengthen both language and reading skills as well as promote a positive
 attitude towards reading in the foundational years through a variety of
@@ -96,80 +89,72 @@ is made up of three major teaching strategies:</p>
 <p>Differentiated Instruction (DI)</p>
 </li>
 </ul>
-<h5><strong>2. EL Fiesta</strong></h5>
 <div class="isomer-image-wrapper">
-<img style="width:25%" height="auto" width="100%" src="/images/english2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/EL1.png">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/EL2.png">
+</div>
+<p>Group Writing for MLEA</p>
+<h4>EL Fiesta</h4>
 <p>The Language Fiesta, a month-long event featuring a variety of activities,
-is organised to help pupils to&nbsp;learn the English Language in a fun
-way. It is in line with the national Speak Good English Movement, with
-the objective of encouraging pupils to use grammatically correct&nbsp;English
-that is universally understood. Throughout April, all pupils are involved
-in a host of engaging EL activities at every level to&nbsp;raise awareness
-of the importance of English Language, and&nbsp;encourage pupils to continue
-to&nbsp;speak and write standard English&nbsp;throughout the year.</p>
-<div class="isomer-image-wrapper">
-<img style="width:35%" height="auto" width="100%" src="/images/english3.jpg">
-</div>
+is organised to help pupils to learn the English Language in a fun way.
+It is in line with the national Speak Good English Movement, with the objective
+of encouraging pupils to use grammatically correct English that is universally
+understood. Throughout April, all pupils are involved in a host of engaging
+EL activities at every level to raise awareness of the importance of English
+Language, and encourage pupils to continue to speak and write standard
+English throughout the year.</p>
 <p>Various fun and meaningful activities are organised, which include Oratorical
 Contest, Reader's Theatre, Choral Reading, Spelling Bee, quizzes and games.
 English game booths, designed and conducted by the EL Club members and
 EL Ambassadors feature fun language games for the pupils to play during
 recess.</p>
-<div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/english4.jpg">
-</div>
 <p>Characters from popular children’s books also come alive, such as Pinocchio
 and Little Red Riding Hood, as they mingle among the Peiying students and
-converse about their storybook roles.</p>
+converse about their storybook roles.’</p>
 <div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/english5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/EL3.png">
 </div>
-<h5><strong>3. Extended Reading Programme</strong></h5>
-<p>A variety of interesting books have been provided for all levels in the
-school. These books are found in the classroom library corners, where the
-English Ambassadors will coordinate the loaning of books borrowed.</p>
 <div class="isomer-image-wrapper">
-<img style="width:45%" height="auto" width="100%" src="/images/english6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/EL4.png">
 </div>
-<p>The programme is pegged with the TicTacToe reading activity, which encourages
-pupils to complete a set of connection activities. These connection activities
-(such as designing a poster of the book read and writing a letter to the
-main character) are designed to provide differentiation for learning abilities
-and interests of pupils.</p>
-<h5><strong>4. Little Red Dot</strong></h5>
 <div class="isomer-image-wrapper">
-<img style="width:45%" height="auto" width="100%" src="/images/english7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/EL5.png">
 </div>
-<p>The subscription of the newspaper The Straits Times and its supplement,
-Little Red Dot, ensure that P4 &amp; P5 pupils are exposed to current affairs
-and expository writing throughout the year.&nbsp;</p>
-<p>There is an enhancement of grammar and vocabulary through exposure to
-the various articles targeted at the primary school pupils. National Education
-messages are also infused into the EL lessons through the discussion of
-topics highlighted in every issue.</p>
-<h5><strong>5. Let's Read Programme</strong></h5>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/english8.jpg">
-</div>
+<p>Parents and P1 students at the inaugural Read@Peiying event</p>
+<h4><strong>English Reading Programmes @ Peiying</strong></h4>
+<h4>Extended Reading Programme</h4>
+<p>A wide selection of engaging books is available for all levels across
+the school. These books are housed in the classroom library corners, where
+English Ambassadors oversee the borrowing and loaning process.</p>
+<p>The programme is integrated with the Peiying Reader Card reading activity,
+which motivates pupils to complete a series of tasks related to their reading.
+Activities such as designing a poster based on the book or writing a letter
+to the main character are tailored to accommodate different learning abilities
+and interests, ensuring a meaningful and enjoyable reading experience for
+every student.</p>
+<h4><br>Let’s Read Programme<strong>&nbsp;</strong></h4>
+<p>The subscription to the <em>Little Red Dot</em> newspaper ensures that Primary
+4, 5, and 6 students are consistently exposed to current affairs and expository
+writing throughout the year. Through engaging, age-appropriate articles,
+students enhance their grammar and vocabulary while deepening their understanding
+of various topics.&nbsp;</p>
+<p>Additionally, National Education messages are seamlessly incorporated
+into English lessons, fostering meaningful discussions on themes highlighted
+in each issue.</p>
 <p>The Reading Programme gives exposure to P1, P2 and P3 pupils to a wide
 variety of text types, such as storybooks and magazines. It promotes reading
 and fosters a love of books and literature through motivating stories.</p>
-<h5><strong>6. Media Resource Library (MRL) - READ @ Peiying</strong></h5>
-<div class="isomer-image-wrapper">
-<img style="width:55%" height="auto" width="100%" src="/images/english9.png">
-</div>
-<p>READ @ Peiying refers to&nbsp;<strong>R</strong>eading&nbsp;<strong>E</strong>xtensively&nbsp;<strong>A</strong>ids
-Un<strong>D</strong>erstanding both in and out of the classrooms. The MRL
-believes in the whole-school approach to develop a school-wide reading
-culture, so students would need access to a wide variety of books and school-wide
-programmes, and initiatives should be made available with a structured
-time set aside to allow for reading for pleasure.</p>
-<div class="isomer-image-wrapper">
-<img style="width:55%" height="auto" width="100%" src="/images/english10.jpg">
-</div>
+<h4>Media Resource Library (MRL) - READ @ Peiying<br></h4>
+<p>READ @ Peiying refers to Reading Extensively Aids UnDerstanding both in
+and out of the classrooms. The MRL believes in the whole-school approach
+to develop a school-wide reading culture, so students would need access
+to a wide variety of books and school-wide programmes, and initiatives
+should be made available with a structured time set aside to allow for
+reading for pleasure.</p>
 <p>These initiatives include</p>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
 <p>providing ERP books for their class libraries</p>
 </li>
@@ -182,96 +167,36 @@ time set aside to allow for reading for pleasure.</p>
 <li>
 <p>Organising a Mobile Library every month at the canteen</p>
 </li>
+<li>
+<p>Blind date with a book</p>
+</li>
 </ul>
 <p>The school also partners with public libraries to conduct reading activities.</p>
-<h5><strong>7. Collaborations</strong></h5>
-<p>As part of the school’s whole school approach to develop to a school-wide
-reading culture, it collaborates with the National Library Board (NLB)
-to promote a love for reading.</p>
-<p>Among the activities conducted throughout the year are:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Book 2 Go – Mass Borrowing of books</p>
-</li>
-<li>
-<p>Book Buzz – Book talks conducted by librarians during assembly</p>
-</li>
-<li>
-<p>Storytelling sessions by the librarians for P1 to P3 classes</p>
-</li>
-<li>
-<p>Book Bugs</p>
-</li>
-<li>
-<p>Reading Interest Profile</p>
-</li>
-<li>
-<p>Read Rail</p>
-</li>
-<li>
-<p>Teachers’ Workshop - storytelling techniques, NLB’s eResources, eBooks</p>
-</li>
-</ul>
-<div class="isomer-image-wrapper">
-<img style="width:49.5%" height="auto" width="100%" src="/images/english11.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:31.5%" height="auto" width="100%" src="/images/english12.jpg">
-</div>
-<p>The school also collaborates with other schools in the cluster&nbsp;to
-conduct workshops for students such as digital storytelling using software
-such as Newsmaker.</p>
-<h5><strong>8. Intervention Programmes</strong></h5>
-<div class="isomer-image-wrapper">
-<img style="width:35%" height="auto" width="100%" src="/images/english13.jpg">
-</div>
-<p>(a) Learning Support Programme (LSP)
-<br>It is an early intervention programme aimed at providing additional support
-to students who enter Primary 1 lacking developmentally appropriate English
-language and literacy skills. Its objective is to equip these students
-with basic reading and spelling skills.</p>
-<p>(b) Reading Remediation Programme (RRP)
-<br>The Reading Remediation Programme (RRP) is an additional literacy support
-programme implemented at P3 and P4 to support students with reading difficulties
-but who do not have dyslexia.</p>
-<p>(c) School Dyslexic Remediation (SDR)
-<br>The School-based Dyslexia Remediation (SDR) Programme enables students
-to become strategic decoders and spellers, flexible in the use of different
-strategies. It equips students with decoding and spelling strategies, and
-internalise these strategies which they would use through practice.</p>
-<h5><strong>9. P3 and P4 Enrichment Programme</strong></h5>
-<p>With the aim of promoting oracy among students, the English department
-conducted several enrichment workshops for Primary 3 and Primary 4 students.</p>
-<p>Primary 3 students were engaged in Readers’ Theatre, which helped them
-to learn to express themselves appropriately, confidently, clearly, eloquently
-and expressively. They were also taught a variety of vocal techniques to
-present their stories.</p>
-<p>Primary 4 students had the opportunity to do Public Speaking, which helped
-them to learn the right public speaking skills in order to become an empathetic
-and effective communicator. The workshop also helped them gain confidence
-and motivation in delivering a narrative through positive reinforcement.</p>
-<div class="iframe-wrapper">
-<iframe height="350" width="600" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT3meONARLFTyN6xQasNysTQXhDZZ2eTME6mGRQk5KLzPgvnFB8ndCYh47uOG3TT3oEGRP1MqEPGPx8/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:40%" height="auto" width="100%" src="/images/useful%20links.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/EL6.png">
 </div>
-<p>1)&nbsp;<a href="https://www.goodenglish.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Speak Good English Movement</a>
+<h4>P3 and P4 Oracy Programme</h4>
+<p>To promote oracy among students, the English Department organises an annual
+enrichment workshop for Primary 3 and Primary 4 students.</p>
+<p>Primary 3 students participate in Readers’ Theatre, where they learn to
+express themselves confidently, clearly, eloquently, and with appropriate
+expression. The workshop also introduces various vocal techniques to help
+them effectively bring stories to life.</p>
+<p>Primary 4 students attend a Public Speaking workshop which equips them
+with essential skills to become empathetic and effective communicators.
+Through positive reinforcement, the workshop boosts their confidence and
+motivation, enabling them to deliver a speech with impact.
+<br>
 </p>
-<p>2)&nbsp;<a href="http://www.stellarliteracy.sg/" rel="noopener noreferrer nofollow" target="_blank">STELLAR</a>
-</p>
-<p>3)&nbsp;<a href="http://www.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">National Library Board</a>
-</p>
-<p>4)&nbsp;<a href="https://schoolibrary.moe.edu.sg/peiyingpri" rel="noopener noreferrer nofollow" target="_blank">Peiying Primary School Library</a>
-</p>
-<p>5)&nbsp;<a href="https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" rel="noopener noreferrer nofollow" target="_blank">School eResource Repository</a>
-</p>
-<p></p>
-<h4><strong>Peiying Readers Card Templates</strong></h4>
-<p>Click&nbsp;on the image below to download a copy of the Peiying Readers
-Card Templates</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/peiying readers template cover.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/EL7.png">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/EL8.png">
+</div>
+<p>
+<br>
+</p>
+<h5></h5>
 <p></p>
