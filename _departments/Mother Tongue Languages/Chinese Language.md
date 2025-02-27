@@ -26,13 +26,10 @@ use of the card game, booklet, and school-based online resources.</p>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Department/CL1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/CL6.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Department/CL3.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Department/CL4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/CL7.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Department/CL5.jpg">
