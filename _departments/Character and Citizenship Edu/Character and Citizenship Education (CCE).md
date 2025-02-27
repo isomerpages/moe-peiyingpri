@@ -13,14 +13,6 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Head of Department</strong>
 </p>
@@ -42,30 +34,18 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
 <img style="width:65%" height="auto" width="100%" src="/images/department%20objectives.jpg">
 </div>
-<p>
-<br>
-<br>
-</p>
 <p>We aim to</p>
 <ul>
 <li>
 <p>inculcate values and build competencies in our students</p>
 </li>
 <li>
-<p>develop ours students to be good individuals and useful citizens</p>
+<p>develop our students to be good individuals and useful citizens</p>
 </li>
 </ul>
 <p><strong>Platforms for Values Education @ Peiying</strong>
@@ -80,7 +60,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:40%" height="auto" width="100%" src="/images/programmes.png">
 </div>
-<h5><strong>1. Student Leadership Development Programme</strong></h5>
+<h4>Student Leadership Development Programme</h4>
 <div class="isomer-image-wrapper">
 <img style="width:55%" height="auto" width="100%" src="/images/cce1.jpg">
 </div>
@@ -98,12 +78,7 @@ of belonging to the school.&nbsp;</p>
 </li>
 </ul>
 <p><strong>3-Tiered Leadership Roles</strong>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:45%;margin-right:15px;" height="auto" width="100%" src="/images/cce2.png">
-</div>
-<p>In Peiying Primary School, we build character and develop our students’
+<br>In Peiying Primary School, we build character and develop our students’
 potential through the Student Leadership development Programme.&nbsp; The
 school provides leadership opportunities to stretch students’ abilities
 to lead self, peers, school and community. The school nurtures leadership
@@ -112,7 +87,7 @@ and trainings.&nbsp;
 <br>We customised leadership trainings to build character in our students.
 The ‘I Can Lead’ – is a customised school-wide leadership programme for
 Primary 1 to Primary 6.</p>
-<h5><strong>2. Values in Action (VIA)</strong></h5>
+<h4>Values in Action (VIA)</h4>
 <p>Our VIA programme aims to&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -137,37 +112,10 @@ are given the opportunities to be actively involved in:</p>
 <p>Care for the Environment.</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/cce3.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/cce4.jpg">
-</div>
-<p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-</p>
-<h5><strong>3. National Education</strong></h5>
+<h4>National Education</h4>
 <p><strong>(a) NE Learning Journeys</strong>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/cce5.png">
-</div>
-<p>
 <br><strong>(b) Heritage Trails</strong>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:35%" height="auto" width="100%" src="/images/cce6.jpg">
-</div>
-<p>In addition to our learning journeys, our school also conducts Heritage
+<br>In addition to our learning journeys, our school also conducts Heritage
 Trails for our students to help them bridge their understanding of the
 knowledge gained from their Social Studies lessons and our National Education
 principles.&nbsp;</p>
@@ -175,7 +123,7 @@ principles.&nbsp;</p>
 tasks. They would get the chance to explore the Heritage displays around
 the school to learn more the contributions of our founding fathers, our
 languages and also the traditions and practices of our diverse ethnic groups.</p>
-<h5><strong>4. PRIDE Star Award</strong></h5>
+<h4>PRIDE Star Award</h4>
 <p>PRIDE Star Awards aims to:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -206,7 +154,7 @@ be given the following awards based on the values demonstrated:</p>
 <p>Empathy Star</p>
 </li>
 </ul>
-<h5><strong>5. Values for Breakfast</strong></h5>
+<h4>Values for Breakfast</h4>
 <p>Values for Breakfast is a classroom-based assembly programme. These lesson
 packages are design to engage students in the explicit teaching of the
 school core values.&nbsp;&nbsp;These lessons help our students to gain
