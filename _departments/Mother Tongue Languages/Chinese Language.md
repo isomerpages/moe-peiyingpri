@@ -24,14 +24,48 @@ use of the card game, booklet, and school-based online resources.</p>
 <p>Provide opportunities for students to develop collaboration skills.</p>
 </li>
 </ul>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="468" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXexov1jZP2i3Boe-FvnEP_jmlpmv5s0ktMJk1MO1b-xLCdaRnTNx_TTQXhDN7hMqAAvfjmBeLAer2jUyKpvAHIu_e55kEjhpvPAQ2u7bjVzyEA4htkeLoS0UVSxv0eZTbnJmmxo6A?key=fcZOvyVZpTCBx47kPEKpaN9a">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="163" width="221" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfRcTi4DOkDGpfuxJWT_9zO2AouPe7xtYQlk-aFUVebU2S-WinHfaSZBdgTYxiL-q5DR-MV9ueKl82qmRSwOuCB2V4oos2SuHG2afDLplbFw8yo9YQ8OR08T5sNikRIr9FhTiGZUQ?key=fcZOvyVZpTCBx47kPEKpaN9a">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="832" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc18Fc9ubTtHd3Rx4ZcyUqqJhuYsRvIU1WrRe8zs4BbeBLFQOTN0vJGHLbM0khcTUCeZv03410balgBgIVpVlS5lJ5VsD_Hm8jRjLVqRDbKVnO1YuXCUmfKCVna_5CNnrr7Jrgzdw?key=fcZOvyVZpTCBx47kPEKpaN9a">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="832" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfmeAch-K59AUg4UkML89FcBOh7FbzIpxJKMsznNmmGgtAUub6im5jsOAyrO-rI4ZNrs5jeD3kxprzJq5rrI7V-Tq5tP-W5LaPGCI8-br1N_CoGAttfIGcMNPHMxtTwRKmIUSP5SA?key=fcZOvyVZpTCBx47kPEKpaN9a">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="343" width="457" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfep-F3p6VbnMSXV2HxgyOpnqo--gU8cudG8JcDv-44xVSJlwNn_ln0KoV36MQylQsXq_NHSZQEru5jDb95FjaN29HCa2PF4q0I072Pr0tEgUDH1sSpHZhv2cBLgVZtv6mHD12C3g?key=fcZOvyVZpTCBx47kPEKpaN9a">
+</div>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p>
-<br>
-</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>Write and Learn Project</h4>
 <p>We aim to:</p>
 <ul>
