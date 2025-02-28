@@ -4,4 +4,133 @@ permalink: /departments/pe-and-aesthetics/
 description: ""
 variant: tiptap
 ---
-<h3><strong>PE &amp; Aesthetics</strong></h3><table><tbody><tr><td rowspan="1" colspan="1"><p><strong>Head of Department</strong></p></td><td rowspan="1" colspan="1"><p>Mr Mohamad Ikhwan<br><a href="mailto:mohamad_ikhwan_mohamad_haron@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohamad_ikhwan_mohamad_haron@schools.gov.sg</a></p></td></tr></tbody></table><p></p><div class="isomer-image-wrapper"><img style="width:60%" height="auto" width="100%" src="/images/department%20objectives.jpg"></div><p>We aim to</p><ul><li><p>teach students to acquire a range of motor skills to participate in a variety of physical activities</p></li><li><p>enable students to understand and apply movement concepts, principles and strategies in a range of physical activities</p></li><li><p>provide platforms for students to demonstrate safe practices during physical and daily activities with respect to themselves, others and the environment</p></li><li><p>provide opportunities for students to display positive personal and social behaviour across different experiences</p></li><li><p>teach students to acquire and maintain health-enhancing fitness through regular participation in physical activities</p></li><li><p>enable students to enjoy and value the benefits of living a physically active and healthy life</p></li></ul><div class="isomer-image-wrapper"><img style="width:35%" height="auto" width="100%" src="/images/programmes.png"></div><p><strong>1. Primary 5 Camp</strong></p><p>The Primary 5 camp is an annual 3day &amp; 2night camp. Campers, ex-Peiying pupils cum instructors and all teachers are involved in this yearly affair. A wide variety of indoor and outdoor activities would be planned for the students.&nbsp; The main highlight of each camp would be the Campfire, held on the second night of the camp. Campers would put up performances and sing songs during the 2 hour sessions. Four best camper awards would also be given out and an all-round best camper per house would be awarded as well.</p><div class="isomer-image-wrapper"><img style="width:43%" height="auto" width="100%" src="/images/pe1.jpg"></div><div class="isomer-image-wrapper"><img style="width:49%" height="auto" width="100%" src="/images/pe2.jpg"></div><p><strong>2. Lower Primary Games Day</strong></p><div class="isomer-image-wrapper"><img style="width:60%;margin-right:15px;" height="auto" width="100%" src="/images/pe3.jpg"></div><p>The Lower Primary Games Day is held for Primary 1 and Primary 2 every year. There are a total of 12 relay events for the students.</p><p><strong>3. Primary 2 CCA Fair</strong></p><div class="isomer-image-wrapper"><img style="width:85%" height="auto" width="100%" src="/images/pe4.jpg"></div><p>Every year, the Primary 2 cohort are treated to an exciting CCA Fair at the Multi-Purpose Court. It is an exciting time for the Primary 2 students as they consider their options of which CCA they are interested to join. They listen to their peers’ CCA experiences as well as witness the eye catching displays put up by the various CCAs from Sports and Games, Performing Arts, Clubs and Societies and Uniformed Groups. The fair gives them an opportunity to explore the different CCAs available to them, thus helping them in deciding the CCA of their choice in Primary 3.</p><p><strong>4. Camp PRIDE</strong></p><div class="isomer-image-wrapper"><img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/pe5.jpg"></div><p>Camp PRIDE is an annual day camp which we organise for sports leaders from the N6 cluster schools.&nbsp;</p><p>The activities during the camp consist of High Rope Element Course and Intermediate Wall at our Peiying Primary School Adventure Centre, Team Building Games and Leadership Segment, Orienteering at the Yishun Neighbourhood Park as well as First Aid and Tent Pitching.&nbsp;</p><p>These activities are designed to provide our sports leaders with the learning experiences as well as opportunities to perform so as to develop their leadership skills and Social Emotional Competencies and instill the PRIDE values in them.</p><p><strong>5. Sports Education Programme (SEP)</strong></p><p>Our Sports Education Programme (SEP) aims to advocate the importance of sports education, encourage sports participation in Peiying and increase sporting opportunities for our students. Our Primary 3 students participate in Silat, Primary 4 in Frisbee, Primary 5 in Wushu and Primary 6 in Bowling.</p><div class="isomer-image-wrapper"><img style="width:85%" height="auto" width="100%" src="/images/pe6.jpg"></div><p>These quality sports programmes caters for the development of skills and sports knowledge of our students and help promote active participation of sports in our school. They also promote team spirit and character building in our students, and aim to arouse their interest in continual sports participation.</p>
+<h3><strong>PE &amp; Aesthetics</strong></h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Head of Department</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mohamad Ikhwan
+<br><a href="mailto:mohamad_ikhwan_mohamad_haron@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohamad_ikhwan_mohamad_haron@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width:60%" height="auto" width="100%" src="/images/department%20objectives.jpg">
+</div>
+<p>We aim to develop students who are <strong>ACTIVE</strong>, embodying the
+values of:</p>
+<p><strong>A</strong> – <strong>Acquire</strong> motor skills to participate
+in diverse physical activities.
+<br><strong>C</strong> – <strong>Cultivate</strong> movement concepts, principles,
+and strategies for effective play.
+<br><strong>T</strong> – <strong>Take responsibility</strong> for safety and
+respect in physical and daily activities.
+<br><strong>I</strong> – <strong>Instill</strong> positive personal and social
+behaviors through various experiences.
+<br><strong>V</strong> – <strong>Value</strong> lifelong fitness and maintain
+health-enhancing physical activity.
+<br><strong>E</strong> – <strong>Enjoy</strong> and appreciate the benefits of
+an active, healthy lifestyle.</p>
+<h4>Learning Areas</h4>
+<p>Students engage in a broad range of physical activities that <strong>enhance motor skills, teamwork, and resilience</strong>.</p>
+<p><strong>Primary 1 - 2</strong>
+</p>
+<ul>
+<li>
+<p>Dance</p>
+</li>
+<li>
+<p>Games and Sports (Fundamental Movement Skills)</p>
+</li>
+<li>
+<p>Gymnastics</p>
+</li>
+<li>
+<p>Outdoor Education</p>
+</li>
+<li>
+<p>Physical Health &amp; Safety</p>
+</li>
+</ul>
+<p><strong>Primary 3</strong>
+</p>
+<ul>
+<li>
+<p>Athletics</p>
+</li>
+<li>
+<p>Dance</p>
+</li>
+<li>
+<p>Games and Sports (Fundamental Movement Skills)</p>
+</li>
+<li>
+<p>Gymnastics</p>
+</li>
+<li>
+<p>Outdoor Education</p>
+</li>
+<li>
+<p>Physical Health &amp; Safety</p>
+</li>
+<li>
+<p>Swimming</p>
+</li>
+</ul>
+<p><strong>Primary 4 - 6</strong>
+</p>
+<ul>
+<li>
+<p>Athletics</p>
+</li>
+<li>
+<p>Dance</p>
+</li>
+<li>
+<p>Games and Sports</p>
+</li>
+<li>
+<p>Gymnastics</p>
+</li>
+<li>
+<p>Outdoor Education</p>
+</li>
+<li>
+<p>Physical Health &amp; Safety</p>
+</li>
+<li>
+<p><strong>NAPFA</strong> (P4 and P6 only)</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width:35%" height="auto" width="100%" src="/images/programmes.png">
+</div>
+<h4>Primary 5 Camp</h4>
+<p>The 3-day, 2-night Primary 5 Camp at MOE Outdoor Adventure Learning Centres
+fosters resilience, teamwork, and leadership through hands-on outdoor challenges.</p>
+<p>Guided by experienced external trainers and teachers, students participate
+in activities such as nature trekking, rock wall climbing, high challenge
+rope course, abseiling, and ziplining, developing endurance, confidence,
+and problem-solving skills in a supportive environment.</p>
+<p>The house system enhances camaraderie, as students support and motivate
+one another through challenges. A highlight is Campfire Night, where performances
+and songs celebrate teamwork and school spirit.</p>
+<p>This immersive experience builds confidence, independence, and a lasting
+love for outdoor learning.</p>
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="416" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe350NsbHTEH9a2w4J1kA34E0xIynj3h2HUK3FqLE5hgWOwQzp7MSR-0qNMSC9lgd7vAPJzVKvlyoDfrQFLs8makyml-qOTMazjqoUuLfp_pkm_ROqdtosVp2Oa4eQvSWQiavFd?key=dHWnsN0FutcgV0PEg1-RBra7">
+</div>
+<p>
+<br>
+</p>
