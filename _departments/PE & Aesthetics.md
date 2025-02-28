@@ -131,6 +131,66 @@ love for outdoor learning.</p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="416" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe350NsbHTEH9a2w4J1kA34E0xIynj3h2HUK3FqLE5hgWOwQzp7MSR-0qNMSC9lgd7vAPJzVKvlyoDfrQFLs8makyml-qOTMazjqoUuLfp_pkm_ROqdtosVp2Oa4eQvSWQiavFd?key=dHWnsN0FutcgV0PEg1-RBra7">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/PE1.png">
+</div>
+<h4>Lower Primary Games Day</h4>
+<p>The Lower Primary Games Day is an annual house event for Primary 1 and
+2 students, held as part of the Children’s Day celebrations. It promotes
+active participation, teamwork, and enjoyment through play in a fun-filled
+setting.</p>
+<p>Students engage in a variety of relay events, fostering coordination,
+cooperation, and school spirit while developing fundamental movement skills.
+The event encourages young learners to embrace the joy of physical activity
+in a lively and inclusive environment.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/PE2.png">
+</div>
+<h4>Annual Track and Field Meet</h4>
+<p>The Annual Track and Field Meet is a house event for Primary 3 to 6 students,
+held at Yishun Stadium. It fosters sportsmanship, teamwork, and school
+spirit as students compete in both individual and relay events, including
+sprinting, hurdling, javelin throw, baton relay, sprint hurdle relay, and
+long rope skipping relay. The event also features a Staff and PSG relay,
+strengthening bonds between the school and its community.</p>
+<p>Through friendly competition, students challenge themselves, showcase
+their athletic abilities, and contribute to their house’s performance,
+developing resilience, teamwork, and pride while celebrating the joy of
+sports.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/PE3.png">
+</div>
+<h4>6-years Sports Programme</h4>
+<p>Peiying Primary School’s 6-Year Sports Programme provides students with
+progressive exposure to diverse sports, developing fundamental skills,
+teamwork, and character while promoting lifelong participation in physical
+activity.</p>
+<ul>
+<li>
+<p>P1 – Gymnastics (Balance, coordination, body control)</p>
+</li>
+<li>
+<p>P2 – Rebounding Trampoline (Agility, spatial awareness, motor skills)</p>
+</li>
+<li>
+<p>P3 – Silat (Agility, coordination, self-discipline)</p>
+</li>
+<li>
+<p>P4 – Tchoukball (Hand-eye coordination, teamwork, strategy)</p>
+</li>
+<li>
+<p>P5 – Wushu (Strength, flexibility, perseverance)</p>
+</li>
+<li>
+<p>P6 – Bowling (Precision, control, strategic thinking)</p>
+</li>
+</ul>
+<p>This structured programme builds physical competence, resilience, and
+sportsmanship, inspiring students to stay active beyond their primary school
+years.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/PE4.png">
+</div>
 <p>
 <br>
 </p>
