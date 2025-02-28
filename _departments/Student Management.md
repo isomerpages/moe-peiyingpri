@@ -178,11 +178,14 @@ these important lessons at home.</p>
 safely and confidently!</p>
 <p><strong>Click on the following links to find out more information on Cyber Wellness:</strong>
 </p>
-<p>1. Cyberbullying Tip Sheet (PDF)
-<br>2.&nbsp;Cyber Threats Tip Sheet (PDF)</p>
-<p>3. Cyber Wellness for your child (PDF)
-<br>4.&nbsp;Excessive Internet Use Tip Sheet (PDF)</p>
-<p>5. Parent Kit- Raising a Digitally Smart Child</p>
+<p>1. <a href="/files/Cyber_Bullying_Tip_Sheet_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Cyberbullying Tip Sheet (PDF)</a> 
+<br>2.&nbsp;<a href="/files/Cyber_Threats_Tip_Sheet.pdf" rel="noopener noreferrer nofollow" target="_blank">Cyber Threats Tip Sheet (PDF)</a>
+</p>
+<p>3. <a href="/files/cyber_wellness_for_your_child.pdf" rel="noopener noreferrer nofollow" target="_blank">Cyber Wellness for your child (PDF)</a> 
+<br>4.&nbsp;<a href="/files/Excessive_Internet_Use_Tip_sheet__Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Excessive Internet Use Tip Sheet (PDF)</a>
+</p>
+<p>5. <a href="/files/Parent_Kit___Raising_A_Digitally_Smart_Child.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Kit- Raising a Digitally Smart Child</a>
+</p>
 <p>&nbsp;<strong>Useful Links</strong>
 </p>
 <ol>
