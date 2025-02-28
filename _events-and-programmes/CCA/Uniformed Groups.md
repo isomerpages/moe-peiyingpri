@@ -72,8 +72,3 @@ students to be proactive leaders in their communities, making a positive
 impact wherever they go.</p>
 <p>Teachers-in-charge: Ms Soh Mun Leng, Dr Linda Chin, Mdm Toh Ling Juan
 and Ms Hui Wing Yan</p>
-<p>
-<br>
-<br>
-</p>
-<p></p>
