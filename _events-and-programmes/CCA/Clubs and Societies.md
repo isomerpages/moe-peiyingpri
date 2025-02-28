@@ -7,6 +7,9 @@ variant: tiptap
 ---
 <h2>Clubs and Societies</h2>
 <h4>Photography Club</h4>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSnY_4NlRTU3iTEcRGVtbcVd61suIOJYCdhT-qlpwYigWDKA8gQjjHJfq2p2SrQm0-9XBOTN29H9k9P/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <p>Photography Club aims to nurture students' keen observation skills of
 their environment, using photography to tell stories and communicate ideas.
 Members develop a deep understanding of using digital cameras and iPads,
@@ -18,7 +21,6 @@ confidence and sharpening their abilities through real-world experience.
 By exploring diverse themes, mastering digital photography techniques,
 and creating visual stories, the club hopes to inspire students to develop
 a lifelong passion for photography.</p>
-<p></p>
 <p>Teachers-in-charge: Mrs Esther Lee, Ms Lee Peiyu and Mr Muhd Reduan</p>
 <p>
 <br>
