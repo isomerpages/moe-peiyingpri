@@ -7,96 +7,152 @@ variant: tiptap
 ---
 <h2>Clubs and Societies</h2>
 <h4>Photography Club</h4>
-<p>Peiying Primary School’s Photography Club aims to hone our members’ photography
-skills, promote a passion for photography and visual arts among our students
-and inculcate creativity for learning through fun and enriching CCA sessions.</p>
-<p>Members will gain a basic understanding of a digital camera handling and
-will be familiar with the different camera modes and how each setting is
-chosen to create an intended effect. Members are constantly exposed to
-different perceptions to open their minds to different photography styles.
-They would build their personal portfolio through these experiences.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Photography.png">
-</div>
-<p>Teachers-in-charge: Mr Muhd Reduan, Ms Ng Zi Chun and Ms Rita Gupta</p>
+<p>Photography Club aims to nurture students' keen observation skills of
+their environment, using photography to tell stories and communicate ideas.
+Members develop a deep understanding of using digital cameras and iPads,
+delving into composition techniques, camera settings, and basic editing.&nbsp;</p>
+<p>The club also focuses on character growth, embracing the school’s core
+values of Perseverance, Respect, Integrity, Diligence, and Empathy (PRIDE)
+through photoshoots and discussions. Members document school events, gaining
+confidence and sharpening their abilities through real-world experience.
+By exploring diverse themes, mastering digital photography techniques,
+and creating visual stories, the club hopes to inspire students to develop
+a lifelong passion for photography.</p>
+<p></p>
+<p>Teachers-in-charge: Mrs Esther Lee, Ms Lee Peiyu and Mr Muhd Reduan</p>
+<p>
+<br>
+</p>
 <h4>Visual Arts</h4>
-<p>Art Club is a platform where students’ creativity and imagination are
-allowed to take flight as well as developing their thinking skills. Students
-are exposed to different art forms such as 3-Dimensional mixed media techniques,
-acrylic painting and print making.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/art1.jpg">
-</div>
-<p>Our students’ artwork titled, “Daily Reflections” was awarded the Certificate
-of Recognition. This artwork was also selected and exhibited at SCAPE in
-conjunction with the Singapore Youth Festival 2017. At this event, the
-students had opportunities to present and share their artwork to other
-participants.</p>
-<div class="isomer-image-wrapper">
-<img style="width:38%;margin-right:15px;" height="auto" width="100%" src="/images/art%202.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:25%;margin-right:15px;" height="auto" width="100%" src="/images/art%203.jpg">
-</div>
-<p>Teachers-in-charge:&nbsp;Mrs Avery Neo, Mr Ngan Min Boon, Mdm Fieza, Ms
-Leanna Low and Mr Muhd Hanafie</p>
+<p>Art Club is a vibrant space where young artists unleash their creativity
+and explore the world of visual arts. From drawing, painting and 3D sculpture
+to mixed media, our students experiment with different techniques. Through
+hands-on experiences, they develop and refine their artistic skills, foster
+teamwork through collaborative work and build confidence in their self-expression.</p>
+<p>
+<br>
+</p>
+<p>Beyond the classroom, our students engage with Art through exciting learning
+journeys to places like the Art Science Museum. They worked together with
+community artists on wall mural project, transforming common public spaces
+into vibrant and inspiring works of public Art.
+<br>
+<br>
+</p>
+<p>Throughout the year, Art Club members channel their creativity into competitions
+and community projects, sharing their artistic journey and inspiring both
+school and the community.</p>
+<p>
+<br>
+<br>
+</p>
+<p>Teachers-in-charge: Mrs Avery Neo, Mr Ngan Min Boon, Mr Muhd Hanafie and
+Mdm Fieza</p>
+<p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</p>
 <h4>Infocomm Club</h4>
-<p>The Infocomm Club offers learning activities in the areas of videography,
-animation and robotics. Weekly learning activities cover both theories
-and group work. Members are also given the opportunities to participate
-in competitions related to the field of information and communication technology.</p>
-<p>Infocomm Club members are also given the chance to be trained in AVA and
-help out in the running of the school’s AVA system during morning flag
-raising ceremony and school events. The Infocomm Club aims to nurture confident
-learners who are equipped with 21st&nbsp;CC skills in technology.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/infocomm%20club.jpg">
-</div>
-<p>Teachers-in-charge: Mr James Clifton, Ms Shih Xiu Rong, Mr Yong Lih Tze
-and Mrs Esther Lee</p>
-<h4>Library Club</h4>
-<div class="isomer-image-wrapper">
-<img style="width:35%;margin-right:15px;" height="auto" width="100%" src="/images/library%20council%201.png">
-</div>
-<p>In the Library Council, the students play icebreaker games which help
-them understand their friends in the CCA better.</p>
-<p>&nbsp;Some examples of everyone’s favourites are Blow Wind Blow, Charades
-and 2 Truths 1 Lie! The students also play a variety of board games such
-as Scrabble which broadens their scope of vocabulary. For those who like
-to challenge their brains, there are word puzzles and brain teaser activities.</p>
-<p>Drama is also a very exciting experience for those who want to be the
-star of the show. Through drama, students can overcome any stage fright
-they might have and improve their oral skills.</p>
-<div class="isomer-image-wrapper">
-<img style="width:35%;margin-right:15px;" height="auto" width="100%" src="/images/library%20council%202.png">
-</div>
-<p>Members are also responsible in assisting the Mobile Library @ Peiying
-which is held on the 1st&nbsp;Monday of the month. They assist the students
-in selecting the books and guiding them to the borrowing counter. Our student
-librarians take pride in being the ambassadors of reading and encourage
-other students to develop the reading habit in them.</p>
-<p>Teachers-in-charge: Mrs Mala Bala, Mdm Ng Kang Ping and Mrs Jennifer Fan</p>
-<h4>Physical Science Club</h4>
-<div class="isomer-image-wrapper">
-<img style="width:25%;margin-right:15px;" height="auto" width="100%" src="/images/sci%20club%201.png">
-</div>
-<p>The Physical Science Club members will be provided with a unique experience
-of doing Science activities indoors, as well as outdoors. For the indoor
-experience, students will be engaged in doing experiments once a term.
-They will also carry out research using the internet to help them with
-Science card activities, Science Competitions like the Elementz Competition
-or the Sony Creative Toy Competition.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci%20club%202.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:25%;margin-right:15px;" height="auto" width="100%" src="/images/sci%20club%203.png">
-</div>
-<p>For the Outdoor learning experience, they will learn how to propagate
-plants for the Mothers’ Day Sale of plants project. Through this plant
-propagation project, they will learn how to take care of the plants. They
-also learn that plants can be propagated by various methods. Members of
-the Physical Science Club find that the activities are meaningful and fun.
-They look forward to attending the weekly sessions.</p>
-<p>Teachers-in-charge: Mrs June Lau, Mrs Theresa Teo, Ms Tan Ai Lin and Mdm
-Roslindah</p>
+<p>The Infocomm Club is a CCA that encourages a deep dive into the exciting
+world of <strong>videography, animation, coding, and robotics</strong>.</p>
+<p>We blend theory with thrilling hands-on projects, encouraging teamwork
+and creativity. From crafting captivating animations to building ingenious
+robots, our weekly sessions are packed with fun and learning.</p>
+<p>We also empower members to showcase their talents by actively participating
+in exciting competitions.</p>
+<p>The Infocomm Club aims to nurture confident learners who are equipped
+with essential 21st-century skills while fostering a lifelong passion for
+technology.</p>
+<p>
+<br>
+</p>
+<p>Teachers-in-charge: Mr James Clifton, Ms Shih Xiu Rong, Mrs Vasanthi Nanda
+and Mrs Soo Thoo Kai Jia Eulindra</p>
+<p>
+<br>
+</p>
+<h4>Library Council</h4>
+<p>The Library Council offers a variety of activities that develop communication
+skills through language, vocal sounds, gestures, and facial and physical
+expressions.</p>
+<p>Students play icebreaker games such as ‘charades’ and ‘broken telephone’
+which help them understand their friends in the CCA better.</p>
+<p>Students learn to work collaboratively when they are introduced to board
+games such as ‘Scrabble’, ‘Taboo’,&nbsp; ‘Speaking and Listening’ and other
+board games.&nbsp; These games broaden their scope of vocabulary and improve
+their English as well. For those who like to challenge their brains, there
+are word puzzles and brain teaser activities.</p>
+<p>To nurture Readers for Life, students go on a Learning Journey to one
+of the libraries managed by the National Library Board.</p>
+<p>Selected students are provided with opportunities to share a story during
+pre-assembly. The rest of them get to experience this during the CCA itself.
+They choose a book they like and share the story with the library council
+members.</p>
+<p>Students are also exposed to writing and illustration competitions organized
+by external organisations.</p>
+<p>The students also help the school librarian with the shelving of the library
+books occasionally.&nbsp;</p>
+<p>Teachers-in-charge: Mrs Mala Bala and Mdm Ng Kang Ping&nbsp;</p>
+<h4>Science &amp; Environment Club</h4>
+<p>Nurturing Innovation and Environmental Stewardship at Peiying Primary
+School</p>
+<p>
+<br>
+</p>
+<p>The Science and Environment Club offers a comprehensive programme that
+integrates scientific exploration with environmental consciousness. Through
+engaging hands-on activities, members discover practical applications of
+scientific concepts while developing critical thinking skills. Activities
+such as aerodynamic paper aeroplane design and structural engineering challenges
+with tower construction bring theoretical principles to life in meaningful
+ways.</p>
+<p>
+<br>
+</p>
+<p>The club's commitment to excellence is demonstrated through participation
+in zonal and national competitions. Our members regularly showcase their
+innovative solutions at the annual zonal Elementz Competition and the annual
+STEM Playground Challenges that take place twice a year, where they present
+creative solutions to real-world problems through collaborative projects
+and artefacts.</p>
+<p>
+<br>
+</p>
+<p>Environmental sustainability forms a core focus of our programme. Through
+programmes such as the bio-cleaner and insect superhero workshops, students
+gained valuable insights into sustainable practices and environmental conservation.
+The club's collaboration with the Applied Learning Programme (ALP) continues
+to be synergistic, with members participating in the mushroom workshop
+to deepen their understanding of sustainable food sources before contributing
+as environmental champions, influencing their peers and fostering a culture
+of environmental awareness.</p>
+<p>
+<br>
+</p>
+<p>We take pride in our members' consistent participation in the Young Scientist
+Cards programme. Their dedication has earned them recognition through the
+"Young Botanists", “Young Environmentalists” and "Water Ambassadors" badges
+awarded, reflecting their good understanding of botanical sciences and
+conservation principles.&nbsp;</p>
+<p>
+<br>
+</p>
+<p>Through these diverse learning experiences, the Science and Environment
+Club cultivates not only scientific literacy but also environmental consciousness
+among our members. The programme empowers our members to be responsible
+stewards of the environment while developing their capacity for innovation
+and problem-solving.&nbsp;</p>
+<p>
+<br>
+</p>
+<p>Teachers-in-charge: Mrs June Lau, Mrs Theresa Teo, Mdm Roslindah and Mrs
+Farhana Reux</p>
+<p>
+<br>
+</p>
+<p></p>
