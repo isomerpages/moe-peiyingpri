@@ -222,3 +222,29 @@ initiatives such as the Primary 3 "Sea Creature Exploration" and the Primary
 promote teamwork, critical thinking, and communication skills, as students
 co-create artworks and engage in reflective discussions that deepen their
 understanding of artistic concepts.</p>
+<h4>Curriculum Highlights from P1 - P6</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/Slide3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/Slide4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/Slide5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/Slide6.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/Slide7.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/Slide8.jpg">
+</div>
+<p></p>
