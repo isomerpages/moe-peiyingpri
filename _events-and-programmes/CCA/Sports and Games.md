@@ -26,6 +26,9 @@ for the sport.</p>
 <p>Teachers-in-charge: Ms Ting Shu Han, Ms Farhanah, Ms Jacqueline Ten, Ms
 Lian Yiling and Ms Imelda</p>
 <h4>Outdoor Education</h4>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTDloeX0gyWlRU1Ar0nNi_wdm3wFVudKVpro76VDLAzhtCv6HyCCsL9TkY2tWEM4q6YyPNKHXCu8-LY/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <p>Peiying Primary School offers Outdoor Adventure Club (OAC) as a Co-Curricular
 Activity (CCA) to our P3 to P6 boys and girls. OAC is the perfect CCA for
 students who love nature, challenges, and teamwork! Our activities include
