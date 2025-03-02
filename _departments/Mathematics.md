@@ -79,22 +79,6 @@ to engage in their child’s learning and raise their child’s awareness in
 the mathematically rich environments in their neighbourhood through accomplishing
 a series of activities in the booklet during holidays. Pupils would inevitably
 acquire cognitive and communication skills in Mathematics.</p>
-<h4>P5 STEM Programme</h4>
-<p>P5 STEM programme was initiated by the Mathematics department in collaboration
-with the Science and Information &amp; Communication Technology departments
-in 2021. STEM stands for Science, Technology, Engineering, and Mathematics.
-As it is a new programme, the school piloted with only two P5 classes last
-year. In 2022, we offered the opportunity to all P5 students. Two classes
-have embarked on the programme in Term 2 while the rest of the students
-will commence theirs in Term 3.</p>
-<p>This year’s theme, Forensic Science, ties in with the life Science topics
-that students learn. During the lessons, students learnt the role of forensic
-Science in crime investigation and they were tasked to solve mysteries
-through analysis of fingerprints and footprints, perform ink chromatography
-and decode codes and ciphers. They even extracted DNA from strawberries!
-At the end of the programme, students would collaborate to gather evidence
-and perform data analysis to solve a simulated crime scene. We certainly
-cannot wait to see the teams’ presentations on their findings and conclusions!</p>
 <h4>Learning Support for Mathematics</h4>
 <p>This early intervention programme provides an opportunity for the identified
 Primary 1 and Primary 2 pupils to acquire foundational numeracy skills
@@ -113,15 +97,7 @@ pace and address their learning gaps.</p>
 5 and Primary 6 pupils to gain factual and procedural fluencies through
 a series of structured scaffolds and games provided for them. These pupils
 will gain conceptual understanding through various hands-on activities.</p>
-<h4>Math workshop for parents</h4>
-<p>The workshop aims to enhance pupils’ factual fluency through the use of
-Mathematics manipulatives and games. In the workshop, parents learn to
-design games and create Mathematics manipulatives to better engage pupils
-in learning Mathematics facts. Through a series of Mathematics games, pupils
-will attain a level of mastery that enables them to retrieve Mathematics
-facts for long-term memory without conscious effort or attention. When
-pupils achieve automaticity with these facts, they would have greater computational
-accuracy in Mathematics.</p>
+<p></p>
 <p>
 <br>
 </p>
