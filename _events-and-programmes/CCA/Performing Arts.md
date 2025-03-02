@@ -7,73 +7,72 @@ variant: tiptap
 ---
 <h2>Performing Arts</h2>
 <h4>Ensemble Angklung</h4>
-<div class="isomer-image-wrapper">
-<img style="width:35%;margin-right:15px;" height="auto" width="100%" src="/images/performing%20arts%201.png">
+<div class="iframe-wrapper">
+<iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSWZILoqiCxjwuHYKfW6BroQWLIG5NLEAgzzb-J3MTc_jsXECpyAPR3L5XfO2JDvImVk9W0uKsYYYUR/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-<p>Peiying Primary School offers Angklung as a Co-Curricular Activity (CCA)
-to our P3 to P6 boys and girls.&nbsp;The Angklung Ensemble consists of
-students of different races playing traditional ethnic instruments from
-Indonesia. Angklung members learn to play different instruments and perform
-various repertoires of songs and melodies. They perform at important school
-events, such as Chinese New Year Celebration, National Day Celebration
-and Prize Presentation Day.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/performing%20arts%202.png">
-</div>
-<p>They have also participated in the Singapore Youth Festival Arts Presentation
-(SYF AP) since 2010 and have consistently achieved accolades at the competition.</p>
-<div class="isomer-image-wrapper">
-<img style="width:35%;margin-right:15px;" height="auto" width="100%" src="/images/performing%20arts%203.png">
-</div>
-<p>The Angklung Ensemble aims to develop students’ musical skills and instil
-our core PRIDE values in our members, through their appreciation for music.
-Angklung members are also given ample opportunities to perform on stage
-to showcase their talents.</p>
-<p>Teachers-in-charge:&nbsp;Ms Mary Or, Mrs Chan Khai Hong, Mr Hendra and
-Mdm Low Hui Li</p>
+<p>Peiying Primary School offers the Angklung Co-Curricular Activity (CCA)
+for P3 to P6 students, where they come together to explore traditional
+Indonesian music through the Angklung and other ethnic instruments. Students
+develop their musical skills and appreciation for different cultures while
+performing various songs and melodies.</p>
+<p>The ensemble regularly performs at school events like the Chinese New
+Year and National Day Celebrations, and has consistently earned accolades
+at the Singapore Youth Festival Arts Presentation (SYF AP) since 2010.
+In 2024, the Angklung Ensemble was awarded the Certificate of Distinction.</p>
+<p>In addition to musical development, the Angklung Ensemble fosters our
+school’s core values – PRIDE (Perseverance, Respect, Integrity, Diligence,
+and Empathy) – in our students through teamwork and stage performances.
+Join us to celebrate music, culture, and personal growth in a fun and supportive
+environment!</p>
+<p>Teachers-in-charge: Ms Mary Or, Mrs Chan Khai Hong, Mr Noor Hendra Shahril
+Bin Supa'at and Mrs Tan-Low Hui Li</p>
 <h4>Choir</h4>
-<p>Peiying Primary School offers Choir as a Co-Curricular Activity (CCA)
-to our P3 to P6 boys and girls.&nbsp;Peiying Choir aims to develop the
-students’ talents in choral singing by providing a platform for students
-with beautiful voices to showcase their talents.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/choir.png">
+<div class="iframe-wrapper">
+<iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ7ze89oHKnyTHOogNJWDsVY9OK3lHwQkowQOQ9DHnzopxdAWx0tuRrj4pl2K-Gh1rAbUBGA7xYS3Da/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-<div class="isomer-image-wrapper">
-<img style="width:25%;margin-right:15px;" height="auto" width="100%" src="/images/choir2.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:22%;margin-right:15px;" height="auto" width="100%" src="/images/choir1.png">
-</div>
-<p>We also aim to promote choral awareness where our students will acquire
-skills in voice projection, self-awareness, good posture and correct singing
-techniques. We also make regular appearances in school events such as Chinese
-New Year Celebration, National Day Celebration and Prize Presentation Day.</p>
-<p>Teachers-in-charge: Mrs Foo Xiao Jing,&nbsp;Mdm Toh Yee Kheng, Ms Athena
-Wee, Mdm Chen Ying and Mdm Ng Yuet Ling</p>
+<p>At Peiying Primary School, the choir is a community that fosters creativity,
+teamwork, and a love for music. The choir is open to Primary 3 to Primary
+6 students who are passionate about singing and are eager to develop their
+vocal skills while learning the power of collaboration. Our choir program
+focuses on both individual growth and group harmony, providing a platform
+for students to express themselves musically and socially.</p>
+<p>Under the guidance of our dedicated music director, students explore a
+variety of musical genres, from classical and pop to traditional and contemporary
+choral music. This diversity allows students to expand their musical knowledge
+and adapt their voices to different styles. Regular practices provide students
+with the opportunity to refine their technique, build confidence, and perfect
+the art of harmonising.&nbsp;</p>
+<p>Performances are an integral part of the choir experience. Our choir showcases
+their hard work and dedication to the school community annually during
+the National Day Celebration and Prize Presentation Day. Each performance
+is a celebration of the students' commitment, discipline, and the joy of
+sharing music with others. Our Choir has also participated in the Singapore
+Youth Festival Arts Presentation (SYF AP) and achieved a Certificate of
+Accomplishment in 2024.</p>
+<p>Joining the choir is a journey of artistic expression, friendship, and
+unforgettable memories. We invite all students to join the choir and discover
+the power of their own voices while contributing to the vibrant music culture
+at our school.</p>
+<p>Teachers-in-charge: Mrs Foo Xiaojing, Ms Toh Yee Kheng and Mdm Chen Ying</p>
 <h4>International Dance</h4>
-<div class="isomer-image-wrapper">
-<img style="width:35%;margin-right:15px;" height="auto" width="100%" src="/images/modern%20dance%201.png">
+<div class="iframe-wrapper">
+<iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQQPKBimu-e26DwOVuP7c6C5Key2niDiWwkKhwA_q0Gy_WR1-6nVipoPz9UAokO6eh2iApl-RP1QQ5J/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-<p>Peiying Primary School offers Modern Dance as a Co-Curricular Activity
-(CCA) to our P3 to P6 girls.&nbsp; Modern Dance is a multitalented CCA
-that focuses on developing students with a passion for dance to maximise
-their potential. The group is trained in the modern contemporary genre.
-Inculcating an appreciation of various dance is an important aspect of
-our dance education which prepares the dancers for performances in internal
-and external events.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/modern%20dance%202.png">
-</div>
-<p>Dance members were selected to perform at the 2016 SYF Celebrations at
-Esplanade Outdoor Theatre with an energetic-charged piece entitled “SOAR.”
-Dance members also received invitations to perform at the National Day
-Observance Day organised by grassroots leaders at Nee Soon South CC. In
-addition, dance members also performed during our internal school events
-such as Chinese New Year Celebrations, National Day Celebrations and Prize
-Presentation Day.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/modern%20dance%203.png">
-</div>
+<p>At Peiying Primary School, Modern Dance is offered as a Co-Curricular
+Activity (CCA) for P3 to P6 students. This dynamic CCA nurtures students
+with a passion for dance, helping them develop their skills and reach their
+fullest potential. Our dancers are trained in the modern contemporary genre,
+with a strong emphasis on versatility and appreciation for various dance
+forms. Through performances at both internal and external events, they
+gain valuable stage experience and confidence.</p>
+<p>In 2024, our Modern Dance team proudly participated in the SYF Arts Presentation
+and achieved the highest honour—Distinction. They were also invited to
+perform at the National Day Observance Ceremony at Nee Soon South CC, organized
+by grassroots leaders. Within the school, our dancers play a key role in
+events such as National Day Celebrations and Prize Presentation Day, showcasing
+their talent and dedication.</p>
+<p>Through Modern Dance, our students develop creativity, discipline, and
+teamwork, making their journey in the arts both enriching and inspiring.</p>
 <p>Teachers-in-charge: Ms Hee Chuan Min, Mdm Lim See Voon, Ms Manomani, Ms
 Nurhafeza and Ms Michelle Tan</p>
+<p></p>

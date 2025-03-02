@@ -5,12 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Music and Art</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="width:15%" height="auto" width="100%" src="/images/music.png">
-</div>
-<p>
-<br>
-</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -19,7 +13,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Teacher Music </strong>
+<p><strong>Senior Teacher Music</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -41,176 +35,216 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width:15%" height="auto" width="100%" src="/images/music.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/department%20objectives.jpg">
 </div>
-<p>
-<br>
-</p>
-<p>We aim&nbsp;to</p>
-<ul>
+<p>Our aims are to:</p>
+<ol>
 <li>
-<p>develop awareness and appreciation of music in local and global cultures</p>
+<p>Foster a deep understanding and appreciation of music across diverse cultures,
+both locally and globally.</p>
 </li>
 <li>
-<p>develop ability for creative expression and communication through music</p>
+<p>Cultivate the ability to express oneself creatively and communicate effectively
+through the art of music.</p>
 </li>
 <li>
-<p>provide the basis to develop an informed and life-long involvement in
-music</p>
+<p>Equip individuals with the foundation for a lifelong and enriching engagement
+with music.</p>
 </li>
-</ul>
+</ol>
 <div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" src="/images/programmes.png">
 </div>
-<p>
-<br>
-</p>
-<h5><strong>1. Handbells</strong></h5>
+<h4>P1 - Handbells</h4>
+<p>In Primary 1, our students embark on a musical journey with handbells.
+Over a few engaging lessons, they develop foundational skills, including:&nbsp;</p>
+<ul>
+<li>
+<p>Mastering basic handbell playing techniques.</p>
+</li>
+<li>
+<p>Refining hand-eye coordination.</p>
+</li>
+<li>
+<p>Discerning the unique sounds of different pitches.</p>
+</li>
+<li>
+<p>Cultivating the importance of teamwork and collaboration.</p>
+</li>
+</ul>
+<p>Beyond learning to play simple rhythms, students joyfully learn to perform
+familiar tunes in small groups. This enriching experience provides them
+with early exposure to basic performance skills and the etiquette of sharing
+their music with others.</p>
+<h4>P2 – Angklung</h4>
+<p>In Primary 2, students embark on a musical journey of discovery with the
+angklung. This programme aims to:</p>
+<ul>
+<li>
+<p><strong>Develop fundamental angklung playing skills:</strong> Students
+will learn basic playing techniques, including grip, stroke, and producing
+clear, resonant sounds.</p>
+</li>
+<li>
+<p><strong>Refine hand-eye coordination and fine motor skills:</strong> Angklung
+playing requires precise movements and coordination, helping to enhance
+these essential skills.</p>
+</li>
+<li>
+<p><strong>Explore the sounds and timbres of different angklung tubes:</strong> Students
+will learn to identify and appreciate the unique sounds produced by different
+angklung tubes, fostering a deeper understanding of musical timbre.</p>
+</li>
+<li>
+<p><strong>Cultivate teamwork and ensemble playing:</strong> Through group
+performances, students will learn the importance of listening, synchronizing,
+and playing together as a cohesive unit.</p>
+</li>
+<li>
+<p><strong>Appreciate Indonesian culture:</strong> Students will be introduced
+to the rich cultural heritage of Indonesia through learning traditional
+Indonesian folk songs and exploring the significance of the angklung in
+Indonesian music and society.</p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/music1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/MS1.png">
 </div>
-<p>At Primary 1, our students are introduced to handbells. They will go through
-4 lessons to master the basic skills of playing the handbells, learn about
-hand-eye coordination, distinguish the sound of different pitches and the
-importance of team work.&nbsp;</p>
-<p>Besides learning to play simple rhythms, the students also learn to play
-the song Twinkle Twinkle Little Stars, which they perform in small groups
-in class. This gives them the opportunity to be exposed to basic performance
-and stage etiquette.</p>
-<h5><strong>2. Digital Music</strong></h5>
+<h4>P3&nbsp; Kompang &amp; Music Recorder</h4>
+<p>In Primary 3, students embark on a vibrant musical journey, exploring
+both the rhythmic world of Kompang and the melodic sounds of the Music
+Recorder. Through engaging lessons, students will develop essential musical
+skills, foster teamwork and collaboration, and gain a deeper appreciation
+for Malay culture. They will learn to play basic Kompang techniques and
+explore the Music Recorder, all while developing a strong sense of rhythm
+and timing. Group performances and ensemble playing will foster cooperation
+and listening skills, while exploring the cultural significance of Kompang
+will deepen their understanding of Malay traditions. Ultimately, this musical
+journey aims to boost student confidence and provide a platform for creative
+musical expression.</p>
 <div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/music2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/MS2.png">
 </div>
-<p>Our Primary 2 students go through a series of 8 lessons to develop their
-musicianship through exploration of music arrangements using GarageBand.&nbsp;</p>
-<p>Through the lessons, they acquire basic skills and knowledge related to
-music production.&nbsp;</p>
-<p>They learn to record and mix their own composition and arrangements. They
-learn to apply knowledge of essential music elements such as form, structure,
-melody, rhythm etc. At the same time, our students get to discover and
-express themselves musically. They are given the opportunity to communicate
-and present their ideas confidently and to embrace the joy of learning.</p>
-<h5><strong>3. Boomwhackers</strong></h5>
+<h4>P4 Indian Percussion &amp; Music Recorder</h4>
+<p>In Primary 4, students embark on a captivating musical journey, exploring
+the rich and vibrant sounds of Indian Percussion instruments. This program
+delves into the unique rhythms and cultural significance of Indian percussion,
+providing students with a deeper understanding of this fascinating art
+form. Through engaging lessons and collaborative ensemble performances,
+students will develop essential musical skills, foster teamwork and creativity,
+and cultivate a deeper appreciation for Indian culture.</p>
+<p>Building upon the foundational music recorder skills developed in Primary
+3, the Primary 4 curriculum continues to nurture students' growth through
+continued exploration of the Music Recorder. The journey of mastering the
+recorder cultivates essential life skills. Consistent practice fosters
+discipline and diligence, as students learn to dedicate time and effort
+to honing their technique. The process of refining fingerings, breath control,
+and phrasing requires focus and perseverance, enhancing their self-awareness
+and understanding of their own progress. Through this dedicated practice,
+students develop a strong work ethic and a sense of accomplishment that
+extends beyond the realm of music.</p>
 <div class="isomer-image-wrapper">
-<img style="width:45%;margin-right:15px;" height="auto" width="100%" src="/images/music3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/MS3.png">
 </div>
-<p>Our students have the opportunity to learn to play the boomwhackers for
-a term at Primary 5. They learn to understand the usage of boomwhackers,
-playing a simple song as an ensemble and experience layering of ostinato
-rhythms. Through these activities, students learn to demonstrate musical
-abilities such as following the conductor’s lead and to coordinate confidently
-with their peers to complete an ensemble performance. They learn to apply
-fundamental musical skills such as listening and musical abilities as required
-in an ensemble playing.</p>
-<hr>
-<p>
-<br>
-</p>
+<h4>P5 Keyboard</h4>
+<p>The Primary 5 Music program introduces students to the keyboard, fostering
+a love for music while cultivating essential life skills. Through engaging
+lessons and collaborative ensemble practices, students develop resilience
+as they overcome challenges and master new skills. Ensemble playing enhances
+self-awareness as students learn to listen attentively to their own playing
+and that of others, while also cultivating social awareness and teamwork
+as they coordinate their performances and support each other's musical
+growth.</p>
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="254" width="443" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfyl3yGt7wELvIcxmnCGpaug98uyu2XsXO_YR5odp4Qigf3EyO3Jo7WUZR72n6MeDHAZOauLvqgyU-VtvPhp1J-h7pBWaGv4iKTqE3Fgclzu7Vi693Y_qyLZ-wXGdVAxtnrr8CQhg?key=EodkSoLFp5WiUKN7SM1qG2A5">
+</div>
+<h4>P6 Keyboard</h4>
+<p>The Primary 6 Music program builds upon the foundational skills developed
+in previous years, allowing students to further refine their musical abilities
+through the exploration of keyboard playing. This program emphasizes the
+development of advanced musical techniques, encouraging independent learning
+and fostering a deeper appreciation for music. Through engaging lessons
+and challenging repertoire, students will refine their playing skills,
+develop creativity and expression, and cultivate a lifelong love for music.</p>
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="193" width="344" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfHcrZ2ei9fXyA1KdUbT-8TvUESIJKFNQh_b2xB5V7EgcyN_pv_fvXOaYICRUEj5XtaSd1oKxy2p-COFbAUutParUNUhZ7uDWBzwipgFlaC_kJeV5jo7DKZUsO-HBZJW4SlFJeg?key=EodkSoLFp5WiUKN7SM1qG2A5">
+</div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:12%" height="auto" width="100%" src="/images/art.png">
 </div>
-<p>
-<br>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Coordinator</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Avery Neo
-<br><a href="mailto:sim_yaen_avery_rhoda@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sim_yaen_avery_rhoda@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/department%20objectives.jpg">
 </div>
-<p>
-<br>
-</p>
-<p>We aim&nbsp;to</p>
+<p>We aim to</p>
 <ul>
 <li>
-<p>foster students’ sense of identity, culture and place in society through
-Art</p>
+<p>foster a lifelong appreciation for art, empowering students to express
+ideas meaningfully through visual communication and connect with society
+and culture.</p>
 </li>
 <li>
-<p>build students’ capacity to critically discern and process visual information,
-and communicate effectively in the 21st century&nbsp;</p>
+<p>through visual literacy, help students learn to interpret and create visuals
+with thoughtfulness, encouraging critical and creative engagement with
+their surroundings.</p>
 </li>
 <li>
-<p>expand students’ imagination and creativity&nbsp;</p>
-</li>
-<li>
-<p>create a conducive learning environment where students&nbsp;enjoy art,
-communicate visually, and make meaning through connecting with society
-and culture</p>
+<p>build essential 21st-century skills—such as critical thinking, empathy,
+collaboration, and self-expression—preparing students for modern challenges
+and supporting their personal growth.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" src="/images/programmes.png">
 </div>
-<p>
-<br>
-</p>
-<h5><strong>1. P1 Oil Pastel Blending Enrichment Programme(AMIS)</strong></h5>
-<p>Our students took colouring to the next level by applying the colour blending
-technique in their art work. They were taught to&nbsp;apply, manipulate,
-and&nbsp;blend oil pastels&nbsp;in a multitude of ways to achieve different
-effects, hues, and textures to emphasise details in an art work.</p>
-<h5><strong>2. P2 Acrylic Painting on Canvas Enrichment Programme (AMIS)</strong></h5>
-<p>The process of exploration is one of the most exciting things about acrylic
-painting! Under the guidance of experienced instructors, students try their
-hand at acrylic painting on canvas which is a new experience to them, and
-create texture-rich and vibrant art pieces.</p>
-<h5><strong>3. P3-P6 Arts and Cultural Experience Programme (ACE) - Visual Arts</strong></h5>
-<p>P3: WAU Kite Making
-<br>P4: Clay Diya
-<br>P5: Chinese Painting
-<br>P6: Printmaking</p>
-<p>Art constitutes important ways of knowing and learning about self, others
-and the world around us. It is a form of language through which personal
-meanings are generated and cultural identities are formed. Our ACE visual
-arts programme from P3-6 provides an avenue for our students to develop
-self and social awareness and appreciate our unique Singaporean forms of
-expression that are anchored on national values as well as understand and
-appreciate cultures and traditions beyond Singapore. This enables our students
-to develop respect for themselves and others, value harmony and thereby
-cultivating their global awareness and cross cultural skills for the 21st
-century.</p>
+<p>Some key initiative/ programmes that students' will be exposed to in their
+6 years include:</p>
+<h4>Integrating ICT to Enrich Art Learning Experiences</h4>
+<p>The Art Department has integrated Information and Communication Technology
+(ICT) tools into modules from P1 to P6, enabling students to explore creative
+possibilities beyond traditional methods and fostering both artistic expression
+and 21st-century skills. ICT is also used to facilitate collaborative learning,
+allowing students to share ideas and receive constructive feedback from
+peers and teachers. This integration enriches the art learning experience
+by promoting innovation, enhancing collaboration, and balancing creativity
+across both digital and traditional artistic practices.</p>
+<h4>Fostering Collaborative Learning in Art</h4>
+<p>Collaborative learning is embedded in the customised art curriculum in
+initiatives such as the Primary 3 "Sea Creature Exploration" and the Primary
+4 "Making Thinking Visible through Artful Discussions." These activities
+promote teamwork, critical thinking, and communication skills, as students
+co-create artworks and engage in reflective discussions that deepen their
+understanding of artistic concepts.</p>
+<h4>Curriculum Highlights from P1 - P6</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/Slide3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/Slide4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/Slide5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/Slide6.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/Slide7.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/Slide8.jpg">
+</div>
+<p></p>
