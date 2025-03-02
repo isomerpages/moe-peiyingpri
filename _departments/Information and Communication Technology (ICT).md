@@ -64,7 +64,7 @@ in information communication tools.</p>
 utilising a variety of ICT platforms. They are infocomm-savvy and digitally
 ready to harness the potential of ICT in meeting the technology-driven
 needs of the future.</p>
-<h4>Students Digital Competencies</h4>
+<h4>Students Digital Literacy and Technological Skills</h4>
 <p><strong>ICT Baseline Skills:</strong>
 </p>
 <p>The school programme begins by establishing a strong foundation in ICT
@@ -78,44 +78,6 @@ experiences for our students. We leverage the power of commonly used application
 and online digital platforms such as Microsoft applications and Google
 Workspace for Education to enhance teaching and learning at the middle
 and upper primary levels.&nbsp;</p>
-<p><strong>Code For Fun:</strong>
-</p>
-<p>As part of our post-PSLE program, our Primary 6 students participate in
-a 10-hour "Code For Fun" workshop designed to introduce them to the exciting
-world of technology and computational thinking. This workshop covers a
-range of key areas:</p>
-<ul>
-<li>
-<p><strong>Computational Thinking:</strong> Students will learn four fundamental
-computational thinking techniques, providing them with a structured approach
-to problem-solving applicable across various disciplines. These techniques
-include decomposition, pattern recognition, abstraction, and algorithm
-design.
-<br>
-</p>
-</li>
-<li>
-<p><strong>Programming and Robotics with Sphero Bolt:</strong> Our students&nbsp;
-will gain hands-on experience programming and controlling Sphero Bolt robots.
-This practical application will solidify their understanding of coding
-concepts and introduce them to the basics of robotics.
-<br>
-</p>
-</li>
-<li>
-<p><strong>Artificial Intelligence (AI):</strong> The workshop provides an
-introduction to the concepts of artificial intelligence, exploring how
-machines can learn and perform tasks that require human intelligence.
-<br>
-</p>
-</li>
-<li>
-<p><strong>Cybersecurity:</strong> Recognizing the importance of online safety,
-students will learn about cyber attacks and security. This section will
-cover potential online threats and equip them with strategies to protect
-themselves and their data in the digital world.</p>
-</li>
-</ul>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/ICT.png">
@@ -236,5 +198,36 @@ or to develop, test and debug solutions.</p>
 </tbody>
 </table>
 <p>
-<br>
+<br><strong>Code For Fun:</strong>
 </p>
+<p>As part of our post-PSLE program, our Primary 6 students participate in
+a 10-hour "Code For Fun" workshop designed to introduce them to the exciting
+world of technology and computational thinking. This workshop covers a
+range of key areas:</p>
+<ul>
+<li>
+<p><strong>Computational Thinking:</strong> Students will learn four fundamental
+computational thinking techniques, providing them with a structured approach
+to problem-solving applicable across various disciplines. These techniques
+include decomposition, pattern recognition, abstraction, and algorithm
+design.</p>
+</li>
+<li>
+<p><strong>Programming and Robotics with Sphero Bolt:</strong> Our students&nbsp;
+will gain hands-on experience programming and controlling Sphero Bolt robots.
+This practical application will solidify their understanding of coding
+concepts and introduce them to the basics of robotics.</p>
+</li>
+<li>
+<p><strong>Artificial Intelligence (AI):</strong> The workshop provides an
+introduction to the concepts of artificial intelligence, exploring how
+machines can learn and perform tasks that require human intelligence.</p>
+</li>
+<li>
+<p><strong>Cybersecurity:</strong> Recognizing the importance of online safety,
+students will learn about cyber attacks and security. This section will
+cover potential online threats and equip them with strategies to protect
+themselves and their data in the digital world.</p>
+</li>
+</ul>
+<p></p>
