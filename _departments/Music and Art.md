@@ -165,7 +165,7 @@ growth.</p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="254" width="443" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfyl3yGt7wELvIcxmnCGpaug98uyu2XsXO_YR5odp4Qigf3EyO3Jo7WUZR72n6MeDHAZOauLvqgyU-VtvPhp1J-h7pBWaGv4iKTqE3Fgclzu7Vi693Y_qyLZ-wXGdVAxtnrr8CQhg?key=EodkSoLFp5WiUKN7SM1qG2A5">
 </div>
-<h4>P6 Keyboard</h4>
+<h4>P6 Keyboard and Chinese Opera</h4>
 <p>The Primary 6 Music program builds upon the foundational skills developed
 in previous years, allowing students to further refine their musical abilities
 through the exploration of keyboard playing. This program emphasizes the
@@ -173,6 +173,13 @@ development of advanced musical techniques, encouraging independent learning
 and fostering a deeper appreciation for music. Through engaging lessons
 and challenging repertoire, students will refine their playing skills,
 develop creativity and expression, and cultivate a lifelong love for music.</p>
+<p>Post-PSLE, students are introduced to the rich and vibrant world of Chinese
+Opera. This segment offers a unique opportunity to explore a significant
+aspect of Chinese cultural heritage. Students will gain insights into the
+history, simple opera singing and fundamental movements of Chinese Opera.
+This immersive experience aims to broaden their musical horizons, foster
+cultural awareness, and provide a memorable and enriching conclusion to
+their primary school music education.</p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="193" width="344" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfHcrZ2ei9fXyA1KdUbT-8TvUESIJKFNQh_b2xB5V7EgcyN_pv_fvXOaYICRUEj5XtaSd1oKxy2p-COFbAUutParUNUhZ7uDWBzwipgFlaC_kJeV5jo7DKZUsO-HBZJW4SlFJeg?key=EodkSoLFp5WiUKN7SM1qG2A5">
 </div>
