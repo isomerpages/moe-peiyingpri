@@ -5,7 +5,29 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
-<h3><strong>Track &amp; Field Meet 2025</strong></h3>
+<h4>Fostering Leaders of Character: Student Leaders' Investiture 2025</h4>
+<p></p>
+<p>On 6<sup> </sup>March 2025, we proudly welcomed our new Prefects and Junior
+Sports Leaders, while celebrating our continuing leaders who have been
+inspiring us since last year. The ceremony showed our dedication in developing
+student leaders who demonstrate our school’s P.R.I.D.E. values.</p>
+<p>Guided by the Kouzes and Posner Leadership Model, our student leadership
+programme cultivates young leaders who demonstrate exemplary practices.
+These leaders are empowered to Model the Way by exhibiting positive behaviour,
+Inspire a Shared Vision amongst their peers, Challenge the Process through
+innovative solutions, Enable Others to Act by fostering collaboration,
+and Encourage the Heart through genuine appreciation of others' contributions.</p>
+<p>The ceremony recognised our Level 3 Student Leaders while affirming their
+crucial roles in fostering a positive classroom culture. Through structured
+mentoring and leadership opportunities, these students are guided to develop
+essential skills so that they can voice the concerns on behalf of their
+peers and take actions to enhance the school's learning environment.</p>
+<p>The ceremony concluded with our new student leaders reciting the Key Student
+Leaders’ Pledge together as one, symbolising their dedication to exemplary
+leadership and service to the school community. After the ceremony, the
+student leaders proudly received their badges, marking the start of their
+leadership journey.</p>
+<h4>Track &amp; Field Meet 2025</h4>
 <p></p>
 <p>Our Primary 3 to Primary 6 students assembled at Yishun Stadium in the
 early morning of 14 February 2025 for the school’s Track and Field Meet.
