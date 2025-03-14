@@ -196,7 +196,32 @@ school environment with greater confidence.</p>
 <p>We at Peiying Primary School are dedicated to nurturing every child’s
 growth and empowering them to become lifelong learners and confident leaders.
 Day 1 marked a promising start to this journey.</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>2024</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>From 31 May to 31 July 2024, our school actively participated in the <strong>Woodlands Police Division Green Challenge 2024</strong>.
+Open to preschools and primary schools within the Woodlands Police Division,
+the challenge included engaging activities such as a colouring activity,
+word search, and poster design, aimed at promoting environmental and crime
+awareness among students.</p>
+<p>Our students enthusiastically participated in the challenge and demonstrated
+their creativity and dedication. Their efforts were recognised as our school
+was awarded a Winner’s Plaque for being among the top three primary schools
+with the highest number of participants. This achievement highlights our
+school’s commitment to nurturing socially responsible and environmentally
+conscious individuals.</p>
+<p>We are proud of our students for their active participation and look forward
+to more opportunities to inspire positive change in our community!</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2023</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+</div>
+</details>
+</div>
 <h3>Woodlands Police Division Green Challenge 2024</h3>
 <p>From 31 May to 31 July 2024, our school actively participated in the <strong>Woodlands Police Division Green Challenge 2024</strong>.
 Open to preschools and primary schools within the Woodlands Police Division,
