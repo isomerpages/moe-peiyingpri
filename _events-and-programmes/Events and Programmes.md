@@ -6,7 +6,9 @@ variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
 <h4>Fostering Leaders of Character: Student Leaders' Investiture 2025</h4>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRf7lklc318pw8U8OpdpvTz59QNOdNX6h3fsMUU_Zb2pwrx0yPZHRYkytHZOxkY_d-2ec6xa0THUEtD/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <p>On 6<sup> </sup>March 2025, we proudly welcomed our new Prefects and Junior
 Sports Leaders, while celebrating our continuing leaders who have been
 inspiring us since last year. The ceremony showed our dedication in developing
