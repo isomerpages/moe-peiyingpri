@@ -30,7 +30,6 @@ leadership and service to the school community. After the ceremony, the
 student leaders proudly received their badges, marking the start of their
 leadership journey.</p>
 <h4>Track &amp; Field Meet 2025</h4>
-<p></p>
 <p>Our Primary 3 to Primary 6 students assembled at Yishun Stadium in the
 early morning of 14 February 2025 for the school’s Track and Field Meet.
 This annual event is an ideal platform to showcase not only the athletic
@@ -50,8 +49,6 @@ cheers.</p>
 <p>The annual Track and Field Meet is more than just our school’s sporting
 event; it is a testament to the P.R.I.D.E. values that our teachers instil
 in our students.</p>
-<p></p>
-<p></p>
 <h3><strong>🛡️💧 Total Defence Day 2025 💧🛡️</strong></h3>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRMbm6IGEvyWpea47Q96RmqgbT6UNxkbr-o6-3gL2MXKe65HtS5kmdORFAk7UZINFs4nKdflZiXi_wH/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
@@ -73,9 +70,6 @@ sharing their emotions and insights. It's not just about experiencing the
 simulation; it's about fostering a sense of solidarity and resilience within
 our school community, echoing the spirit of Total Defence that has sustained
 our nation.</p>
-<p></p>
-<p></p>
-<p></p>
 <h3><strong>Cyber Wellness Week 2025: Fostering Responsible Digital Citizens</strong></h3>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTK6d0-zM0qHNvrs5kLKEn1lpbBf02Mrqy01Xk_y0wBEzRCv0-nfNK2B-YIeNtoZp8y4jxS7Q7_Rct6/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
@@ -100,7 +94,6 @@ they raced to answer questions about staying safe online.</p>
 digital literacy skills, empowering them to navigate the online world safely
 and responsibly. Peiying Primary School remains committed to nurturing
 kind, thoughtful, and responsible digital citizens!</p>
-<p></p>
 <h3>✨🎉 <strong>Friendship Week 2025</strong> 💖🤝</h3>
 <div class="iframe-wrapper">
 <iframe height="839" width="1440" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSFZmzFg5Ihof8rxsz2baGAC9FgMLrnCrd2awdIQlLP4uX3rHJjggoLeQV6ZFQUqsAPXH46-OYqPwIF/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
@@ -130,9 +123,6 @@ theme, <em>“Everyone Can Learn,”</em> to be a good friend. Here at Peiying
 Primary School, we believe in building a caring and inclusive environment
 where friendships grow and flourish—one kind act at a time!<strong>&nbsp;</strong>
 </p>
-<p></p>
-<p></p>
-<p></p>
 <h3><strong>🐍🎊 Peiying Primary School's Chinese New Year Celebration 2025 🎊🐍&nbsp;</strong></h3>
 <p></p>
 <div class="iframe-wrapper">
@@ -171,10 +161,7 @@ relationships and kickstart the school year with a sense of belonging.</p>
 <div class="iframe-wrapper">
 <iframe height="839" width="1440" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSSOma1iUzxmS25XMShg_OFlUtWKFni-N2mfX4kqSWKdNW41S1s4kuD0Y2jZUbnlVyCxdaFLQ8egoDa/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
-<p></p>
-<p></p>
 <h3>Peiying Primary School Welcomes Primary 1 Cohort on Day 1 2025</h3>
-<p></p>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ5zczcs2o5_nG798YhwYoqAbv39U93qJWhy9gmkqZBxi3B4E59drv7kIOZdbUsvr9BIJ5X2JB82E5C/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
