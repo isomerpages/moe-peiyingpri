@@ -157,7 +157,7 @@ Writing</p>
 <p>Singapore Youth Festival</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Anglung Ensemble</strong>
+<p><strong>Angklung &amp; Kulintang Ensemble</strong>
 <br>Certificate of Distinction</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Angklung_1.jpg">
