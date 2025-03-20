@@ -41,13 +41,13 @@ variant: tiptap
 <p>We aim to</p>
 <ul>
 <li>
-<p>ignite our pupils’ passion for Mathematics</p>
+<p>ignite our students' passion for Mathematics</p>
 </li>
 <li>
-<p>build our pupils’ confidence in Mathematics</p>
+<p>build our students' confidence in Mathematics</p>
 </li>
 <li>
-<p>enable our pupils to acquire cognitive and metacognitive skills</p>
+<p>enable our students to acquire cognitive and metacognitive skills</p>
 </li>
 <li>
 <p>nurture independent lifelong learners and innovative problem solvers</p>
