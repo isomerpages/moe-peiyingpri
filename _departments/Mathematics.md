@@ -66,6 +66,9 @@ Students develop critical thinking skills to approach and solve complex
 mathematical problems systematically. The skills learned are not just for
 Mathematics but also for real-world problem-solving and future academic
 pursuits.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Department/Picture1.jpg">
+</div>
 <h4>E2K Mathematics: Unlocking the Mathematician Within</h4>
 <p>The E2K Mathematics programme in Peiying is an enrichment initiative designed
 for selected Primary 4 &amp; Primary 5 high-progress learners in Mathematics.
@@ -76,9 +79,13 @@ mathematical explorations using resources like puzzles, games, and specially
 designed activities. These rich experiences nurture habits and attitudes
 of mathematicians while equipping students with essential 21st-century
 competencies such as critical thinking, inventive thinking, and effective
-communication skills.
-<br>
-</p>
+communication skills.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Department/Picture2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Department/Picture3.jpg">
+</div>
 <h4>Learning Beyond Classrooms: Fun$mart for Young Mathematicians</h4>
 <p>The Fun$mart programme engages Primary 1 to Primary 3 students by linking
 Mathematics to real-world contexts through authentic learning. Students
@@ -89,6 +96,12 @@ during holidays and interactive Math trail sessions during Mathematics
 lessons. Through these experiences, students not only build a deeper understanding
 of mathematical concepts but also acquire vital cognitive and communication
 skills, fostering holistic development.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Department/Picture4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Department/Picture5.jpg">
+</div>
 <h4>Mathematics Made Accessible: Supporting LSM Learners</h4>
 <p>The Learning Support Mathematics (LSM) programme at our school provides
 early intervention for selected Primary 1 to Primary 4 students who require
@@ -100,4 +113,7 @@ in the primary school curriculum. Through targeted support, LSM empowers
 students to overcome challenges and achieve success in Mathematics. Beyond
 academic growth, LSM fosters problem-solving skills, resilience, and a
 growth mindset.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Department/Picture6.jpg">
+</div>
 <p></p>
