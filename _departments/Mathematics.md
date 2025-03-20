@@ -72,32 +72,16 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:40%" height="auto" width="100%" src="/images/programmes.png">
 </div>
-<h4>Fun$mart Programme</h4>
-<p>The Fun$mart programme enables pupils to connect Mathematics to the real-world
-context through authentic learning. It provides an opportunity for parents
-to engage in their child’s learning and raise their child’s awareness in
-the mathematically rich environments in their neighbourhood through accomplishing
-a series of activities in the booklet during holidays. Pupils would inevitably
-acquire cognitive and communication skills in Mathematics.</p>
-<h4>Learning Support for Mathematics</h4>
-<p>This early intervention programme provides an opportunity for the identified
-Primary 1 and Primary 2 pupils to acquire foundational numeracy skills
-and knowledge, and build their confidence in Mathematics to access the
-lower Primary Mathematics curriculum. Due to its small teacher-pupil ratio
-structure, a greater attention is given to each pupil and a closer monitoring
-of individual learning progress is provided. These pupils learn Mathematics
-through various hands-on strategies and game-based activities.</p>
-<h4>Banded Math Remediation</h4>
-<p>The chosen Primary 3 and Primary 4 pupils in this after-school programme
-are banded according to their learning progress and aptitude in Mathematics.
-A more targeted approach is given these pupils to better match their learning
-pace and address their learning gaps.</p>
-<h4>Math pull-out programme</h4>
-<p>This pull-out programme provides an opportunity for the selected Primary
-5 and Primary 6 pupils to gain factual and procedural fluencies through
-a series of structured scaffolds and games provided for them. These pupils
-will gain conceptual understanding through various hands-on activities.</p>
-<p></p>
+<h4>Mastering Problem-Solving: Heuristics and Problem Concepts (HPC) in Mathematics</h4>
+<p>Our Mathematics programme equips all students with essential problem-solving
+skills through the explicit teaching of heuristics such as <em>Guess &amp; Check,</em>  <em>Listing </em>etc,
+as well as problem concepts such as <em>Total Unchanged</em>, <em>Repeated Identity, Gaps &amp; Difference </em>etc.
+HPC apply across all topics, giving students tools for versatile and adaptable
+learning, empowering them to become confident and effective problem solvers.
+Students develop critical thinking skills to approach and solve complex
+mathematical problems systematically. The skills learned are not just for
+Mathematics but also for real-world problem-solving and future academic
+pursuits.</p>
 <p>
 <br>
 </p>
