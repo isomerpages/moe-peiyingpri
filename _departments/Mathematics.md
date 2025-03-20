@@ -12,14 +12,6 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Head of Department</strong>
 </p>
@@ -39,14 +31,6 @@ variant: tiptap
 <p>Mrs Vasanthi Nanda
 <br><a href="mailto:vasanthi_tanabalan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">vasanthi_tanabalan@schools.gov.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -82,7 +66,38 @@ Students develop critical thinking skills to approach and solve complex
 mathematical problems systematically. The skills learned are not just for
 Mathematics but also for real-world problem-solving and future academic
 pursuits.</p>
-<p>
+<h4>E2K Mathematics: Unlocking the Mathematician Within</h4>
+<p>The E2K Mathematics programme in Peiying is an enrichment initiative designed
+for selected Primary 4 &amp; Primary 5 high-progress learners in Mathematics.
+A collaboration between the Gifted Education Branch, MOE, and our school,
+the programme fosters mathematical reasoning and deepens conceptual understanding
+through inquiry-based learning. Students engage in independent and collaborative
+mathematical explorations using resources like puzzles, games, and specially
+designed activities. These rich experiences nurture habits and attitudes
+of mathematicians while equipping students with essential 21st-century
+competencies such as critical thinking, inventive thinking, and effective
+communication skills.
 <br>
 </p>
+<h4>Learning Beyond Classrooms: Fun$mart for Young Mathematicians</h4>
+<p>The Fun$mart programme engages Primary 1 to Primary 3 students by linking
+Mathematics to real-world contexts through authentic learning. Students
+explore mathematically rich environments in their neighbourhood, enhancing
+their awareness and appreciation of Mathematics in daily life. The programme
+includes exciting online activities in the <em>Student Learning Space</em> (SLS)
+during holidays and interactive Math trail sessions during Mathematics
+lessons. Through these experiences, students not only build a deeper understanding
+of mathematical concepts but also acquire vital cognitive and communication
+skills, fostering holistic development.</p>
+<h4>Mathematics Made Accessible: Supporting LSM Learners</h4>
+<p>The Learning Support Mathematics (LSM) programme at our school provides
+early intervention for selected Primary 1 to Primary 4 students who require
+additional help in building foundational numeracy skills. With a small
+teacher-student ratio, the programme ensures personalized attention, enabling
+each child to progress at their own pace. LSM focuses on equipping students
+with essential mathematical knowledge, skills, and confidence to excel
+in the primary school curriculum. Through targeted support, LSM empowers
+students to overcome challenges and achieve success in Mathematics. Beyond
+academic growth, LSM fosters problem-solving skills, resilience, and a
+growth mindset.&nbsp;</p>
 <p></p>
