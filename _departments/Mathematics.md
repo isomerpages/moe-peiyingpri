@@ -80,12 +80,28 @@ designed activities. These rich experiences nurture habits and attitudes
 of mathematicians while equipping students with essential 21st-century
 competencies such as critical thinking, inventive thinking, and effective
 communication skills.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Department/Picture2.jpg">
+<img style="width: 97%;" height="auto" width="100%" alt="" src="/images/Department/Picture2.jpg">
 </div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Department/Picture3.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Department/Picture3.jpg">
 </div>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>Learning Beyond Classrooms: Fun$mart for Young Mathematicians</h4>
 <p>The Fun$mart programme engages Primary 1 to Primary 3 students by linking
 Mathematics to real-world contexts through authentic learning. Students
@@ -96,12 +112,6 @@ during holidays and interactive Math trail sessions during Mathematics
 lessons. Through these experiences, students not only build a deeper understanding
 of mathematical concepts but also acquire vital cognitive and communication
 skills, fostering holistic development.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Department/Picture4.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Department/Picture5.jpg">
-</div>
 <h4>Mathematics Made Accessible: Supporting LSM Learners</h4>
 <p>The Learning Support Mathematics (LSM) programme at our school provides
 early intervention for selected Primary 1 to Primary 4 students who require
