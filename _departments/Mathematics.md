@@ -134,15 +134,13 @@ skills, fostering holistic development.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/WhatsApp_Image_2025_03_24_at_11_26_07_AM__2_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/WhatsApp_Image_2025_03_24_at_11_26_07_AM__3_.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Department/WhatsApp_Image_2025_03_24_at_11_26_07_AM__3_.jpg">
 </div>
 </td>
 </tr>
