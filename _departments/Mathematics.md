@@ -112,6 +112,53 @@ during holidays and interactive Math trail sessions during Mathematics
 lessons. Through these experiences, students not only build a deeper understanding
 of mathematical concepts but also acquire vital cognitive and communication
 skills, fostering holistic development.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/WhatsApp_Image_2025_03_24_at_11_26_07_AM.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/WhatsApp_Image_2025_03_24_at_11_26_07_AM__1_.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/WhatsApp_Image_2025_03_24_at_11_26_07_AM__2_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/WhatsApp_Image_2025_03_24_at_11_26_07_AM__3_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/WhatsApp_Image_2025_03_24_at_11_26_07_AM__4_.jpg">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>Mathematics Made Accessible: Supporting LSM Learners</h4>
 <p>The Learning Support Mathematics (LSM) programme at our school provides
 early intervention for selected Primary 1 to Primary 4 students who require
