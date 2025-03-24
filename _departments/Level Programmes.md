@@ -4,291 +4,731 @@ permalink: /departments/level-programmes/
 description: ""
 variant: tiptap
 ---
-### **Level Programmes**
-
-
-<table class="tg">
-  <thead>
-    <tr>
-      <th class="tg-brl1"></th>
-      <th class="tg-brl1">P1</th>
-      <th class="tg-brl1">P2</th>
-      <th class="tg-brl1">P3</th>
-      <th class="tg-brl1">P4</th>
-      <th class="tg-brl1">P5</th>
-      <th class="tg-0lax">P6</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td class="tg-brl1">Art Enrichment</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-    </tr>
-    <tr>
-      <td class="tg-brl1">PAL Programme</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1"></td>
-    </tr>
-    <tr>
-      <td class="tg-brl1">Learning Journeys</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-    </tr>
-    <tr>
-      <td class="tg-brl1">Math (Fun$mart)</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1"></td>
-    </tr>
-    <tr>
-      <td class="tg-brl1">Assembly Programmes</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-    </tr>
-    <tr>
-      <td class="tg-brl1">Mother Tongue Language Fortnight</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-    </tr>
-    <tr>
-      <td class="tg-brl1">School-Wide Leadership Training</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-    </tr>
-    <tr>
-      <td class="tg-brl1">School-Wide Recycling Programme</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-    </tr>
-    <tr>
-      <td class="tg-brl1">SCALE@PEIYING</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-    </tr>
-    <tr>
-      <td class="tg-brl1">Let’s Read Programme</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1"></td>
-    </tr>
-    <tr>
-      <td class="tg-brl1">English Extensive Reading Programme</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1"></td>
-    </tr>
-    <tr>
-      <td class="tg-brl1">Cyber Wellness Week</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-    </tr>
-    <tr>
-      <td class="tg-brl1">Project Work</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-    </tr>
-    <tr>
-      <td class="tg-brl1">Sports Enrichment</td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-    </tr>
-    <tr>
-      <td class="tg-brl1">Music Enrichment</td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1">✔</td>
-    </tr>
-    <tr>
-      <td class="tg-brl1">MTL (FunOral)</td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1"></td>
-    </tr>
-    <tr>
-      <td class="tg-brl1">Science (Hands On)</td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1"></td>
-    </tr>
-    <tr>
-      <td class="tg-brl1">Code for Fun (Coding using LEGO)</td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1"></td>
-    </tr>
-    <tr>
-      <td class="tg-brl1">MTL Language Camp</td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1"></td>
-    </tr>
-    <tr>
-      <td class="tg-brl1">NE Cards and Trails</td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1"></td>
-    </tr>
-    <tr>
-      <td class="tg-brl1">Celebration of Learning</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-    </tr>
-    <tr>
-      <td class="tg-brl1">P4 Road Safety @ Road Safety Park</td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1"></td>
-    </tr>
-    <tr>
-      <td class="tg-brl1">Science Enrichment</td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1"></td>
-    </tr>
-    <tr>
-      <td class="tg-brl1">P4 2 Days 1 Night Cultural Experience</td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1"></td>
-    </tr>
-    <tr>
-      <td class="tg-brl1">Museum Based Learning @ NGS</td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1"></td>
-    </tr>
-    <tr>
-      <td class="tg-brl1">P5 Camp</td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1"></td>
-    </tr>
-    <tr>
-      <td class="tg-brl1">NE Show</td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1"></td>
-    </tr>
-    <tr>
-      <td class="tg-brl1">Cultural Exposure</td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1"></td>
-    </tr>
-    <tr>
-      <td class="tg-brl1">Motivational Workshop</td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1">✔</td>
-    </tr>
-    <tr>
-      <td class="tg-brl1">Overseas Learning Journey</td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1"></td>
-      <td class="tg-brl1">✔</td>
-      <td class="tg-brl1"></td>
-    </tr>
-  </tbody>
+<h3><strong>Level Programmes</strong></h3>
+<table style="minWidth: 175px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>P1</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>P2</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>P3</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>P4</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>P5</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>P6</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Art Enrichment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PAL Programme</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Learning Journeys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Math (Fun$mart)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assembly Programmes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue Language Fortnight</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School-Wide Leadership Training</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School-Wide Recycling Programme</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SCALE@PEIYING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Let’s Read Programme</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English Extensive Reading Programme</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cyber Wellness Week</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Project Work</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sports Enrichment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Music Enrichment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MTL (FunOral)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science (Hands On)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Code for Fun (Coding using LEGO)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MTL Language Camp</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NE Cards and Trails</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Celebration of Learning</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4 Road Safety @ Road Safety Park</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science Enrichment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4 2 Days 1 Night Cultural Experience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Museum Based Learning @ NGS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5 Camp</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NE Show</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cultural Exposure</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Motivational Workshop</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Overseas Learning Journey</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✔</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
 </table>
+<p></p>
