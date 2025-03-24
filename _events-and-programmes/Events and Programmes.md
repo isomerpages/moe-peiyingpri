@@ -6,13 +6,16 @@ variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
 <h4>Peiying Primary's Participation in the 22nd Elementz Science Project Competition</h4>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTNtBYOLSI7aMN5hr29lYRJt-Ep0PS9fuhp05YT3i8RGdKRYJahq1DngbdZ7VD2R8VOLSIfnqJ4rGY0/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <p>Peiying Primary School recently participated in the 22nd Elementz Science
 Project Competition, an esteemed annual event that encourages students
 across Singapore to engage in scientific inquiry and develop innovative
 solutions to pressing global issues. We are proud to announce that three
 of our student teams took part in the competition, presenting their well-researched
 and creative projects.</p>
-<p><strong>1. Preserving the Longevity of Food </strong>
+<p><strong>1. Preserving the Longevity of Food</strong>
 </p>
 <p>This project aimed to explore methods of reducing food wastage by extending
 the shelf life of commonly used food items. The team received a Certificate
@@ -25,7 +28,7 @@ the importance of energy conservation at home and in schools. Through their
 research and practical solutions to reduce electricity consumption, the
 team was awarded a Silver Award in recognition of their outstanding contribution
 to environmental sustainability.</p>
-<p><strong>3. Sugar Rush  </strong>
+<p><strong>3. Sugar Rush</strong>
 </p>
 <p>The third team’s project examined the impact of sugar consumption on health
 and society, promoting awareness of healthier dietary choices. Their efforts
