@@ -79,7 +79,7 @@ variant: tiptap
 <p>5 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Hui Wing Yan</p>
+<p>Ms Hui Wing Yan, Yvonne</p>
 <p><a href="mailto:hui_wing_yan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hui_wing_yan@schools.gov.sg</a>
 </p>
 <p></p>
@@ -105,7 +105,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Imelda</p>
+<p>Ms Imelda As'ari</p>
 <p><a href="mailto:imelda_asari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">imelda_asari@schools.gov.sg</a>
 </p>
 </td>
