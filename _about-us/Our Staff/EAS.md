@@ -50,22 +50,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administrative Executive</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Wang Chuan Soon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:wang_chuan_soon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wang_chuan_soon@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Administrative Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sharvin</p>
+<p>Mr R Sharvin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:r_sharvin_ganesh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">r_sharvin_ganesh@schools.gov.sg</a>
@@ -74,13 +62,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ICT Associate</p>
+<p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Noormalah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:noormalah_rabu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">noormalah_rabu@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Administrative Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Wang Chuan Soon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wang_chuan_soon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wang_chuan_soon@schools.gov.sg</a>
 </p>
 </td>
 </tr>
