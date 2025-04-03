@@ -31,18 +31,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Useful%20Forms%20and%20Links/application%20form%20for%20lunch%20pass.pdf" rel="noopener noreferrer nofollow" target="_blank">Application for Lunch Pass</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Useful%20Forms%20and%20Links/travel%20declaration%20p1.pdf" rel="noopener noreferrer nofollow" target="_blank">Travel Declaration Form for Primary 1</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Useful%20Forms%20and%20Links/travel%20declaration%20p2-p6.pdf" rel="noopener noreferrer nofollow" target="_blank">Travel Declaration Form for Primary 2 to 6</a>
-</p>
-</li>
-<li>
 <p>Leave of Absence (LOA)</p>
 <ul data-tight="true" class="tight">
 <li>
