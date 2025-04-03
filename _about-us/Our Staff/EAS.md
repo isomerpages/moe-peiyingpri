@@ -50,10 +50,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administrative Manager</p>
+<p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr R Sharvin</p>
+<p>Mr R Sharvin Ganesh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:r_sharvin_ganesh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">r_sharvin_ganesh@schools.gov.sg</a>
