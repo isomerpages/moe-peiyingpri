@@ -5,6 +5,42 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Our Achievements</strong></h3>
+<p><strong>2025</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Competition</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement(s)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Excellent Unit Gold Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Red Cross CCA</p>
+<p>Gold Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Puan Noor Aishah Gold Award for 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Brownies CCA</p>
+<p>Gold Award</p>
+</td>
+</tr>
+</tbody>
+</table>
 <hr>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
