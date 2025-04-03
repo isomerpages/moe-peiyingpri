@@ -95,7 +95,7 @@ form.</p>
 news, school features and tips.</p>
 </li>
 <li>
-<p><a href="https://www.moe.gov.sg/education-in-sg/educational-technology-journey/edtech-plan" rel="noopener noreferrer nofollow" target="_blank">Educational Technology (EdTech) Plan</a> 
+<p><a href="https://www.moe.gov.sg/education-in-sg/educational-technology-journey/edtech-masterplan" rel="noopener noreferrer nofollow" target="_blank">Educational Technology (EdTech) Plan</a> 
 <br>A list of guides &amp; tips, resources and useful links to help you to
 reinforce Cyber Wellness education at home.</p>
 </li>
