@@ -39,7 +39,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Farhana Bte Moinodeen</p>
-<p><a href="mailto:Farhana_Moinodeen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Farhana_Moinodeen@schools.gov.sg</a> 
+<p><a href="mailto:Farhana_Moinodeen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Farhana_Moinodeen@schools.gov.sg</a>
 </p>
 <p></p>
 <p></p>
@@ -71,8 +71,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Asyaari</p>
-<p></p>
-<p></p>
 <p><a href="mailto:nur_faiszah_ishak@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_faiszah_ishak@schools.gov.sg</a>
 </p>
 <p></p>
