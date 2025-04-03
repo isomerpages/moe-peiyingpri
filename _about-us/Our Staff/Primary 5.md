@@ -64,15 +64,12 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Fan-Lee Bee Yen Jennifer</p>
-<p><a href="mailto:fan_lee_bee_yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fan_lee_bee_yen@schools.gov.sg</a>
-</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Joel Tee</p>
 <p><a href="mailto:tee_han_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tee_han_yun@schools.gov.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 <p></p>
 </td>
 </tr>
@@ -135,10 +132,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms</p>
-<p>Tan Ai Lin</p>
-<p><a href="mailto:tan_ai_lin_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_ai_lin_a@schools.gov.sg</a>
-</p>
+<p></p>
 <p></p>
 <p></p>
 </td>
