@@ -5,6 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Our Achievements</strong></h3>
+<hr>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>2024</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -178,8 +183,9 @@ Writing</p>
 </tr>
 </tbody>
 </table>
-<hr>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<p></p>
+</div>
+</details>
 <details class="isomer-details">
 <summary>2023</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -194,19 +200,6 @@ Writing</p>
 <br>
 <br><strong>Brownies</strong>
 <br>Puan Noor Aishah Silver Award for 2022</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>2022</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Red Cross</strong>
-<br>Excellent Unit Gold Award
-<br>
-<br><strong>Brownies</strong>
-<br>Puan Noor Aishah Gold Award for 2021
-<br>
-<br><strong>Senior Girls Netball</strong>
-<br>National Senior Division Championships - 4th</p>
 </div>
 </details>
 </div>
