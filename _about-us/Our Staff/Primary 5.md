@@ -58,16 +58,14 @@ variant: tiptap
 <p>5 Respect/Wisdom</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Muhammad Rosnizam</p>
+<p><a href="mailto:muhammad_rosnizam_b_umar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_rosnizam_b_umar@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Ting Shu Han</p>
 <p><a href="mailto:ting_shu_han@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ting_shu_han@schools.gov.sg</a>
 </p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Fan-Lee Bee Yen Jennifer</p>
-<p><a href="mailto:fan_lee_bee_yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fan_lee_bee_yen@schools.gov.sg</a>
-</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Joel Tee</p>
@@ -81,7 +79,7 @@ variant: tiptap
 <p>5 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Hui Wing Yan</p>
+<p>Ms Hui Wing Yan, Yvonne</p>
 <p><a href="mailto:hui_wing_yan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hui_wing_yan@schools.gov.sg</a>
 </p>
 <p></p>
@@ -107,7 +105,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Imelda</p>
+<p>Ms Imelda As'ari</p>
 <p><a href="mailto:imelda_asari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">imelda_asari@schools.gov.sg</a>
 </p>
 </td>
@@ -135,10 +133,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms</p>
-<p>Tan Ai Lin</p>
-<p><a href="mailto:tan_ai_lin_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_ai_lin_a@schools.gov.sg</a>
-</p>
+<p></p>
 <p></p>
 <p></p>
 </td>

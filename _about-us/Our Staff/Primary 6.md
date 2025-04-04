@@ -87,9 +87,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lee-Ong Chee Lin</p>
-<p><a href="mailto:ong_chee_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_chee_lin@schools.gov.sg</a>
-</p>
+<p></p>
 <p></p>
 </td>
 </tr>

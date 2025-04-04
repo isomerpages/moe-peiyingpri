@@ -21,25 +21,7 @@ variant: tiptap
 <h4>Forms</h4>
 <ul>
 <li>
-<p>Edusave Character Award
-<br>- <a href="/files/Useful%20Forms%20and%20Links/ECHA%20%202020.pdf" rel="noopener noreferrer nofollow" target="_blank">Information</a> 
-<br>- <a href="/files/Useful%20Forms%20and%20Links/ECHA_Nomination%20Forms%202020%20(Parents).pdf" rel="noopener noreferrer nofollow" target="_blank">Nomination Form</a>
-</p>
-</li>
-<li>
 <p><a href="/files/Useful%20Forms%20and%20Links/Book_Review_Template(Jun_12).pdf" rel="noopener noreferrer nofollow" target="_blank">Book Review Template</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Useful%20Forms%20and%20Links/application%20form%20for%20lunch%20pass.pdf" rel="noopener noreferrer nofollow" target="_blank">Application for Lunch Pass</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Useful%20Forms%20and%20Links/travel%20declaration%20p1.pdf" rel="noopener noreferrer nofollow" target="_blank">Travel Declaration Form for Primary 1</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Useful%20Forms%20and%20Links/travel%20declaration%20p2-p6.pdf" rel="noopener noreferrer nofollow" target="_blank">Travel Declaration Form for Primary 2 to 6</a>
 </p>
 </li>
 <li>
@@ -95,7 +77,7 @@ form.</p>
 news, school features and tips.</p>
 </li>
 <li>
-<p><a href="https://www.moe.gov.sg/education-in-sg/educational-technology-journey/edtech-plan" rel="noopener noreferrer nofollow" target="_blank">Educational Technology (EdTech) Plan</a> 
+<p><a href="https://www.moe.gov.sg/education-in-sg/educational-technology-journey/edtech-masterplan" rel="noopener noreferrer nofollow" target="_blank">Educational Technology (EdTech) Plan</a> 
 <br>A list of guides &amp; tips, resources and useful links to help you to
 reinforce Cyber Wellness education at home.</p>
 </li>

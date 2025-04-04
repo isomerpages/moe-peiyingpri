@@ -5,6 +5,47 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Our Achievements</strong></h3>
+<p><strong>2025</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Competition</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement(s)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Excellent Unit Gold Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Red Cross CCA</p>
+<p>Gold Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Puan Noor Aishah Gold Award for 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Brownies CCA</p>
+<p>Gold Award</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>2024</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -178,8 +219,9 @@ Writing</p>
 </tr>
 </tbody>
 </table>
-<hr>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<p></p>
+</div>
+</details>
 <details class="isomer-details">
 <summary>2023</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -194,19 +236,6 @@ Writing</p>
 <br>
 <br><strong>Brownies</strong>
 <br>Puan Noor Aishah Silver Award for 2022</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>2022</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Red Cross</strong>
-<br>Excellent Unit Gold Award
-<br>
-<br><strong>Brownies</strong>
-<br>Puan Noor Aishah Gold Award for 2021
-<br>
-<br><strong>Senior Girls Netball</strong>
-<br>National Senior Division Championships - 4th</p>
 </div>
 </details>
 </div>
