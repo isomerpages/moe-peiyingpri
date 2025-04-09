@@ -32,7 +32,7 @@ school to build a safe and nurturing environment for our students.</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/PSG/Picture1.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSG/Picture1.png">
 </div>
 </th>
 </tr>
@@ -45,7 +45,7 @@ school to build a safe and nurturing environment for our students.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/PSG/Picture2.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSG/Picture2.png">
 </div>
 </td>
 </tr>
@@ -58,7 +58,7 @@ school to build a safe and nurturing environment for our students.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/PSG/Picture3.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSG/Picture3.png">
 </div>
 </td>
 </tr>
@@ -71,7 +71,7 @@ school to build a safe and nurturing environment for our students.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/PSG/Picture4.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSG/Picture4.png">
 </div>
 </td>
 </tr>
@@ -84,7 +84,7 @@ school to build a safe and nurturing environment for our students.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/PSG/Picture5.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSG/Picture5.png">
 </div>
 </td>
 </tr>
@@ -97,7 +97,7 @@ school to build a safe and nurturing environment for our students.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/PSG/Picture6.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSG/Picture6.png">
 </div>
 </td>
 </tr>
@@ -110,7 +110,7 @@ school to build a safe and nurturing environment for our students.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/PSG/Picture7.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSG/Picture7.png">
 </div>
 </td>
 </tr>
@@ -123,7 +123,7 @@ school to build a safe and nurturing environment for our students.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/PSG/Picture8.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSG/Picture8.png">
 </div>
 </td>
 </tr>
@@ -136,7 +136,7 @@ school to build a safe and nurturing environment for our students.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/PSG/Picture9.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSG/Picture9.png">
 </div>
 </td>
 </tr>
@@ -149,7 +149,7 @@ school to build a safe and nurturing environment for our students.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/PSG/Picture10.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSG/Picture10.png">
 </div>
 </td>
 </tr>
