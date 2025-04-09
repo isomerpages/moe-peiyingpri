@@ -54,38 +54,9 @@ Games Rope Skipping Championships and other platforms to apply the skills,
 knowledge and attitudes acquired.&nbsp;</p>
 <p>Teachers-in-charge: Mdm Nurhazrida, Mr Vasanthan and Mr Hassan</p>
 <h4>Sepak Takraw</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/4.jpg">
+<div class="iframe-wrapper">
+<iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSGj9v-ibeYnr8PTDF5y9zz3PF5lh4BKEQgeLFGIke3bhUBSYp9ltI4O70BkPlcd3UIqgXY-RyLBkfO/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/3.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/CCA/1.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
 <p>Peiying Primary School offers Sepak Takraw as a Co-Curricular Activity
 (CCA) to our P3 to P6 boys. Sepak Takraw is an exciting and dynamic sport
 in Peiying Primary School. As it is a team game, we aim to cultivate sportsmanship
