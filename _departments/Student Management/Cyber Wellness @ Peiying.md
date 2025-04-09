@@ -6,6 +6,38 @@ description: ""
 third_nav_title: Student Management
 ---
 <h4>Cyber Wellness @ Peiying&nbsp;</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/Taking_CW_Pledge_in_class_2.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/Kahoot_Quiz_1.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/Assembly_Programme_1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/Storytelling_in_Lib_2.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>At Peiying Primary School, we are dedicated to equipping our students
 with the necessary skills to stay cyber-smart. This empowers them to become
 responsible netizens who take accountability for their online actions while
