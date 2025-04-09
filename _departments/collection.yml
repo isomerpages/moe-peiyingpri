@@ -2,9 +2,9 @@ collections:
   departments:
     output: true
     order:
-      - Student Management/Cyber Wellness @ Peiying.md
-      - Student Management/Student Management.md
       - Student Management/.keep
+      - Student Management/Student Management.md
+      - Student Management/Cyber Wellness @ Peiying.md
       - Level Programmes.md
       - English Language.md
       - Mathematics.md
