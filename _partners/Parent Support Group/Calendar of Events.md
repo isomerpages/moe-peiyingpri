@@ -13,19 +13,19 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p>29 Aug</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teachers' Day Celebration</p>
-</td>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Oct</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Children's Day Celebration</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -33,31 +33,55 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P1-P2 Lower Primary Games Day</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8 Nov</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P1 Orientation &amp; PSG Bonding</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>12 Nov</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Deepavali Celebration</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>15 Nov</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Prize Presentation</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
