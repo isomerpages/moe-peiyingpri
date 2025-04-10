@@ -25,6 +25,9 @@ and attitudes in a competitive setting, further strengthening their passion
 for the sport.</p>
 <p>Teachers-in-charge: Ms Ting Shu Han, Ms Farhanah, Ms Jacqueline Ten, Ms
 Lian Yiling and Ms Imelda</p>
+<p>
+<br>
+</p>
 <h4>Outdoor Education</h4>
 <div class="iframe-wrapper">
 <iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTDloeX0gyWlRU1Ar0nNi_wdm3wFVudKVpro76VDLAzhtCv6HyCCsL9TkY2tWEM4q6YyPNKHXCu8-LY/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
