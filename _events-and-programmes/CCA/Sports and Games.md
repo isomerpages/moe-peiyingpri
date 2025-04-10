@@ -68,8 +68,8 @@ the school in the National School Games Sepak Takraw Championships and
 other platforms where they will have a chance to experience sports at a
 competitive level, preparing them psychologically for future sporting endeavours
 as they head on to higher educational institutions.</p>
-<p>Teachers-in-charge: Mr Dinoalfian, Mdm Suzanah, Mr Darren Yeo and Mr Kevin
-Lune</p>
+<p>Teachers-in-charge: Mr Dinoalfian, Mdm Nurhafeza, Ms Nur Faiszah, Mr Darren
+Yeo and Mr Kevin Lune</p>
 <h4>Volleyball</h4>
 <div class="iframe-wrapper">
 <iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR0Wx1yE-V1Z-K-F4CBtApW0XpeVl6xrw-8RKypja8eQMYiP0bN_Y6sLqZfINmia7kH9W9egz36jge-/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
