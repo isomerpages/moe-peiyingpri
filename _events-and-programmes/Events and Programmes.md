@@ -5,6 +5,33 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
+<h4>Peiying Primary School’s English Fiesta 2025: Occupations From All Walks of Life</h4>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTQP2nauW6ws01SkgYr_4j77_ZVmhCf5U9KCelipjpPond5syza7v2Od38hz--zfgNv6k8XMjQh-0Xe/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>Peiying Primary School is thrilled to announce the launch of English Language
+Fiesta 2025, themed "Occupations: From All Walks of Life." This year’s
+event is designed to immerse our students in a language-enriched environment,
+helping them develop as engaged learners and confident communicators, and
+adopt healthy reading habits.</p>
+<p>One of the highlights of the event will be “A Date with Books” to cultivate
+the joy for reading. Students also get to enjoy pre-assembly activities
+in the hall, such as listening to stories read by our English Language
+Ambassadors. Additionally, teachers engaged students through storytelling
+sessions in their classrooms, while encouraging a love for reading. On
+April 4, 2025, both students and teachers had the opportunity to showcase
+their creativity by dressing up as individuals in various professions.
+Through engaging activities and creative expression, we're helping our
+students discover the diverse world of careers while building essential
+language skills.</p>
+<p>Level-specific activities were also designed to enhance the students'
+language learning experience during the EL Fiesta, such as Choral Reading
+by Primary 1 students, “Meet the illustrator” for our Primary 2 students
+and SLS lesson packages for Primary 3 to Primary 6 students which encourage
+them to learn about different careers and understand their roles in society.
+Through this language experience, we hope to develop leaders of character
+who actively participate in school events and appreciate the diversity
+of occupations around them.</p>
 <h4>Peiying Primary's Participation in the 22nd Elementz Science Project Competition</h4>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTNtBYOLSI7aMN5hr29lYRJt-Ep0PS9fuhp05YT3i8RGdKRYJahq1DngbdZ7VD2R8VOLSIfnqJ4rGY0/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
