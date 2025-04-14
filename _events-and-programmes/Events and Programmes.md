@@ -5,6 +5,56 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
+<h4>Hari Raya Celebration 2025 at Peiying Primary School</h4>
+<div class="iframe-wrapper">
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSRhpYcBRFNDXcnmSHMaDrH8mHhogpICIG4seVM-zAJyKDsAvIwlajfElf5XrAgjSqG5-beo1S7t3UF/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>This year, Peiying Primary School celebrated Hari Raya 2025, bringing
+students together to learn about the rich traditions of Hari Raya visiting.
+The event fostered cultural appreciation and a deeper understanding of
+its customs and values.</p>
+<p>An engaging assembly programme featured a group of Muslim friends introducing
+their non-Muslim peers to Hari Raya traditions. Students learned about:</p>
+<p>✅ Wearing festive attire</p>
+<p>✅ Greeting others with the traditional "Salaam"</p>
+<p>✅ Dining etiquette, including eating with hands</p>
+<p>✅ The tradition of giving green packets</p>
+<p>✅ The joy of mass singing and dancing</p>
+<p>An interactive Forum Theatre segment encouraged students to participate
+in discussions on gratitude, empathy, respect, and togetherness— the core
+values of Hari Raya.</p>
+<p>The celebration was a resounding success, deepening cultural awareness
+and strengthening bonds within our diverse school community. It was heartwarming
+to see students embrace the spirit of unity and respect that Hari Raya
+represents.</p>
+<p>We look forward to more opportunities to celebrate and learn together!</p>
+<h4>Peiying Primary School’s English Fiesta 2025: Occupations From All Walks of Life</h4>
+<div class="iframe-wrapper">
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTQP2nauW6ws01SkgYr_4j77_ZVmhCf5U9KCelipjpPond5syza7v2Od38hz--zfgNv6k8XMjQh-0Xe/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>Peiying Primary School is thrilled to announce the launch of English Language
+Fiesta 2025, themed "Occupations: From All Walks of Life." This year’s
+event is designed to immerse our students in a language-enriched environment,
+helping them develop as engaged learners and confident communicators, and
+adopt healthy reading habits.</p>
+<p>One of the highlights of the event will be “A Date with Books” to cultivate
+the joy for reading. Students also get to enjoy pre-assembly activities
+in the hall, such as listening to stories read by our English Language
+Ambassadors. Additionally, teachers engaged students through storytelling
+sessions in their classrooms, while encouraging a love for reading. On
+April 4, 2025, both students and teachers had the opportunity to showcase
+their creativity by dressing up as individuals in various professions.
+Through engaging activities and creative expression, we're helping our
+students discover the diverse world of careers while building essential
+language skills.</p>
+<p>Level-specific activities were also designed to enhance the students'
+language learning experience during the EL Fiesta, such as Choral Reading
+by Primary 1 students, “Meet the illustrator” for our Primary 2 students
+and SLS lesson packages for Primary 3 to Primary 6 students which encourage
+them to learn about different careers and understand their roles in society.
+Through this language experience, we hope to develop leaders of character
+who actively participate in school events and appreciate the diversity
+of occupations around them.</p>
 <h4>Peiying Primary's Participation in the 22nd Elementz Science Project Competition</h4>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTNtBYOLSI7aMN5hr29lYRJt-Ep0PS9fuhp05YT3i8RGdKRYJahq1DngbdZ7VD2R8VOLSIfnqJ4rGY0/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
@@ -42,7 +92,7 @@ thinking, and a passion for lifelong learning in our students.</p>
 <p></p>
 <h4>Fostering Leaders of Character: Student Leaders' Investiture 2025</h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRf7lklc318pw8U8OpdpvTz59QNOdNX6h3fsMUU_Zb2pwrx0yPZHRYkytHZOxkY_d-2ec6xa0THUEtD/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRf7lklc318pw8U8OpdpvTz59QNOdNX6h3fsMUU_Zb2pwrx0yPZHRYkytHZOxkY_d-2ec6xa0THUEtD/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>On 6<sup> </sup>March 2025, we proudly welcomed our new Prefects and Junior
 Sports Leaders, while celebrating our continuing leaders who have been
@@ -86,7 +136,7 @@ event; it is a testament to the P.R.I.D.E. values that our teachers instil
 in our students.</p>
 <h3><strong>🛡️💧 Total Defence Day 2025 💧🛡️</strong></h3>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRMbm6IGEvyWpea47Q96RmqgbT6UNxkbr-o6-3gL2MXKe65HtS5kmdORFAk7UZINFs4nKdflZiXi_wH/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRMbm6IGEvyWpea47Q96RmqgbT6UNxkbr-o6-3gL2MXKe65HtS5kmdORFAk7UZINFs4nKdflZiXi_wH/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>On 13 February 2025, our school commemorated Total Defence Day. 15 February
 is a day etched in our hearts, reminding us of the resilience of our nation
@@ -107,7 +157,7 @@ our school community, echoing the spirit of Total Defence that has sustained
 our nation.</p>
 <h3><strong>Cyber Wellness Week 2025: Fostering Responsible Digital Citizens</strong></h3>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTK6d0-zM0qHNvrs5kLKEn1lpbBf02Mrqy01Xk_y0wBEzRCv0-nfNK2B-YIeNtoZp8y4jxS7Q7_Rct6/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTK6d0-zM0qHNvrs5kLKEn1lpbBf02Mrqy01Xk_y0wBEzRCv0-nfNK2B-YIeNtoZp8y4jxS7Q7_Rct6/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>Cyber Wellness Week 2025, held from 3 to 7 February 2025, was a meaningful
 and enriching event aimed at promoting online etiquette and balanced technology
@@ -131,7 +181,7 @@ and responsibly. Peiying Primary School remains committed to nurturing
 kind, thoughtful, and responsible digital citizens!</p>
 <h3>✨🎉 <strong>Friendship Week 2025</strong> 💖🤝</h3>
 <div class="iframe-wrapper">
-<iframe height="839" width="1440" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSFZmzFg5Ihof8rxsz2baGAC9FgMLrnCrd2awdIQlLP4uX3rHJjggoLeQV6ZFQUqsAPXH46-OYqPwIF/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSFZmzFg5Ihof8rxsz2baGAC9FgMLrnCrd2awdIQlLP4uX3rHJjggoLeQV6ZFQUqsAPXH46-OYqPwIF/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>In January, Peiying Primary School celebrated the joy of friendship—both
 old and new! With the theme <em>“Everyone Can Learn to Be a Friend,”</em> the
@@ -161,7 +211,7 @@ where friendships grow and flourish—one kind act at a time!<strong>&nbsp;</str
 <h3><strong>🐍🎊 Peiying Primary School's Chinese New Year Celebration 2025 🎊🐍&nbsp;</strong></h3>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSdyRRmAhciiYasfknMZqizpuOB23gKTOEl0AmOGiwWcYr0H9ODEjt4HZDf9iAHEBq5hFqpgcCnKbtk/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSdyRRmAhciiYasfknMZqizpuOB23gKTOEl0AmOGiwWcYr0H9ODEjt4HZDf9iAHEBq5hFqpgcCnKbtk/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <p>This year, Peiying Primary School welcomed the Year of the Snake with
 a vibrant celebration that brought our school community together in the
@@ -194,11 +244,11 @@ P4 students to our P1 students.</p>
 teamwork, providing our students with meaningful experiences to forge positive
 relationships and kickstart the school year with a sense of belonging.</p>
 <div class="iframe-wrapper">
-<iframe height="839" width="1440" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSSOma1iUzxmS25XMShg_OFlUtWKFni-N2mfX4kqSWKdNW41S1s4kuD0Y2jZUbnlVyCxdaFLQ8egoDa/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSSOma1iUzxmS25XMShg_OFlUtWKFni-N2mfX4kqSWKdNW41S1s4kuD0Y2jZUbnlVyCxdaFLQ8egoDa/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <h3>Peiying Primary School Welcomes Primary 1 Cohort on Day 1 2025</h3>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ5zczcs2o5_nG798YhwYoqAbv39U93qJWhy9gmkqZBxi3B4E59drv7kIOZdbUsvr9BIJ5X2JB82E5C/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ5zczcs2o5_nG798YhwYoqAbv39U93qJWhy9gmkqZBxi3B4E59drv7kIOZdbUsvr9BIJ5X2JB82E5C/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>On 2 January 2025, Peiying Primary School warmly welcomed its new cohort
 of Primary 1 students as they embarked on an exciting educational journey

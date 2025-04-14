@@ -13,51 +13,78 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="1">
+<p>14 Feb 2025</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Track and Field Meet</strong>
+</p>
+</th>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>29 Aug</p>
+<p>27 Mar to 4 Apr 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teachers' Day Celebration</p>
+<p>EL Fiesta</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Oct</p>
+<p>27 Apr 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Children's Day Celebration</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P1-P2 Lower Primary Games Day</p>
+<p>Hari Raya</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8 Nov</p>
+<p>13 May to 23 May 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P1 Orientation &amp; PSG Bonding</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>12 Nov</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Deepavali Celebration</p>
+<p>MTL Fortnight</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>15 Nov</p>
+<p>21 to 24 Jul 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Racial Harmony Day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Sep 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher's Day Celebration</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Oct 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Primary Games Day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 Oct 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Deepavali</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21 Nov</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Prize Presentation</p>
+<p>EOY PSG Meeting</p>
+<p>PSG Booth</p>
 </td>
 </tr>
 </tbody>
