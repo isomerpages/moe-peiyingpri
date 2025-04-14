@@ -5,6 +5,29 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
+<h4>Hari Raya Celebration 2025 at Peiying Primary School</h4>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSRhpYcBRFNDXcnmSHMaDrH8mHhogpICIG4seVM-zAJyKDsAvIwlajfElf5XrAgjSqG5-beo1S7t3UF/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>This year, Peiying Primary School celebrated Hari Raya 2025, bringing
+students together to learn about the rich traditions of Hari Raya visiting.
+The event fostered cultural appreciation and a deeper understanding of
+its customs and values.</p>
+<p>An engaging assembly programme featured a group of Muslim friends introducing
+their non-Muslim peers to Hari Raya traditions. Students learned about:</p>
+<p>✅ Wearing festive attire</p>
+<p>✅ Greeting others with the traditional "Salaam"</p>
+<p>✅ Dining etiquette, including eating with hands</p>
+<p>✅ The tradition of giving green packets</p>
+<p>✅ The joy of mass singing and dancing</p>
+<p>An interactive Forum Theatre segment encouraged students to participate
+in discussions on gratitude, empathy, respect, and togetherness— the core
+values of Hari Raya.</p>
+<p>The celebration was a resounding success, deepening cultural awareness
+and strengthening bonds within our diverse school community. It was heartwarming
+to see students embrace the spirit of unity and respect that Hari Raya
+represents.</p>
+<p>We look forward to more opportunities to celebrate and learn together!</p>
 <h4>Peiying Primary School’s English Fiesta 2025: Occupations From All Walks of Life</h4>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTQP2nauW6ws01SkgYr_4j77_ZVmhCf5U9KCelipjpPond5syza7v2Od38hz--zfgNv6k8XMjQh-0Xe/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
