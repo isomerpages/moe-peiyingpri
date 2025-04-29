@@ -5,16 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Useful Forms and Links
 ---
-<h2>Voices of Peiying</h2>
-<p><strong>Term 1 PRIDE Stars -</strong><a href="https://go.gov.sg/voicesofpeiying-pridestars" rel="noopener nofollow" target="_blank">Click here</a>
-</p>
-<p><strong>Semester 1 Catch Me Right - </strong><a href="https://go.gov.sg/voicesofpeiying-catchmeright" rel="noopener nofollow" target="_blank">Click here</a>
-</p>
-<p></p>
-<h2>14 Feb HBL Schedule</h2>
-<p><strong>Primary 1 &amp; 2 HBL Schedule</strong>  <a href="/files/HBL_14_February.pdf" rel="noopener nofollow" target="_blank">Click here to view</a>
-</p>
-<h2>Term 1 Check-in survey</h2>
+<h3>HBL Assignment - 02 May 2025</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -23,38 +14,61 @@ third_nav_title: Useful Forms and Links
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Primary 1 - 2</strong>
-</p>
+<p>Primary 1</p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong><a href="https://go.gov.sg/pyps-lptermlycheckin" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pyps-lptermlycheckin</a></strong>
+<p><a href="/files/Useful Forms and Links/P1.pdf" rel="noopener nofollow" target="_blank">Click here</a>
 </p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Primary 3 - 4</strong>
-</p>
+<p>Primary 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://go.gov.sg/pyps-mptermlycheckin" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pyps-mptermlycheckin</a></strong>
+<p><a href="/files/Useful Forms and Links/P2.pdf" rel="noopener nofollow" target="_blank">Click here</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Primary 5 - 6</strong>
-</p>
+<p>Primary 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://go.gov.sg/pyps-uptermlycheckin" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pyps-uptermlycheckin</a></strong>
+<p><a href="/files/Useful Forms and Links/P3.pdf" rel="noopener nofollow" target="_blank">Click here</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Useful Forms and Links/P4.pdf" rel="noopener nofollow" target="_blank">Click here</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Useful Forms and Links/P5.pdf" rel="noopener nofollow" target="_blank">Click here</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Useful Forms and Links/P6.pdf" rel="noopener nofollow" target="_blank">Click here</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<h2>Useful Links</h2>
+<h3>Useful Links</h3>
 <p>You can now login to the following accounts using your MIMS email and
 password. Please remember to keep your passwords safe and log out from
 all your accounts after you have completed your tasks.</p>
