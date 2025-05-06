@@ -5,6 +5,44 @@ variant: tiptap
 description: ""
 third_nav_title: Useful Forms and Links
 ---
+<h3>Termly Check-In</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 1 &amp; 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/pyps-lptermlycheckin" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pyps-lptermlycheckin</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 3 &amp; 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/pyps-mptermlycheckin" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pyps-mptermlycheckin</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 5 &amp; 6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/pyps-uptermlycheckin" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pyps-uptermlycheckin</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
 <h3>HBL Assignment - 02 May 2025</h3>
 <table style="minWidth: 50px">
 <colgroup>
