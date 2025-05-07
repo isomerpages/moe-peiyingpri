@@ -12,9 +12,9 @@ sections:
         - title: 2 MAy 2025 HBL
           description: Click here for more info
           url: /partners/useful-forms-and-links/students/
-        - title: Inspiring Language Teachers Award 2025
+        - title: Termly Check-In
           description: Click here for more info
-          url: /inspiring-language-teachers-award-2025/
+          url: /partners/useful-forms-and-links/students/
         - title: Facebook
           description: Peiying Primary Facebook Page
           url: https://www.facebook.com/peiyingpri
