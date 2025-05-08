@@ -5,6 +5,34 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
+<h4>P.L.A.Y Day 1 </h4>
+<div class="iframe-wrapper">
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQErCABRvYTtb-ZX8-A0ZvclrM5JMiMnoTBft2_rE-WGHojoxODhO-SVMB18LC-CUY2CdnR1HZCjdyt/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>P.L.A.Y. Day on 15 April was a blast!</p>
+<p>Our students had an exciting time learning beyond the classroom, where
+each level explored unique programmes that build knowledge, skills, and
+values.</p>
+<p>As part of our Applied Learning Programme (ALP), our Primary 1 students
+visited the Singapore Zoo. They get up close with wildlife whilst learning
+about conservation and environmental awareness.</p>
+<p>Primary 2 students explored Gardens by the Bay, guided by our very own
+teachers! They learned how plants adapt to different conditions and the
+importance of preserving nature. It was an eye-opening experience that
+brought science to life in the real world.</p>
+<p>Our Primary 3 to 6 students took part in two exciting programmes:</p>
+<p>In the Growth Mindset Programme, students had a great time trying to solve
+the Rubik’s Cube. With each twist and turn, they practised resilience and
+reminded themselves that “Everyone can learn and they just haven’t learnt
+it yet!” This hands-on challenge helped them embrace mistakes and grow
+their problem-solving skills.</p>
+<p>Meanwhile, the Student Leadership Programme empowered our students to
+become confident, empathetic, and effective leaders through team-based
+activities and thoughtful reflection.</p>
+<p>These experiences showed our students that learning happens everywhere
+– from nature walks to puzzle-solving. Most importantly, they learned that
+with the right mindset, growth is always possible.</p>
+<p></p>
 <h4>International Friendship Day (IFD)</h4>
 <div class="iframe-wrapper">
 <iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQi-z5kB1MpFAosgeB4Zw2HBOieKfnD_zLhQzPclUAvKjtMq2szKmugeh26QvsffJNaB1F-l8jTe_Ci/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
