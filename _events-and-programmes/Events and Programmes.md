@@ -6,6 +6,9 @@ variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
 <h4>International Friendship Day (IFD)</h4>
+<div class="iframe-wrapper">
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQi-z5kB1MpFAosgeB4Zw2HBOieKfnD_zLhQzPclUAvKjtMq2szKmugeh26QvsffJNaB1F-l8jTe_Ci/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <p>International Friendship Day (IFD) was commemorated on 17 April 2025.
 The theme for International Friendship Day (IFD) 2025 is “Forging Friendships
 in A Complex World”. For this year’s IFD Commemoration, the Character and
