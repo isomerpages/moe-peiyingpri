@@ -5,6 +5,28 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
+<h4>International Friendship Day (IFD)</h4>
+<p>International Friendship Day (IFD) was commemorated on 17 April 2025.
+The theme for International Friendship Day (IFD) 2025 is “Forging Friendships
+in A Complex World”. For this year’s IFD Commemoration, the Character and
+Citizenship Education (CCE) department put together an assembly programme
+and a series of activities for both CCE-FTGP lessons as well as recess
+activities to emphasise the importance of our country's role in the region
+and fostering strong bonds with our neighbours.</p>
+<p>During our school assembly, students learnt about ASEAN countries, with
+a special focus on Malaysia, the 2025 ASEAN Chair. Students learnt more
+about the culture in Malaysia, language, food, and people. A specially
+prepared video featuring our students from the ASEAN countries also helped
+to connect us across borders. The assembly ended on a vibrant note with
+a performance of a traditional Malaysian dance.</p>
+<p>Recess activities were carried out to complement the learning from the
+assembly programme. Students gained knowledge about the flags and currencies
+of the ASEAN countries. Through answering quizzes, students were actively
+engaged in showing their understanding of International Friendship Day.
+They also wrote well wishes to their friends from ASEAN countries.</p>
+<p>We hope that these learning experiences will reinforce the understanding
+of Singapore's relations with neighbouring countries and beyond.</p>
+<p></p>
 <h4>Hari Raya Celebration 2025 at Peiying Primary School</h4>
 <div class="iframe-wrapper">
 <iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSRhpYcBRFNDXcnmSHMaDrH8mHhogpICIG4seVM-zAJyKDsAvIwlajfElf5XrAgjSqG5-beo1S7t3UF/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
