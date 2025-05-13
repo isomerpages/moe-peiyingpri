@@ -43,14 +43,6 @@ actions.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/KP1.png">
 </div>
-<h4>Code for Fun</h4>
-<p>All P3 &amp; P4 students go through a 20-hour Robotics programme that
-spans two years. Students starts learning the fundamentals of computational
-thinking at Primary 3 and the programme is continued at Primary 4.&nbsp;</p>
-<p>This programme offers a fun and interactive way for students to learn
-programming skills. In addition, it&nbsp; enhances logical &nbsp; thinking,
-analytical skills and how&nbsp; students organise&nbsp; data. The skills
-learnt are subsequently applied in the Project Work of the students.</p>
 <h4>Learning for Life Programme (LLP)</h4>
 <p>A unique feature of Peiying Primary School is our ‘Adventure Tower’, which
 supports the emphasis given to Sports and Outdoor Education. Sports and
@@ -70,45 +62,6 @@ cultivate positive attitudes, self-expression and strengthen their interaction
 skills. SCALE@PEIYING resonates the importance of character development
 as an integral part of holistic education and is aligned to MOE DOEs and
 the school’s SVOs.</p>
-<h4>Celebration of Learning - For students, by students</h4>
-<p>This is a platform that was first created in 2012 for students to share
-their knowledge and demonstrate skills such as communication and collaboration.
-In addition, attitudes that reflect school core values taught and learnt
-across all subject disciplines can be manifested. It is held at the end
-of Term 4.</p>
-<p>The competencies learnt by students are creatively put to use as each
-team from P3 to P6 is given the choice to select the subject and topic
-they want to work on. Students set up booths to share their scientific
-investigations, show how something works or challenge others with mathematics
-or language games.&nbsp; In addition to being self-directed learners, and
-being involved in decision-making, Celebration of Learning challenges the
-entrepreneurial dare in students.</p>
-<h4>Arts and Cultural Experience Programme (ACE)</h4>
-<p>Students from P3 – P6 gain exposure to the rich cultural heritage in Singapore
-through the school-wide ACE programme.&nbsp; This provides different platforms
-for our students to learn more about our multi-racial community and strengthen
-the Singapore Spirit.&nbsp;</p>
-<p>Through this programme our students learn to appreciate our diverse cultural
-heritage through activities that range from learning to play in a kompang
-group to picking up Chinese Opera skills.</p>
-<h4>Project Work</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/KP2.png">
-</div>
-<p>At Peiying, Project Work is an immersive learning experience that encourages
-students to connect and apply knowledge across multiple subjects, enabling
-them to view challenges from diverse perspectives. Through this integrated
-approach, students work on real-life projects that require them to think
-critically, solve problems, and develop creative solutions. In the process,
-they hone essential 21st Century skills such as collaboration, where they
-work as a team to brainstorm, plan, and execute tasks; communication, where
-they learn to present ideas clearly and listen to others; and independent
-learning, where they take ownership of their work and seek out resources
-to support their growth. Project Work is not just about completing a task;
-it’s about developing the skills and mindset needed for lifelong learning.
-By engaging in these projects, students are better prepared to adapt and
-thrive in a fast-evolving world, equipping them with the tools to tackle
-future challenges with confidence, resilience, and creativity.</p>
 <h4>Scientopia</h4>
 <p>Scientopia is a Science board game that enhances the joy of learning.
 It is a Peiying innovation that seeks to engage our students in the learning
