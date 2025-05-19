@@ -5,7 +5,21 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
-<h4>P.L.A.Y Day 1 </h4>
+<h4>Tamil Literary Festival 2025</h4>
+<p>Our students shone at the Tamil Literary Festival 2025, organised by the
+Nee Soon Link Constituency Indian Activity Executive Committee. This enriching
+competition, which is opened to primary schools across Nee Soon GRC, sought
+to cultivate a deeper appreciation for the Tamil language whilst enhancing
+students' linguistic capabilities.</p>
+<p>Seven of our students showcased their talents across various categories:</p>
+<p>• Fancy Dress Competition (Primary 1 &amp; 2)</p>
+<p>• Show &amp; Tell (Primary 3 &amp; 4)</p>
+<p>• Oratorical Competition (Primary 5 &amp; 6)</p>
+<p>Their enthusiastic participation reflects Peiying Primary School's commitment
+to celebrating our mother tongue languages and nurturing cultural appreciation.
+We are proud of our students' dedication to embracing their cultural heritage
+through this meaningful platform.</p>
+<h4>P.L.A.Y Day 1</h4>
 <div class="iframe-wrapper">
 <iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQErCABRvYTtb-ZX8-A0ZvclrM5JMiMnoTBft2_rE-WGHojoxODhO-SVMB18LC-CUY2CdnR1HZCjdyt/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
