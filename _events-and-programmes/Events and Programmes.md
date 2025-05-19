@@ -6,6 +6,9 @@ variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
 <h4>Tamil Literary Festival 2025</h4>
+<div class="iframe-wrapper">
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSqB4wKOaTZObTeXYS6yFSyTRROV39b5pxw9w_L8mAVl7RD71y3V7SIR3OAZl2j3x32P2G0hdhZnHMG/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <p>Our students shone at the Tamil Literary Festival 2025, organised by the
 Nee Soon Link Constituency Indian Activity Executive Committee. This enriching
 competition, which is opened to primary schools across Nee Soon GRC, sought
