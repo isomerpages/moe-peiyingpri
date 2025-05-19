@@ -39,6 +39,70 @@ variant: tiptap
 <p>Gold Award</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games (NSG)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rope Skipping CCA:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Junior Girls (Artistic Pair) - 2nd</p>
+</li>
+<li>
+<p>Junior Girls (Speed Relay) - 8th</p>
+</li>
+<li>
+<p>Junior Girls (Double Dutch) - 4th</p>
+</li>
+<li>
+<p>Junior Boys (Double Dutch) - 1st</p>
+</li>
+<li>
+<p>Junior Boys (Individual Speed Event) - Achievement Pin</p>
+</li>
+<li>
+<p>Senior (Mixed Double Dutch) - 2nd</p>
+</li>
+<li>
+<p>Senior Girls (Double Dutch) - 4th</p>
+</li>
+</ul>
+<p></p>
+<p>Sepak Takraw CCA:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Senior Division - 4th</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NSG Wushu Junior Girls</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st International Spear - 2nd</p>
+<p>4-Duan Sword - 8th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NSG Taekwondo Senior Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Red Belt (Under 54kg) - 1st</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NSG Bowling Junior Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Achievement Pin</p>
+</td>
+</tr>
 </tbody>
 </table>
 <hr>
