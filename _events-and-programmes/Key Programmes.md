@@ -4,6 +4,19 @@ permalink: /about-us/key-programmes/
 description: ""
 variant: tiptap
 ---
+<h4>E2K Science Programme</h4>
+<p>The E2K Science Programme in Peiying Primary offers opportunities for
+P4 and P5 students who demonstrate strong interest and aptitude in Science
+to engage in scientific investigations to discover and deepen their understanding
+of advanced science concepts through an inquiry approach.&nbsp; Through
+engaging and collaborative scientific investigations, the programme aims
+to nurture students' habits, attitudes, and dispositions that scientists
+possesses. It also seeks to develop key 21st century competencies such
+as critical and inventive thinking, as well as effective communication
+skills.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/e2k.png">
+</div>
 <h4>Student-centric values-driven holistic education</h4>
 <p>At Peiying Primary School, the underpinning philosophy of teaching and
 learning is the belief that every child can learn, improve and fulfil his
