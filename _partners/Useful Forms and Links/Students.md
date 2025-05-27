@@ -5,7 +5,52 @@ variant: tiptap
 description: ""
 third_nav_title: Useful Forms and Links
 ---
-<h3>Termly Check-In</h3>
+<h4>29 &amp; 30 May HBL</h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 1 <a href="/files/Useful Forms and Links/P1_29HBL.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 2 <a href="/files/Useful Forms and Links/P2_29_HBL.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 3 <a href="/files/Useful Forms and Links/P3_29_HBL.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 4 <a href="/files/Useful Forms and Links/P4_29_HBL.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 5 <a href="/files/Useful Forms and Links/P5_29_HBL.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 6 <a href="/files/Useful Forms and Links/P6_29_HBL.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h4>Termly Check-In</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -41,7 +86,7 @@ third_nav_title: Useful Forms and Links
 </tr>
 </tbody>
 </table>
-<h3>Useful Links</h3>
+<h4>Useful Links</h4>
 <p>You can now login to the following accounts using your MIMS email and
 password. Please remember to keep your passwords safe and log out from
 all your accounts after you have completed your tasks.</p>
