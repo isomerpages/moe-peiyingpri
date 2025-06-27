@@ -220,10 +220,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Aesthetic</p>
+<p><strong>Aesthetic</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Avery Neo</p>
+<p>Mrs Neo, Sim Ya'en Avery Rhoda</p>
+<p><a href="mailto:sim_yaen_avery_rhoda@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sim_yaen_avery_rhoda@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
