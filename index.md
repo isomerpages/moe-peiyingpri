@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/Main Page/WebsiteBanner2024_5_2.gif
       key_highlights:
-        - title: 29 & 30 May HBL
+        - title: Term 3 Check-In
           description: Click here for more info
           url: /partners/useful-forms-and-links/students/
         - title: Voices of Peiying
