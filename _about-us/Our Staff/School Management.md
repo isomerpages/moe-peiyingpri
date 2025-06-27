@@ -162,7 +162,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Information and Communication Technology </strong>
+<p><strong>Information and Communication Technology</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -215,6 +215,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Athena Wee
 <br><a href="mailto:athena_wee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">athena_wee@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Aesthetic</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Neo, Sim Ya'en Avery Rhoda</p>
+<p><a href="mailto:sim_yaen_avery_rhoda@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sim_yaen_avery_rhoda@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -356,6 +367,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Nurhafeza Hanem
 <br><a href="mailto:nurhafeza_hanem_abdul_azal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurhafeza_hanem_abdul_azal@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Middle Primary (Primary 3 and 4)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Asyaari</p>
+<p><a href="mailto:nur_faiszah_ishak@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_faiszah_ishak@schools.gov.sg</a>
 </p>
 </td>
 </tr>
