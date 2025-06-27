@@ -374,6 +374,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Asyaari</p>
+<p><a href="mailto:nur_faiszah_ishak@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_faiszah_ishak@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
