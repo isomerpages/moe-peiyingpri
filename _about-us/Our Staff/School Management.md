@@ -162,7 +162,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Information and Communication Technology </strong>
+<p><strong>Information and Communication Technology</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -216,6 +216,14 @@ variant: tiptap
 <p>Ms Athena Wee
 <br><a href="mailto:athena_wee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">athena_wee@schools.gov.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Aesthetic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Avery Neo</p>
 </td>
 </tr>
 <tr>
@@ -357,6 +365,15 @@ variant: tiptap
 <p>Ms Nurhafeza Hanem
 <br><a href="mailto:nurhafeza_hanem_abdul_azal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurhafeza_hanem_abdul_azal@schools.gov.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Middle Primary (Primary 3 and 4)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Asyaari</p>
 </td>
 </tr>
 <tr>
