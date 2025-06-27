@@ -386,29 +386,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MTL (FunOral)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>✔</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Science (Hands On)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -433,29 +410,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Code for Fun (Coding using LEGO)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>✔</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>✔</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MTL Language Camp</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
