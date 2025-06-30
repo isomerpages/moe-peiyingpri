@@ -92,7 +92,9 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Imelda As'ari</p>
+<p><a href="mailto:imelda_asari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">imelda_asari@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -146,8 +148,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Fan-Lee Bee Yen Jennifer</p>
-<p><a href="mailto:fan_lee_bee_yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fan_lee_bee_yen@schools.gov.sg</a>
+<p>Mdm Jasmine Yeo</p>
+<p><a href="mailto:yeo_soek_leng_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_soek_leng_a@schools.gov.sg</a>
 </p>
 <p></p>
 </td>
