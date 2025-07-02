@@ -220,7 +220,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Aesthetic</strong>
+<p><strong>Aesthetics</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -256,7 +256,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mother-Tongue Language</strong>
+<p><strong>Chinese Language</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
