@@ -112,21 +112,7 @@ variant: tiptap
 <li>
 <p>Bronze Award (Team Category)</p>
 </li>
-<li>
-<p>Certificate of Participation (Team Category)</p>
-</li>
-<li>
-<p>Certificate of Participation (Individual Category)</p>
-</li>
 </ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>North Zone Schools Chinese Speech Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Participation (Individual Category)</p>
 </td>
 </tr>
 </tbody>
