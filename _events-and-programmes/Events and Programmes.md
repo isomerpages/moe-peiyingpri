@@ -6,6 +6,9 @@ variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
 <h4>P5 TIE Penang Cultural Immersion Trip</h4>
+<div class="iframe-wrapper">
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSty4IoRcRGrUl4enb9jmj76if4_xB-iFPNb4KTK4_LmF-xmAEWwY_etLmj-aS9LIP9TIhiyGZWaUrv/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <p>Our Primary 5 students embarked on an enriching three-day learning journey
 to Penang, Malaysia, immersing themselves in the vibrant tapestry of local
 culture and heritage. Through visits to historical sites like the UNESCO-listed
