@@ -103,6 +103,18 @@ variant: tiptap
 <p>Achievement Pin</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Text Recital Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Bronze Award (Team Category)</p>
+</li>
+</ul>
+</td>
+</tr>
 </tbody>
 </table>
 <hr>
