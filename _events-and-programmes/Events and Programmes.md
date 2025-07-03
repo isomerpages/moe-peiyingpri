@@ -5,6 +5,33 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
+<h4>P5 TIE Penang Cultural Immersion Trip</h4>
+<div class="iframe-wrapper">
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSty4IoRcRGrUl4enb9jmj76if4_xB-iFPNb4KTK4_LmF-xmAEWwY_etLmj-aS9LIP9TIhiyGZWaUrv/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>Our Primary 5 students embarked on an enriching three-day learning journey
+to Penang, Malaysia, immersing themselves in the vibrant tapestry of local
+culture and heritage. Through visits to historical sites like the UNESCO-listed
+George Town, the magnificent Blue Mansion, and the fascinating Peranakan
+Museum, students gained profound insights into Penang's rich multicultural
+heritage.</p>
+<p>A highlight was their visit to Entopia Park, where many students had their
+first thrilling encounter with diverse insects and small reptiles like
+geckos in their natural habitats, fostering a deeper appreciation for wildlife
+conservation and animal adaptations.</p>
+<p>Demonstrating resilience and independence, they also participated in traditional
+craft workshops, creating their own wayang kulit puppets and learning the
+intricate art of bead-stringing to make star-shaped keychains, while discovering
+the cultural significance of beadwork in Penang's history.</p>
+<p>The pinnacle of their journey was the school immersion experience at PIBK
+SJKC Perempuan China, where students displayed exemplary PRIDE values whilst
+engaging with their Penang peers in activities ranging from handicraft
+sessions to collaborative pizza-making. Their growth mindset was evident
+as they embraced new experiences, overcame challenges, and forged meaningful
+cross-cultural friendships.</p>
+<p>These shared experiences not only broadened their global perspectives
+but also developed their character and independence, creating lasting bonds
+with their newfound friends across the border.</p>
 <h4>Tamil Literary Festival 2025</h4>
 <div class="iframe-wrapper">
 <iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSqB4wKOaTZObTeXYS6yFSyTRROV39b5pxw9w_L8mAVl7RD71y3V7SIR3OAZl2j3x32P2G0hdhZnHMG/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
