@@ -6,6 +6,9 @@ variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
 <h4>Celebrating Achievements in National and Zonal Chinese Language Competitions</h4>
+<div class="iframe-wrapper">
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQZ_DGc9hILRmwpG1FcaKhGFfVBJzpY69-akd3kl9AJ12GN5Ou3eGDtPXrLvjK39mbHJd-clMSfLO6I/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <p>The Chinese Language (CL) Department is proud to announce the commendable
 achievements of our students in two Chinese Language competitions: the <strong>National Text Recital Competition</strong> and
 the <strong>North Zone Schools Chinese Speech Competition</strong>.</p>
