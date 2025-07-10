@@ -5,6 +5,40 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
+<h4>Celebrating Achievements in National and Zonal Chinese Language Competitions</h4>
+<p>The Chinese Language (CL) Department is proud to announce the commendable
+achievements of our students in two Chinese Language competitions: the <strong>National Text Recital Competition</strong> and
+the <strong>North Zone Schools Chinese Speech Competition</strong>.</p>
+<p><strong>🏅 National Text Recital Competition 2025</strong>
+</p>
+<p>Our students demonstrated excellent teamwork and strong oratorical skills
+in this national-level event. We would like to commend and congratulate
+the following students.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Bronze Award (Team Category):</strong>
+<br>Zhang Hao Yu (5E) and Eric Tan Yu Wei (5E)</p>
+</li>
+<li>
+<p><strong>Certificate of Participation (Team Category):</strong>
+<br>Audrey Lim Jiayu (3E) and Ng Ee Xuan, Verlyn (3D)</p>
+</li>
+<li>
+<p><strong>Certificate of Participation (Individual Category):</strong>
+<br>Cheng Yiru (5E)</p>
+</li>
+</ul>
+<p><strong>🗣️ North Zone Schools Chinese Speech Competition 2025</strong>
+</p>
+<p>Our students showed confidence and eloquence in delivering their speeches.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Certificate of Participation (Individual Category):</strong>
+<br>Zhang Mulai (5E) and Wong Jian En (5E)</p>
+</li>
+</ul>
+<p>We are proud of our students for their dedication and enthusiasm in embracing
+the Chinese language and culture. Congratulations to all of them!</p>
 <h4>P5 TIE Penang Cultural Immersion Trip</h4>
 <div class="iframe-wrapper">
 <iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSty4IoRcRGrUl4enb9jmj76if4_xB-iFPNb4KTK4_LmF-xmAEWwY_etLmj-aS9LIP9TIhiyGZWaUrv/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
