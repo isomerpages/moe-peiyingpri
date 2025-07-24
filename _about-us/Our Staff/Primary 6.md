@@ -107,9 +107,6 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Loy Su Ann</p>
-<p><a href="mailto:loy_su_ann@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loy_su_ann@schools.gov.sg</a>
-</p>
 <p></p>
 </td>
 </tr>
