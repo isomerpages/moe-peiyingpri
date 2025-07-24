@@ -317,7 +317,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Project Work</p>
+<p>Applied Learning Programme</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>✔</p>
@@ -409,7 +409,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Code for Fun (Coding using LEGO)</p>
+<p>Code for Fun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -419,15 +428,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>✔</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>✔</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -455,52 +455,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Celebration of Learning</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>✔</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>✔</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>✔</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>✔</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>✔</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>✔</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P4 Road Safety @ Road Safety Park</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>✔</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Science Enrichment</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -517,29 +471,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>✔</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P4 2 Days 1 Night Cultural Experience</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>✔</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
