@@ -148,10 +148,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Jasmine Yeo</p>
-<p><a href="mailto:yeo_soek_leng_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_soek_leng_a@schools.gov.sg</a>
-</p>
+<p>Mr Mohamad Ikhwan Mohamad Haro</p>
 <p></p>
+<p><a href="mailto:mohamad_ikhwan_mohamad_haron@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohamad_ikhwan_mohamad_haron@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
