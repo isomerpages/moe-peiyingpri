@@ -13,6 +13,17 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>SH </strong>&nbsp;<strong>Aesthetics</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Avery Neo
+<br><a href="mailto:sim_yaen_avery_rhoda@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sim_yaen_avery_rhoda@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Senior Teacher Music</strong>
 </p>
 </td>
@@ -20,18 +31,6 @@ variant: tiptap
 <p>Miss Joyce Ang
 <br><a href="mailto:ang_yen_qing_joyce@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_yen_qing_joyce@schools.gov.sg</a>
 <br>
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Art Coordinator</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Avery Neo
-<br><a href="mailto:sim_yaen_avery_rhoda@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sim_yaen_avery_rhoda@schools.gov.sg</a>
 </p>
 </td>
 </tr>
