@@ -5,7 +5,35 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
+<h4>Primary 5 National Education (NE) Show 2025 – Celebrating SG60</h4>
+<div class="iframe-wrapper">
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSaDj3kj4yRgYhaGs3t-Y9XwBmJ6qV5gyIXC0-XZkoju_LJ40dahsNUDhFPGlLhPofY7WWW-lE-5THt/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>On Saturday, 19 July 2025, our Primary 5 students had the memorable opportunity
+to attend the National Education (NE) Show 2025 at the Padang. Held in
+conjunction with the full-dress rehearsal of this year’s National Day Parade
+(NDP), the event marked a significant milestone - Singapore’s 60th year
+of independence (SG60). It was a moment to honour our nation’s journey,
+celebrate our progress, and look forward with hope and unity.</p>
+<p>The show presented a powerful and forward-looking narrative of belonging,
+unity and resilience. Students were treated to an array of vibrant performances
+by over 3,000 performers, touching intergenerational stories, and heartfelt
+renditions of beloved National Day songs.</p>
+<p>The evening kicked off with the energising pre-parade segment <em>Makin’ Our Way</em> and
+the inaugural <em>Jump of Unity</em> by the Red Lions and Naval Divers. This
+was followed by captivating acts such as <em>Our People, Our Diversity</em> and <em>Our Future, Our Aspirations</em> -
+each highlighting the spirit and strength of our nation.</p>
+<p>Key highlights included the debut of the NDP 2025 theme song <em>Here We Are</em>,
+stirring recitals of <em>Majulah Singapura</em>, beautifully crafted floats
+designed by artists with disabilities, and a grand finale sing-along accompanied
+by a stunning fireworks display that lit up the Padang and Marina Bay skyline.</p>
+<p>This unforgettable experience not only deepened our students’ appreciation
+of Singapore’s heritage, but also strengthened their sense of pride and
+belonging.</p>
 <h4>Peiying Primary School Twinning Programme 2025 with Sekolah Rendah Panaga, Brunei</h4>
+<div class="iframe-wrapper">
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS-D8tDBU0oRS_3fIZvA3iuxzKRDnDyRN2ysEhgHC1sLG_uwt73g59hw9QaZAdyDwhvjboSpI2R8TI3/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <p>On 9<sup> </sup>and 10 July 2025, Peiying Primary School had the pleasure
 of hosting students from Sekolah Rendah Panaga, Brunei, as part of our
 ongoing School Twinning Programme. This meaningful initiative provided
