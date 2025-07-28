@@ -5,6 +5,109 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
+<h4>MTL Fortnight Celebration at Peiying Primary School (13 May- 23 May 2025)</h4>
+<p><strong>Peiying Primary School's Mother Tongue Languages Fortnight 2025</strong>
+</p>
+<p><strong>Engage and Embrace Mother Tongue Language and Culture!</strong>
+<br><strong>拥抱母语、传承文化 | Libat dan Hayati Bahasa dan Budaya Kita! | நம் தமிழ் மொழியும் பண்பாடும் - ஈடுபடுவோம்! அரவணைப்போம்!</strong>
+</p>
+<p>Peiying Primary School celebrated its Mother Tongue Languages (MTL) Fortnight,
+themed 'Engage and Embrace MTL and Culture!', from 13 to 23 May 2025. This
+cultural celebration provided students with opportunities to immerse themselves
+in their respective mother tongue languages and cultural heritage, fostering
+appreciation for the arts whilst developing communication skills and social
+awareness.</p>
+<p>The celebration commenced with a vibrant assembly programme on 15 May
+2025, featuring demonstrations of traditional musical instruments from
+various ethnic communities. Students were introduced to the Chinese drum,
+cymbals, Malay kompang, Indian dhol and tasha. The highlight was an interactive
+musical performance that encouraged student participation.</p>
+<p>From 19 to 22 May 2025, teachers welcomed students each morning with engaging
+storytelling sessions in the school hall. These storytelling sessions in
+Chinese, Malay and Tamil were further enriched by our Parent Support Group
+(PSG) members, who shared cultural stories during recess periods, fostering
+a love for mother tongue languages.</p>
+<p>The fortnight's thoughtfully planned activities brought the richness of
+cultural traditions and mother tongue languages to life through cultural
+arts. This celebration exemplified the school's continued commitment to
+preserving and promoting our cultural heritage.</p>
+<p><u>Chinese Language Programs</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Primary 1: Face Mask Rattle Drum workshop 手工文化课（脸谱手摇鼓: Learn the history,
+color the drum, and perform in groups Rattle Drum) / Poetry Singing</p>
+</li>
+<li>
+<p>Primary 2: Traditional Music Introduction and Craft (Chinese Tambourine)
+华乐介绍 +乐器彩绘（铃鼓）/ Poetry Singing</p>
+</li>
+<li>
+<p>Primary 3 : Language and Cultural Quiz 三借芭蕉扇</p>
+</li>
+<li>
+<p>Primary 4: Chinese Idioms Comic “成语漫画” / Language and Cultural Quiz 西游记</p>
+</li>
+<li>
+<p>Primary 5: Traditional Music Introduction and Craft (Mulan Kuai Ban 花木兰快板+花木兰歌曲/诗词/吟诵/绕口令)
+/ Reader's Theatre 花木兰 (Read the story and act it）</p>
+</li>
+<li>
+<p>Primary 6: Monopoly Game with Traditional Histories and Questions Cards
+"Romance of Three Kingdom Borad Game 三国棋盘游戏" / Reader's Theatre 三国 (Read
+the story and act it）</p>
+</li>
+</ul>
+<p><u>Tamil Language Programs</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Primary 1: Music &amp; Movement / Poetry Singing</p>
+</li>
+<li>
+<p>Primary 2: Drama / Poetry Singing</p>
+</li>
+<li>
+<p>Primary 3: Parai / Language and Cultural Quiz</p>
+</li>
+<li>
+<p>Primary 4: Villupaattu / Language and Cultural Quiz</p>
+</li>
+<li>
+<p>Primary 5: Coconut Husk painting / Reader's Theatre (Read the story and
+act it out)</p>
+</li>
+<li>
+<p>Primary 6: Kundan Jewelry Painting / Reader's Theatre (Read the story
+and act it out)</p>
+</li>
+</ul>
+<p><u>Malay Language Programs</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Primary 1: Patterns of Tradition: The Art of Batik in Malay culture /
+Poetry Singing</p>
+</li>
+<li>
+<p>Primary 2: Wau : The Majestic Art of Malay Kites / Poetry Singing</p>
+</li>
+<li>
+<p>Primary 3: The Art of Making Kipas Pengantin / Language and Cultural Quiz</p>
+</li>
+<li>
+<p>Primary 4: The Art of Tanjak: A symbol of Malay Identity / Language and
+Cultural Quiz</p>
+</li>
+<li>
+<p>Primary 5: The Art of Jawi: Malay Calligraphy Through Time / Reader's
+Theatre (Read the story and act it out)</p>
+</li>
+<li>
+<p>Primary 6: Echoes of the past: The Beauty of the Malay Kampong / Reader's
+Theatre (Read the story and act it out)</p>
+</li>
+</ul>
 <h4>Celebrating Achievements in National and Zonal Chinese Language Competitions</h4>
 <div class="iframe-wrapper">
 <iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQZ_DGc9hILRmwpG1FcaKhGFfVBJzpY69-akd3kl9AJ12GN5Ou3eGDtPXrLvjK39mbHJd-clMSfLO6I/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
