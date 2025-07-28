@@ -5,6 +5,53 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
+<h4>P.L.A.Y. Day 2 at Peiying – Learning Comes Alive Through Play!</h4>
+<div class="iframe-wrapper">
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR6qSbFR0XsPHeaDTF0-tH0pONO5c0XU36enlQaE2gI0Q70VS6ymw--8WhjHtvu7xWsgNiEjSKKrtXG/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>On 8 July 2025, the school buzzed with excitement as we held our second
+P.L.A.Y. Day – <em>Peiying Learn And PlaY Day</em>. This special day is
+part of our continued efforts to nurture the joy of learning in our students
+through meaningful and hands-on experiences. At Peiying, we believe that
+learning does not just happen in the classroom – it also happens when children
+explore, play, reflect and work with one another.</p>
+<p>Our Primary 1 students visited Qian Hu Fish Farm where they learned about
+the different types of fish, sustainable practices used at farms and awareness
+of the impact of human activities on aquatic life. Primary 2 students went
+on a fun and educational trip to River Wonders, discovering more about
+animals and learning more about different river habitats.</p>
+<p>Our Primary 3 to 5 students, took part in Values in Action (VIA) activities.
+Primary 3 VIA centered on being kind and caring to create a friendly and
+helpful classroom environment. Primary 4 students stepped up to demonstrate
+responsibility and care for the school environment whereas the Primary
+5 students explored what it means to be active contributors and responsible
+citizens.</p>
+<p>Through P.L.A.Y. Day 2, students experienced the joy of learning in authentic
+and engaging ways. The varied activities provided rich opportunities for
+them to explore, reflect, and develop key competencies that support their
+growth as confident, engaged learners prepared for the future.</p>
+<h4>Primary 3 Mother Tongue Language &amp; Cultural Day Camp 2025</h4>
+<div class="iframe-wrapper">
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQUSw8tbEzcWF9bBgPgsxGqTcBeIA3GAZ3beyQlC9qkI0yMFbXqos1PboeV5hFNNetZh45f2D0VZhfK/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>As part of Peiying Primary School’s effort to nurture active and culturally
+rooted learners, the Primary 3 Mother Tongue Language (MTL) &amp; Cultural
+Day Camp was held on 4 July 2025. The camp gave students a meaningful and
+hands-on way to explore and appreciate their own Mother Tongue Languages
+and cultures. In line with the school’s vision of developing key life skills
+in our students, the camp also emphasised communication and teamwork through
+engaging, practical activities.</p>
+<p>With the theme <strong>“Engage and Embrace MTL and Culture!”</strong>,
+the day was filled with exciting and purposeful experiences. During <strong>Guided Reading</strong>,
+students explored stories that reflected their cultures, enhancing both
+their language skills and cultural understanding. Through <strong>Traditional Craft Work</strong>,
+they created simple crafts while learning about their cultural significance.
+These experiences helped students see the connection between language and
+culture in everyday life.</p>
+<p>The Primary 3 MTL &amp; Cultural Day Camp was not just a celebration of
+language and culture, but also a valuable platform for students to express
+themselves, collaborate with peers, and take pride in their heritage. It
+was a joyful and enriching experience for all.</p>
 <h4>MTL Fortnight Celebration at Peiying Primary School (13 May- 23 May 2025)</h4>
 <div class="iframe-wrapper">
 <iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSt__ertRkycv19CtizFE6_7ljRNTacbZPi_p5K2YdvV_5HrSP2Kuh4rX-9Pn6-vntSkO01VXJVBk6v/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
