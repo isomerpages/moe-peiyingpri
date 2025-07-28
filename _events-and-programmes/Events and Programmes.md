@@ -5,6 +5,240 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
+<h4>Primary 5 National Education (NE) Show 2025 – Celebrating SG60</h4>
+<div class="iframe-wrapper">
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSaDj3kj4yRgYhaGs3t-Y9XwBmJ6qV5gyIXC0-XZkoju_LJ40dahsNUDhFPGlLhPofY7WWW-lE-5THt/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>On Saturday, 19 July 2025, our Primary 5 students had the memorable opportunity
+to attend the National Education (NE) Show 2025 at the Padang. Held in
+conjunction with the full-dress rehearsal of this year’s National Day Parade
+(NDP), the event marked a significant milestone - Singapore’s 60th year
+of independence (SG60). It was a moment to honour our nation’s journey,
+celebrate our progress, and look forward with hope and unity.</p>
+<p>The show presented a powerful and forward-looking narrative of belonging,
+unity and resilience. Students were treated to an array of vibrant performances
+by over 3,000 performers, touching intergenerational stories, and heartfelt
+renditions of beloved National Day songs.</p>
+<p>The evening kicked off with the energising pre-parade segment <em>Makin’ Our Way</em> and
+the inaugural <em>Jump of Unity</em> by the Red Lions and Naval Divers. This
+was followed by captivating acts such as <em>Our People, Our Diversity</em> and <em>Our Future, Our Aspirations</em> -
+each highlighting the spirit and strength of our nation.</p>
+<p>Key highlights included the debut of the NDP 2025 theme song <em>Here We Are</em>,
+stirring recitals of <em>Majulah Singapura</em>, beautifully crafted floats
+designed by artists with disabilities, and a grand finale sing-along accompanied
+by a stunning fireworks display that lit up the Padang and Marina Bay skyline.</p>
+<p>This unforgettable experience not only deepened our students’ appreciation
+of Singapore’s heritage, but also strengthened their sense of pride and
+belonging.</p>
+<h4>Peiying Primary School Twinning Programme 2025 with Sekolah Rendah Panaga, Brunei</h4>
+<div class="iframe-wrapper">
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS-D8tDBU0oRS_3fIZvA3iuxzKRDnDyRN2ysEhgHC1sLG_uwt73g59hw9QaZAdyDwhvjboSpI2R8TI3/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>On 9<sup> </sup>and 10 July 2025, Peiying Primary School had the pleasure
+of hosting students from Sekolah Rendah Panaga, Brunei, as part of our
+ongoing School Twinning Programme. This meaningful initiative provided
+our Primary 4 student ambassadors with the opportunity to host and build
+friendships with their overseas peers, while offering the Bruneian students
+valuable insights into Singapore’s education system and culture.</p>
+<p>The two-day school twinning programme began with a warm welcome and introductory
+session between both schools, followed by ice-breaker and team-building
+activities that encouraged collaboration and communication. Students explored
+cultural arts through hands-on activities such as creating Chinese knots
+and Kundan art. In the afternoon, students from both schools visited the
+Science Centre, where they engaged in fun, interactive exhibits and experiential
+learning, strengthening the bonds formed earlier in the day.</p>
+<p>On the second day, the Bruneian students experienced a slice of life in
+Peiying classrooms, starting with a “Fun with iPad” art activity, followed
+by attending lessons alongside their Peiying buddies. They also joined
+our school assembly, which featured an engaging anti-bullying programme,
+and had the chance to experience the energy and spirit of a full-school
+gathering in our school hall.</p>
+<p>The exchange concluded on a high note with heartfelt song performances
+by both schools and a meaningful exchange of friendship tokens, marking
+the end of a memorable and enriching experience. We look forward to continuing
+this partnership when we visit Sekolah Rendah Panaga in Brunei in 2026!</p>
+<h4>Immersion Programme 2025 with Cheng Kung Elementary School, Taichung</h4>
+<div class="iframe-wrapper">
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRjJYBNdZsMm1qdddjIFliDtnlNLabBoXbdR5SW830F8Q5WXdM5W0a0NMDSrYFOv2OAg0rLExob12Vm/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>On 4<sup> </sup>July 2025, Peiying Primary School proudly welcomed teachers
+and students from Cheng Kung Elementary School, Taichung, as part of a
+meaningful cultural and educational immersion programme. This initiative
+provided our students with the opportunity to foster cross-cultural understanding
+and build friendships with peers from overseas.&nbsp;</p>
+<p>The one-day programme began with a warm welcome and an introduction between
+the two schools, setting a positive tone for the day’s exchange. The visiting
+students experienced a school day in Singapore through their participation
+in our Mother Tongue Languages (MTL) Cultural Day Camp. Together with Peiying
+students, they explored elements of traditional Chinese heritage through
+engaging, hands-on activities such as donning the traditional Hanfu, participating
+in Chinese drama and choral reading, and painting traditional Chinese opera
+masks.</p>
+<p>Beyond cultural learning, students also took part in Physical Education
+activities at our Outdoor Adventure Centre. These activities promoted teamwork,
+resilience, and physical wellness. Our visitors were also given the opportunity
+to observe various CCA sessions. They were especially captivated by the
+Angklung CCA performance and had a chance to try playing the Angklung themselves,
+guided patiently by our students.</p>
+<p>Beyond cultural learning, students also took part in Physical Education
+activities at our Outdoor Adventure Centre. These activities promoted teamwork,
+resilience, and physical wellness. Our visitors were also given the opportunity
+to observe various CCA sessions. They were especially captivated by the
+Angklung CCA performance and had a chance to try playing the Angklung themselves,
+guided patiently by our students.</p>
+<h4>P.L.A.Y. Day 2 at Peiying – Learning Comes Alive Through Play!</h4>
+<div class="iframe-wrapper">
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR6qSbFR0XsPHeaDTF0-tH0pONO5c0XU36enlQaE2gI0Q70VS6ymw--8WhjHtvu7xWsgNiEjSKKrtXG/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>On 8 July 2025, the school buzzed with excitement as we held our second
+P.L.A.Y. Day – <em>Peiying Learn And PlaY Day</em>. This special day is
+part of our continued efforts to nurture the joy of learning in our students
+through meaningful and hands-on experiences. At Peiying, we believe that
+learning does not just happen in the classroom – it also happens when children
+explore, play, reflect and work with one another.</p>
+<p>Our Primary 1 students visited Qian Hu Fish Farm where they learned about
+the different types of fish, sustainable practices used at farms and awareness
+of the impact of human activities on aquatic life. Primary 2 students went
+on a fun and educational trip to River Wonders, discovering more about
+animals and learning more about different river habitats.</p>
+<p>Our Primary 3 to 5 students, took part in Values in Action (VIA) activities.
+Primary 3 VIA centered on being kind and caring to create a friendly and
+helpful classroom environment. Primary 4 students stepped up to demonstrate
+responsibility and care for the school environment whereas the Primary
+5 students explored what it means to be active contributors and responsible
+citizens.</p>
+<p>Through P.L.A.Y. Day 2, students experienced the joy of learning in authentic
+and engaging ways. The varied activities provided rich opportunities for
+them to explore, reflect, and develop key competencies that support their
+growth as confident, engaged learners prepared for the future.</p>
+<h4>Primary 3 Mother Tongue Language &amp; Cultural Day Camp 2025</h4>
+<div class="iframe-wrapper">
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQUSw8tbEzcWF9bBgPgsxGqTcBeIA3GAZ3beyQlC9qkI0yMFbXqos1PboeV5hFNNetZh45f2D0VZhfK/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>As part of Peiying Primary School’s effort to nurture active and culturally
+rooted learners, the Primary 3 Mother Tongue Language (MTL) &amp; Cultural
+Day Camp was held on 4 July 2025. The camp gave students a meaningful and
+hands-on way to explore and appreciate their own Mother Tongue Languages
+and cultures. In line with the school’s vision of developing key life skills
+in our students, the camp also emphasised communication and teamwork through
+engaging, practical activities.</p>
+<p>With the theme <strong>“Engage and Embrace MTL and Culture!”</strong>,
+the day was filled with exciting and purposeful experiences. During <strong>Guided Reading</strong>,
+students explored stories that reflected their cultures, enhancing both
+their language skills and cultural understanding. Through <strong>Traditional Craft Work</strong>,
+they created simple crafts while learning about their cultural significance.
+These experiences helped students see the connection between language and
+culture in everyday life.</p>
+<p>The Primary 3 MTL &amp; Cultural Day Camp was not just a celebration of
+language and culture, but also a valuable platform for students to express
+themselves, collaborate with peers, and take pride in their heritage. It
+was a joyful and enriching experience for all.</p>
+<h4>MTL Fortnight Celebration at Peiying Primary School (13 May- 23 May 2025)</h4>
+<div class="iframe-wrapper">
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSt__ertRkycv19CtizFE6_7ljRNTacbZPi_p5K2YdvV_5HrSP2Kuh4rX-9Pn6-vntSkO01VXJVBk6v/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p><strong>Peiying Primary School's Mother Tongue Languages Fortnight 2025</strong>
+</p>
+<p><strong>Engage and Embrace Mother Tongue Language and Culture!</strong>
+<br><strong>拥抱母语、传承文化 | Libat dan Hayati Bahasa dan Budaya Kita! | நம் தமிழ் மொழியும் பண்பாடும் - ஈடுபடுவோம்! அரவணைப்போம்!</strong>
+</p>
+<p>Peiying Primary School celebrated its Mother Tongue Languages (MTL) Fortnight,
+themed 'Engage and Embrace MTL and Culture!', from 13 to 23 May 2025. This
+cultural celebration provided students with opportunities to immerse themselves
+in their respective mother tongue languages and cultural heritage, fostering
+appreciation for the arts whilst developing communication skills and social
+awareness.</p>
+<p>The celebration commenced with a vibrant assembly programme on 15 May
+2025, featuring demonstrations of traditional musical instruments from
+various ethnic communities. Students were introduced to the Chinese drum,
+cymbals, Malay kompang, Indian dhol and tasha. The highlight was an interactive
+musical performance that encouraged student participation.</p>
+<p>From 19 to 22 May 2025, teachers welcomed students each morning with engaging
+storytelling sessions in the school hall. These storytelling sessions in
+Chinese, Malay and Tamil were further enriched by our Parent Support Group
+(PSG) members, who shared cultural stories during recess periods, fostering
+a love for mother tongue languages.</p>
+<p>The fortnight's thoughtfully planned activities brought the richness of
+cultural traditions and mother tongue languages to life through cultural
+arts. This celebration exemplified the school's continued commitment to
+preserving and promoting our cultural heritage.</p>
+<p><u>Chinese Language Programs</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Primary 1: Face Mask Rattle Drum workshop 手工文化课（脸谱手摇鼓: Learn the history,
+color the drum, and perform in groups Rattle Drum) / Poetry Singing</p>
+</li>
+<li>
+<p>Primary 2: Traditional Music Introduction and Craft (Chinese Tambourine)
+华乐介绍 +乐器彩绘（铃鼓）/ Poetry Singing</p>
+</li>
+<li>
+<p>Primary 3 : Language and Cultural Quiz 三借芭蕉扇</p>
+</li>
+<li>
+<p>Primary 4: Chinese Idioms Comic “成语漫画” / Language and Cultural Quiz 西游记</p>
+</li>
+<li>
+<p>Primary 5: Traditional Music Introduction and Craft (Mulan Kuai Ban 花木兰快板+花木兰歌曲/诗词/吟诵/绕口令)
+/ Reader's Theatre 花木兰 (Read the story and act it）</p>
+</li>
+<li>
+<p>Primary 6: Monopoly Game with Traditional Histories and Questions Cards
+"Romance of Three Kingdom Borad Game 三国棋盘游戏" / Reader's Theatre 三国 (Read
+the story and act it）</p>
+</li>
+</ul>
+<p><u>Tamil Language Programs</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Primary 1: Music &amp; Movement / Poetry Singing</p>
+</li>
+<li>
+<p>Primary 2: Drama / Poetry Singing</p>
+</li>
+<li>
+<p>Primary 3: Parai / Language and Cultural Quiz</p>
+</li>
+<li>
+<p>Primary 4: Villupaattu / Language and Cultural Quiz</p>
+</li>
+<li>
+<p>Primary 5: Coconut Husk painting / Reader's Theatre (Read the story and
+act it out)</p>
+</li>
+<li>
+<p>Primary 6: Kundan Jewelry Painting / Reader's Theatre (Read the story
+and act it out)</p>
+</li>
+</ul>
+<p><u>Malay Language Programs</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Primary 1: Patterns of Tradition: The Art of Batik in Malay culture /
+Poetry Singing</p>
+</li>
+<li>
+<p>Primary 2: Wau : The Majestic Art of Malay Kites / Poetry Singing</p>
+</li>
+<li>
+<p>Primary 3: The Art of Making Kipas Pengantin / Language and Cultural Quiz</p>
+</li>
+<li>
+<p>Primary 4: The Art of Tanjak: A symbol of Malay Identity / Language and
+Cultural Quiz</p>
+</li>
+<li>
+<p>Primary 5: The Art of Jawi: Malay Calligraphy Through Time / Reader's
+Theatre (Read the story and act it out)</p>
+</li>
+<li>
+<p>Primary 6: Echoes of the past: The Beauty of the Malay Kampong / Reader's
+Theatre (Read the story and act it out)</p>
+</li>
+</ul>
 <h4>Celebrating Achievements in National and Zonal Chinese Language Competitions</h4>
 <div class="iframe-wrapper">
 <iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQZ_DGc9hILRmwpG1FcaKhGFfVBJzpY69-akd3kl9AJ12GN5Ou3eGDtPXrLvjK39mbHJd-clMSfLO6I/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
