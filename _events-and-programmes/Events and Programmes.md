@@ -5,6 +5,30 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
+<h4>Peiying Primary School Twinning Programme 2025 with Sekolah Rendah Panaga, Brunei</h4>
+<p>On 9<sup> </sup>and 10 July 2025, Peiying Primary School had the pleasure
+of hosting students from Sekolah Rendah Panaga, Brunei, as part of our
+ongoing School Twinning Programme. This meaningful initiative provided
+our Primary 4 student ambassadors with the opportunity to host and build
+friendships with their overseas peers, while offering the Bruneian students
+valuable insights into Singapore’s education system and culture.</p>
+<p>The two-day school twinning programme began with a warm welcome and introductory
+session between both schools, followed by ice-breaker and team-building
+activities that encouraged collaboration and communication. Students explored
+cultural arts through hands-on activities such as creating Chinese knots
+and Kundan art. In the afternoon, students from both schools visited the
+Science Centre, where they engaged in fun, interactive exhibits and experiential
+learning, strengthening the bonds formed earlier in the day.</p>
+<p>On the second day, the Bruneian students experienced a slice of life in
+Peiying classrooms, starting with a “Fun with iPad” art activity, followed
+by attending lessons alongside their Peiying buddies. They also joined
+our school assembly, which featured an engaging anti-bullying programme,
+and had the chance to experience the energy and spirit of a full-school
+gathering in our school hall.</p>
+<p>The exchange concluded on a high note with heartfelt song performances
+by both schools and a meaningful exchange of friendship tokens, marking
+the end of a memorable and enriching experience. We look forward to continuing
+this partnership when we visit Sekolah Rendah Panaga in Brunei in 2026!</p>
 <h4>Immersion Programme 2025 with Cheng Kung Elementary School, Taichung</h4>
 <div class="iframe-wrapper">
 <iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRjJYBNdZsMm1qdddjIFliDtnlNLabBoXbdR5SW830F8Q5WXdM5W0a0NMDSrYFOv2OAg0rLExob12Vm/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
