@@ -6,6 +6,9 @@ variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
 <h4>MTL Fortnight Celebration at Peiying Primary School (13 May- 23 May 2025)</h4>
+<div class="iframe-wrapper">
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSt__ertRkycv19CtizFE6_7ljRNTacbZPi_p5K2YdvV_5HrSP2Kuh4rX-9Pn6-vntSkO01VXJVBk6v/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <p><strong>Peiying Primary School's Mother Tongue Languages Fortnight 2025</strong>
 </p>
 <p><strong>Engage and Embrace Mother Tongue Language and Culture!</strong>
