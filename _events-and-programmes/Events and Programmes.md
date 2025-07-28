@@ -5,6 +5,35 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
+<h4>Immersion Programme 2025 with Cheng Kung Elementary School, Taichung</h4>
+<div class="iframe-wrapper">
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRjJYBNdZsMm1qdddjIFliDtnlNLabBoXbdR5SW830F8Q5WXdM5W0a0NMDSrYFOv2OAg0rLExob12Vm/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>On 4<sup> </sup>July 2025, Peiying Primary School proudly welcomed teachers
+and students from Cheng Kung Elementary School, Taichung, as part of a
+meaningful cultural and educational immersion programme. This initiative
+provided our students with the opportunity to foster cross-cultural understanding
+and build friendships with peers from overseas.&nbsp;</p>
+<p>The one-day programme began with a warm welcome and an introduction between
+the two schools, setting a positive tone for the day’s exchange. The visiting
+students experienced a school day in Singapore through their participation
+in our Mother Tongue Languages (MTL) Cultural Day Camp. Together with Peiying
+students, they explored elements of traditional Chinese heritage through
+engaging, hands-on activities such as donning the traditional Hanfu, participating
+in Chinese drama and choral reading, and painting traditional Chinese opera
+masks.</p>
+<p>Beyond cultural learning, students also took part in Physical Education
+activities at our Outdoor Adventure Centre. These activities promoted teamwork,
+resilience, and physical wellness. Our visitors were also given the opportunity
+to observe various CCA sessions. They were especially captivated by the
+Angklung CCA performance and had a chance to try playing the Angklung themselves,
+guided patiently by our students.</p>
+<p>Beyond cultural learning, students also took part in Physical Education
+activities at our Outdoor Adventure Centre. These activities promoted teamwork,
+resilience, and physical wellness. Our visitors were also given the opportunity
+to observe various CCA sessions. They were especially captivated by the
+Angklung CCA performance and had a chance to try playing the Angklung themselves,
+guided patiently by our students.</p>
 <h4>P.L.A.Y. Day 2 at Peiying – Learning Comes Alive Through Play!</h4>
 <div class="iframe-wrapper">
 <iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR6qSbFR0XsPHeaDTF0-tH0pONO5c0XU36enlQaE2gI0Q70VS6ymw--8WhjHtvu7xWsgNiEjSKKrtXG/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
