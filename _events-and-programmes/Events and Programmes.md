@@ -5,6 +5,29 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
+<h4>Peiying Primary School at Nee Soon Green Festival 2025</h4>
+<div class="iframe-wrapper">
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTccYFTGMmaKmYTalymLteDAW1-EJrOEYvsTe5kIPgK5Ys2ipL7Rj82OyaB_Ezd1nZ8pYQdSzYSMZZe/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>Peiying Primary School was proud to participate in the Nee Soon Green
+Festival 2025, marking our third year of collaboration in this meaningful
+community initiative. This event served as a valuable platform to showcase
+the school’s Applied Learning Programme (ALP) in Environmental Education
+and to share our continued efforts in promoting sustainability with the
+wider community.</p>
+<p>Our ALP Ambassadors played an active role in engaging residents, raising
+awareness about eco-friendly practices, and encouraging community support
+for our sustainability initiatives. A key highlight of our booth was the
+display of toys creatively made by students using upcycled materials, which
+drew enthusiastic responses from children and adults alike. The interactive
+nature of these exhibits allowed the community to experience the joy of
+play while learning about the importance of reusing materials.</p>
+<p>In addition, residents enhanced their knowledge of sustainability through
+the Peiying signature Snakes and Ladders game. Another well-received feature
+was the repurposing of cooler bags into practical tissue box holders. It
+was an innovative idea that inspired many visitors.</p>
+<p>Through such engagements, we remain committed to nurturing environmentally
+responsible citizens and strengthening community partnerships.</p>
 <h4>SCALE@Peiying Climbing Experience 2025</h4>
 <div class="iframe-wrapper">
 <iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS3VchFYzyGpPlT6xGp-pxZGE37IY2EIiHVK_gRgRz3KG1F7NMBPS3kb67HfA_dMlOxMJqxzuON3i4-/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
