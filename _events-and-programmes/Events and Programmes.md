@@ -5,6 +5,25 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
+<h4>SCALE@Peiying Climbing Experience 2025</h4>
+<div class="iframe-wrapper">
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS3VchFYzyGpPlT6xGp-pxZGE37IY2EIiHVK_gRgRz3KG1F7NMBPS3kb67HfA_dMlOxMJqxzuON3i4-/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>This year, our Primary 3 and Primary 4 students took part in SCALE@Peiying
+Climbing Experience, one of our key programmes that integrates sports,
+outdoor education and character development. Through the rock-climbing
+activities, our students experienced meaningful learning beyond the classroom.</p>
+<p>They worked with their buddies and reflected on how they demonstrated
+values such as resilience, respect and responsibility. These experiences
+encouraged them to step out of their comfort zones, communicate effectively
+with peers, and persevere through challenges.</p>
+<p>The SCALE@Peiying Climbing Experience provided a vibrant platform for
+our students to discover their strengths, build confidence and develop
+a positive mindset. It was inspiring to see them support one another, celebrate
+each other’s successes, and grow in their ability to work as a team.</p>
+<p>Through these experiences, our P3 and P4 students not only built physical
+skills but also strengthened their character, showing that learning can
+truly come alive when values and action go hand in hand.</p>
 <h4>Primary 5 National Education (NE) Show 2025 – Celebrating SG60</h4>
 <div class="iframe-wrapper">
 <iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSaDj3kj4yRgYhaGs3t-Y9XwBmJ6qV5gyIXC0-XZkoju_LJ40dahsNUDhFPGlLhPofY7WWW-lE-5THt/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
