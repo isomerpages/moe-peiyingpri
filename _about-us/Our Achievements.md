@@ -115,6 +115,27 @@ variant: tiptap
 </ul>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Elementz Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Team A4 - SILVER
+<br>HydroWrap Designing Hydrogel for Zero-Waste Packaging Solutions</p>
+</li>
+<li>
+<p>Team A5 - BRONZE
+<br>Plane Truth: Why Weight Matters in Flight</p>
+</li>
+<li>
+<p>Team C8 - SILVER
+<br>Super Sun Stoppers!</p>
+</li>
+</ul>
+</td>
+</tr>
 </tbody>
 </table>
 <hr>
