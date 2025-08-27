@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Ex-Students Visit - 4 Sep 2025
           description: Click here for more info
-          url: /partners/useful-forms-and-links/students/
+          url: /ex-students-visit-4-sep-2025/
         - title: Voices of Peiying
           description: Click here for more info
           url: /voices-of-peiying
