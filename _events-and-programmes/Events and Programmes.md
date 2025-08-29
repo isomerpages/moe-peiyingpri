@@ -5,6 +5,30 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
+<h4>Our People, Our Tapestry </h4>
+<div class="iframe-wrapper">
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTWdjgZKImMTBOYeKGk-EJH6jq50kGoY11egYkDLbiPXRdT1F1lO51leFWvbc5GmO9dTRghy9m_7x-l/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>On July 24, 2025, our school commemorated Racial Harmony Day with the
+theme "Our People, Our Tapestry", a celebration of Singapore’s multicultural
+identity and the rich traditions that unite us as one nation. The highlight
+of the celebration was a vibrant Assembly Programme, where students were
+treated to an engaging presentation highlighting the importance of racial
+harmony and our shared heritage. A colourful Fashion Parade followed, featuring
+students and teachers proudly showcasing traditional ethnic attire - a
+lively expression of the diversity that binds us together as a community.</p>
+<p>The day was filled with meaningful activities that deepened students’
+appreciation for cultural diversity. During recess, students explored various
+traditions through hands-on cultural experiences supported by our dedicated
+Parent Support Group (PSG). These included thoranam (Indian decorative
+garlands), ketupat weaving (a traditional Malay craft), rangoli art, colouring
+the wau (traditional Malay kite), and decorating Chinese dumpling forms.
+Together with student reflections, contributions from the PSG and students
+culminated in a stunning Harmony Garden visual display - a creative tribute
+to the spirit of unity in diversity.</p>
+<p>This year’s Racial Harmony Day commemoration was a powerful reminder that
+while we come from diverse backgrounds, we are all threads of the same
+tapestry — stronger and more beautiful together.</p>
 <h4>Peiying Primary School at Nee Soon Green Festival 2025</h4>
 <div class="iframe-wrapper">
 <iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTccYFTGMmaKmYTalymLteDAW1-EJrOEYvsTe5kIPgK5Ys2ipL7Rj82OyaB_Ezd1nZ8pYQdSzYSMZZe/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
