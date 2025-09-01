@@ -32,7 +32,7 @@ their nominations.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/caring_teacher_award_2026.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/caring_teacher_award_2026.png">
 </div>
 <p>For more information, please visit <a rel="noopener noreferrer nofollow" target="_blank">www.cta.nie.edu.sg</a>
 </p>
