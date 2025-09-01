@@ -12,9 +12,9 @@ sections:
         - title: Ex-Students Visit - 4 Sep 2025
           description: Click here for more info
           url: /ex-students-visit-4-sep-2025/
-        - title: Voices of Peiying
+        - title: Caring Teacher Awards 2026
           description: Click here for more info
-          url: /voices-of-peiying
+          url: /caring-teacher-awards-2026/
         - title: Facebook
           description: Peiying Primary Facebook Page
           url: https://www.facebook.com/peiyingpri
