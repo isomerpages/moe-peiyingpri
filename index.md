@@ -21,4 +21,13 @@ sections:
         - title: Instagram
           description: "@peiying_primary_school"
           url: https://www.instagram.com/peiying_primary_school/
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: Voices of Peiying
+          date: 02 September 2025
+          announcement: Click here for more information
+          link_text: Voices of Peiying
+          link_url: /voices-of-peiying/
 ---
