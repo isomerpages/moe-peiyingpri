@@ -25,9 +25,9 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Voices of Peiying
-          date: 02 September 2025
+        - title: Keeping in Touch
+          date: 04 September 2025
           announcement: Click here for more information
-          link_text: Voices of Peiying
-          link_url: /voices-of-peiying/
+          link_text: 4 Sept 2025 Keeping in Touch
+          link_url: /partners/keeping-in-touch-newsletters/
 ---
