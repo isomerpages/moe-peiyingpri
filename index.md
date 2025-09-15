@@ -12,9 +12,9 @@ sections:
         - title: Voices of Peiying
           description: Click here for more info
           url: /voices-of-peiying/
-        - title: Caring Teacher Awards 2026
+        - title: Term 4 Check-In
           description: Click here for more info
-          url: /caring-teacher-awards-2026/
+          url: /termly-check-in-survey/
         - title: Facebook
           description: Peiying Primary Facebook Page
           url: https://www.facebook.com/peiyingpri
@@ -30,4 +30,9 @@ sections:
           announcement: Click here for more information
           link_text: 4 Sept 2025 Keeping in Touch
           link_url: /partners/keeping-in-touch-newsletters/
+        - title: Caring Teacher Award
+          date: 27 August 2025
+          announcement: Click here for more information
+          link_text: Nominate now
+          link_url: /caring-teacher-awards-2026/
 ---
