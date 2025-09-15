@@ -30,4 +30,9 @@ sections:
           announcement: Click here for more information
           link_text: 4 Sept 2025 Keeping in Touch
           link_url: /partners/keeping-in-touch-newsletters/
+        - title: Caring Teacher Award
+          date: 27 August 2025
+          announcement: Click here for more information
+          link_text: Nominate now
+          link_url: /caring-teacher-awards-2026/
 ---
