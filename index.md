@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/Main Page/WebsiteBanner2024_5_2.gif
       key_highlights:
-        - title: Ex-Students Visit - 4 Sep 2025
+        - title: Voices of Peiying
           description: Click here for more info
-          url: /ex-students-visit-4-sep-2025/
+          url: /voices-of-peiying/
         - title: Caring Teacher Awards 2026
           description: Click here for more info
           url: /caring-teacher-awards-2026/
@@ -25,9 +25,9 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Voices of Peiying
-          date: 02 September 2025
+        - title: Keeping in Touch
+          date: 04 September 2025
           announcement: Click here for more information
-          link_text: Voices of Peiying
-          link_url: /voices-of-peiying/
+          link_text: 4 Sept 2025 Keeping in Touch
+          link_url: /partners/keeping-in-touch-newsletters/
 ---
