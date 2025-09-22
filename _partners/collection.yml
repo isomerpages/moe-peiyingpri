@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Our Vendors.md
       - School Bus Vendor.md
       - Kaleidoscope.md
       - Keeping In Touch Newsletters.md
