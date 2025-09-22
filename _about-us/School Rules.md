@@ -5,25 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>School Rules</strong></h3>
-<p>Peiying Primary School is committed to providing a safe, caring and respectful
-learning environment where every student can learn without fear. <strong>We have a zero-tolerance stance on bullying</strong>.</p>
-<p><strong>What is bullying?</strong>
-</p>
-<p>Bullying is a type of hurtful and unkind behaviour. Bullying undermines
-students’ sense of safety and hinders their learning and development. Students
-should feel safe in schools.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/Picture1.png">
-</div>
-<p>&nbsp;<strong>Reporting of bullying</strong>
-</p>
-<p>Students may report incidents to any teachers or school staff. All reports
-will be taken seriously and treated confidentially.</p>
-<p>For information on how MOE and schools manage bullying and hurtful behaviours,
-click on the following link:</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/news/edtalks/how-do-moe-and-schools-manage-bullying-and-hurtful-behaviours</a>
-</p>
-<p></p>
 <p>1. Be neatly dressed in the correct school attire.</p>
 <p>2. Be punctual for school.</p>
 <p>3. Be courteous and considerate at all times.</p>
@@ -43,3 +24,23 @@ over the heart.</p>
 <p>14. All students are not allowed to have in their possession any weapon.
 They are also not allowed to bring any weapon-like item which is used or
 intended to be used to cause harm to others.</p>
+<hr>
+<p></p>
+<p>Peiying Primary School is committed to providing a safe, caring and respectful
+learning environment where every student can learn without fear. <strong>We have a zero-tolerance stance on bullying</strong>.</p>
+<p><strong>What is bullying?</strong>
+</p>
+<p>Bullying is a type of hurtful and unkind behaviour. Bullying undermines
+students’ sense of safety and hinders their learning and development. Students
+should feel safe in schools.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/Picture1.png">
+</div>
+<p>&nbsp;<strong>Reporting of bullying</strong>
+</p>
+<p>Students may report incidents to any teachers or school staff. All reports
+will be taken seriously and treated confidentially.</p>
+<p>For information on how MOE and schools manage bullying and hurtful behaviours,
+click on the following link:</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/news/edtalks/how-do-moe-and-schools-manage-bullying-and-hurtful-behaviours</a>
+</p>
