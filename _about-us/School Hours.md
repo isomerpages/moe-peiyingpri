@@ -50,7 +50,7 @@ School will start at the usual time at 7.30am daily.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<h4>Recess, snack and lunch time</h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
