@@ -51,7 +51,7 @@ of our school near Bah Soon Pah Road)</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Parents are advised to contact our teachers during office hours (7:30 am
-– 5:00 pm). Other than in emergencies, staff are not required to respond
+– 5:30 pm). Other than in emergencies, staff are not required to respond
 outside office hours or during school holidays.</p>
 </li>
 <li>
