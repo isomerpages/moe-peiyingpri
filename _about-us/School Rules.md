@@ -34,7 +34,7 @@ learning environment where every student can learn without fear. <strong>We have
 students’ sense of safety and hinders their learning and development. Students
 should feel safe in schools.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/Picture1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/antibully.png">
 </div>
 <p>&nbsp;<strong>Reporting of bullying</strong>
 </p>
