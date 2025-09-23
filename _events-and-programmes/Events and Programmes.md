@@ -5,6 +5,19 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
+<h4>AEP Music Assembly – Strings Quartet</h4>
+<p>Peiying Primary School is excited to present our 2025 Music Assembly,
+part of the Art Education Programme. This year’s focus is on the magical
+world of string instruments - the violin, viola, and cello.</p>
+<p>Through fun and engaging performances, students experienced the unique
+sounds and styles of each instrument. From the soaring melodies of the
+violin to the rich harmonies of the viola and the deep resonance of the
+cello, the assembly opened our students’ ears to the beauty of string music.</p>
+<p>More than just a performance, the assembly aimed to spark joy and inspire
+a lasting love for music. By seeing and hearing these instruments up close,
+we hope our students feel encouraged to explore their own musical interests.</p>
+<p>This event reflects Peiying Primary School’s commitment to a well-rounded
+education that nurtures creativity and passion in every child.</p>
 <h4>NLB’s Book Buzz @ Peiying</h4>
 <div class="iframe-wrapper">
 <iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS-eELNjfKZ-Ma5M9c9uiDDmy8ng3MNu3PG4LjymsT701KkXrWkPbgGNu_47l3BmcmRnzCYr66eOjPq/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
