@@ -5,6 +5,59 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
+<h4>Anti-Bullying Programme 2025 – ‘The Power of Kindness’</h4>
+<div class="iframe-wrapper">
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS--1NUJZvmoQ9w_bPcxnxxiHFAxVNi7bus9OW8f2OmkiH26tb7v5--8-woBGY-Ng15QMFbhqtEvWpg/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>As part of our continued commitment to student well-being, Peiying Primary
+School launched this year’s Anti-Bullying Programme with the theme <strong>“The Power of Kindness.”</strong> This
+initiative aims to nurture a culture of care and respect, where students
+build strong, positive peer relationships and develop a clear understanding
+of what constitutes unacceptable behaviours.</p>
+<p>The programme highlights the importance of making responsible choices
+and treating others with kindness and empathy. A series of activities were
+carried out to reinforce the message, including Pre-assembly talks on “The
+Power of Kindness”, assembly programme and recess activities. At its core,
+it encourages students to become Upstanders, to actively stand up against
+unacceptable behaviours and support their peers. Thus, fostering a safe
+school environment.</p>
+<p>A key focus of the initiative is also to strengthen our peer support culture.
+Through their involvement, our Peer Buddy Leaders were empowered to take
+on greater responsibilities, demonstrating leadership and promoting awareness
+across the school. One such effort was the Anti-Bullying Book Display in
+the school library, curated to engage students meaningfully in conversations
+about kindness, empathy, and respect.</p>
+<p>Through these experiences, our students were reminded of their shared
+responsibility in creating a caring school community. Together, we continue
+to empower every child to act with kindness, empathy, and courage.</p>
+<h4>P5 Camp</h4>
+<div class="iframe-wrapper">
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQF6Bx1pj5jWY1Gz9sbVwAQKP0f088oairjwOvb_IHAyBjUAAl5BEvUk2ozdivINu4Fr7SPmi6XcO3q/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>From 1<sup>st</sup> to 3<sup>rd</sup> September, our Primary 5 students
+embarked on an unforgettable adventure at the MOE Jalan Bahtera Outdoor
+Adventure Learning Centre. Surrounded by nature, the 3-day camp offered
+a meaningful opportunity for students to build friendships, develop resilience,
+and create lasting memories.</p>
+<p>Teamwork was at the heart of many activities, such as the Low Rope Elements,
+where students learned the importance of communication, cooperation, and
+supporting one another. Working towards shared goals helped them develop
+empathy and a strong sense of responsibility.</p>
+<p>Students also took on exciting personal challenges, including the Rock-climbing
+Wall and Challenge Rope Course. These high elements pushed them out of
+their comfort zones, helping them overcome fears and grow in perseverance
+and self-confidence. Activities like Abseiling and Zip-lining further strengthened
+their courage and trust in their peers and safety equipment.</p>
+<p>A nature hike at Sungei Buloh Wetland Reserve allowed students to appreciate
+Singapore’s unique ecosystem and learn about the importance of mangroves,
+deepening their connection with the environment.</p>
+<p>The camp concluded with a heartwarming campfire session, where students
+celebrated their achievements through engaging performances. In preparing
+for the performances, they demonstrated leadership, teamwork, and strengthened
+their friendships.</p>
+<p>Our students returned to school with greater confidence, deeper connections,
+and valuable life skills that will support them in future challenges -
+both in and beyond the classroom.</p>
 <h4>AEP Music Assembly – Strings Quartet</h4>
 <p>Peiying Primary School is excited to present our 2025 Music Assembly,
 part of the Art Education Programme. This year’s focus is on the magical
