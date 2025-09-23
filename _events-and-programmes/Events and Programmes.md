@@ -5,7 +5,34 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
-<h4>Our People, Our Tapestry </h4>
+<h4>NLB’s Book Buzz @ Peiying</h4>
+<div class="iframe-wrapper">
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS-eELNjfKZ-Ma5M9c9uiDDmy8ng3MNu3PG4LjymsT701KkXrWkPbgGNu_47l3BmcmRnzCYr66eOjPq/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>On 31 July 2025, our school had the pleasure of hosting Book Buzz, an
+enriching programme by the National Library Board (NLB) that introduced
+students to captivating reads by local authors. The session was designed
+to spark curiosity and deepen students’ appreciation for reading.</p>
+<p>Students were introduced to a variety of books, which include:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Hidden Creatures</em> by Mary-Ruth Low – a fascinating dive into the
+secret lives of animals we rarely notice.</p>
+</li>
+<li>
+<p><em>Out &amp; About in Singapore 2</em> by Melanie Lee – an adventurous
+guide that uncovers fun and unique spots around our island.</p>
+</li>
+<li>
+<p><em>Sengkang Snoopers: The Secrets of the Tiger’s Den</em> by Peter Tan
+– a thrilling mystery that kept students on the edge of their seats.</p>
+</li>
+</ul>
+<p>Through interactive book sharing and lively discussions, students explored
+themes such as biodiversity, heritage, and creative storytelling. The session
+not only broadened their perspectives but also reminded them that reading
+opens doors to adventure and discovery, right here in Singapore.</p>
+<h4>Our People, Our Tapestry</h4>
 <div class="iframe-wrapper">
 <iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTWdjgZKImMTBOYeKGk-EJH6jq50kGoY11egYkDLbiPXRdT1F1lO51leFWvbc5GmO9dTRghy9m_7x-l/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
