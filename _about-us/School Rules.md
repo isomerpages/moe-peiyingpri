@@ -25,7 +25,7 @@ over the heart.</p>
 They are also not allowed to bring any weapon-like item which is used or
 intended to be used to cause harm to others.</p>
 <hr>
-<p></p>
+<h4>Anti-Bullying Policy</h4>
 <p>Peiying Primary School is committed to providing a safe, caring and respectful
 learning environment where every student can learn without fear. <strong>We have a zero-tolerance stance on bullying</strong>.</p>
 <p><strong>What is bullying?</strong>
