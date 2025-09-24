@@ -5,6 +5,79 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
+<h4>Preventive Drug Education 2025 at Peiying Primary School</h4>
+<div class="iframe-wrapper">
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTsuH-Eutq2XoEnl9UwpzWH8g6ZWj4F1ceG2x1eGJl62caAzt1hNy19-QVUBP2OHFC067Tkl-QJYm48/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>At Peiying Primary School, we believe in nurturing leaders of character
+and caring citizens. As part of our commitment to holistic education and
+student well-being, we implemented a series of meaningful initiatives under
+the Preventive Drug Education 2025 programme. This year’s focus was on
+three important learning points: (i) Understanding the harmful effects
+of drug misuse (ii) Building confidence to say “NO” to drugs (iii) Developing
+healthy ways to manage negative emotions.</p>
+<p>The programme began with pre-assembly and assembly sessions that equipped
+students with knowledge about the dangers of drugs and the importance of
+making wise decisions. These were followed by interactive classroom activities
+and recess campaigns, which encouraged peer discussions and reinforced
+key takeaways in a fun and memorable way. Students also had the opportunity
+to express their learning through creative poster design, sharing preventive
+drug education messages. A meaningful ribbon-folding activity during recess
+also allowed students to pledge their commitment to staying drug-free.</p>
+<p>The campaign concluded with a school-wide showcase of student posters,
+celebrating their voices and ideas. To strengthen home-school partnership,
+a message was shared with parents via Parent Gateway, helping to extend
+the conversation at home.</p>
+<p>Through these collective efforts, we continue to empower our students
+with the knowledge, skills, and values to thrive and to make safe, positive
+choices for their future.</p>
+<h4>Cultural Performance Exposure Scheme (CPES) 2025</h4>
+<div class="iframe-wrapper">
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ9Ap1-j9V4ypOsFRbqWGvBZCV2wJTDYa_9MD-XC7Nng045E_SvU7i4hePEMl9PpK2j4c17a3Qqo4ZG/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>As part of Peiying Primary School’s continued commitment to promoting
+Chinese language learning, our students participated in the Cultural Performance
+Exposure Scheme (CPES) 2025. This initiative, supported by the Committee
+to Promote Chinese Language Learning (CPCLL), aims to enhance students’
+appreciation of the Chinese language through exposure to local cultural
+performances.</p>
+<p>This year, students attended a Chinese drama performance titled <em>“Journey to the West – Thrice Borrowing the Plantain Fan” 《三借芭蕉扇》</em>,
+staged by the Singapore Hokkien Huay Kuan Cultural Academy. The performance,
+adapted from one of the classic episodes of the renowned Chinese literary
+work <em>Journey to the West</em>, offered students a unique opportunity
+to experience the richness of traditional Chinese storytelling and stagecraft.</p>
+<p>Through this exposure, students deepened their appreciation for the Chinese
+language and culture. By witnessing the expressive use of language, characterisation,
+and cultural nuances in a live performance, students were able to connect
+their classroom learning with real-world cultural contexts.</p>
+<p>Peiying Primary School remains committed to nurturing bilingual and bicultural
+learners.</p>
+<h4>60th National Day</h4>
+<div class="iframe-wrapper">
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQIakqhP67qUVx4sYoikuyJz6WsIEZkCjbZHAfMOldLMHFm40AddL9-eumERgm00rTNMzGnwQ1NT3Mv/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>On 9 August 2025, Singapore celebrated our 60th National Day. This year’s
+theme, <em>“Majulah Singapura”</em> (Onward Singapore), echoed the title
+of our national anthem and served as both a reflection of our nation’s
+journey and a call to move forward together with unity and purpose.</p>
+<p>At Peiying Primary School, we commemorated this significant occasion through
+a series of engaging recess activities and a meaningful National Day Celebration.</p>
+<p>The celebration began with a ceremonial segment that included the raising
+of the national flag, the singing of the national anthem, and the recitation
+of the national pledge. These symbolic acts instilled a strong sense of
+identity and unity among our students, reminding them of their role as
+active citizens and their shared responsibility in shaping Singapore’s
+future.</p>
+<p>Following the ceremony, students were treated to spirited performances
+by our Performing Arts groups, a National Day presentation, videos, and
+a photo montage. These showcased key moments in Singapore’s history - from
+the challenges of separation to the successes of today - encouraging students
+to appreciate the resilience of our pioneers and the importance of continuing
+Singapore’s story with courage and determination.</p>
+<p>Through these activities, our students were reminded of the value of nationhood,
+the strength of community, and the pride of being Singaporean. The celebration
+served not only to honour our past but to inspire a collective vision for
+the future. <em>Majulah Singapura</em>!</p>
 <h4>Anti-Bullying Programme 2025 – ‘The Power of Kindness’</h4>
 <div class="iframe-wrapper">
 <iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS--1NUJZvmoQ9w_bPcxnxxiHFAxVNi7bus9OW8f2OmkiH26tb7v5--8-woBGY-Ng15QMFbhqtEvWpg/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
