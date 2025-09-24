@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/Main Page/WebsiteBanner2024_5_2.gif
       key_highlights:
-        - title: Voices of Peiying
+        - title: HBL 25 to 29 Sept 2025
           description: Click here for more info
-          url: /voices-of-peiying/
+          url: /partners/useful-forms-and-links/students/
         - title: Term 4 Check-In
           description: Click here for more info
           url: /termly-check-in-survey/
