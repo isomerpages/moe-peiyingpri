@@ -42,5 +42,5 @@ should feel safe in schools.</p>
 will be taken seriously and treated confidentially.</p>
 <p>For information on how MOE and schools manage bullying and hurtful behaviours,
 click on the following link:</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/news/edtalks/how-do-moe-and-schools-manage-bullying-and-hurtful-behaviours</a>
+<p><a href="https://www.moe.gov.sg/news/edtalks/how-do-moe-and-schools-manage-bullying-and-hurtful-behaviours" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/news/edtalks/how-do-moe-and-schools-manage-bullying-and-hurtful-behaviours</a>
 </p>
