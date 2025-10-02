@@ -41,7 +41,8 @@ variant: tiptap
 <p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Umar</p>
+<p>Mr Umar Sabri</p>
+<p>Ms Dewi Malmurni</p>
 </td>
 </tr>
 <tr>
