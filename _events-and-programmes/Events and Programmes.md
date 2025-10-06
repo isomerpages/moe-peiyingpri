@@ -5,6 +5,65 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
+<h4>From 'I Can't' to 'I Can't Yet': Peiying’s Transformative Learning Experience!</h4>
+<div class="iframe-wrapper">
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQTR8udK06KredZLcHIO8kLT3-dPj_q8pUCfeseZ-udWqqU986zpXgbngN7KBjEYUQIBm6_GqwwN8_-/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>Peiying Primary School is delighted to share our Term 4 Growth Mindset
+programme, conducted in class by our dedicated form teachers. Centred on
+the empowering theme “The Power of Yet,” the programme aims to nurture
+resilience and cultivate positive learning attitudes across all levels.</p>
+<p>The programme's learning objectives focused on helping students understand
+the power of "yet" as a fundamental component of Growth Mindset. Students
+learnt to recognise how incorporating "yet" into their vocabulary enables
+them to embrace challenges and view setbacks as valuable opportunities
+for learning and improvement. Through engaging and level-appropriate activities,
+the programme fostered a school-wide culture that celebrates Growth Mindset
+and progress for each student's learning journey.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Primary 1 and 2</strong> students explored the concept through
+a fun and meaningful <em>‘charades’</em> game, acting out things they could
+not do <em>yet</em>. This helped them connect personally with the idea in
+an enjoyable way.</p>
+</li>
+<li>
+<p><strong>Primary 3 and 4</strong> students participated in an interactive <em>‘Bingo’</em> game,
+where teachers introduced challenging learning scenarios students could
+relate to, encouraging reflection and discussion.</p>
+</li>
+<li>
+<p><strong>Primary 5 and 6</strong> students took on the collaborative <em>‘Human Knot’</em> activity,
+reinforcing the importance of teamwork, positive thinking, and tackling
+challenges together.</p>
+</li>
+</ul>
+<p>This programme has successfully demonstrated how grit, teamwork, and a
+positive attitude contribute to academic and personal success. More importantly,
+it lays the foundation for our students to become confident, resilient
+learners equipped for lifelong learning.</p>
+<h4>Teachers’ Day 2025</h4>
+<div class="iframe-wrapper">
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRRn6am8n_nFC5H4-2-HwF1yK2x6oHcwZ53gvSklCNwqidUTPB3UOk-oGbp-d7L7KV4CNNKY-i_HhOG/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>On 4 September 2025, our school celebrated Teachers’ Day with the inspiring
+theme “Creating Magic Every Moment”. Our teachers and staff are constantly
+attuned to the little things our students say and do. Each moment becomes
+an opportunity - to encourage, to inspire, to bring out the best in our
+students. Whether it is a kind word, a spark of curiosity ignited, or a
+quiet act of care, our teachers and staff create magic in everyday moments,
+transforming the ordinary into the extraordinary for our students.</p>
+<p>The day’s celebrations were both heartfelt and joyful. The concert programme
+featured an appreciation video and gratitude notes from parents, highlighting
+the deep impact our staff have made. A high-energy drumming performance
+by our talented Project Stars performers brought vibrance to the stage,
+followed by the morning’s highlight - a spectacular comedy circus show
+filled with dazzling acts that kept everyone captivated. In the classrooms,
+students added their personal touch to the celebration by writing appreciation
+notes to their teachers.</p>
+<p>It was a memorable and meaningful way to honour our teachers and staff,
+celebrate their efforts, and wrap up the term on a high note before a well-deserved
+holiday break.</p>
 <h4>Preventive Drug Education 2025 at Peiying Primary School</h4>
 <div class="iframe-wrapper">
 <iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTsuH-Eutq2XoEnl9UwpzWH8g6ZWj4F1ceG2x1eGJl62caAzt1hNy19-QVUBP2OHFC067Tkl-QJYm48/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
