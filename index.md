@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/Main Page/WebsiteBanner2024_5_2.gif
       key_highlights:
-        - title: HBL 25 to 29 Sept 2025
+        - title: Link to 2026 Head Prefect Nomination
           description: Click here for more info
-          url: /partners/useful-forms-and-links/students/
+          url: https://forms.moe.edu.sg/forms/oOkQVn
         - title: Term 4 Check-In
           description: Click here for more info
           url: /termly-check-in-survey/
