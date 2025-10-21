@@ -5,6 +5,37 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
+<h4>Children's Day Celebration 2025</h4>
+<div class="iframe-wrapper">
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSY38Jn8gBnGxXetekLvU7jTTzkovaS7pg37qExAijS0hz1AH5A4iYyy9UjsKt1bDfg30Xl4_nGc-WA/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>Peiying Primary School was thrilled to celebrate Children’s Day 2025 under
+the inspiring theme "PULSE – Play. Unleash. Learn. Showcase. Explore."
+The celebration was thoughtfully planned to offer meaningful, joyful, and
+engaging experiences for all our students, centred on creativity, collaboration,
+and holistic development.</p>
+<p>Our Lower Primary students Played their way through an exciting Games
+Day, participating in activities that encouraged teamwork, coordination,
+and physical engagement.</p>
+<p>Primary 3 pupils Unleashed their competitive spirit at a lively carnival
+featuring giant inflatables, such as live-size Jenga, country erasers games,
+as well as funfair stalls. These experiences promoted friendship, encouraging
+students to work together, support one another, and develop meaningful
+connections through the shared experiences and play.</p>
+<p>Across the levels, students had rich opportunities to Learn. Primary 3
+students explored creativity and design through the Prixel printmaking
+activity, while also engaging in critical thinking challenges with brain-teasing
+games organised by our supportive Parent Support Group. Meanwhile, Primary
+4 students honed their fine motor skills and artistic expression through
+intricate Metal Tooling activities.</p>
+<p>Our upper primary pupils Showcased their musical talents through performing
+arts experiences. Primary 5 students developed coordination and musical
+appreciation in Ukulele sessions, while Primary 6 students came together
+in a dynamic Drum Circle activity, building rhythm and group dynamics.</p>
+<p>Throughout the day, our students Explored new interests and skills in
+an environment that encouraged discovery, creativity, and joy. The celebration
+reflected our commitment to nurturing well-rounded learners where every
+child enjoys and is engaged in learning!</p>
 <h4>From 'I Can't' to 'I Can't Yet': Peiying’s Transformative Learning Experience!</h4>
 <div class="iframe-wrapper">
 <iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQTR8udK06KredZLcHIO8kLT3-dPj_q8pUCfeseZ-udWqqU986zpXgbngN7KBjEYUQIBm6_GqwwN8_-/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
