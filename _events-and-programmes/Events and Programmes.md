@@ -5,6 +5,25 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
+<h4>Peiying Primary School’s Primary 2 CCA Experience Day 2025</h4>
+<div class="iframe-wrapper">
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTpaMh5Asul8xvvSpvER904tz0r6_Uh8ks6053pw6pS8xXYdD66coinuMDlwQ6d6byeajVqEYOZwQUH/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>Our Primary 2 CCA Experience Day 2025 was an exciting and engaging event
+that introduced our students to the wide variety of Co-Curricular Activities
+(CCAs) offered at Peiying Primary School. Through hands-on experiences
+and engaging interactions, our young learners have the opportunity to explore
+their interests and discover new passions.</p>
+<p>Led by our confident and enthusiastic CCA Leaders, each booth showcased
+unique aspects of the CCAs through demonstrations, performances, and meaningful
+conversations. Our CCA Leaders shared their experiences and interacted
+warmly with their juniors, providing valuable insights into what it means
+to be part of each CCA.</p>
+<p>The event sparked excitement and curiosity, helping our Primary 2 students
+make informed choices as they look forward to joining a CCA next year.</p>
+<p>To find out more about our school’s CCA offerings and programmes, you
+may visit <strong><a rel="noopener noreferrer nofollow" target="_blank">https://www.peiyingpri.moe.edu.sg/events-and-programmes/cca/</a></strong>
+</p>
 <h4>Children's Day Celebration 2025</h4>
 <div class="iframe-wrapper">
 <iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSY38Jn8gBnGxXetekLvU7jTTzkovaS7pg37qExAijS0hz1AH5A4iYyy9UjsKt1bDfg30Xl4_nGc-WA/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
