@@ -5,6 +5,56 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
+<h4>Peiying Primary School’s Primary 2 CCA Experience Day 2025</h4>
+<div class="iframe-wrapper">
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTpaMh5Asul8xvvSpvER904tz0r6_Uh8ks6053pw6pS8xXYdD66coinuMDlwQ6d6byeajVqEYOZwQUH/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>Our Primary 2 CCA Experience Day 2025 was an exciting and engaging event
+that introduced our students to the wide variety of Co-Curricular Activities
+(CCAs) offered at Peiying Primary School. Through hands-on experiences
+and engaging interactions, our young learners have the opportunity to explore
+their interests and discover new passions.</p>
+<p>Led by our confident and enthusiastic CCA Leaders, each booth showcased
+unique aspects of the CCAs through demonstrations, performances, and meaningful
+conversations. Our CCA Leaders shared their experiences and interacted
+warmly with their juniors, providing valuable insights into what it means
+to be part of each CCA.</p>
+<p>The event sparked excitement and curiosity, helping our Primary 2 students
+make informed choices as they look forward to joining a CCA next year.</p>
+<p>To find out more about our school’s CCA offerings and programmes, you
+may visit <strong><a rel="noopener noreferrer nofollow" target="_blank">https://www.peiyingpri.moe.edu.sg/events-and-programmes/cca/</a></strong>
+</p>
+<h4>Children's Day Celebration 2025</h4>
+<div class="iframe-wrapper">
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSY38Jn8gBnGxXetekLvU7jTTzkovaS7pg37qExAijS0hz1AH5A4iYyy9UjsKt1bDfg30Xl4_nGc-WA/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>Peiying Primary School was thrilled to celebrate Children’s Day 2025 under
+the inspiring theme "PULSE – Play. Unleash. Learn. Showcase. Explore."
+The celebration was thoughtfully planned to offer meaningful, joyful, and
+engaging experiences for all our students, centred on creativity, collaboration,
+and holistic development.</p>
+<p>Our Lower Primary students Played their way through an exciting Games
+Day, participating in activities that encouraged teamwork, coordination,
+and physical engagement.</p>
+<p>Primary 3 pupils Unleashed their competitive spirit at a lively carnival
+featuring giant inflatables, such as live-size Jenga, country erasers games,
+as well as funfair stalls. These experiences promoted friendship, encouraging
+students to work together, support one another, and develop meaningful
+connections through the shared experiences and play.</p>
+<p>Across the levels, students had rich opportunities to Learn. Primary 3
+students explored creativity and design through the Prixel printmaking
+activity, while also engaging in critical thinking challenges with brain-teasing
+games organised by our supportive Parent Support Group. Meanwhile, Primary
+4 students honed their fine motor skills and artistic expression through
+intricate Metal Tooling activities.</p>
+<p>Our upper primary pupils Showcased their musical talents through performing
+arts experiences. Primary 5 students developed coordination and musical
+appreciation in Ukulele sessions, while Primary 6 students came together
+in a dynamic Drum Circle activity, building rhythm and group dynamics.</p>
+<p>Throughout the day, our students Explored new interests and skills in
+an environment that encouraged discovery, creativity, and joy. The celebration
+reflected our commitment to nurturing well-rounded learners where every
+child enjoys and is engaged in learning!</p>
 <h4>From 'I Can't' to 'I Can't Yet': Peiying’s Transformative Learning Experience!</h4>
 <div class="iframe-wrapper">
 <iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQTR8udK06KredZLcHIO8kLT3-dPj_q8pUCfeseZ-udWqqU986zpXgbngN7KBjEYUQIBm6_GqwwN8_-/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
