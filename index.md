@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/Main Page/WebsiteBanner2024_5_2.gif
       key_highlights:
-        - title: Link to 2026 Head Prefect Nomination
+        - title: Voices of Peiying
           description: Click here for more info
-          url: https://forms.moe.edu.sg/forms/oOkQVn
+          url: /voices-of-peiying/
         - title: Term 4 Check-In
           description: Click here for more info
           url: /termly-check-in-survey/
