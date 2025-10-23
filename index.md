@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/Main Page/WebsiteBanner2024_5_2.gif
       key_highlights:
-        - title: Link to 2026 Head Prefect Nomination
+        - title: Voices of Peiying
           description: Click here for more info
-          url: https://forms.moe.edu.sg/forms/oOkQVn
+          url: /voices-of-peiying/
         - title: Term 4 Check-In
           description: Click here for more info
           url: /termly-check-in-survey/
@@ -35,9 +35,9 @@ sections:
           announcement: Click here for more information
           link_text: Nominate now
           link_url: /caring-teacher-awards-2026/
-        - title: Voices of Peiying
-          date: 25 September 2025
-          announcement: Click here for more information
-          link_text: Voices of Peiying
-          link_url: /voices-of-peiying/
+        - title: P6 Career Day
+          date: 23 October 2025
+          announcement: Only for P6s; vote for your speaker
+          link_text: Vote now
+          link_url: https://forms.moe.edu.sg/forms/oZORPK
 ---
