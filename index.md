@@ -35,9 +35,4 @@ sections:
           announcement: Click here for more information
           link_text: Nominate now
           link_url: /caring-teacher-awards-2026/
-        - title: Voices of Peiying
-          date: 25 September 2025
-          announcement: Click here for more information
-          link_text: Voices of Peiying
-          link_url: /voices-of-peiying/
 ---
