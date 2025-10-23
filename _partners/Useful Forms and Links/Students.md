@@ -5,42 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Useful Forms and Links
 ---
-<h4>HBL 25 - 29 Sept 2025</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>25 Sept 2025</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><a href="/files/Useful Forms and Links/HBL_25_September_2025.pdf" rel="noopener nofollow" target="_blank">Please click here</a>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>26 Sept 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Useful Forms and Links/HBL_26_September_2025.pdf" rel="noopener nofollow" target="_blank">Please click here</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>29 Sept 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Useful Forms and Links/HBL_29_September_2025.pdf" rel="noopener nofollow" target="_blank">Please click here</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <h4>Termly Check-In</h4>
 <table style="minWidth: 50px">
 <colgroup>
