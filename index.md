@@ -35,9 +35,4 @@ sections:
           announcement: Click here for more information
           link_text: Nominate now
           link_url: /caring-teacher-awards-2026/
-        - title: P6 Career Day
-          date: 23 October 2025
-          announcement: Only for P6s; vote for your speaker
-          link_text: Vote now
-          link_url: https://forms.moe.edu.sg/forms/oZORPK
 ---
