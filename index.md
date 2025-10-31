@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/Main Page/WebsiteBanner2024_5_2.gif
       key_highlights:
-        - title: Voices of Peiying
+        - title: Keeping in Touch
           description: Click here for more info
-          url: /voices-of-peiying/
+          url: /partners/keeping-in-touch-newsletters/
         - title: Term 4 Check-In
           description: Click here for more info
           url: /termly-check-in-survey/
@@ -25,11 +25,6 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Keeping in Touch
-          date: 04 September 2025
-          announcement: Click here for more information
-          link_text: 4 Sept 2025 Keeping in Touch
-          link_url: /partners/keeping-in-touch-newsletters/
         - title: Caring Teacher Award
           date: 27 August 2025
           announcement: Click here for more information
