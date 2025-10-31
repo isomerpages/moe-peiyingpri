@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Acceptable Use Policy (AUP) for use of EdTech Resources.md
       - 2025 Termly Check in.md
       - Voices of Peiying.md
       - Useful Links.md
