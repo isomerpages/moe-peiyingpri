@@ -2,5 +2,5 @@ collections:
   students:
     output: true
     order:
-      - Students.md
+      - Useful Links.md
       - 2025 Termly Check in.md
