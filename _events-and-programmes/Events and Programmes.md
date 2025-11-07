@@ -5,6 +5,27 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
+<h4>Peiying Primary School Deepavali Celebration 2025 – “Lighting Up Lives with Kindness”</h4>
+<div class="iframe-wrapper">
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRvU7hMoei2QWlKfaSVj1UKKOepKGyqGAEET7fvJu3GPeAphqrzp-pH4vFkfUHuDaxo9jH_kNwFyjBT/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>Peiying Primary School joyfully celebrated Deepavali 2025 with the theme,
+“Lighting Up Lives with Kindness.” The celebration aimed to instil in students
+the values of kindness, graciousness, and respect for the diverse customs
+and cultural practices that enrich Singapore’s multicultural society.</p>
+<p>The event commenced with the symbolic lighting of the auspicious lamp
+by our school leaders, marking the triumph of light over darkness and the
+spreading of hope and goodness. Dancers then presented a semi-classical
+Indian dance titled, “Dance of Light” and an energetic “Beat of Bhangra”
+performance, expressing the vibrancy and joy of the festival.</p>
+<p>Across all levels, Primary 1 to 6 students engaged in meaningful classroom
+activities, including learning about the contributions of Singapore’s Indian
+pioneers and exploring traditional Indian art through creative colouring.</p>
+<p>The celebration also emphasised the kindness and joy of sharing with those
+in need, reminding everyone that the true spirit of Deepavali lies in brightening
+the lives of others through compassion and generosity. Our students demonstrated
+cultural awareness and active participation in fostering unity within the
+school community.</p>
 <h4>Peiying Primary School’s Primary 2 CCA Experience Day 2025</h4>
 <div class="iframe-wrapper">
 <iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTpaMh5Asul8xvvSpvER904tz0r6_Uh8ks6053pw6pS8xXYdD66coinuMDlwQ6d6byeajVqEYOZwQUH/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
