@@ -5,6 +5,30 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
+<h4>Student Leaders’ Appreciation &amp; Prefects’ Handover Ceremony 2025</h4>
+<div class="iframe-wrapper">
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTbyrh-tQlKxA0VOLn94a047_9bakiD-hSG7mmI55Bqur6BJJzlYjyrylRBYlKn1y1O_HDzhnJU06yM/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>At Peiying Primary School, leadership is more than a title - it is service
+in action. The Student Leaders’ Appreciation 2025 ceremony celebrated our
+young leaders who have modelled responsibility, care, and teamwork throughout
+the year.</p>
+<p>Outgoing Head Prefect, Xiao Zhitong, shared heartfelt reflections on her
+leadership journey, encouraging peers to lead with integrity and kindness.
+Angsana House Captain, Xu Lexuan Kaylee, spoke about teamwork and resilience,
+inspiring others to embrace unity and courage in their leadership roles.</p>
+<p>During the Prefect Handover segment, the 2026 Prefect Main Committee members
+were introduced. The outgoing 2025 Head Prefect presented a plaque to the
+incoming Main Committee to symbolise the handover of duties. As the Primary
+6 leaders passed the torch with pride, the Primary 5 leaders stepped forward
+with enthusiasm, ready to lead with purpose.</p>
+<p>The ceremony also recognised the contributions of Level 2 and 3 student
+leaders, whose daily acts of service exemplified responsibility and support
+for the school community. Across all roles, from ICT leaders to Prefects,
+every leader at Peiying has shown that leadership lives in everyday acts
+- helping, guiding, and enabling others to succeed. Together, they remind
+us that when we lead with care and conviction, we truly make a difference
+in our Peiying community.</p>
 <h4>Peiying Primary School Deepavali Celebration 2025 – “Lighting Up Lives with Kindness”</h4>
 <div class="iframe-wrapper">
 <iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRvU7hMoei2QWlKfaSVj1UKKOepKGyqGAEET7fvJu3GPeAphqrzp-pH4vFkfUHuDaxo9jH_kNwFyjBT/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
