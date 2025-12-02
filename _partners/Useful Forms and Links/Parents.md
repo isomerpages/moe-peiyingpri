@@ -8,7 +8,26 @@ variant: tiptap
 <h3><strong>Parents</strong></h3>
 <p></p>
 <h4>Briefing Slides for Parents (2025)</h4>
-<p>Primary 1 Orientation Slides <a href="/files/2025_Day_1_Parents_Engagement_2_Jan.pdf" rel="noopener nofollow" target="_blank">Click here to download</a>
+<p>Primary 1 Orientation Slides</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Useful Forms and Links/P1_Orientation_Slides_14_Nov_2025_fro_school_website_Part_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Part 1</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Useful Forms and Links/P1_Orientation_Slides_14_Nov_2025_fro_school_website_Part_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Part 2</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><a href="/files/Useful Forms and Links/P1_Orientation_Slides_14_Nov_2025_fro_school_website_Part_1.pdf" rel="noopener noreferrer nofollow" target="_blank"> </a>
 </p>
 <p>Primary 2 Parents Briefing Slides <a href="https://online.fliphtml5.com/cuxpm/vtpf/" rel="noopener nofollow" target="_blank">Click here to view</a>
 </p>
