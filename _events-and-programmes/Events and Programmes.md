@@ -5,6 +5,31 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
+<h4>Peiying Primary School Prize Presentation Day cum P6 Graduation 2025</h4>
+<div class="iframe-wrapper">
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vST47njKuDnwMRUbCmqK5tXOS2txzxRHt8Jo-krqnbE-rlfm-0_u9z5hey0Jpl-FVuokheYVD7YpdOl/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>Peiying Primary School commemorated its 2025 Prize Presentation Day cum
+P6 Graduation Ceremony with a meaningful and inspiring celebration themed <em>Shining with P.R.I.D.E.</em> The
+event recognised the holistic development of our students and celebrated
+how they have exemplified <strong><u>P</u></strong>erseverance, <strong><u>R</u></strong>espect, <strong><u>I</u></strong>ntegrity, <strong><u>D</u></strong>iligence,
+and <strong><u>E</u></strong>mpathy throughout their years at Peiying.</p>
+<p>The morning featured a thoughtfully curated programme that showcased the
+diverse talents and achievements of our students. Dynamic CCA performances
+and class dance items by the Primary 6 cohort added vibrancy and joy to
+the celebration, reflecting the confidence, creativity, and teamwork nurtured
+in our school environment. Award segments acknowledged students who demonstrated
+excellence in both academic and character domains, affirming their dedication,
+resilience, and commitment to growth.</p>
+<p>A defining moment of the ceremony was the Walk of Pride, where our Primary
+6 students took their symbolic final steps as Peiying pupils. This meaningful
+march represented not only their accomplishments, but also the friendships,
+memories, and values that will continue to guide them as they move forward
+in their educational journey.</p>
+<p><em>Shining with P.R.I.D.E.</em> stands as a tribute to every student’s
+effort and a reminder of the bright potential they carry. As our graduands
+step into the future, we are confident that they will continue to shine
+and uphold the <em>P.R.I.D.E</em> values wherever they go.</p>
 <h4>P1 Orientation for Incoming 2026 Students</h4>
 <div class="iframe-wrapper">
 <iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT1YHg4Cc0jkxVHezsd0_ucmKm-RtbUoxSaY1Vp03Ef_hdb5HjSXEnaqcXJZ4ZZMPYg8SzqinOa31Lw/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
