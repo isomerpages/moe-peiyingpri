@@ -5,6 +5,34 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
+<h4>P1 Orientation for Incoming 2026 Students</h4>
+<div class="iframe-wrapper">
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT1YHg4Cc0jkxVHezsd0_ucmKm-RtbUoxSaY1Vp03Ef_hdb5HjSXEnaqcXJZ4ZZMPYg8SzqinOa31Lw/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>Peiying Primary School was delighted to warmly welcome our incoming Primary
+1 students and their parents to our annual P1 Orientation Programme on
+14 November. The programme was thoughtfully designed to help our young
+learners get to know their new school environment, ensuring a smooth, confident,
+and joyful transition into primary school life.</p>
+<p>Our incoming Primary 1 students enjoyed a range of engaging class activities
+that introduced them to their new classrooms, teachers, and daily routines.
+These hands-on experiences helped them feel more at ease in their new surroundings
+and provided valuable opportunities to begin forming friendships with their
+school-mates.</p>
+<p>While the students were immersed in classroom activities, parents attended
+an informative session led by our School Leaders and Lower Primary Year
+Head. The presentations shared essential information on curriculum expectations,
+school policies, and practical ways families can support their child’s
+academic and social development at home.</p>
+<p>Throughout the orientation, our Student Leaders played an important role
+by assisting teachers, facilitating activities, and looking out for the
+well-being of the students. Their dedication reflected our school’s vision
+of nurturing leaders of character and caring citizens.</p>
+<p>Our Parent Support Group (PSG) also added to the warm atmosphere by hosting
+an information booth filled with helpful resources and opportunities for
+families to connect with the school community. Together, these efforts
+ensured that every family felt welcomed, supported, and well-prepared for
+the exciting learning journey ahead at Peiying Primary School.</p>
 <h4>Student Leaders’ Appreciation &amp; Prefects’ Handover Ceremony 2025</h4>
 <div class="iframe-wrapper">
 <iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTbyrh-tQlKxA0VOLn94a047_9bakiD-hSG7mmI55Bqur6BJJzlYjyrylRBYlKn1y1O_HDzhnJU06yM/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
