@@ -465,11 +465,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>High Ability Learners</strong>
+<p><strong>High Ability Learners (Int)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Lee Pei Yu</p>
+<p><a href="mailto:lee_pei_yu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_pei_yu@schools.gov.sg</a> 
+</p>
 </td>
 </tr>
 </tbody>
