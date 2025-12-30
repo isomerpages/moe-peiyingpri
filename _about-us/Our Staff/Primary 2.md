@@ -128,10 +128,14 @@ variant: tiptap
 <p>2 Wisdom</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Ten Li Hui Jacqueline</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">ten_li_hui_jacqueline@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Jayce Mok</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">Kok_Pao_Yen_Jayce@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
