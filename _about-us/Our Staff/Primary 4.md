@@ -54,10 +54,14 @@ variant: tiptap
 <p>4 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Asyaari</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">nur_faiszah_ishak@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Hassan Mohamed S/O Mohamed Ghani</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">m_hassan_mohamed@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -68,10 +72,14 @@ variant: tiptap
 <p>4 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Muhammad Hanafie Bin Hallil</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">muhammad_hanafie_hallil@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Vanitha d/o Paneerselvam</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">vanitha_paneerselvam@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -82,10 +90,14 @@ variant: tiptap
 <p>4 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Dr Chin Yoke Mui</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">chin_yoke_mui@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Cyril Matthew Philix</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">cyril_matthew_philix@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -96,10 +108,14 @@ variant: tiptap
 <p>4 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Alahappan s/o Meyyappan</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">alahappan_meyyappan@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Tiang, Tan Liew Siang Veronica</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">tan_liew_siang_veronica@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
