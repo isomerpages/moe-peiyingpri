@@ -87,20 +87,21 @@ variant: tiptap
 <p>1 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Brenda Tan Yan Ni</p>
-<p><a href="mailto:brenda_tan_yan_ni@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">brenda_tan_yan_ni@schools.gov.sg</a>
+<p>Mrs Chan Khai Hong</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">ho_wee_kung@schools.gov.sg</a>
 </p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chen Ying</p>
-<p><a href="mailto:chen_ying_e@schools.gov" rel="noopener noreferrer nofollow" target="_blank">chen_ying_e@schools.gov.sg</a>
+<p>Ms Rajeswari</p>
+<p><a href="mailto:Rajeswari_Bejoyan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Rajeswari_Bejoyan@schools.gov.sg</a>
 </p>
-<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Rubaidah</p>
+<p><a href="mailto:Rubaidah_Mohd_Salleh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Rubaidah_Mohd_Salleh@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
