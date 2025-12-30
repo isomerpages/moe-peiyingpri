@@ -231,7 +231,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Information and Communication Technology</strong>
+<p><strong>Information and Communication Technology (Int)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -461,6 +461,15 @@ variant: tiptap
 <br><a href="mailto:ang_yen_qing_joyce@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_yen_qing_joyce@schools.gov.sg</a>
 <br>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>High Ability Learners</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
