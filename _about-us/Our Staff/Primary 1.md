@@ -41,17 +41,19 @@ variant: tiptap
 <p>1 Perseverance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Linda Prem</p>
-<p><a href="mailto:linda_gratia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">linda_gratia@schools.gov.sg</a>
+<p>Mrs Mala Balasupramaniyam</p>
+<p><a href="mailto:mala_balasupramaniyam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mala_balasupramaniyam@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Seline Chen</p>
-<p><a href="mailto:chen_peiyu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_peiyu@schools.gov.sg</a>
+<p>Mrs Jane Ang</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">jane_ang_b@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Daisy Leela</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">daisy_leela_r_ramasamy@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -62,18 +64,19 @@ variant: tiptap
 <p>1 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Thilagam</p>
-<p><a href="mailto:Thilagam_Ramalingam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Thilagam_Ramalingam@schools.gov.sg</a>
-</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Pamela Lee</p>
-<p><a href="mailto:lee_qian_ni_pamela@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_qian_ni_pamela@schools.gov.sg</a>
+<p>Ms Yang Ge</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">Yang_Ge@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Roslindah Bte Buang Sidik</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">roslindah_buang_sidik@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs June Lau</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">chew_koo_hui@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
