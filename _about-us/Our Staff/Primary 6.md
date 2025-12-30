@@ -103,7 +103,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Low Hui Li</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">low_hui_li@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
