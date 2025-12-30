@@ -24,6 +24,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Subject Head (Int)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jacqueline Ten</p>
+<p><a href="mailto:ten_li_hui_jacqueline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ten_li_hui_jacqueline@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>ICT Manager</strong>
 </p>
 </td>
