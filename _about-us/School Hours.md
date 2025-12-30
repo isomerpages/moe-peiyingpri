@@ -4,7 +4,7 @@ permalink: /school-hours/
 variant: tiptap
 description: ""
 ---
-<h4><strong>School Hours 2025</strong></h4>
+<h4><strong>School Hours 2026</strong></h4>
 <p>In 2025, students will be dismissed at&nbsp;<strong>1.00pm on Wed</strong>&nbsp;and
 at&nbsp;<strong>1.30pm on four days (Mon, Tue, Thur &amp; Fri)</strong>.
 School will start at the usual time at 7.30am daily.</p>
@@ -112,7 +112,7 @@ School will start at the usual time at 7.30am daily.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Monday to Friday</p>
-<p>(No snack break for P3 &amp; P4 on Tue as lunch time is at 12 pm)</p>
+<p>(No snack break for P3, P4 and P5 on Tues)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>11.45 am to 12.00 pm</p>
@@ -124,7 +124,7 @@ School will start at the usual time at 7.30am daily.</p>
 <p>(within timetable)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Primary 3 &amp; 4</p>
+<p>Primary 3, 4 &amp; 5</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Tuesday</p>
@@ -135,7 +135,7 @@ School will start at the usual time at 7.30am daily.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 5 &amp; 6</p>
+<p>Primary 6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1.00 pm to 1.30 pm*</p>
