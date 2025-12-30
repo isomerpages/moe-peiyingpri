@@ -209,12 +209,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Character and Citizenship Education</strong>
+<p><strong>Character and Citizenship Education (Int)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Athena Wee
-<br><a href="mailto:athena_wee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">athena_wee@schools.gov.sg</a>
+<p>Mdm Nurul Natasha</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">nurul_natasha_muhd_farhan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -318,8 +318,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Poh Mei Cheng
-<br><a href="mailto:poh_mei_cheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">poh_mei_cheng@schools.gov.sg</a>
+<p>Mrs Jennifer Fan</p>
+<p><a href="mailto:Fan_Lee_Bee_Yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Fan_Lee_Bee_Yen@schools.gov.sg</a> 
 </p>
 </td>
 </tr>
@@ -387,8 +387,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Jennifer Fan
-<br><a href="mailto:fan_lee_bee_yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fan_lee_bee_yen@schools.gov.sg</a>
+<p>Mr Soh Chung Wei</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">soh_chung_wei@schools.gov.sg</a>
 </p>
 </td>
 </tr>
