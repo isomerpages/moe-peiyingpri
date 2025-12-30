@@ -25,12 +25,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head</strong>
+<p><strong>Subject Head (Int)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Athena Wee
-<br><a href="mailto:athena_wee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">athena_wee@schools.gov.sg</a>
+<p>Mdm Nurul Natasha</p>
+<p><a href="mailto:Nurul_natasha_MUHD_FARHAN@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nurul_natasha_MUHD_FARHAN@schools.gov.sg</a>
 </p>
 </td>
 </tr>
