@@ -112,16 +112,14 @@ variant: tiptap
 <p>1 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Gaayathri K Chandra</p>
-<p><a href="mailto:gaayathri_k_chandra@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gaayathri_k_chandra@schools.gov.sg</a>
+<p>Mdm Nurhazrida Bte Mohamed Shafri</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">nurhazrida_mohamed_shafri@schools.gov.sg</a>
 </p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Hee Chuan Min</p>
-<p><a href="mailto:hee_chuan_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hee_chuan_min@schools.gov.sg</a>
+<p>Ms Lim See Voon</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">lim_see_voon@schools.gov.sg</a>
 </p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -135,17 +133,16 @@ variant: tiptap
 <p>1 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Soh Mun Leng</p>
-<p><a href="mailto:soh_mun_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">soh_mun_leng@schools.gov.sg</a>
+<p>Ms Grace Tan Meng Choo</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">tan_meng_choo_A@schools.gov.sg</a>
 </p>
 <p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Kalsa Ross</p>
-<p><a href="mailto:kalsa_kolankodu_ross_nair@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kalsa_kolankodu_ross_nair@schools.gov.sg</a>
+<p>Mdm Nurul Natasha</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">nurul_natasha_muhd_farhan@schools.gov.sg</a>
 </p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -159,21 +156,42 @@ variant: tiptap
 <p>1 Wisdom</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs June Lau</p>
-<p><a href="mailto:chew_koo_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_koo_hui@schools.gov.sg</a>
+<p>Ms Soo Thoo Kai Jia</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">soo_thoo_kai_jia@schools.gov.sg</a>
 </p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Jayce Mok</p>
-<p><a href="mailto:Kok_Pao_Yen_Jayce@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Kok_Pao_Yen_Jayce@schools.gov.sg</a>
+<p>Mdm Yong Fook Lui</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">yong_fook_lui@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Rita Gupta Abdullah</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">rita_gupta_k_prasad@schools.gov.sg</a>
 </p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Daisy Leela</p>
-<p><a href="mailto:daisy_leela_r_ramasamy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">daisy_leela_r_ramasamy@schools.gov.sg</a>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Courage</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Koo Yingjia</p>
+<p><a href="mailto:koo_yingjia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koo_yingjia@schools.gov.sg</a>
 </p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Soh Mun Leng</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">soh_mun_leng@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
