@@ -41,18 +41,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Student Welfare Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Jonathan Fong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Fong_Yu_Min_Jonathan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Fong_Yu_Min_Jonathan@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Lead SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
