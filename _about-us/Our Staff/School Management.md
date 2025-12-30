@@ -231,6 +231,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Information and Communication Technology</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ten Li Hui Jacqueline</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">ten_li_hui_jacqueline@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
