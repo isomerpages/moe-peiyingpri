@@ -183,7 +183,8 @@ variant: tiptap
 <p>Ms Brenda Goh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Goh_Puoy_Choo_Brenda_B@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Goh_Puoy_Choo_Brenda_B@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
