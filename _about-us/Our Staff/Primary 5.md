@@ -38,16 +38,14 @@ variant: tiptap
 <p>5 Perseverance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Pei Yu</p>
-<p><a href="mailto:lee_pei_yu_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_pei_yu_a@schools.gov.sg</a>
+<p>Mr Noor Hendra Shahril Bin Supa'at</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">noor_hendra_shahril_supaat@schools.gov.sg</a>
 </p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Chin Yoke Mui</p>
-<p><a href="mailto:chin_yoke_mui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chin_yoke_mui@schools.gov.sg</a>
+<p>Mrs Neo, Sim Ya'en Avery Rhoda</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">sim_yaen_avery_rhoda@schools.gov.sg</a>
 </p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -58,13 +56,13 @@ variant: tiptap
 <p>5 Respect/Wisdom</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Rosnizam</p>
-<p><a href="mailto:muhammad_rosnizam_b_umar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_rosnizam_b_umar@schools.gov.sg</a>
+<p>Mr Dinoalfian B Abdul Rashid</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">dinoalfian_b_abdul_rashid@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ting Shu Han</p>
-<p><a href="mailto:ting_shu_han@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ting_shu_han@schools.gov.sg</a>
+<p>Mr Mohammed Faizal Bin Isa</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">mohammed_faizal_isa@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -77,16 +75,14 @@ variant: tiptap
 <p>5 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Hui Wing Yan, Yvonne</p>
-<p><a href="mailto:hui_wing_yan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hui_wing_yan@schools.gov.sg</a>
+<p>Mdm Farhanah Binte Borhan</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">farhanah_borhan@schools.gov.sg</a>
 </p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Wee Shu Yun, Athena</p>
-<p><a href="mailto:Athena_Wee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Athena_Wee@schools.gov.sg</a>
+<p>Mr Jim Yong Chian Fei</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">yong_chian_fei@schools.gov.sg</a>
 </p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -97,20 +93,16 @@ variant: tiptap
 <p>5 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Thong Siong Chee</p>
-<p><a href="mailto:thong_siong_chee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">thong_siong_chee@schools.gov.sg</a>
-</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Soh Chung Wei</p>
-<p><a href="mailto:soh_chung_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">soh_chung_wei@schools.gov.sg</a>
+<p>Mdm Toh Yee Kheng</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">toh_yee_kheng@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Low Hui Li</p>
-<p><a href="mailto:low_hui_li@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_hui_li@schools.gov.sg</a>
+<p>Mr Muhammad Reduan Bin Yahaya</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">muhammad_reduan_yahaya@schools.gov.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -119,16 +111,14 @@ variant: tiptap
 <p>5 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Poi Mei Ping Sharon</p>
-<p><a href="mailto:poi_mei_ping_sharon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">poi_mei_ping_sharon@schools.gov.sg</a>
+<p>Mr James Clifton Alexis</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">james_clifton_alexis@schools.gov.sg</a>
 </p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Manomani d/o Shunmuga Sundaram</p>
-<p><a href="mailto:manomani_shunmuga_sundaram@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">manomani_shunmuga_sundaram@schools.gov.sg</a>
+<p>Ms Or Mary</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">or_mary@schools.gov.sg</a>
 </p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -141,19 +131,14 @@ variant: tiptap
 <p>5 Courage</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Darren Yeo Jun Jie</p>
-<p><a href="mailto:Darren_YEO_JUN_JIE@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Darren_YEO_JUN_JIE@schools.gov.sg</a>
+<p>Ms Tan Shin Yuen Michelle</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">tan_shin_yuen@schools.gov.sg</a>
 </p>
-<p></p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Teo, Ng Gek Yin Theresa</p>
-<p><a href="mailto:Theresa_Ng_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Theresa_Ng_A@schools.gov.sg</a>
+<p>Mr Soh Chung Wei</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">soh_chung_wei@schools.gov.sg</a>
 </p>
-<p></p>
-<p></p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
