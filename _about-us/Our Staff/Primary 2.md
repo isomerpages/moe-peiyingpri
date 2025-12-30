@@ -92,10 +92,14 @@ variant: tiptap
 <p>2 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Gaayathri K Chandra</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">gaayathri_k_chandra@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Foo, Yang Xiaojing</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">yang_xiaojing@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -106,10 +110,14 @@ variant: tiptap
 <p>2 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Kalsa Ross</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">kalsa_kolankodu_ross_nair@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Shafie</p>
+<p><a href="mailto:Shafie_Hussein@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Shafie_Hussein@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
