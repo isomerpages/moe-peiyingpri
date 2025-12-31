@@ -1,5 +1,5 @@
 ---
-title: 2025 Termly Check in
+title: 2026 Termly Check in
 permalink: /termly-check-in-survey/
 variant: tiptap
 description: ""

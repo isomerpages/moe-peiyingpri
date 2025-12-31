@@ -145,19 +145,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Toh Ling Juan</p>
+<p>Ms Hong Meirong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:toh_ling_juan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_ling_juan@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Shih Xiu Rong</p>
+<p>Ms Seline Chen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:shih_xiu_rong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shih_xiu_rong@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">chen_peiyu@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -172,19 +171,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chen Ying</p>
+<p>Ms Yang Ge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chen_ying_e@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_ying_e@schools.gov.sg</a>
+<p><a href="mailto:yang_ge@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yang_ge@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Yang Ge</p>
+<p>Ms Brenda Goh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yang_ge@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yang_ge@schools.gov.sg</a>
+<p><a href="mailto:Goh_Puoy_Choo_Brenda_B@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Goh_Puoy_Choo_Brenda_B@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -216,10 +215,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Hidayah</p>
+<p>Mr Shafie Hussein</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_hidayah_abdul_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_hidayah_abdul_rahman@schools.gov.sg</a>
+<p><a href="mailto:Shafie_Hussein@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Shafie_Hussein@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -252,10 +251,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nurhafeza Hanem</p>
+<p>Ms Rubaidah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nurhafeza_hanem_abdul_azal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurhafeza_hanem_abdul_azal@schools.gov.sg</a>
+<p><a href="mailto:Rubaidah_Mohd_Salleh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Rubaidah_Mohd_Salleh@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Waheeda</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Nur_Waheeda_Zulkiflee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nur_Waheeda_Zulkiflee@schools.gov.sg</a>
 </p>
 </td>
 </tr>

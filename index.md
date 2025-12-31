@@ -12,9 +12,9 @@ sections:
         - title: Keeping in Touch
           description: Click here for more info
           url: /partners/keeping-in-touch-newsletters/
-        - title: Caring Teacher Awards
+        - title: Termly Check-In
           description: Click here for more info
-          url: /caring-teacher-awards-2026/
+          url: /termly-check-in-survey/
         - title: Facebook
           description: Peiying Primary Facebook Page
           url: https://www.facebook.com/peiyingpri

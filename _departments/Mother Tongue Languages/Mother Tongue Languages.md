@@ -25,12 +25,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Level Head/Chinese Language</strong>
+<p><strong>Level Head/Chinese Language (Int)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Soh Chung Wei
-<br><a href="mailto:soh_chung_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">soh_chung_wei@schools.gov.sg</a>
+<p>Mdm Toh Yee Kheng</p>
+<p><a href="mailto:toh_yee_kheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_yee_kheng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
