@@ -470,7 +470,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lee Pei Yu</p>
-<p><a href="mailto:lee_pei_yu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_pei_yu@schools.gov.sg</a> 
+<p><a href="mailto:lee_pei_yu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_pei_yu_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
