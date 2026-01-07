@@ -4,7 +4,7 @@ permalink: /about-us/principals-message/
 description: ""
 variant: markdown
 ---
-## Principal's Message 2025
+## Principal's Message
 
 
 Established in 1919, Peiying Primary School stands as a beacon of educational heritage in the Yishun estate. Our name, 'Pei Ying', embodies our century-long mission of nurturing citizens for nation building. As we honour our rich history, we also lead the way in innovative education, through our distinctive programmes and robust character development initiatives.
