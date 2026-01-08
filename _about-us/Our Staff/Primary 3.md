@@ -6,7 +6,7 @@ third_nav_title: Our Staff
 variant: tiptap
 ---
 <h3><strong>Primary 3</strong></h3>
-<p><strong>Year Head: Mrs Jennifer Fan</strong>
+<p><strong>Assistant Year Head: Mrs Jennifer Fan</strong>
 </p>
 <p><em>Please allow teachers up to 3 days to reply to your email queries.</em>&nbsp;
 <br><em>For urgent matters, please contact the teacher through the General Office at 62575684.</em>
