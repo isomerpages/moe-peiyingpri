@@ -8,6 +8,8 @@ variant: tiptap
 <h3><strong>Primary 6</strong></h3>
 <p><strong>Year Head:</strong>&nbsp;<strong>Mr Eric Chia</strong>
 </p>
+<p><strong>Assistant Year Head: Mr Soh Chung Wei</strong>
+</p>
 <p><em>Please allow teachers up to 3 days to reply to your email queries.</em>&nbsp;
 <br><em>For urgent matters, please contact the teacher through the General Office at 62575684.</em>
 </p>
@@ -44,7 +46,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Darren Yeo Jun Jie</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">Darren_YEO_JUN_JIE@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">darren_yeo_jun_jie@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
