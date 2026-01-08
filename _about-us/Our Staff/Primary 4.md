@@ -43,6 +43,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Hong Meirong</p>
+<p><a href="mailto:hong_mei_rong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hong_mei_rong@schools.gov.sg</a>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
