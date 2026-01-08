@@ -314,7 +314,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Lower Primary (Primary 1 and 2)</strong>
+<p><strong>Lower Primary</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -325,18 +325,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Middle Primary (Primary 3 and 4)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Jennifer Fan</p>
-<p><a href="mailto:Fan_Lee_Bee_Yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Fan_Lee_Bee_Yen@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Upper Primary (Primary 5 and 6)</strong>
+<p><strong>Upper Primary</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -372,7 +361,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Middle Primary (Primary 3 and 4)</strong>
+<p><strong>Primary 3</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -383,7 +372,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Upper Primary (Primary 5 and 6)</strong>
+<p><strong>Primary 4</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Jennifer Fan</p>
+<p><a href="mailto:fan_lee_bee_yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fan_lee_bee_yen@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Primary 5 </strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
