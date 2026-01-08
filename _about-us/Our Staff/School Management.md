@@ -383,7 +383,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Primary 5 </strong>
+<p><strong>Primary 5</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -510,6 +510,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr R Sharvin Ganesh
 <br><a href="mailto:lee_hui_chern@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">r_sharvin_ganesh@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ICT Manager</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Noormalah Rabu</p>
+<p><a href="mailto:noormalah_rabu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">noormalah_rabu@schools.gov.sg</a>
 </p>
 </td>
 </tr>
