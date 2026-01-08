@@ -1082,190 +1082,21 @@ Day 1 marked a promising start to this journey.</p>
 </div>
 </details>
 </div>
-<div class="iframe-wrapper">
-<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vST47njKuDnwMRUbCmqK5tXOS2txzxRHt8Jo-krqnbE-rlfm-0_u9z5hey0Jpl-FVuokheYVD7YpdOl/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
-<p>Peiying Primary School commemorated its 2025 Prize Presentation Day cum
-P6 Graduation Ceremony with a meaningful and inspiring celebration themed <em>Shining with P.R.I.D.E.</em> The
-event recognised the holistic development of our students and celebrated
-how they have exemplified <strong><u>P</u></strong>erseverance, <strong><u>R</u></strong>espect, <strong><u>I</u></strong>ntegrity, <strong><u>D</u></strong>iligence,
-and <strong><u>E</u></strong>mpathy throughout their years at Peiying.</p>
-<p>The morning featured a thoughtfully curated programme that showcased the
-diverse talents and achievements of our students. Dynamic CCA performances
-and class dance items by the Primary 6 cohort added vibrancy and joy to
-the celebration, reflecting the confidence, creativity, and teamwork nurtured
-in our school environment. Award segments acknowledged students who demonstrated
-excellence in both academic and character domains, affirming their dedication,
-resilience, and commitment to growth.</p>
-<p>A defining moment of the ceremony was the Walk of Pride, where our Primary
-6 students took their symbolic final steps as Peiying pupils. This meaningful
-march represented not only their accomplishments, but also the friendships,
-memories, and values that will continue to guide them as they move forward
-in their educational journey.</p>
-<p><em>Shining with P.R.I.D.E.</em> stands as a tribute to every student’s
-effort and a reminder of the bright potential they carry. As our graduands
-step into the future, we are confident that they will continue to shine
-and uphold the <em>P.R.I.D.E</em> values wherever they go.</p>
-<h4>P1 Orientation for Incoming 2026 Students</h4>
-<div class="iframe-wrapper">
-<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT1YHg4Cc0jkxVHezsd0_ucmKm-RtbUoxSaY1Vp03Ef_hdb5HjSXEnaqcXJZ4ZZMPYg8SzqinOa31Lw/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
-<p>Peiying Primary School was delighted to warmly welcome our incoming Primary
-1 students and their parents to our annual P1 Orientation Programme on
-14 November. The programme was thoughtfully designed to help our young
-learners get to know their new school environment, ensuring a smooth, confident,
-and joyful transition into primary school life.</p>
-<p>Our incoming Primary 1 students enjoyed a range of engaging class activities
-that introduced them to their new classrooms, teachers, and daily routines.
-These hands-on experiences helped them feel more at ease in their new surroundings
-and provided valuable opportunities to begin forming friendships with their
-school-mates.</p>
-<p>While the students were immersed in classroom activities, parents attended
-an informative session led by our School Leaders and Lower Primary Year
-Head. The presentations shared essential information on curriculum expectations,
-school policies, and practical ways families can support their child’s
-academic and social development at home.</p>
-<p>Throughout the orientation, our Student Leaders played an important role
-by assisting teachers, facilitating activities, and looking out for the
-well-being of the students. Their dedication reflected our school’s vision
-of nurturing leaders of character and caring citizens.</p>
-<p>Our Parent Support Group (PSG) also added to the warm atmosphere by hosting
-an information booth filled with helpful resources and opportunities for
-families to connect with the school community. Together, these efforts
-ensured that every family felt welcomed, supported, and well-prepared for
-the exciting learning journey ahead at Peiying Primary School.</p>
-<h4>Student Leaders’ Appreciation &amp; Prefects’ Handover Ceremony 2025</h4>
-<div class="iframe-wrapper">
-<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTbyrh-tQlKxA0VOLn94a047_9bakiD-hSG7mmI55Bqur6BJJzlYjyrylRBYlKn1y1O_HDzhnJU06yM/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
-<p>At Peiying Primary School, leadership is more than a title - it is service
-in action. The Student Leaders’ Appreciation 2025 ceremony celebrated our
-young leaders who have modelled responsibility, care, and teamwork throughout
-the year.</p>
-<p>Outgoing Head Prefect, Xiao Zhitong, shared heartfelt reflections on her
-leadership journey, encouraging peers to lead with integrity and kindness.
-Angsana House Captain, Xu Lexuan Kaylee, spoke about teamwork and resilience,
-inspiring others to embrace unity and courage in their leadership roles.</p>
-<p>During the Prefect Handover segment, the 2026 Prefect Main Committee members
-were introduced. The outgoing 2025 Head Prefect presented a plaque to the
-incoming Main Committee to symbolise the handover of duties. As the Primary
-6 leaders passed the torch with pride, the Primary 5 leaders stepped forward
-with enthusiasm, ready to lead with purpose.</p>
-<p>The ceremony also recognised the contributions of Level 2 and 3 student
-leaders, whose daily acts of service exemplified responsibility and support
-for the school community. Across all roles, from ICT leaders to Prefects,
-every leader at Peiying has shown that leadership lives in everyday acts
-- helping, guiding, and enabling others to succeed. Together, they remind
-us that when we lead with care and conviction, we truly make a difference
-in our Peiying community.</p>
-<h4>Peiying Primary School Deepavali Celebration 2025 – “Lighting Up Lives with Kindness”</h4>
-<div class="iframe-wrapper">
-<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRvU7hMoei2QWlKfaSVj1UKKOepKGyqGAEET7fvJu3GPeAphqrzp-pH4vFkfUHuDaxo9jH_kNwFyjBT/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
-<p>Peiying Primary School joyfully celebrated Deepavali 2025 with the theme,
-“Lighting Up Lives with Kindness.” The celebration aimed to instil in students
-the values of kindness, graciousness, and respect for the diverse customs
-and cultural practices that enrich Singapore’s multicultural society.</p>
-<p>The event commenced with the symbolic lighting of the auspicious lamp
-by our school leaders, marking the triumph of light over darkness and the
-spreading of hope and goodness. Dancers then presented a semi-classical
-Indian dance titled, “Dance of Light” and an energetic “Beat of Bhangra”
-performance, expressing the vibrancy and joy of the festival.</p>
-<p>Across all levels, Primary 1 to 6 students engaged in meaningful classroom
-activities, including learning about the contributions of Singapore’s Indian
-pioneers and exploring traditional Indian art through creative colouring.</p>
-<p>The celebration also emphasised the kindness and joy of sharing with those
-in need, reminding everyone that the true spirit of Deepavali lies in brightening
-the lives of others through compassion and generosity. Our students demonstrated
-cultural awareness and active participation in fostering unity within the
-school community.</p>
-<h4>Peiying Primary School’s Primary 2 CCA Experience Day 2025</h4>
-<div class="iframe-wrapper">
-<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTpaMh5Asul8xvvSpvER904tz0r6_Uh8ks6053pw6pS8xXYdD66coinuMDlwQ6d6byeajVqEYOZwQUH/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
-<p>Our Primary 2 CCA Experience Day 2025 was an exciting and engaging event
-that introduced our students to the wide variety of Co-Curricular Activities
-(CCAs) offered at Peiying Primary School. Through hands-on experiences
-and engaging interactions, our young learners have the opportunity to explore
-their interests and discover new passions.</p>
-<p>Led by our confident and enthusiastic CCA Leaders, each booth showcased
-unique aspects of the CCAs through demonstrations, performances, and meaningful
-conversations. Our CCA Leaders shared their experiences and interacted
-warmly with their juniors, providing valuable insights into what it means
-to be part of each CCA.</p>
-<p>The event sparked excitement and curiosity, helping our Primary 2 students
-make informed choices as they look forward to joining a CCA next year.</p>
-<p>To find out more about our school’s CCA offerings and programmes, you
-may visit <strong><a rel="noopener noreferrer nofollow" target="_blank">https://www.peiyingpri.moe.edu.sg/events-and-programmes/cca/</a></strong>
-</p>
-<h4>Children's Day Celebration 2025</h4>
-<div class="iframe-wrapper">
-<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSY38Jn8gBnGxXetekLvU7jTTzkovaS7pg37qExAijS0hz1AH5A4iYyy9UjsKt1bDfg30Xl4_nGc-WA/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
-<p>Peiying Primary School was thrilled to celebrate Children’s Day 2025 under
-the inspiring theme "PULSE – Play. Unleash. Learn. Showcase. Explore."
-The celebration was thoughtfully planned to offer meaningful, joyful, and
-engaging experiences for all our students, centred on creativity, collaboration,
-and holistic development.</p>
-<p>Our Lower Primary students Played their way through an exciting Games
-Day, participating in activities that encouraged teamwork, coordination,
-and physical engagement.</p>
-<p>Primary 3 pupils Unleashed their competitive spirit at a lively carnival
-featuring giant inflatables, such as live-size Jenga, country erasers games,
-as well as funfair stalls. These experiences promoted friendship, encouraging
-students to work together, support one another, and develop meaningful
-connections through the shared experiences and play.</p>
-<p>Across the levels, students had rich opportunities to Learn. Primary 3
-students explored creativity and design through the Prixel printmaking
-activity, while also engaging in critical thinking challenges with brain-teasing
-games organised by our supportive Parent Support Group. Meanwhile, Primary
-4 students honed their fine motor skills and artistic expression through
-intricate Metal Tooling activities.</p>
-<p>Our upper primary pupils Showcased their musical talents through performing
-arts experiences. Primary 5 students developed coordination and musical
-appreciation in Ukulele sessions, while Primary 6 students came together
-in a dynamic Drum Circle activity, building rhythm and group dynamics.</p>
-<p>Throughout the day, our students Explored new interests and skills in
-an environment that encouraged discovery, creativity, and joy. The celebration
-reflected our commitment to nurturing well-rounded learners where every
-child enjoys and is engaged in learning!</p>
-<h4>From 'I Can't' to 'I Can't Yet': Peiying’s Transformative Learning Experience!</h4>
-<div class="iframe-wrapper">
-<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQTR8udK06KredZLcHIO8kLT3-dPj_q8pUCfeseZ-udWqqU986zpXgbngN7KBjEYUQIBm6_GqwwN8_-/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
-<p>Peiying Primary School is delighted to share our Term 4 Growth Mindset
-programme, conducted in class by our dedicated form teachers. Centred on
-the empowering theme “The Power of Yet,” the programme aims to nurture
-resilience and cultivate positive learning attitudes across all levels.</p>
-<p>The programme's learning objectives focused on helping students understand
-the power of "yet" as a fundamental component of Growth Mindset. Students
-learnt to recognise how incorporating "yet" into their vocabulary enables
-them to embrace challenges and view setbacks as valuable opportunities
-for learning and improvement. Through engaging and level-appropriate activities,
-the programme fostered a school-wide culture that celebrates Growth Mindset
-and progress for each student's learning journey.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Primary 1 and 2</strong> students explored the concept through
-a fun and meaningful <em>‘charades’</em> game, acting out things they could
-not do <em>yet</em>. This helped them connect personally with the idea in
-an enjoyable way.</p>
-</li>
-<li>
-<p><strong>Primary 3 and 4</strong> students participated in an interactive <em>‘Bingo’</em> game,
-where teachers introduced challenging learning scenarios students could
-relate to, encouraging reflection and discussion.</p>
-</li>
-<li>
-<p><strong>Primary 5 and 6</strong> students took on the collaborative <em>‘Human Knot’</em> activity,
-reinforcing the importance of teamwork, positive thinking, and tackling
-challenges together.</p>
-</li>
-</ul>
-<p>This programme has successfully demonstrated how grit, teamwork, and a
-positive attitude contribute to academic and personal success. More importantly,
-it lays the foundation for our students to become confident, resilient
-learners equipped for lifelong learning.</p>
+<p></p>
+<p></p>
+<p></p>
+<h4></h4>
+<p></p>
+<h4></h4>
+<h4></h4>
+<p></p>
+<p></p>
+<h4></h4>
+<p></p>
+<h4></h4>
+<p></p>
+<h4></h4>
+<p></p>
 <h4>Teachers’ Day 2025</h4>
 <div class="iframe-wrapper">
 <iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRRn6am8n_nFC5H4-2-HwF1yK2x6oHcwZ53gvSklCNwqidUTPB3UOk-oGbp-d7L7KV4CNNKY-i_HhOG/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
