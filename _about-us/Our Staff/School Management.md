@@ -360,9 +360,10 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Primary 3</strong>
+<td rowspan="2" colspan="1">
+<p><strong>Primary 3 &amp; Primary 4</strong>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Asyaari</p>
@@ -372,10 +373,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Primary 4</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mrs Jennifer Fan</p>
 <p><a href="mailto:fan_lee_bee_yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fan_lee_bee_yen@schools.gov.sg</a>
 </p>
@@ -383,7 +380,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Primary 5</strong>
+<p><strong>Primary 5 &amp; Primary 6</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
