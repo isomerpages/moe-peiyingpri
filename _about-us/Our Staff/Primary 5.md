@@ -8,6 +8,8 @@ variant: tiptap
 <h3><strong>Primary 5</strong></h3>
 <p><strong>Year Head: Mr Eric Chia</strong>
 </p>
+<p><strong>Asstistant Year Head: Mr Soh Chung Wei</strong>
+</p>
 <p><em>Please allow teachers up to 3 days to reply to your email queries.</em>&nbsp;
 <br><em>For urgent matters, please contact the teacher through the General Office at 62575684.</em>
 </p>
