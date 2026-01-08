@@ -86,7 +86,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MSO</p>
+<p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Latipah</p>
@@ -98,7 +98,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CSO</p>
+<p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Ee Lian Charlene</p>
@@ -110,7 +110,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>OSO</p>
+<p>Operation Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm P Sumathi</p>
@@ -121,7 +121,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>OSO</p>
+<p>Operation Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Yeo Yuat Suan</p>
@@ -132,7 +132,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>OSO</p>
+<p>Operation Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ricky Koh</p>
@@ -143,7 +143,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>OSO</p>
+<p>Operation Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Christina Lim</p>
