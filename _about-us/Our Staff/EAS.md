@@ -26,18 +26,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operation Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Khiam Kng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Tan_Khiam_Kng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Khiam_Kng@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -74,6 +62,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Operation Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Khiam Kng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Tan_Khiam_Kng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Khiam_Kng@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -86,7 +86,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MSO</p>
+<p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Latipah</p>
@@ -98,7 +98,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CSO</p>
+<p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Ee Lian Charlene</p>
@@ -110,7 +110,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>OSO</p>
+<p>Operation Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm P Sumathi</p>
@@ -121,7 +121,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>OSO</p>
+<p>Operation Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Yeo Yuat Suan</p>
@@ -132,7 +132,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>OSO</p>
+<p>Operation Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ricky Koh</p>
@@ -143,21 +143,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>OSO</p>
+<p>Operation Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Yong Yuet Peng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>OSO</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Christina Lim Ai Hong</p>
+<p>Mdm Christina Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>

@@ -156,7 +156,7 @@ variant: tiptap
 <p>1 Wisdom</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Soo Thoo Kai Jia</p>
+<p>Ms Eulindra Soo</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">soo_thoo_kai_jia@schools.gov.sg</a>
 </p>
 <p></p>

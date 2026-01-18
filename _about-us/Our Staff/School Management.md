@@ -314,7 +314,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Lower Primary (Primary 1 and 2)</strong>
+<p><strong>Lower Primary</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -325,18 +325,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Middle Primary (Primary 3 and 4)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Jennifer Fan</p>
-<p><a href="mailto:Fan_Lee_Bee_Yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Fan_Lee_Bee_Yen@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Upper Primary (Primary 5 and 6)</strong>
+<p><strong>Upper Primary</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -371,10 +360,18 @@ variant: tiptap
 </th>
 </tr>
 <tr>
+<td rowspan="2" colspan="1">
+<p><strong>Primary 3 &amp; Primary 4</strong>
+</p>
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
-<p><strong>Middle Primary (Primary 3 and 4)</strong>
+<p>Mrs Jennifer Fan</p>
+<p><a href="mailto:fan_lee_bee_yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fan_lee_bee_yen@schools.gov.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mrs Asyaari</p>
 <p><a href="mailto:nur_faiszah_ishak@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_faiszah_ishak@schools.gov.sg</a>
@@ -383,7 +380,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Upper Primary (Primary 5 and 6)</strong>
+<p><strong>Primary 5 &amp; Primary 6</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -510,6 +507,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr R Sharvin Ganesh
 <br><a href="mailto:lee_hui_chern@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">r_sharvin_ganesh@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ICT Manager</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Noormalah Rabu</p>
+<p><a href="mailto:noormalah_rabu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">noormalah_rabu@schools.gov.sg</a>
 </p>
 </td>
 </tr>

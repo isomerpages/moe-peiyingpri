@@ -1,10 +1,28 @@
 ---
-title: Support Staff
+title: Other Staff
 permalink: /about-us/our-staff/support-staff/
 description: ""
 third_nav_title: Our Staff
 variant: tiptap
 ---
+<h3><strong>Teaching Staff</strong></h3>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Seah Kheng Kiat</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Faizal Khan</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3><strong>Support Staff</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -55,7 +73,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>OSO</p>
+<p>Operation Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Louis Tay</p>

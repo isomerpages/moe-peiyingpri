@@ -6,7 +6,7 @@ third_nav_title: Our Staff
 variant: tiptap
 ---
 <h3><strong>Primary 3</strong></h3>
-<p><strong>Year Head: Mrs Jennifer Fan</strong>
+<p><strong>Assistant Year Head: Mrs Jennifer Fan &amp; Mrs Asyaari</strong>
 </p>
 <p><em>Please allow teachers up to 3 days to reply to your email queries.</em>&nbsp;
 <br><em>For urgent matters, please contact the teacher through the General Office at 62575684.</em>
@@ -97,7 +97,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Esther Lee</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">Esther_LEE@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">esther_lee@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -134,13 +134,14 @@ variant: tiptap
 <p>3 Courage</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng Kang Ping</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">ng_kang_ping@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Ting Shu Han</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">ting_shu_han@schools.gov.sg</a>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ng Kang Ping</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">ng_kang_ping@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
