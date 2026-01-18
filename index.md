@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/Main Page/WebsiteBanner2024_5_2.gif
       key_highlights:
-        - title: Keeping in Touch
+        - title: Leadership Role Application
           description: Click here for more info
-          url: /partners/keeping-in-touch-newsletters/
+          url: https://forms.moe.edu.sg/forms/oZOQkp
         - title: Termly Check-In
           description: Click here for more info
           url: /termly-check-in-survey/
