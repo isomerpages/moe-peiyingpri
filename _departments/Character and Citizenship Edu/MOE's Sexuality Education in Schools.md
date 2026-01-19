@@ -124,12 +124,14 @@ from sexuality-related risks.</p>
 <li>
 <p>Parents may opt their children out of Sexuality Education lessons, and/or
 supplementary Sexuality Education programmes by MOE-approved external providers.</p>
+<p>&nbsp;</p>
 </li>
 <li>
 <p>Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated
-to parents at the start of the year and is also downloadable <a href="/files/Opt_out_form_for_Parents_of_PYPS_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-The completed opt-out form is to be submitted by <strong>07/03/2025</strong>.</p>
+to parents at the start of the year and is also available <a href="https://form.gov.sg/696d7f8680c908cb6abeebb4" rel="noopener nofollow" target="_blank">here</a>.
+The completed opt-out form is to be submitted by 30/01/2026.</p>
+<p>&nbsp;</p>
 </li>
 <li>
 <p>Parents can contact the school at <a href="mailto:peiying_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peiying_ps@moe.edu.sg</a> for discussion
