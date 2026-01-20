@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Character and Citizenship Edu
 variant: tiptap
 ---
-<h3><strong>MOE's Sexuality Education in Schools</strong></h3>
+<h3><strong>MOE Sexuality Education in Schools</strong></h3>
 <ol data-tight="true" class="tight">
 <li>
 <p>Sexuality Education (SEd) in schools aims to enable students to understand
