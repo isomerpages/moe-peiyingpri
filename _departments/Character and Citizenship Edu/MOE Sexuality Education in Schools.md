@@ -110,10 +110,10 @@ from sexuality-related risks.</p>
 <h5>At Peiying Primary School, the following Sexuality Education lessons will be taught in 2026:</h5>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/CCE/P5_SED.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/CCE/P5_SED_logo.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/CCE/P5_SED_2_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/CCE/P5_SED_.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
