@@ -5,9 +5,30 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
+<h4>A Meaningful Start to the School Year at Peiying Primary School</h4>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRIkGBJmk46gzVMwluvzVuzYBQTRjvpN3XFonr2cF0gkj213spMgHBOWBmAnRcnxd82B6i7qYAYL9sb/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>At Peiying Primary School, we believe that the first few days of school
+set the tone for a successful year ahead. Our Explore, Experience and Engage
+(E3) Day Programme is designed to welcome students back and support a smooth,
+confident transition into the new academic year.</p>
+<p>Through team-building games, class bonding sessions and the Start It Right!
+Package, students reconnect with friends, build new relationships and establish
+positive classroom routines - creating a strong foundation for effective
+learning and a sense of belonging.</p>
+<p>A special highlight is our P1 and P4 Buddy Programme, where caring P4
+students guide and befriend their P1 buddies. This meaningful partnership
+nurtures empathy, leadership and responsibility in the older students,
+while helping our youngest learners feel safe, supported and confident
+in their new environment.</p>
+<p>With a strong focus on self-management, social skills and teamwork, E3
+Day lays the groundwork for positive relationships and joyful learning
+- bringing our PRIDE values to life as our students embark on a purposeful
+learning journey together.</p>
 <h4>P1 First Day</h4>
 <div class="iframe-wrapper">
-<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRUTWS1-GfciP3WWOHBEC1z6kKrTmuvv6umLOgRFPytnUWNB_qKXRGHIW9uJRVH8CysJ0BeDUh8tMPS/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRUTWS1-GfciP3WWOHBEC1z6kKrTmuvv6umLOgRFPytnUWNB_qKXRGHIW9uJRVH8CysJ0BeDUh8tMPS/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>Peiying Primary School warmly welcomed our Primary One cohort on the first
 day of school in 2026, marking a significant milestone in each child’s
@@ -37,7 +58,7 @@ learners—united as one Peiying family.</p>
 <summary>2025 Events</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="iframe-wrapper">
-<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vST47njKuDnwMRUbCmqK5tXOS2txzxRHt8Jo-krqnbE-rlfm-0_u9z5hey0Jpl-FVuokheYVD7YpdOl/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vST47njKuDnwMRUbCmqK5tXOS2txzxRHt8Jo-krqnbE-rlfm-0_u9z5hey0Jpl-FVuokheYVD7YpdOl/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>Peiying Primary School commemorated its 2025 Prize Presentation Day cum
 P6 Graduation Ceremony with a meaningful and inspiring celebration themed <em>Shining with P.R.I.D.E.</em> The
@@ -62,7 +83,7 @@ step into the future, we are confident that they will continue to shine
 and uphold the <em>P.R.I.D.E</em> values wherever they go.</p>
 <h4>P1 Orientation for Incoming 2026 Students</h4>
 <div class="iframe-wrapper">
-<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT1YHg4Cc0jkxVHezsd0_ucmKm-RtbUoxSaY1Vp03Ef_hdb5HjSXEnaqcXJZ4ZZMPYg8SzqinOa31Lw/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT1YHg4Cc0jkxVHezsd0_ucmKm-RtbUoxSaY1Vp03Ef_hdb5HjSXEnaqcXJZ4ZZMPYg8SzqinOa31Lw/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>Peiying Primary School was delighted to warmly welcome our incoming Primary
 1 students and their parents to our annual P1 Orientation Programme on
@@ -90,7 +111,7 @@ ensured that every family felt welcomed, supported, and well-prepared for
 the exciting learning journey ahead at Peiying Primary School.</p>
 <h4>Student Leaders’ Appreciation &amp; Prefects’ Handover Ceremony 2025</h4>
 <div class="iframe-wrapper">
-<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTbyrh-tQlKxA0VOLn94a047_9bakiD-hSG7mmI55Bqur6BJJzlYjyrylRBYlKn1y1O_HDzhnJU06yM/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTbyrh-tQlKxA0VOLn94a047_9bakiD-hSG7mmI55Bqur6BJJzlYjyrylRBYlKn1y1O_HDzhnJU06yM/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>At Peiying Primary School, leadership is more than a title - it is service
 in action. The Student Leaders’ Appreciation 2025 ceremony celebrated our
@@ -114,7 +135,7 @@ us that when we lead with care and conviction, we truly make a difference
 in our Peiying community.</p>
 <h4>Peiying Primary School Deepavali Celebration 2025 – “Lighting Up Lives with Kindness”</h4>
 <div class="iframe-wrapper">
-<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRvU7hMoei2QWlKfaSVj1UKKOepKGyqGAEET7fvJu3GPeAphqrzp-pH4vFkfUHuDaxo9jH_kNwFyjBT/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRvU7hMoei2QWlKfaSVj1UKKOepKGyqGAEET7fvJu3GPeAphqrzp-pH4vFkfUHuDaxo9jH_kNwFyjBT/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>Peiying Primary School joyfully celebrated Deepavali 2025 with the theme,
 “Lighting Up Lives with Kindness.” The celebration aimed to instil in students
@@ -135,7 +156,7 @@ cultural awareness and active participation in fostering unity within the
 school community.</p>
 <h4>Peiying Primary School’s Primary 2 CCA Experience Day 2025</h4>
 <div class="iframe-wrapper">
-<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTpaMh5Asul8xvvSpvER904tz0r6_Uh8ks6053pw6pS8xXYdD66coinuMDlwQ6d6byeajVqEYOZwQUH/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTpaMh5Asul8xvvSpvER904tz0r6_Uh8ks6053pw6pS8xXYdD66coinuMDlwQ6d6byeajVqEYOZwQUH/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>Our Primary 2 CCA Experience Day 2025 was an exciting and engaging event
 that introduced our students to the wide variety of Co-Curricular Activities
@@ -154,7 +175,7 @@ may visit <strong><a rel="noopener noreferrer nofollow" target="_blank">https://
 </p>
 <h4>Children's Day Celebration 2025</h4>
 <div class="iframe-wrapper">
-<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSY38Jn8gBnGxXetekLvU7jTTzkovaS7pg37qExAijS0hz1AH5A4iYyy9UjsKt1bDfg30Xl4_nGc-WA/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSY38Jn8gBnGxXetekLvU7jTTzkovaS7pg37qExAijS0hz1AH5A4iYyy9UjsKt1bDfg30Xl4_nGc-WA/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>Peiying Primary School was thrilled to celebrate Children’s Day 2025 under
 the inspiring theme "PULSE – Play. Unleash. Learn. Showcase. Explore."
@@ -185,7 +206,7 @@ reflected our commitment to nurturing well-rounded learners where every
 child enjoys and is engaged in learning!</p>
 <h4>From 'I Can't' to 'I Can't Yet': Peiying’s Transformative Learning Experience!</h4>
 <div class="iframe-wrapper">
-<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQTR8udK06KredZLcHIO8kLT3-dPj_q8pUCfeseZ-udWqqU986zpXgbngN7KBjEYUQIBm6_GqwwN8_-/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQTR8udK06KredZLcHIO8kLT3-dPj_q8pUCfeseZ-udWqqU986zpXgbngN7KBjEYUQIBm6_GqwwN8_-/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>Peiying Primary School is delighted to share our Term 4 Growth Mindset
 programme, conducted in class by our dedicated form teachers. Centred on
@@ -222,7 +243,7 @@ it lays the foundation for our students to become confident, resilient
 learners equipped for lifelong learning.</p>
 <h4>Teachers’ Day 2025</h4>
 <div class="iframe-wrapper">
-<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRRn6am8n_nFC5H4-2-HwF1yK2x6oHcwZ53gvSklCNwqidUTPB3UOk-oGbp-d7L7KV4CNNKY-i_HhOG/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRRn6am8n_nFC5H4-2-HwF1yK2x6oHcwZ53gvSklCNwqidUTPB3UOk-oGbp-d7L7KV4CNNKY-i_HhOG/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>On 4 September 2025, our school celebrated Teachers’ Day with the inspiring
 theme “Creating Magic Every Moment”. Our teachers and staff are constantly
@@ -244,7 +265,7 @@ celebrate their efforts, and wrap up the term on a high note before a well-deser
 holiday break.</p>
 <h4>Preventive Drug Education 2025 at Peiying Primary School</h4>
 <div class="iframe-wrapper">
-<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTsuH-Eutq2XoEnl9UwpzWH8g6ZWj4F1ceG2x1eGJl62caAzt1hNy19-QVUBP2OHFC067Tkl-QJYm48/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTsuH-Eutq2XoEnl9UwpzWH8g6ZWj4F1ceG2x1eGJl62caAzt1hNy19-QVUBP2OHFC067Tkl-QJYm48/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>At Peiying Primary School, we believe in nurturing leaders of character
 and caring citizens. As part of our commitment to holistic education and
@@ -270,7 +291,7 @@ with the knowledge, skills, and values to thrive and to make safe, positive
 choices for their future.</p>
 <h4>Cultural Performance Exposure Scheme (CPES) 2025</h4>
 <div class="iframe-wrapper">
-<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ9Ap1-j9V4ypOsFRbqWGvBZCV2wJTDYa_9MD-XC7Nng045E_SvU7i4hePEMl9PpK2j4c17a3Qqo4ZG/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ9Ap1-j9V4ypOsFRbqWGvBZCV2wJTDYa_9MD-XC7Nng045E_SvU7i4hePEMl9PpK2j4c17a3Qqo4ZG/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>As part of Peiying Primary School’s continued commitment to promoting
 Chinese language learning, our students participated in the Cultural Performance
@@ -291,7 +312,7 @@ their classroom learning with real-world cultural contexts.</p>
 learners.</p>
 <h4>60th National Day</h4>
 <div class="iframe-wrapper">
-<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQIakqhP67qUVx4sYoikuyJz6WsIEZkCjbZHAfMOldLMHFm40AddL9-eumERgm00rTNMzGnwQ1NT3Mv/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQIakqhP67qUVx4sYoikuyJz6WsIEZkCjbZHAfMOldLMHFm40AddL9-eumERgm00rTNMzGnwQ1NT3Mv/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>On 9 August 2025, Singapore celebrated our 60th National Day. This year’s
 theme, <em>“Majulah Singapura”</em> (Onward Singapore), echoed the title
@@ -317,7 +338,7 @@ served not only to honour our past but to inspire a collective vision for
 the future. <em>Majulah Singapura</em>!</p>
 <h4>Anti-Bullying Programme 2025 – ‘The Power of Kindness’</h4>
 <div class="iframe-wrapper">
-<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS--1NUJZvmoQ9w_bPcxnxxiHFAxVNi7bus9OW8f2OmkiH26tb7v5--8-woBGY-Ng15QMFbhqtEvWpg/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS--1NUJZvmoQ9w_bPcxnxxiHFAxVNi7bus9OW8f2OmkiH26tb7v5--8-woBGY-Ng15QMFbhqtEvWpg/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>As part of our continued commitment to student well-being, Peiying Primary
 School launched this year’s Anti-Bullying Programme with the theme <strong>“The Power of Kindness.”</strong> This
@@ -342,7 +363,7 @@ responsibility in creating a caring school community. Together, we continue
 to empower every child to act with kindness, empathy, and courage.</p>
 <h4>P5 Camp</h4>
 <div class="iframe-wrapper">
-<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQF6Bx1pj5jWY1Gz9sbVwAQKP0f088oairjwOvb_IHAyBjUAAl5BEvUk2ozdivINu4Fr7SPmi6XcO3q/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQF6Bx1pj5jWY1Gz9sbVwAQKP0f088oairjwOvb_IHAyBjUAAl5BEvUk2ozdivINu4Fr7SPmi6XcO3q/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>From 1<sup>st</sup> to 3<sup>rd</sup> September, our Primary 5 students
 embarked on an unforgettable adventure at the MOE Jalan Bahtera Outdoor
@@ -383,7 +404,7 @@ we hope our students feel encouraged to explore their own musical interests.</p>
 education that nurtures creativity and passion in every child.</p>
 <h4>NLB’s Book Buzz @ Peiying</h4>
 <div class="iframe-wrapper">
-<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS-eELNjfKZ-Ma5M9c9uiDDmy8ng3MNu3PG4LjymsT701KkXrWkPbgGNu_47l3BmcmRnzCYr66eOjPq/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS-eELNjfKZ-Ma5M9c9uiDDmy8ng3MNu3PG4LjymsT701KkXrWkPbgGNu_47l3BmcmRnzCYr66eOjPq/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>On 31 July 2025, our school had the pleasure of hosting Book Buzz, an
 enriching programme by the National Library Board (NLB) that introduced
@@ -410,7 +431,7 @@ not only broadened their perspectives but also reminded them that reading
 opens doors to adventure and discovery, right here in Singapore.</p>
 <h4>Our People, Our Tapestry</h4>
 <div class="iframe-wrapper">
-<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTWdjgZKImMTBOYeKGk-EJH6jq50kGoY11egYkDLbiPXRdT1F1lO51leFWvbc5GmO9dTRghy9m_7x-l/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTWdjgZKImMTBOYeKGk-EJH6jq50kGoY11egYkDLbiPXRdT1F1lO51leFWvbc5GmO9dTRghy9m_7x-l/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>On July 24, 2025, our school commemorated Racial Harmony Day with the
 theme "Our People, Our Tapestry", a celebration of Singapore’s multicultural
@@ -434,7 +455,7 @@ while we come from diverse backgrounds, we are all threads of the same
 tapestry — stronger and more beautiful together.</p>
 <h4>Peiying Primary School at Nee Soon Green Festival 2025</h4>
 <div class="iframe-wrapper">
-<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTccYFTGMmaKmYTalymLteDAW1-EJrOEYvsTe5kIPgK5Ys2ipL7Rj82OyaB_Ezd1nZ8pYQdSzYSMZZe/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTccYFTGMmaKmYTalymLteDAW1-EJrOEYvsTe5kIPgK5Ys2ipL7Rj82OyaB_Ezd1nZ8pYQdSzYSMZZe/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>Peiying Primary School was proud to participate in the Nee Soon Green
 Festival 2025, marking our third year of collaboration in this meaningful
@@ -457,7 +478,7 @@ was an innovative idea that inspired many visitors.</p>
 responsible citizens and strengthening community partnerships.</p>
 <h4>SCALE@Peiying Climbing Experience 2025</h4>
 <div class="iframe-wrapper">
-<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS3VchFYzyGpPlT6xGp-pxZGE37IY2EIiHVK_gRgRz3KG1F7NMBPS3kb67HfA_dMlOxMJqxzuON3i4-/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS3VchFYzyGpPlT6xGp-pxZGE37IY2EIiHVK_gRgRz3KG1F7NMBPS3kb67HfA_dMlOxMJqxzuON3i4-/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>This year, our Primary 3 and Primary 4 students took part in SCALE@Peiying
 Climbing Experience, one of our key programmes that integrates sports,
@@ -476,7 +497,7 @@ skills but also strengthened their character, showing that learning can
 truly come alive when values and action go hand in hand.</p>
 <h4>Primary 5 National Education (NE) Show 2025 – Celebrating SG60</h4>
 <div class="iframe-wrapper">
-<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSaDj3kj4yRgYhaGs3t-Y9XwBmJ6qV5gyIXC0-XZkoju_LJ40dahsNUDhFPGlLhPofY7WWW-lE-5THt/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSaDj3kj4yRgYhaGs3t-Y9XwBmJ6qV5gyIXC0-XZkoju_LJ40dahsNUDhFPGlLhPofY7WWW-lE-5THt/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>On Saturday, 19 July 2025, our Primary 5 students had the memorable opportunity
 to attend the National Education (NE) Show 2025 at the Padang. Held in
@@ -501,7 +522,7 @@ of Singapore’s heritage, but also strengthened their sense of pride and
 belonging.</p>
 <h4>Peiying Primary School Twinning Programme 2025 with Sekolah Rendah Panaga, Brunei</h4>
 <div class="iframe-wrapper">
-<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS-D8tDBU0oRS_3fIZvA3iuxzKRDnDyRN2ysEhgHC1sLG_uwt73g59hw9QaZAdyDwhvjboSpI2R8TI3/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS-D8tDBU0oRS_3fIZvA3iuxzKRDnDyRN2ysEhgHC1sLG_uwt73g59hw9QaZAdyDwhvjboSpI2R8TI3/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>On 9<sup> </sup>and 10 July 2025, Peiying Primary School had the pleasure
 of hosting students from Sekolah Rendah Panaga, Brunei, as part of our
@@ -528,7 +549,7 @@ the end of a memorable and enriching experience. We look forward to continuing
 this partnership when we visit Sekolah Rendah Panaga in Brunei in 2026!</p>
 <h4>Immersion Programme 2025 with Cheng Kung Elementary School, Taichung</h4>
 <div class="iframe-wrapper">
-<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRjJYBNdZsMm1qdddjIFliDtnlNLabBoXbdR5SW830F8Q5WXdM5W0a0NMDSrYFOv2OAg0rLExob12Vm/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRjJYBNdZsMm1qdddjIFliDtnlNLabBoXbdR5SW830F8Q5WXdM5W0a0NMDSrYFOv2OAg0rLExob12Vm/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>On 4<sup> </sup>July 2025, Peiying Primary School proudly welcomed teachers
 and students from Cheng Kung Elementary School, Taichung, as part of a
@@ -557,7 +578,7 @@ Angklung CCA performance and had a chance to try playing the Angklung themselves
 guided patiently by our students.</p>
 <h4>P.L.A.Y. Day 2 at Peiying – Learning Comes Alive Through Play!</h4>
 <div class="iframe-wrapper">
-<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR6qSbFR0XsPHeaDTF0-tH0pONO5c0XU36enlQaE2gI0Q70VS6ymw--8WhjHtvu7xWsgNiEjSKKrtXG/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR6qSbFR0XsPHeaDTF0-tH0pONO5c0XU36enlQaE2gI0Q70VS6ymw--8WhjHtvu7xWsgNiEjSKKrtXG/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>On 8 July 2025, the school buzzed with excitement as we held our second
 P.L.A.Y. Day – <em>Peiying Learn And PlaY Day</em>. This special day is
@@ -582,7 +603,7 @@ them to explore, reflect, and develop key competencies that support their
 growth as confident, engaged learners prepared for the future.</p>
 <h4>Primary 3 Mother Tongue Language &amp; Cultural Day Camp 2025</h4>
 <div class="iframe-wrapper">
-<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQUSw8tbEzcWF9bBgPgsxGqTcBeIA3GAZ3beyQlC9qkI0yMFbXqos1PboeV5hFNNetZh45f2D0VZhfK/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQUSw8tbEzcWF9bBgPgsxGqTcBeIA3GAZ3beyQlC9qkI0yMFbXqos1PboeV5hFNNetZh45f2D0VZhfK/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>As part of Peiying Primary School’s effort to nurture active and culturally
 rooted learners, the Primary 3 Mother Tongue Language (MTL) &amp; Cultural
@@ -604,7 +625,7 @@ themselves, collaborate with peers, and take pride in their heritage. It
 was a joyful and enriching experience for all.</p>
 <h4>MTL Fortnight Celebration at Peiying Primary School (13 May- 23 May 2025)</h4>
 <div class="iframe-wrapper">
-<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSt__ertRkycv19CtizFE6_7ljRNTacbZPi_p5K2YdvV_5HrSP2Kuh4rX-9Pn6-vntSkO01VXJVBk6v/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSt__ertRkycv19CtizFE6_7ljRNTacbZPi_p5K2YdvV_5HrSP2Kuh4rX-9Pn6-vntSkO01VXJVBk6v/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p><strong>Peiying Primary School's Mother Tongue Languages Fortnight 2025</strong>
 </p>
@@ -710,7 +731,7 @@ Theatre (Read the story and act it out)</p>
 </ul>
 <h4>Celebrating Achievements in National and Zonal Chinese Language Competitions</h4>
 <div class="iframe-wrapper">
-<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQZ_DGc9hILRmwpG1FcaKhGFfVBJzpY69-akd3kl9AJ12GN5Ou3eGDtPXrLvjK39mbHJd-clMSfLO6I/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQZ_DGc9hILRmwpG1FcaKhGFfVBJzpY69-akd3kl9AJ12GN5Ou3eGDtPXrLvjK39mbHJd-clMSfLO6I/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>The Chinese Language (CL) Department is proud to announce the commendable
 achievements of our students in two Chinese Language competitions: the <strong>National Text Recital Competition</strong> and
@@ -747,7 +768,7 @@ the following students.</p>
 the Chinese language and culture. Congratulations to all of them!</p>
 <h4>P5 TIE Penang Cultural Immersion Trip</h4>
 <div class="iframe-wrapper">
-<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSty4IoRcRGrUl4enb9jmj76if4_xB-iFPNb4KTK4_LmF-xmAEWwY_etLmj-aS9LIP9TIhiyGZWaUrv/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSty4IoRcRGrUl4enb9jmj76if4_xB-iFPNb4KTK4_LmF-xmAEWwY_etLmj-aS9LIP9TIhiyGZWaUrv/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>Our Primary 5 students embarked on an enriching three-day learning journey
 to Penang, Malaysia, immersing themselves in the vibrant tapestry of local
@@ -774,7 +795,7 @@ but also developed their character and independence, creating lasting bonds
 with their newfound friends across the border.</p>
 <h4>Tamil Literary Festival 2025</h4>
 <div class="iframe-wrapper">
-<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSqB4wKOaTZObTeXYS6yFSyTRROV39b5pxw9w_L8mAVl7RD71y3V7SIR3OAZl2j3x32P2G0hdhZnHMG/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSqB4wKOaTZObTeXYS6yFSyTRROV39b5pxw9w_L8mAVl7RD71y3V7SIR3OAZl2j3x32P2G0hdhZnHMG/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>Our students shone at the Tamil Literary Festival 2025, organised by the
 Nee Soon Link Constituency Indian Activity Executive Committee. This enriching
@@ -791,7 +812,7 @@ We are proud of our students' dedication to embracing their cultural heritage
 through this meaningful platform.</p>
 <h4>P.L.A.Y Day 1</h4>
 <div class="iframe-wrapper">
-<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQErCABRvYTtb-ZX8-A0ZvclrM5JMiMnoTBft2_rE-WGHojoxODhO-SVMB18LC-CUY2CdnR1HZCjdyt/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQErCABRvYTtb-ZX8-A0ZvclrM5JMiMnoTBft2_rE-WGHojoxODhO-SVMB18LC-CUY2CdnR1HZCjdyt/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>P.L.A.Y. Day on 15 April was a blast!</p>
 <p>Our students had an exciting time learning beyond the classroom, where
@@ -819,7 +840,7 @@ with the right mindset, growth is always possible.</p>
 <p></p>
 <h4>International Friendship Day (IFD)</h4>
 <div class="iframe-wrapper">
-<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQi-z5kB1MpFAosgeB4Zw2HBOieKfnD_zLhQzPclUAvKjtMq2szKmugeh26QvsffJNaB1F-l8jTe_Ci/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQi-z5kB1MpFAosgeB4Zw2HBOieKfnD_zLhQzPclUAvKjtMq2szKmugeh26QvsffJNaB1F-l8jTe_Ci/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>International Friendship Day (IFD) was commemorated on 17 April 2025.
 The theme for International Friendship Day (IFD) 2025 is “Forging Friendships
@@ -844,7 +865,7 @@ of Singapore's relations with neighbouring countries and beyond.</p>
 <p></p>
 <h4>Hari Raya Celebration 2025 at Peiying Primary School</h4>
 <div class="iframe-wrapper">
-<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSRhpYcBRFNDXcnmSHMaDrH8mHhogpICIG4seVM-zAJyKDsAvIwlajfElf5XrAgjSqG5-beo1S7t3UF/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSRhpYcBRFNDXcnmSHMaDrH8mHhogpICIG4seVM-zAJyKDsAvIwlajfElf5XrAgjSqG5-beo1S7t3UF/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>This year, Peiying Primary School celebrated Hari Raya 2025, bringing
 students together to learn about the rich traditions of Hari Raya visiting.
@@ -867,7 +888,7 @@ represents.</p>
 <p>We look forward to more opportunities to celebrate and learn together!</p>
 <h4>Peiying Primary School’s English Fiesta 2025: Occupations From All Walks of Life</h4>
 <div class="iframe-wrapper">
-<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTQP2nauW6ws01SkgYr_4j77_ZVmhCf5U9KCelipjpPond5syza7v2Od38hz--zfgNv6k8XMjQh-0Xe/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTQP2nauW6ws01SkgYr_4j77_ZVmhCf5U9KCelipjpPond5syza7v2Od38hz--zfgNv6k8XMjQh-0Xe/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>Peiying Primary School is thrilled to announce the launch of English Language
 Fiesta 2025, themed "Occupations: From All Walks of Life." This year’s
@@ -894,7 +915,7 @@ who actively participate in school events and appreciate the diversity
 of occupations around them.</p>
 <h4>Peiying Primary's Participation in the 22nd Elementz Science Project Competition</h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTNtBYOLSI7aMN5hr29lYRJt-Ep0PS9fuhp05YT3i8RGdKRYJahq1DngbdZ7VD2R8VOLSIfnqJ4rGY0/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTNtBYOLSI7aMN5hr29lYRJt-Ep0PS9fuhp05YT3i8RGdKRYJahq1DngbdZ7VD2R8VOLSIfnqJ4rGY0/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>Peiying Primary School recently participated in the 22nd Elementz Science
 Project Competition, an esteemed annual event that encourages students
@@ -929,7 +950,7 @@ thinking, and a passion for lifelong learning in our students.</p>
 <p></p>
 <h4>Fostering Leaders of Character: Student Leaders' Investiture 2025</h4>
 <div class="iframe-wrapper">
-<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRf7lklc318pw8U8OpdpvTz59QNOdNX6h3fsMUU_Zb2pwrx0yPZHRYkytHZOxkY_d-2ec6xa0THUEtD/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRf7lklc318pw8U8OpdpvTz59QNOdNX6h3fsMUU_Zb2pwrx0yPZHRYkytHZOxkY_d-2ec6xa0THUEtD/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>On 6<sup> </sup>March 2025, we proudly welcomed our new Prefects and Junior
 Sports Leaders, while celebrating our continuing leaders who have been
@@ -973,7 +994,7 @@ event; it is a testament to the P.R.I.D.E. values that our teachers instil
 in our students.</p>
 <h3><strong>🛡️💧 Total Defence Day 2025 💧🛡️</strong></h3>
 <div class="iframe-wrapper">
-<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRMbm6IGEvyWpea47Q96RmqgbT6UNxkbr-o6-3gL2MXKe65HtS5kmdORFAk7UZINFs4nKdflZiXi_wH/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRMbm6IGEvyWpea47Q96RmqgbT6UNxkbr-o6-3gL2MXKe65HtS5kmdORFAk7UZINFs4nKdflZiXi_wH/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>On 13 February 2025, our school commemorated Total Defence Day. 15 February
 is a day etched in our hearts, reminding us of the resilience of our nation
@@ -994,7 +1015,7 @@ our school community, echoing the spirit of Total Defence that has sustained
 our nation.</p>
 <h3><strong>Cyber Wellness Week 2025: Fostering Responsible Digital Citizens</strong></h3>
 <div class="iframe-wrapper">
-<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTK6d0-zM0qHNvrs5kLKEn1lpbBf02Mrqy01Xk_y0wBEzRCv0-nfNK2B-YIeNtoZp8y4jxS7Q7_Rct6/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTK6d0-zM0qHNvrs5kLKEn1lpbBf02Mrqy01Xk_y0wBEzRCv0-nfNK2B-YIeNtoZp8y4jxS7Q7_Rct6/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>Cyber Wellness Week 2025, held from 3 to 7 February 2025, was a meaningful
 and enriching event aimed at promoting online etiquette and balanced technology
@@ -1018,7 +1039,7 @@ and responsibly. Peiying Primary School remains committed to nurturing
 kind, thoughtful, and responsible digital citizens!</p>
 <h3>✨🎉 <strong>Friendship Week 2025</strong> 💖🤝</h3>
 <div class="iframe-wrapper">
-<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSFZmzFg5Ihof8rxsz2baGAC9FgMLrnCrd2awdIQlLP4uX3rHJjggoLeQV6ZFQUqsAPXH46-OYqPwIF/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSFZmzFg5Ihof8rxsz2baGAC9FgMLrnCrd2awdIQlLP4uX3rHJjggoLeQV6ZFQUqsAPXH46-OYqPwIF/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>In January, Peiying Primary School celebrated the joy of friendship—both
 old and new! With the theme <em>“Everyone Can Learn to Be a Friend,”</em> the
@@ -1048,7 +1069,7 @@ where friendships grow and flourish—one kind act at a time!<strong>&nbsp;</str
 <h3><strong>🐍🎊 Peiying Primary School's Chinese New Year Celebration 2025 🎊🐍&nbsp;</strong></h3>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSdyRRmAhciiYasfknMZqizpuOB23gKTOEl0AmOGiwWcYr0H9ODEjt4HZDf9iAHEBq5hFqpgcCnKbtk/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSdyRRmAhciiYasfknMZqizpuOB23gKTOEl0AmOGiwWcYr0H9ODEjt4HZDf9iAHEBq5hFqpgcCnKbtk/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <p>This year, Peiying Primary School welcomed the Year of the Snake with
 a vibrant celebration that brought our school community together in the
@@ -1081,11 +1102,11 @@ P4 students to our P1 students.</p>
 teamwork, providing our students with meaningful experiences to forge positive
 relationships and kickstart the school year with a sense of belonging.</p>
 <div class="iframe-wrapper">
-<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSSOma1iUzxmS25XMShg_OFlUtWKFni-N2mfX4kqSWKdNW41S1s4kuD0Y2jZUbnlVyCxdaFLQ8egoDa/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSSOma1iUzxmS25XMShg_OFlUtWKFni-N2mfX4kqSWKdNW41S1s4kuD0Y2jZUbnlVyCxdaFLQ8egoDa/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <h3>Peiying Primary School Welcomes Primary 1 Cohort on Day 1 2025</h3>
 <div class="iframe-wrapper">
-<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ5zczcs2o5_nG798YhwYoqAbv39U93qJWhy9gmkqZBxi3B4E59drv7kIOZdbUsvr9BIJ5X2JB82E5C/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ5zczcs2o5_nG798YhwYoqAbv39U93qJWhy9gmkqZBxi3B4E59drv7kIOZdbUsvr9BIJ5X2JB82E5C/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>On 2 January 2025, Peiying Primary School warmly welcomed its new cohort
 of Primary 1 students as they embarked on an exciting educational journey
