@@ -21,4 +21,5 @@ sections:
         - title: Instagram
           description: "@peiying_primary_school"
           url: https://www.instagram.com/peiying_primary_school/
+      variant: image
 ---
