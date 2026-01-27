@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Main Page/WebsiteBanner2024_5_2.gif
+      background: /images/Main Page/Enriching_Lives.gif
       key_highlights:
         - title: Leadership Role Application
           description: Click here for more info
