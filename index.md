@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Main Page/WebsiteBanner2024_5_2.gif
+      background: /images/Main Page/banner.gif
       key_highlights:
         - title: Leadership Role Application
           description: Click here for more info
@@ -21,4 +21,5 @@ sections:
         - title: Instagram
           description: "@peiying_primary_school"
           url: https://www.instagram.com/peiying_primary_school/
+      variant: image
 ---
