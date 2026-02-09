@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>School Hours 2026</strong></h4>
-<p>In 2025, students will be dismissed at&nbsp;<strong>1.00pm on Wed</strong>&nbsp;and
+<p>In 2026, students will be dismissed at&nbsp;<strong>1.00pm on Wed</strong>&nbsp;and
 at&nbsp;<strong>1.30pm on four days (Mon, Tue, Thur &amp; Fri)</strong>.
 School will start at the usual time at 7.30am daily.</p>
 <table style="minWidth: 75px">
