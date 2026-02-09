@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h3><strong>Parents</strong></h3>
 <p></p>
-<h4>Briefing Slides for Parents (2025)</h4>
+<h4>Briefing Slides for Parents (2026)</h4>
 <p>Primary 1 Orientation Slides</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -27,15 +27,14 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><a href="/files/Useful Forms and Links/P1_Orientation_Slides_14_Nov_2025_fro_school_website_Part_1.pdf" rel="noopener noreferrer nofollow" target="_blank"> </a>
+<p></p>
+<p>Primary 2 Parents Briefing Slides <a href="/files/2026_P2_Parents_Briefing.pdf" rel="noopener nofollow" target="_blank">Click here to view</a>
 </p>
-<p>Primary 2 Parents Briefing Slides <a href="https://online.fliphtml5.com/cuxpm/vtpf/" rel="noopener nofollow" target="_blank">Click here to view</a>
+<p>Primary 3 Parents Briefing Slides <a href="/files/2026_P3_Parents_Briefing.pdf" rel="noopener nofollow" target="_blank">Click here to view</a>
 </p>
-<p>Primary 3 Parents Briefing Slides <a href="https://online.fliphtml5.com/cuxpm/jhxm/" rel="noopener nofollow" target="_blank">Click here to view</a>
+<p>Primary 4 Parents Briefing Slides <a href="/files/2026_P4_Parents_Briefing.pdf" rel="noopener nofollow" target="_blank">Click here to view</a>
 </p>
-<p>Primary 4 Parents Briefing Slides <a href="https://online.fliphtml5.com/cuxpm/tzcw/" rel="noopener nofollow" target="_blank">Click here to view</a>
-</p>
-<p>Primary 5 &amp; 6 Parents Briefing Slides <a href="https://online.fliphtml5.com/cuxpm/vpiy/" rel="noopener nofollow" target="_blank">Click here to view</a>
+<p>Primary 5 &amp; 6 Parents Briefing Slides <a href="/files/2026_P56_Parents_Briefing.pdf" rel="noopener nofollow" target="_blank">Click here to view</a>
 </p>
 <h4>Forms</h4>
 <ul>
