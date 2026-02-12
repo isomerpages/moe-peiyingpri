@@ -9,9 +9,6 @@ sections:
   - hero:
       background: /images/Main Page/banner.gif
       key_highlights:
-        - title: Leadership Role Application
-          description: Click here for more info
-          url: https://forms.moe.edu.sg/forms/oZOQkp
         - title: Termly Check-In
           description: Click here for more info
           url: /termly-check-in-survey/
