@@ -5,6 +5,29 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events and Programmes</strong></h3>
+<h4>Friendship Week 2026: Be Kind, Be a Friend</h4>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSSQ4VbWms5VprHGS0EKLJuTHNzZahLXZniCTGf79L3NMRTUpu7t8zw2LrTBoe2slopGz5_r3fcU5fU/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>Friendship Week is a joyful celebration of kindness, care, and connection
+in our school. Throughout the week, students took part in engaging activities
+that foster friendships and develop our students’ social skills, guiding
+them to build, value, and sustain friendships, and to learn positive ways
+to overcome challenges in friendships.</p>
+<p>The week began with lively classroom bonding sessions, setting the tone
+for building positive friendships. During recess, the popular Thank You
+Booth invited students to spread cheer by writing encouraging notes to
+their friends and buddies. Our supportive PSG were also present to lend
+support to our event. Our library buzzed with excitement during Let’s Read
+Together, where students enjoyed friendship-themed stories with their peers,
+sharing laughter, learning, and a love for reading.</p>
+<p>A special assembly skit presented by our talented teachers reinforced
+the importance of being kind, inclusive, and supportive of one another.</p>
+<p>To keep the friendship spirit going, cheerful digital messages displayed
+around the school continue to remind students that they each play an important
+role in creating a happy and caring school community.</p>
+<p>Together, we’re nurturing friendships that help every child feel valued,
+supported, and connected — Be Kind, Be a Friend.</p>
 <h4>A Meaningful Start to the School Year at Peiying Primary School</h4>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRIkGBJmk46gzVMwluvzVuzYBQTRjvpN3XFonr2cF0gkj213spMgHBOWBmAnRcnxd82B6i7qYAYL9sb/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
