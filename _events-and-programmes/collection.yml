@@ -2,14 +2,15 @@ collections:
   events-and-programmes:
     output: true
     order:
-      - Key Programmes.md
       - Events Updates.md
+      - Key Programmes.md
+      - CCA/.keep
       - CCA/CCA.md
       - CCA/Clubs and Societies.md
       - CCA/Performing Arts.md
       - CCA/Uniformed Groups.md
       - CCA/Sports and Games.md
-      - CCA/.keep
+      - PAL/.keep
       - PAL/PAL.md
       - PAL/Music (Primary 1).md
       - PAL/Visual Art (Primary 1).md
@@ -17,4 +18,3 @@ collections:
       - PAL/Drama (Primary 2).md
       - PAL/Outdoor Education (Primary 2).md
       - PAL/Sports and Games (Primary 2).md
-      - PAL/.keep
