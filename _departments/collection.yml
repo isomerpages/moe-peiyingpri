@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Level Programmes.md
       - English Language.md
       - Mathematics.md
       - Science.md
