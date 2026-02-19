@@ -3,10 +3,8 @@ links:
   - title: About Us
     collection: about-us
   - title: Departments
-    url: /departments/level-programmes/
+    url: /departments/
     sublinks:
-      - title: Level Programmes
-        url: /departments/level-programmes/
       - title: English Language
         url: /departments/english/
       - title: Mathematics
@@ -28,10 +26,10 @@ links:
   - title: Events and Programmes
     url: /events-and-programmes/
     sublinks:
+      - title: Events Updates
+        url: /events-updates/
       - title: Key Programmes
         url: /about-us/key-programmes/
-      - title: Events and Programmes
-        url: /events-and-programmes/
       - title: CCA
         url: /events-and-programmes/cca/
       - title: PAL
