@@ -3,7 +3,7 @@ links:
   - title: About Us
     collection: about-us
   - title: Departments
-    url: /departments/
+    url: /departments/english/
     sublinks:
       - title: English Language
         url: /departments/english/
