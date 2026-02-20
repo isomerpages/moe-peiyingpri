@@ -39,23 +39,19 @@ links:
   - title: Partners
     url: /partners/keeping-in-touch-newsletters/
     sublinks:
-      - title: Kaleidescope
-        url: /partners/kaleidoscope/
-      - title: Keeping In Touch Newsletters
-        url: /partners/keeping-in-touch-newsletters/
-      - title: Level Programmes
-        url: /partners/level-programmes/
-      - title: Parent Support Group
-        url: /partners/psg/welcome/
       - title: School Advisory Committee
         url: /partners/sac/
-      - title: School Canteen Stall Vacancy
-        url: /partners/canteenvacancy/
-      - title: School Bus Vendor
-        url: /partners/school-bus-vendor/
+      - title: Parent Support Group
+        url: /partners/psg/welcome/
       - title: Useful Forms and Links
         url: /partners/useful-forms-and-links/parents/
+      - title: Keeping In Touch Newsletters
+        url: /partners/keeping-in-touch-newsletters/
+      - title: Kaleidescope
+        url: /partners/kaleidoscope/
       - title: Our Vendors
         url: /our-vendors/
+      - title: School Bus Vendor
+        url: /partners/school-bus-vendor/
   - title: Contact-Us
     url: /contact-us-here/
