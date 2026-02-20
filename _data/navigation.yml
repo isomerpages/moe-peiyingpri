@@ -37,7 +37,7 @@ links:
   - title: Students
     collection: students
   - title: Partners
-    url: /partners/
+    url: /partners/sac/
     sublinks:
       - title: School Advisory Committee
         url: /partners/sac/
