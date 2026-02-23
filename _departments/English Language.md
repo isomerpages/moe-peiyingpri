@@ -68,7 +68,7 @@ judgments in a globalised world.</p>
 <div class="isomer-image-wrapper">
 <img style="width:40%" height="auto" width="100%" src="/images/programmes.png">
 </div>
-<h4><strong><u>St</u></strong><u>rategies for </u><strong><u>E</u></strong><u>nglish </u><strong><u>L</u></strong><u>anguage </u><strong><u>L</u></strong><u>earning </u><strong><u>A</u></strong><u>nd </u><strong><u>R</u></strong><u>eading </u><strong><u>(STELLAR)</u></strong></h4>
+<h4><strong>St</strong>rategies for <strong>E</strong>nglish <strong>L</strong>anguage <strong>L</strong>earning <strong>A</strong>nd <strong>R</strong>eading <strong>(STELLAR)</strong></h4>
 <p>The STELLAR Curriculum aims to:</p>
 <p>strengthen both language and reading skills as well as promote a positive
 attitude towards reading in the foundational years through a variety of

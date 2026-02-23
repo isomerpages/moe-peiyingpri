@@ -4,7 +4,7 @@ permalink: /contact-us-here/
 description: ""
 variant: tiptap
 ---
-<h3><strong>Contact Us</strong></h3>
+<h3><strong>MOE Engagement's Charter</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/moe_our_service_charter_2.png">
 </div>
@@ -32,6 +32,8 @@ investigations, multiple parties, or external agencies.</p>
 any delays that may occur due to exceptional circumstances.</p>
 </li>
 </ol>
+<hr>
+<h3><strong>Contact Us</strong></h3>
 <h4><strong>Address</strong></h4>
 <p><strong>Peiying Primary School</strong> 
 <br>651 Yishun Ring Road 768687&nbsp;
