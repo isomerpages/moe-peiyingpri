@@ -8,7 +8,7 @@ variant: tiptap
 <h2>Performing Arts</h2>
 <h4>Angklung &amp; Kulintang Ensemble</h4>
 <div class="iframe-wrapper">
-<iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSWZILoqiCxjwuHYKfW6BroQWLIG5NLEAgzzb-J3MTc_jsXECpyAPR3L5XfO2JDvImVk9W0uKsYYYUR/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSWZILoqiCxjwuHYKfW6BroQWLIG5NLEAgzzb-J3MTc_jsXECpyAPR3L5XfO2JDvImVk9W0uKsYYYUR/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>Peiying Primary School offers the Angklung Co-Curricular Activity (CCA)
 for P3 to P6 students, where they come together to explore traditional
@@ -24,11 +24,9 @@ fosters our school’s core values – PRIDE (Perseverance, Respect, Integrity,
 Diligence, and Empathy) – in our students through teamwork and stage performances.
 Join us to celebrate music, culture, and personal growth in a fun and supportive
 environment!</p>
-<p>Teachers-in-charge: Ms Mary Or, Mrs Chan Khai Hong, Mr Noor Hendra Shahril
-Bin Supa'at and Mrs Tan-Low Hui Li</p>
 <h4>Choir</h4>
 <div class="iframe-wrapper">
-<iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ7ze89oHKnyTHOogNJWDsVY9OK3lHwQkowQOQ9DHnzopxdAWx0tuRrj4pl2K-Gh1rAbUBGA7xYS3Da/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ7ze89oHKnyTHOogNJWDsVY9OK3lHwQkowQOQ9DHnzopxdAWx0tuRrj4pl2K-Gh1rAbUBGA7xYS3Da/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>At Peiying Primary School, the choir is a community that fosters creativity,
 teamwork, and a love for music. The choir is open to Primary 3 to Primary
@@ -53,10 +51,9 @@ Accomplishment in 2024.</p>
 unforgettable memories. We invite all students to join the choir and discover
 the power of their own voices while contributing to the vibrant music culture
 at our school.</p>
-<p>Teachers-in-charge: Mrs Foo Xiaojing, Ms Toh Yee Kheng and Mdm Chen Ying</p>
 <h4>International Dance</h4>
 <div class="iframe-wrapper">
-<iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQQPKBimu-e26DwOVuP7c6C5Key2niDiWwkKhwA_q0Gy_WR1-6nVipoPz9UAokO6eh2iApl-RP1QQ5J/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQQPKBimu-e26DwOVuP7c6C5Key2niDiWwkKhwA_q0Gy_WR1-6nVipoPz9UAokO6eh2iApl-RP1QQ5J/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>At Peiying Primary School, Modern Dance is offered as a Co-Curricular
 Activity (CCA) for P3 to P6 students. This dynamic CCA nurtures students
@@ -73,6 +70,4 @@ events such as National Day Celebrations and Prize Presentation Day, showcasing
 their talent and dedication.</p>
 <p>Through Modern Dance, our students develop creativity, discipline, and
 teamwork, making their journey in the arts both enriching and inspiring.</p>
-<p>Teachers-in-charge: Ms Hee Chuan Min, Mdm Lim See Voon, Ms Manomani, Ms
-Nurhafeza and Ms Michelle Tan</p>
 <p></p>
