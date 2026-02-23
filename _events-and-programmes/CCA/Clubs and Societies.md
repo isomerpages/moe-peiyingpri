@@ -8,7 +8,7 @@ variant: tiptap
 <h2>Clubs and Societies</h2>
 <h4>Photography Club</h4>
 <div class="iframe-wrapper">
-<iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSnY_4NlRTU3iTEcRGVtbcVd61suIOJYCdhT-qlpwYigWDKA8gQjjHJfq2p2SrQm0-9XBOTN29H9k9P/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSnY_4NlRTU3iTEcRGVtbcVd61suIOJYCdhT-qlpwYigWDKA8gQjjHJfq2p2SrQm0-9XBOTN29H9k9P/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>Photography Club aims to nurture students' keen observation skills of
 their environment, using photography to tell stories and communicate ideas.
@@ -21,10 +21,9 @@ confidence and sharpening their abilities through real-world experience.
 By exploring diverse themes, mastering digital photography techniques,
 and creating visual stories, the club hopes to inspire students to develop
 a lifelong passion for photography.</p>
-<p>Teachers-in-charge: Mrs Esther Lee, Ms Lee Peiyu and Mr Muhd Reduan</p>
 <h4>Visual Arts</h4>
 <div class="iframe-wrapper">
-<iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSHLTlODP8EVuCc3NngRdRyjnI6uy4PxHcUGBDUbi1VvFbcH6ICjgXRaDNaM8MIuTKu6KcH6ZzAyW_d/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSHLTlODP8EVuCc3NngRdRyjnI6uy4PxHcUGBDUbi1VvFbcH6ICjgXRaDNaM8MIuTKu6KcH6ZzAyW_d/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>Art Club is a vibrant space where young artists unleash their creativity
 and explore the world of visual arts. From drawing, painting and 3D sculpture
@@ -38,11 +37,9 @@ into vibrant and inspiring works of public Art.</p>
 <p>Throughout the year, Art Club members channel their creativity into competitions
 and community projects, sharing their artistic journey and inspiring both
 school and the community.</p>
-<p>Teachers-in-charge: Mrs Avery Neo, Mr Ngan Min Boon, Mr Muhd Hanafie and
-Mdm Fieza</p>
 <h4>Infocomm Club</h4>
 <div class="iframe-wrapper">
-<iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQpBmzPtX9LoKlSVPWUOe-HMNVEa_kiRuG6fHf2Mt_3C9PUtVUTR5bSkwrjJXkYMYNfJlGgM6tyw2ff/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQpBmzPtX9LoKlSVPWUOe-HMNVEa_kiRuG6fHf2Mt_3C9PUtVUTR5bSkwrjJXkYMYNfJlGgM6tyw2ff/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>The Infocomm Club is a CCA that encourages a deep dive into the exciting
 world of <strong>videography, animation, coding, and robotics</strong>.</p>
@@ -54,11 +51,9 @@ in exciting competitions.</p>
 <p>The Infocomm Club aims to nurture confident learners who are equipped
 with essential 21st-century skills while fostering a lifelong passion for
 technology.</p>
-<p>Teachers-in-charge: Mr James Clifton, Ms Shih Xiu Rong, Mrs Vasanthi Nanda
-and Mrs Soo Thoo Kai Jia Eulindra</p>
 <h4>Library Council</h4>
 <div class="iframe-wrapper">
-<iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSvXxWmg2krLy0CT0jo_GLn9GH1oR73S5Lx9nxgndQDzfYBlLWKmNDw4tjZIixNf__wsJq2tgob3jj2/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSvXxWmg2krLy0CT0jo_GLn9GH1oR73S5Lx9nxgndQDzfYBlLWKmNDw4tjZIixNf__wsJq2tgob3jj2/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>The Library Council offers a variety of activities that develop communication
 skills through language, vocal sounds, gestures, and facial and physical
@@ -80,10 +75,9 @@ members.</p>
 by external organisations.</p>
 <p>The students also help the school librarian with the shelving of the library
 books occasionally.&nbsp;</p>
-<p>Teachers-in-charge: Mrs Mala Bala and Mdm Ng Kang Ping&nbsp;</p>
 <h4>Science &amp; Environment Club</h4>
 <div class="iframe-wrapper">
-<iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQa8O2SHSubmmk1Ngm_NXLRsz9cJu3-HhsDJkE8k0AMqytvHeP-GlJf121W-u2inkHk863onhgCWe8O/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQa8O2SHSubmmk1Ngm_NXLRsz9cJu3-HhsDJkE8k0AMqytvHeP-GlJf121W-u2inkHk863onhgCWe8O/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>Nurturing Innovation and Environmental Stewardship at Peiying Primary
 School</p>
@@ -118,8 +112,6 @@ Club cultivates not only scientific literacy but also environmental consciousnes
 among our members. The programme empowers our members to be responsible
 stewards of the environment while developing their capacity for innovation
 and problem-solving.&nbsp;</p>
-<p>Teachers-in-charge: Mrs June Lau, Mrs Theresa Teo, Mdm Roslindah and Mrs
-Farhana Reux</p>
 <p>
 <br>
 </p>
