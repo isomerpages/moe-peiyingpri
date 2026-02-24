@@ -4,6 +4,7 @@ permalink: /events-updates/
 description: ""
 variant: tiptap
 ---
+<h2>Events Updates</h2>
 <h4>Friendship Week 2026: Be Kind, Be a Friend</h4>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSSQ4VbWms5VprHGS0EKLJuTHNzZahLXZniCTGf79L3NMRTUpu7t8zw2LrTBoe2slopGz5_r3fcU5fU/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
