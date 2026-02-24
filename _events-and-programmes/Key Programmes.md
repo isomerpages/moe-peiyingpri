@@ -4,6 +4,7 @@ permalink: /about-us/key-programmes/
 description: ""
 variant: tiptap
 ---
+<h2>Key Programmes</h2>
 <h4>E2K Science Programme</h4>
 <p>The E2K Science Programme in Peiying Primary offers opportunities for
 P4 and P5 students who demonstrate strong interest and aptitude in Science
@@ -95,7 +96,6 @@ resource for lower primary students to learn TL oral skills in a fun, interestin
 and authentic manner. The ebook project by P6 Malay Language students has
 been extended to Language learning. The ebooks created by the students
 are used to engage ML students in interactive language activities.</p>
-<p></p>
 <h4>P2 Sensory Experience: Fostering Empathy in the PRIDE Garden</h4>
 <p><em>“Harvest with Care, A Future We Can Share!”</em>
 </p>
@@ -117,12 +117,4 @@ develop empathy for gardeners and the natural world. They are encouraged
 to take this newfound empathy home by caring for a plant and practicing
 sustainable habits.</p>
 <p>This meaningful experience inspires students to show care for their environment,
-embodying the message: “Harvest with Care, A Future We Can Share!”
-<br>
-<br>
-</p>
-<p>
-<br>
-<br>
-</p>
-<p></p>
+embodying the message: “Harvest with Care, A Future We Can Share!”</p>
