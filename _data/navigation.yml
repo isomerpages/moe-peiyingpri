@@ -24,7 +24,7 @@ links:
       - title: Student Management
         url: /departments/student-management/
   - title: Events and Programmes
-    url: /events-and-programmes/
+    url: /events-updates/
     sublinks:
       - title: Events Updates
         url: /events-updates/
