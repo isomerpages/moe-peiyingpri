@@ -3,16 +3,15 @@ title: Resources
 permalink: /partners/psg/resources/
 description: ""
 third_nav_title: Parent Support Group
+variant: tiptap
 ---
-### Resources
-**MOE Parent Kit**<br>
-[https://www.moe.gov.sg/parentkit](https://www.moe.gov.sg/parentkit)
-
-**MOE Schoolbag**<br>
-[https://www.schoolbag.edu.sg/story/partnering-parents-in-education](https://www.schoolbag.edu.sg/story/partnering-parents-in-education)
-
-**Dads for Life**<br>
-[https://dadsforlife.sg/](https://dadsforlife.sg/)
-
-**Families for Life**<br>
-[https://ffl.familiesforlife.sg/pages/homepage](https://ffl.familiesforlife.sg/pages/homepage)
+<h3>Resources</h3>
+<p><strong>MOE Parent Kit</strong>
+<br><a href="https://www.moe.gov.sg/parentkit" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/parentkit</a>
+</p>
+<p><strong>MOE Schoolbag</strong>
+<br><a href="https://www.schoolbag.edu.sg/story/partnering-parents-in-education" rel="noopener noreferrer nofollow" target="_blank">https://www.schoolbag.edu.sg/story/partnering-parents-in-education</a>
+</p>
+<p><strong>Dads for Life</strong>
+<br><a href="https://dadsforlife.sg/" rel="noopener noreferrer nofollow" target="_blank">https://dadsforlife.sg/</a>
+</p>
