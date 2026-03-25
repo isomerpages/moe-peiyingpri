@@ -5,6 +5,33 @@ description: ""
 variant: tiptap
 ---
 <h2>Events Updates</h2>
+<h4>Together for Singapore: A Meaningful Total Defence Day</h4>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSfHLb4Hcp30fHuVVD8sWQf60qvLKW7NvAVp983_PlwI6s3JJ89u0CBU3u7AS2S0DW2XiAmLvEnTPcB/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>This year's Total Defence Day provided meaningful experiences, helping
+students understand their vital role in safeguarding Singapore's security
+and resilience.</p>
+<p>Students were enthused by the interactive session with Singapore Police
+Force Yishun NPC officers whose sharing on real-world experiences that
+brought national security concepts to life. Their authentic stories demonstrated
+how every citizen contributes to Singapore's safety.</p>
+<p>Our Parents Support Group supported our young CCE Ambassadors to operate
+interactive recess booths, reinforcing the six pillars of Total Defence
+through hands-on activities. Students participated in quizzes that created
+awareness and reinforced their learning, while a themed photo booth provided
+memorable moments that further strengthened the key messages.</p>
+<p>The school conducted Exercise SG Ready (ESR26) to develop students' crisis
+response capabilities. A power disruption simulation saw lights and fans
+in designated areas deactivated for two hours, building students' resilience
+and developing their adaptability and flexibility when facing unexpected
+circumstances.</p>
+<p>Our assembly programme further reinforced our students’ individual and
+collective responsibilities in maintaining Singapore's strength and security,
+connecting classroom learning with real-world applications.</p>
+<p>The myriad of activities aim to develop our Peiying students into caring
+citizens who would play their part to build a strong, secure and cohesive
+nation.</p>
 <h4>Friendship Week 2026: Be Kind, Be a Friend</h4>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSSQ4VbWms5VprHGS0EKLJuTHNzZahLXZniCTGf79L3NMRTUpu7t8zw2LrTBoe2slopGz5_r3fcU5fU/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
