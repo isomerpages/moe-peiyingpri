@@ -5,6 +5,30 @@ description: ""
 variant: tiptap
 ---
 <h2>Events Updates</h2>
+<h4>Performing Arts CCA SYF Showcase</h4>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRZkW-mzQXqdLwLviD1lbQ8VMnn7YCfAdxgzP_iHE-LZtQdvJPQFDpCrpiwFzkpbiNFBwLskexdrMXg/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>Peiying Primary School proudly presented the Performing Arts CCA SYF Showcase,
+featuring engaging performances by students from the Angklung, Choir and
+Dance CCAs. The showcase highlighted students’ commitment, discipline and
+passion as they prepared for the Singapore Youth Festival (SYF). Through
+consistent practice and collaboration, students demonstrated the PRIDE
+values by supporting one another, showing perseverance and striving to
+give their best on stage.</p>
+<p>The SYF Showcase also reflected Peiying’s Student Vision Outcomes. Students
+embraced creative challenges such as learning new techniques, interpreting
+music and movements, maintaining rhythm, coordinating as a team and responding
+to feedback to improve their performance quality. These experiences encouraged
+students to think creatively, adapt to challenges and continuously refine
+their skills.</p>
+<p>Students grew as Engaged Learners as they explored artistic expression
+through music and dance. They demonstrated resilience by overcoming performance
+anxieties and persevering through rehearsals. They also showed responsibility
+and teamwork as Leaders of Character and Caring Citizens, supporting one
+another throughout the preparation process.</p>
+<p>The experience strengthened school pride, unity and appreciation for the
+arts while reinforcing perseverance and confidence in striving for excellence.</p>
 <h4>Fostering Leaders of Character: Student Leaders’ Investiture 2026</h4>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQI29_6SuO2zcmgYl8aeEQYVpTbRQh7MU_Q0C8750fRva_Bfr5REWa0etBAvMtFtdH-X22ZY6biptEo/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
