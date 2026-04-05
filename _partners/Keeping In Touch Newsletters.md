@@ -8,6 +8,8 @@ variant: tiptap
 <h4>2026</h4>
 <p><a href="/files/Keeping in Touch Newsletter/1st_Keeping_in_Touch_Letter_to_Parents_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">02 Jan 2026 Keeping in Touch</a>
 </p>
+<p><a href="/files/Keeping in Touch Newsletter/2nd_Keeping_in_Touch_Letter_to_Parents_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">16 Mar 2026 Keeping in Touch</a>
+</p>
 <h4><strong>2025</strong></h4>
 <p><a href="/files/Keeping in Touch Newsletter/1st_Keeping_in_Touch_Letter_to_Parents_2025.pdf" rel="noopener nofollow" target="_blank">02 Jan 2025 Keeping in Touch</a>
 </p>
