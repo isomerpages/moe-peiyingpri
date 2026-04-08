@@ -7,9 +7,8 @@ variant: tiptap
 ---
 <h3>ExCo</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/psg%20exco%202-3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/WhatsApp_Image_2026_04_08_at_9_03_11_AM.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/psg%20vision.png">
 </div>
