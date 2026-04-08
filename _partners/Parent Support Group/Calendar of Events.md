@@ -13,33 +13,82 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>14 Feb 2025</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Track and Field Meet</strong>
+<td rowspan="1" colspan="1">
+<p><strong>Dates</strong>
 </p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>27 Mar to 4 Apr 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>EL Fiesta</p>
+<p><strong>Event</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>27 Apr 2025</p>
+<p>20-21 Jan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hari Raya</p>
+<p>Friendship Week</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13 May to 23 May 2025</p>
+<p>12 Feb</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NE Events: Total Defence Day (TDD)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19-20 Feb</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cyberwellness</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13 March</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EL Fiesta/Poetry Recitation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27 March</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PSG Welcome Tea</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16 Apr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NE Event: International Friendship Day (IFD)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23 Apr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Earth Day Commemoration</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24 Apr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Track and Field Meet</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11 - 15 May</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MTL Fortnight</p>
@@ -47,23 +96,47 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>21 to 24 Jul 2025</p>
+<p>22 May</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Racial Harmony Day</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4 Sep 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher's Day Celebration</p>
+<p>PSG Bonding Day 2026</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Oct 2025</p>
+<p>3 Jul</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3 MTL Camp</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23 Jul</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NE Event: Racial Harmony Day (RHD)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NE Event: National Day (ND)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Sept</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teachers' Day Celebrations</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Oct</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lower Primary Games Day</p>
@@ -71,20 +144,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 Oct 2025</p>
+<p>1 Oct</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Deepavali</p>
+<p>P3 Carnival (Children Day)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>21 Nov</p>
+<p>30 Oct</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Prize Presentation</p>
-<p>EOY PSG Meeting</p>
-<p>PSG Booth</p>
+<p>P6 Career Fest</p>
 </td>
 </tr>
 </tbody>
