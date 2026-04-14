@@ -48,31 +48,7 @@ in the educational process.</p>
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ban Eng Hoe</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Chui Wing Hong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Vijay Kumar Ganapathy</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Joo Meng, Abel</p>
 </td>
 </tr>
 <tr>
