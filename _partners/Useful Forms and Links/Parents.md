@@ -6,7 +6,6 @@ third_nav_title: Useful Forms and Links
 variant: tiptap
 ---
 <h3><strong>Parents</strong></h3>
-<p></p>
 <h4>Briefing Slides for Parents (2026)</h4>
 <p>Primary 1 Orientation Slides</p>
 <table style="minWidth: 50px">
