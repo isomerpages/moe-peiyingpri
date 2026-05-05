@@ -83,6 +83,14 @@ in the educational process.</p>
 <p>Ms Cheng Puay Koon</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Jeffrey Koo</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
