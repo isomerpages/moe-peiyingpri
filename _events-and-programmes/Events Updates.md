@@ -5,6 +5,29 @@ description: ""
 variant: tiptap
 ---
 <h2>Events Updates</h2>
+<h4>Hari Raya Aidilfitri @ Peiying Primary School</h4>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR5jNfuJtIjWJNI3IEK4SZbzzl9S1h5CNLuLcYGFZAqbuepAaTfPOQvobvW2xXohHiLpI8jwlcrDiUX/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>Peiying Primary School celebrated Hari Raya Aidilfitri through a meaningful
+and vibrant programme themed “Enhancing Understanding, Promoting Harmony
+and Strengthening School Spirit.” The online celebration created valuable
+opportunities for students to develop as engaged and caring learners, aligned
+with the school’s Student Vision Outcomes and P.R.I.D.E values.</p>
+<p>Students gained deeper insights into the significance of Hari Raya through
+videos that encouraged reflection on core values of gratitude, forgiveness
+and compassion. These learning experiences fostered Respect and Empathy,
+helping students to appreciate diverse cultures whilst strengthening bonds
+within the school community. The performances showcased students’ confidence
+and enthusiasm, embodying excellence and a positive learning attitude.</p>
+<p>The programme was enriched by hands-on Hari Raya activities including
+creative crafting, composing heartfelt messages and participating in guided
+discussions. These activities cultivated Perseverance and Diligence, as
+students thoughtfully expressed appreciation for others and demonstrated
+empathy.</p>
+<p>Through this celebration, unity within the Peiying’s community was strengthened,
+supporting our students’ development as Leaders of Character and Caring
+Citizens who actively contribute to creating a harmonious school environment.</p>
 <h4>Performing Arts CCA SYF Showcase</h4>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRZkW-mzQXqdLwLviD1lbQ8VMnn7YCfAdxgzP_iHE-LZtQdvJPQFDpCrpiwFzkpbiNFBwLskexdrMXg/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
