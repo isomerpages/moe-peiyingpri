@@ -14,7 +14,7 @@ sections:
           url: https://go.gov.sg/peiying-ecg
         - title: Term 2 Check-In Survey
           description: Click here for more info
-          url: /home-based-learning/
+          url: /termly-check-in-survey/
         - title: Facebook
           description: Peiying Primary Facebook Page
           url: https://www.facebook.com/peiyingpri
