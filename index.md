@@ -12,9 +12,9 @@ sections:
         - title: ECG Direct School Admission (DSA) Specialised Clinics
           description: Click here for more info
           url: https://go.gov.sg/peiying-ecg
-        - title: P1 & P2 Home Based Learning
+        - title: Term 2 Check-In Survey
           description: Click here for more info
-          url: /home-based-learning/
+          url: /termly-check-in-survey/
         - title: Facebook
           description: Peiying Primary Facebook Page
           url: https://www.facebook.com/peiyingpri
