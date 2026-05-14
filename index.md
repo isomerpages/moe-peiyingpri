@@ -9,9 +9,6 @@ sections:
   - hero:
       background: /images/Main Page/banner.gif
       key_highlights:
-        - title: ECG Direct School Admission (DSA) Specialised Clinics
-          description: Click here for more info
-          url: https://go.gov.sg/peiying-ecg
         - title: Term 2 Check-In Survey
           description: Click here for more info
           url: /termly-check-in-survey/
