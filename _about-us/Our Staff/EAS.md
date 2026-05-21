@@ -53,7 +53,7 @@ variant: tiptap
 <p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Noormalah</p>
+<p>Ms Noormala Rabu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:noormalah_rabu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">noormalah_rabu@schools.gov.sg</a>
