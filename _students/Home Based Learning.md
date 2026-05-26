@@ -25,7 +25,8 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click here to download a copy of the 29 May HBL Schedule</p>
+<p><a href="/files/HBL_29_May_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to download a copy of the 29 May HBL Schedule</a>
+</p>
 </td>
 </tr>
 </tbody>
