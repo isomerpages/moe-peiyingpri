@@ -9,10 +9,7 @@ sections:
   - hero:
       background: /images/Main Page/banner.gif
       key_highlights:
-        - title: HBL 28 & 29 May
-          description: Click here for more info
-          url: /home-based-learning/
-        - title: Term 2 Check-In Survey
+        - title: Term 3 Check-In Survey
           description: Click here for more info
           url: /termly-check-in-survey/
         - title: Facebook
