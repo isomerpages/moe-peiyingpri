@@ -98,12 +98,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Cyril Matthew Philix</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">cyril_matthew_philix@schools.gov.sg</a>
+<p>Mdm Haniza Binte Ahmad</p>
+<p><a href="mailto:haniza_ahmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">haniza_ahmad@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Cyril Matthew Philix</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">cyril_matthew_philix@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
