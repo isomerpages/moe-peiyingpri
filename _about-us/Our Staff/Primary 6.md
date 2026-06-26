@@ -58,13 +58,13 @@ variant: tiptap
 <p>6 Respect/Wisdom</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Rosnizam</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">muhammad_rosnizam_b_umar@schools.gov.sg</a>
+<p>Mrs Madhan</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">gayathri_ghandi@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Madhan</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">gayathri_ghandi@schools.gov.sg</a>
+<p>Mr Muhammad Rosnizam</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">muhammad_rosnizam_b_umar@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
