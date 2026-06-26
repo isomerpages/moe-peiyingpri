@@ -43,7 +43,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Amutha</p>
+<p>Ms Amutha Lechmee</p>
 <p><a href="mailto:Amutha_Lechmee_G_Subramaniam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Amutha_Lechmee_G_Subramaniam@schools.gov.sg</a>
 </p>
 </td>
@@ -86,8 +86,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lian Yiling</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">lian_yi_ling@schools.gov.sg</a>
+<p>Mr Muhammad Riduwan Bin Selamat</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">Muhammad_Riduwan_Selamat@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -96,19 +96,17 @@ variant: tiptap
 <p>3 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Esther Lee</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">esther_lee@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Nurhafieza Binte Zainal</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">nurhafieza_zainal@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Riduwan Bin Selamat</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">Muhammad_Riduwan_Selamat@schools.gov.sg</a>
+<p>Mr Noor Hendra Shahril Bin Supa'at</p>
+<p><a href="mailto:noor_hendra_shahril_supaat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">noor_hendra_shahril_supaat@schools.gov.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -126,7 +124,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Lian Yiling</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">lian_yi_ling@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>

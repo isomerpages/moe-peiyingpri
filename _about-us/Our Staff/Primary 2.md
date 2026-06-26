@@ -74,8 +74,8 @@ variant: tiptap
 <p>2 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Brenda Tan Yan Ni</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">brenda_tan_yan_ni@schools.gov.sg</a>
+<p>Mdm Ng Kang Ping</p>
+<p><a href="mailto:ng_kang_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_kang_ping@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
