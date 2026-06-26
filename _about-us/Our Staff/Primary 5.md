@@ -40,8 +40,8 @@ variant: tiptap
 <p>5 Perseverance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Noor Hendra Shahril Bin Supa'at</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">noor_hendra_shahril_supaat@schools.gov.sg</a>
+<p>Mrs Esther Lee</p>
+<p><a href="mailto:Esther_LEE@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Esther_LEE@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
