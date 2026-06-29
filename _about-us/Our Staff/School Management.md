@@ -234,7 +234,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Information and Communication Technology (Int)</strong>
+<p><strong>Information and Communication Technology</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -270,7 +270,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Chinese Language (Int)</strong>
+<p><strong>Chinese Language</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
