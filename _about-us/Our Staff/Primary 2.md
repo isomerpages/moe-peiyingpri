@@ -115,7 +115,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Shafie</p>
+<p>Mr Shafie Bin Hussein</p>
 <p><a href="mailto:Shafie_Hussein@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Shafie_Hussein@schools.gov.sg</a>
 </p>
 </td>
