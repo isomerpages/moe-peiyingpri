@@ -1,10 +1,10 @@
 ---
-title: PE & Aesthetics
-permalink: /departments/pe-and-aesthetics/
+title: Physical Education
+permalink: /departments/pe/
 description: ""
 variant: tiptap
 ---
-<h3><strong>PE &amp; Aesthetics</strong></h3>
+<h3><strong>Physical Education</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
