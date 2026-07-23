@@ -9,6 +9,9 @@ sections:
   - hero:
       background: /images/Main Page/banner.gif
       key_highlights:
+        - title: Voices of Peiying
+          description: Click here for more info
+          url: /voices-of-peiying/
         - title: Term 3 Check-In Survey
           description: Click here for more info
           url: /termly-check-in-survey/
