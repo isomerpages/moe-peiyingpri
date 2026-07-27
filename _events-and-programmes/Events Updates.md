@@ -5,6 +5,28 @@ description: ""
 variant: tiptap
 ---
 <h2>Events Updates</h2>
+<h4>Celebrating Our Nation with Pride</h4>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQeeAkmB1H_pANiTHFXS5kX4DK-vBaLcZN4nk5WeMMNZZ3jG9tWNVk25X6ErOq-3iwT5IAg7g6_LsJ4/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>On 11 July, our Primary 5 students had the opportunity to attend the National
+Education (NE) Show 2026 at the National Stadium. This year's National
+Day Parade theme, "Majulah Singapura, Go Beyond!", celebrates Singapore's
+journey of progress and encourages all Singaporeans to look ahead with
+confidence, resilience, and a shared commitment to shaping our nation's
+future.</p>
+<p>From the moment they arrived, our pupils were immersed in an atmosphere
+of excitement and national pride. They enjoyed the vibrant performances,
+impressive military displays, and joined thousands of Singaporeans in singing
+the National Day songs. They also witnessed memorable highlights, including
+the first-ever indoor drone light show, the largest indoor special effects
+presentation in NDP history, and the largest civilian participation in
+the parade segment in over a decade, making the experience truly unforgettable.</p>
+<p>Beyond the celebrations, the NE Show deepened our pupils' appreciation
+of Singapore's journey and strengthened their sense of national identity.
+It reinforced the values of unity, resilience, gratitude, and active citizenship,
+inspiring them to cherish Singapore and contribute to a stronger and more
+united nation.</p>
 <h4>Hari Raya Aidilfitri @ Peiying Primary School</h4>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR5jNfuJtIjWJNI3IEK4SZbzzl9S1h5CNLuLcYGFZAqbuepAaTfPOQvobvW2xXohHiLpI8jwlcrDiUX/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
