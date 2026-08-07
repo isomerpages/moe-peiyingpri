@@ -27,6 +27,27 @@ of Singapore's journey and strengthened their sense of national identity.
 It reinforced the values of unity, resilience, gratitude, and active citizenship,
 inspiring them to cherish Singapore and contribute to a stronger and more
 united nation.</p>
+<h4>SYF Choir</h4>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTbKLJSEdKcCVzJgLs955Cdj7NLfgsMyWxxeFeXyLuMHEZBKNBUeG-ZT3PT1X5HsS0iHX92ZqmjwJi2/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>Peiying Primary School is heartened to share that our Choir has attained
+a Certificate of Accomplishment at the Singapore Youth Festival (SYF) Arts
+Presentation. This achievement reflects the students’ steady commitment
+and quiet determination over months of preparation.</p>
+<p>Throughout this journey, the choir members showed diligence and perseverance
+as they worked on their vocal techniques, blend, and expression. Each rehearsal
+was an opportunity for them to listen, learn and improve together. With
+guidance from their teachers, the students supported one another and grew
+in confidence, gradually shaping a performance they could be proud of.</p>
+<p>Beyond the music, the experience allowed students to develop resilience,
+teamwork and a sense of responsibility. They learned to manage challenges,
+remain focused and encourage their peers, demonstrating the qualities of
+Engaged Learners and Resilient Learners.</p>
+<p>While the recognition is meaningful, what stands out most is the students’
+effort, growth and shared experience. Peiying Primary School is grateful
+for the dedication shown by our Choir members and hopes they will continue
+to find joy and confidence in their musical journey.</p>
 <h4>Learning through P.L.A.Y.!</h4>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSVwCxLaa5eqJiWlCrdaTwqUErOaSlef2SbG0kkanPSpzSFHqBiNRATPV_7DUeu2ZFu0WfFiwMnmQna/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
