@@ -27,6 +27,32 @@ of Singapore's journey and strengthened their sense of national identity.
 It reinforced the values of unity, resilience, gratitude, and active citizenship,
 inspiring them to cherish Singapore and contribute to a stronger and more
 united nation.</p>
+<h4>Annual Track and Field Meet 2026</h4>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTfvgHysnMQH6gKNn_dJeX9Co6F_XFVhkqyN30gghAtWIGokF3Hju9qKY_j5osgerQGAe83ld9vxsI8/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>Peiying Primary School’s Annual Track and Field Meet, held on 24 April
+2026 at Yishun Stadium, brought together our Primary 3 to 6 students for
+a vibrant day of teamwork, perseverance, and sporting excellence. Blessed
+with bright sunshine and enthusiastic spirits, students participated wholeheartedly
+in events such as the 8x80m relay, 4x100m relay, sprint races, hurdle relay,
+ladder running relay, and long-rope skipping relay. Exciting staff and
+parent races further strengthened the strong sense of community and school
+spirit.</p>
+<p>The day began energetically with a lively Jump Jam session to “Chocolate,”
+setting a joyful and united tone for the event. Prize presentations after
+every two events celebrated not only achievement, but also effort, resilience,
+and sportsmanship. Throughout the meet, students embodied Peiying’s PRIDE
+values — demonstrating Perseverance in overcoming challenges, Respect towards
+peers and competitors, Integrity through fair play, Diligence in giving
+their best effort, and Excellence in striving to improve.</p>
+<p>The event also reflected our Student Vision Outcomes, as students grew
+as Engaged Learners through active participation, Resilient Learners through
+determination and perseverance, and Leaders of Character by showing teamwork,
+encouragement, responsibility, and graciousness in both victory and defeat.
+Supported by teachers, coaches, parents, and peers, the Track and Field
+Meet was a memorable celebration of athletic growth, character development,
+and Peiying spirit.</p>
 <h4>SYF Choir</h4>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTbKLJSEdKcCVzJgLs955Cdj7NLfgsMyWxxeFeXyLuMHEZBKNBUeG-ZT3PT1X5HsS0iHX92ZqmjwJi2/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
