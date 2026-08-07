@@ -28,6 +28,9 @@ It reinforced the values of unity, resilience, gratitude, and active citizenship
 inspiring them to cherish Singapore and contribute to a stronger and more
 united nation.</p>
 <h4>Learning through P.L.A.Y.!</h4>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSVwCxLaa5eqJiWlCrdaTwqUErOaSlef2SbG0kkanPSpzSFHqBiNRATPV_7DUeu2ZFu0WfFiwMnmQna/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <p>P.L.A.Y Day 1 on 14 April was an exciting and enriching experience for
 all our students, filled with meaningful learning beyond the classroom!</p>
 <p>Our Primary 1 and 2 students visited the Singapore Zoological Gardens
