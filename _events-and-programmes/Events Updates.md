@@ -27,6 +27,42 @@ of Singapore's journey and strengthened their sense of national identity.
 It reinforced the values of unity, resilience, gratitude, and active citizenship,
 inspiring them to cherish Singapore and contribute to a stronger and more
 united nation.</p>
+<h4>A Journey of Discovery and Cultural Immersion in Guangzhou </h4>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTbggOuhq5KnJ7WJZ3UX2uDrzpN7fd2KJv78jotBpohWagqvx4l_Qbzl_aJ1hXF2cDiAQ0x-YmwnsMo/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>Our Guangzhou Learning Journey with our Primary 5 students was a meaningful
+blend of cultural immersion and hands-on learning. We began with a lion
+head-making activity, where students showed patience, creativity, and care
+as they worked through each step while gaining a deeper appreciation of
+Chinese cultural heritage. This was followed by a school immersion at Foshan
+Experimental School, where they interacted warmly with their hosts, appreciated
+vibrant performances, toured the campus, and participated actively in a
+shared music lesson, fostering cross-cultural understanding and communication
+skills.</p>
+<p>Our exploration continued at the Guangdong Museum, deepening students’
+understanding of local history and heritage. At the Foshan Ancestral Temple,
+students were captivated by a lively lion dance and visited the memorials
+of Huang Feihong and Ip Man, where they learnt about values such as discipline,
+resilience, perseverance, and respect through the legacies of these influential
+martial arts masters. They also appreciated the distinctive Lingnan architecture
+at Lingnan Tiandi and observed traditional pottery-making at Nanfeng Kiln,
+developing a stronger appreciation for traditional arts and craftsmanship.</p>
+<p>A highlight of the trip was the performance “Eternal Love” at Guangdong
+Romance Park, which brought history and culture to life through engaging
+storytelling and performances. The journey extended to Shenzhen via high-speed
+train, where students embraced new challenges during drone flying and robotics
+activities at DJI. These experiences nurtured their curiosity, collaboration,
+problem-solving, and innovative thinking skills. At Dafen Oil Painting
+Village, students also experienced the intricate art of cloisonné enamel,
+broadening their artistic perspectives and creativity.</p>
+<p>We return with hearts full of gratitude, enriched by meaningful experiences
+beyond the classroom. Through this learning journey, our students grew
+as Engaged Learners as they explored new cultures and ideas with curiosity,
+Resilient Learners as they adapted to unfamiliar environments and challenges,
+Leaders of Character through respectful interactions and teamwork, and
+Caring Citizens with a deeper appreciation for diverse cultures and shared
+experiences.</p>
 <h4>Hari Raya Aidilfitri @ Peiying Primary School</h4>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR5jNfuJtIjWJNI3IEK4SZbzzl9S1h5CNLuLcYGFZAqbuepAaTfPOQvobvW2xXohHiLpI8jwlcrDiUX/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
@@ -94,6 +130,26 @@ environment.</p>
 <p>The ceremony concluded with the recitation of the Student Leaders’ Pledge
 and the presentation of badges, symbolising their commitment to serve with
 integrity, responsibility and dedication.</p>
+<h4>🧧✨ Celebrating Lunar New Year at Peiying Primary School ✨🧧</h4>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTMlq9VWEvYZe2UAZzU3JN9p0ueSZw3TuioUjbNqbU-W723Qc82Yvdf8pwfny5RgVCDOMVsanV5SJio/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>Our school community came together for an unforgettable Lunar New Year
+celebration filled with tradition, talent, and togetherness. This year's
+celebration provided our students with enriching educational experiences,
+deepening their understanding of Chinese heritage and cultural values through
+authentic performances and meaningful activities.</p>
+<p>The hall came alive with the wonderful performances by our talented students,
+who captivated audiences with mesmerising Guzheng melodies, powerful Wushu
+demonstrations, and graceful traditional dances that brought the festive
+spirit to the event. Adding to the joyous atmosphere, our teachers delighted
+everyone with their dance routine to 《新年好马》!</p>
+<p>The celebration concluded with a traditional Lion Dance performance, symbolising
+prosperity, good fortune, and auspicious beginnings for the year ahead.</p>
+<p>This Lunar New Year celebration at Peiying exemplified our school's commitment
+to cultural education and the preservation of meaningful traditions within
+our diverse learning environment.</p>
+<p>We extend our warmest wishes for a prosperous and harmonious year ahead.</p>
 <h4>Together for Singapore: A Meaningful Total Defence Day</h4>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSfHLb4Hcp30fHuVVD8sWQf60qvLKW7NvAVp983_PlwI6s3JJ89u0CBU3u7AS2S0DW2XiAmLvEnTPcB/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
