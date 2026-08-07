@@ -27,7 +27,34 @@ of Singapore's journey and strengthened their sense of national identity.
 It reinforced the values of unity, resilience, gratitude, and active citizenship,
 inspiring them to cherish Singapore and contribute to a stronger and more
 united nation.</p>
-<h4>A Journey of Discovery and Cultural Immersion in Guangzhou </h4>
+<h4>Learning through P.L.A.Y.!</h4>
+<p>P.L.A.Y Day 1 on 14 April was an exciting and enriching experience for
+all our students, filled with meaningful learning beyond the classroom!</p>
+<p>Our Primary 1 and 2 students visited the Singapore Zoological Gardens
+and Gardens by the Bay respectively, deepening their understanding of conservation
+and sustainability through meaningful wildlife encounters and exposure
+to innovative green spaces. These authentic experiences brought classroom
+learning to life, sparked curiosity, nurtured empathy, and encouraged responsible
+environmental stewardship. Through these activities, students grew as Engaged
+Learners who actively explored the world around them and as Caring Citizens
+who developed a deeper appreciation for the environment and community.</p>
+<p>Meanwhile, our Primary 3 to 6 students participated in the Student Leadership
+Programme, where they developed resilience, character, and essential leadership
+skills through age-appropriate activities. From building positive peer
+relationships to engaging in collaborative problem-solving tasks, students
+strengthened their self-leadership, teamwork, communication, and decision-making
+abilities. The vibrant Peiying STARS Carnival further celebrated Growth
+Mindset in action — Primary 3 and 4 students built confidence and teamwork
+through dance activities, Primary 5 students demonstrated perseverance
+and resilience while tackling exciting challenges, and Primary 6 students
+explored future pathways through meaningful ECG activities. These experiences
+nurtured students to become Resilient Learners who embrace challenges positively
+and Leaders of Character who demonstrate confidence, responsibility, and
+care for others.</p>
+<p>Through both programmes, students embraced effort, learnt from mistakes,
+and developed important life skills that will empower them to contribute
+meaningfully to the school community and beyond.</p>
+<h4>A Journey of Discovery and Cultural Immersion in Guangzhou</h4>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTbggOuhq5KnJ7WJZ3UX2uDrzpN7fd2KJv78jotBpohWagqvx4l_Qbzl_aJ1hXF2cDiAQ0x-YmwnsMo/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
