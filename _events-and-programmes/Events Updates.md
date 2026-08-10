@@ -5,6 +5,141 @@ description: ""
 variant: tiptap
 ---
 <h2>Events Updates</h2>
+<h4>Celebrating Our Nation with Pride</h4>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQeeAkmB1H_pANiTHFXS5kX4DK-vBaLcZN4nk5WeMMNZZ3jG9tWNVk25X6ErOq-3iwT5IAg7g6_LsJ4/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>On 11 July, our Primary 5 students had the opportunity to attend the National
+Education (NE) Show 2026 at the National Stadium. This year's National
+Day Parade theme, "Majulah Singapura, Go Beyond!", celebrates Singapore's
+journey of progress and encourages all Singaporeans to look ahead with
+confidence, resilience, and a shared commitment to shaping our nation's
+future.</p>
+<p>From the moment they arrived, our pupils were immersed in an atmosphere
+of excitement and national pride. They enjoyed the vibrant performances,
+impressive military displays, and joined thousands of Singaporeans in singing
+the National Day songs. They also witnessed memorable highlights, including
+the first-ever indoor drone light show, the largest indoor special effects
+presentation in NDP history, and the largest civilian participation in
+the parade segment in over a decade, making the experience truly unforgettable.</p>
+<p>Beyond the celebrations, the NE Show deepened our pupils' appreciation
+of Singapore's journey and strengthened their sense of national identity.
+It reinforced the values of unity, resilience, gratitude, and active citizenship,
+inspiring them to cherish Singapore and contribute to a stronger and more
+united nation.</p>
+<h4>Annual Track and Field Meet 2026</h4>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTfvgHysnMQH6gKNn_dJeX9Co6F_XFVhkqyN30gghAtWIGokF3Hju9qKY_j5osgerQGAe83ld9vxsI8/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>Peiying Primary School’s Annual Track and Field Meet, held on 24 April
+2026 at Yishun Stadium, brought together our Primary 3 to 6 students for
+a vibrant day of teamwork, perseverance, and sporting excellence. Blessed
+with bright sunshine and enthusiastic spirits, students participated wholeheartedly
+in events such as the 8x80m relay, 4x100m relay, sprint races, hurdle relay,
+ladder running relay, and long-rope skipping relay. Exciting staff and
+parent races further strengthened the strong sense of community and school
+spirit.</p>
+<p>The day began energetically with a lively Jump Jam session to “Chocolate,”
+setting a joyful and united tone for the event. Prize presentations after
+every two events celebrated not only achievement, but also effort, resilience,
+and sportsmanship. Throughout the meet, students embodied Peiying’s PRIDE
+values — demonstrating Perseverance in overcoming challenges, Respect towards
+peers and competitors, Integrity through fair play, Diligence in giving
+their best effort, and Excellence in striving to improve.</p>
+<p>The event also reflected our Student Vision Outcomes, as students grew
+as Engaged Learners through active participation, Resilient Learners through
+determination and perseverance, and Leaders of Character by showing teamwork,
+encouragement, responsibility, and graciousness in both victory and defeat.
+Supported by teachers, coaches, parents, and peers, the Track and Field
+Meet was a memorable celebration of athletic growth, character development,
+and Peiying spirit.</p>
+<h4>SYF Choir</h4>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTbKLJSEdKcCVzJgLs955Cdj7NLfgsMyWxxeFeXyLuMHEZBKNBUeG-ZT3PT1X5HsS0iHX92ZqmjwJi2/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>Peiying Primary School is heartened to share that our Choir has attained
+a Certificate of Accomplishment at the Singapore Youth Festival (SYF) Arts
+Presentation. This achievement reflects the students’ steady commitment
+and quiet determination over months of preparation.</p>
+<p>Throughout this journey, the choir members showed diligence and perseverance
+as they worked on their vocal techniques, blend, and expression. Each rehearsal
+was an opportunity for them to listen, learn and improve together. With
+guidance from their teachers, the students supported one another and grew
+in confidence, gradually shaping a performance they could be proud of.</p>
+<p>Beyond the music, the experience allowed students to develop resilience,
+teamwork and a sense of responsibility. They learned to manage challenges,
+remain focused and encourage their peers, demonstrating the qualities of
+Engaged Learners and Resilient Learners.</p>
+<p>While the recognition is meaningful, what stands out most is the students’
+effort, growth and shared experience. Peiying Primary School is grateful
+for the dedication shown by our Choir members and hopes they will continue
+to find joy and confidence in their musical journey.</p>
+<h4>Learning through P.L.A.Y.!</h4>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSVwCxLaa5eqJiWlCrdaTwqUErOaSlef2SbG0kkanPSpzSFHqBiNRATPV_7DUeu2ZFu0WfFiwMnmQna/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>P.L.A.Y Day 1 on 14 April was an exciting and enriching experience for
+all our students, filled with meaningful learning beyond the classroom!</p>
+<p>Our Primary 1 and 2 students visited the Singapore Zoological Gardens
+and Gardens by the Bay respectively, deepening their understanding of conservation
+and sustainability through meaningful wildlife encounters and exposure
+to innovative green spaces. These authentic experiences brought classroom
+learning to life, sparked curiosity, nurtured empathy, and encouraged responsible
+environmental stewardship. Through these activities, students grew as Engaged
+Learners who actively explored the world around them and as Caring Citizens
+who developed a deeper appreciation for the environment and community.</p>
+<p>Meanwhile, our Primary 3 to 6 students participated in the Student Leadership
+Programme, where they developed resilience, character, and essential leadership
+skills through age-appropriate activities. From building positive peer
+relationships to engaging in collaborative problem-solving tasks, students
+strengthened their self-leadership, teamwork, communication, and decision-making
+abilities. The vibrant Peiying STARS Carnival further celebrated Growth
+Mindset in action — Primary 3 and 4 students built confidence and teamwork
+through dance activities, Primary 5 students demonstrated perseverance
+and resilience while tackling exciting challenges, and Primary 6 students
+explored future pathways through meaningful ECG activities. These experiences
+nurtured students to become Resilient Learners who embrace challenges positively
+and Leaders of Character who demonstrate confidence, responsibility, and
+care for others.</p>
+<p>Through both programmes, students embraced effort, learnt from mistakes,
+and developed important life skills that will empower them to contribute
+meaningfully to the school community and beyond.</p>
+<h4>A Journey of Discovery and Cultural Immersion in Guangzhou</h4>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTbggOuhq5KnJ7WJZ3UX2uDrzpN7fd2KJv78jotBpohWagqvx4l_Qbzl_aJ1hXF2cDiAQ0x-YmwnsMo/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>Our Guangzhou Learning Journey with our Primary 5 students was a meaningful
+blend of cultural immersion and hands-on learning. We began with a lion
+head-making activity, where students showed patience, creativity, and care
+as they worked through each step while gaining a deeper appreciation of
+Chinese cultural heritage. This was followed by a school immersion at Foshan
+Experimental School, where they interacted warmly with their hosts, appreciated
+vibrant performances, toured the campus, and participated actively in a
+shared music lesson, fostering cross-cultural understanding and communication
+skills.</p>
+<p>Our exploration continued at the Guangdong Museum, deepening students’
+understanding of local history and heritage. At the Foshan Ancestral Temple,
+students were captivated by a lively lion dance and visited the memorials
+of Huang Feihong and Ip Man, where they learnt about values such as discipline,
+resilience, perseverance, and respect through the legacies of these influential
+martial arts masters. They also appreciated the distinctive Lingnan architecture
+at Lingnan Tiandi and observed traditional pottery-making at Nanfeng Kiln,
+developing a stronger appreciation for traditional arts and craftsmanship.</p>
+<p>A highlight of the trip was the performance “Eternal Love” at Guangdong
+Romance Park, which brought history and culture to life through engaging
+storytelling and performances. The journey extended to Shenzhen via high-speed
+train, where students embraced new challenges during drone flying and robotics
+activities at DJI. These experiences nurtured their curiosity, collaboration,
+problem-solving, and innovative thinking skills. At Dafen Oil Painting
+Village, students also experienced the intricate art of cloisonné enamel,
+broadening their artistic perspectives and creativity.</p>
+<p>We return with hearts full of gratitude, enriched by meaningful experiences
+beyond the classroom. Through this learning journey, our students grew
+as Engaged Learners as they explored new cultures and ideas with curiosity,
+Resilient Learners as they adapted to unfamiliar environments and challenges,
+Leaders of Character through respectful interactions and teamwork, and
+Caring Citizens with a deeper appreciation for diverse cultures and shared
+experiences.</p>
 <h4>Hari Raya Aidilfitri @ Peiying Primary School</h4>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR5jNfuJtIjWJNI3IEK4SZbzzl9S1h5CNLuLcYGFZAqbuepAaTfPOQvobvW2xXohHiLpI8jwlcrDiUX/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
@@ -72,6 +207,26 @@ environment.</p>
 <p>The ceremony concluded with the recitation of the Student Leaders’ Pledge
 and the presentation of badges, symbolising their commitment to serve with
 integrity, responsibility and dedication.</p>
+<h4>🧧✨ Celebrating Lunar New Year at Peiying Primary School ✨🧧</h4>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTMlq9VWEvYZe2UAZzU3JN9p0ueSZw3TuioUjbNqbU-W723Qc82Yvdf8pwfny5RgVCDOMVsanV5SJio/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>Our school community came together for an unforgettable Lunar New Year
+celebration filled with tradition, talent, and togetherness. This year's
+celebration provided our students with enriching educational experiences,
+deepening their understanding of Chinese heritage and cultural values through
+authentic performances and meaningful activities.</p>
+<p>The hall came alive with the wonderful performances by our talented students,
+who captivated audiences with mesmerising Guzheng melodies, powerful Wushu
+demonstrations, and graceful traditional dances that brought the festive
+spirit to the event. Adding to the joyous atmosphere, our teachers delighted
+everyone with their dance routine to 《新年好马》!</p>
+<p>The celebration concluded with a traditional Lion Dance performance, symbolising
+prosperity, good fortune, and auspicious beginnings for the year ahead.</p>
+<p>This Lunar New Year celebration at Peiying exemplified our school's commitment
+to cultural education and the preservation of meaningful traditions within
+our diverse learning environment.</p>
+<p>We extend our warmest wishes for a prosperous and harmonious year ahead.</p>
 <h4>Together for Singapore: A Meaningful Total Defence Day</h4>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSfHLb4Hcp30fHuVVD8sWQf60qvLKW7NvAVp983_PlwI6s3JJ89u0CBU3u7AS2S0DW2XiAmLvEnTPcB/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
