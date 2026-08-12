@@ -66,9 +66,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Waheeda</p>
-<p><a href="mailto:Nur_Waheeda_Zulkiflee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nur_Waheeda_Zulkiflee@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
