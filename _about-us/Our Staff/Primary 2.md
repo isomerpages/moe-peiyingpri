@@ -11,9 +11,8 @@ variant: tiptap
 <p><em>Please allow teachers up to 3 days to reply to your email queries.</em>&nbsp;
 <br><em>For urgent matters, please contact the teacher through the General Office at 62575684.</em>
 </p>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -22,9 +21,6 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <p>Class</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Form Teacher</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Form Teacher</p>
@@ -47,9 +43,6 @@ variant: tiptap
 <p><a rel="noopener noreferrer nofollow" target="_blank">chen_peiyu@schools.gov.sg</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -64,9 +57,6 @@ variant: tiptap
 <p>Mrs Pamela Lee</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">lee_qian_ni_pamela@schools.gov.sg</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -83,9 +73,6 @@ variant: tiptap
 <p><a rel="noopener noreferrer nofollow" target="_blank">ngan_min_boon@schools.gov.sg</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -100,9 +87,6 @@ variant: tiptap
 <p>Mrs Foo, Yang Xiaojing</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">yang_xiaojing@schools.gov.sg</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -119,9 +103,6 @@ variant: tiptap
 <p><a href="mailto:Shafie_Hussein@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Shafie_Hussein@schools.gov.sg</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -136,9 +117,6 @@ variant: tiptap
 <p>Mrs Jayce Mok</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">Kok_Pao_Yen_Jayce@schools.gov.sg</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
