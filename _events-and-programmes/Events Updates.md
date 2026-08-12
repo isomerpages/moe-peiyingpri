@@ -5,6 +5,81 @@ description: ""
 variant: tiptap
 ---
 <h2>Events Updates</h2>
+<h4>Peiying Primary School Showcases AI-Enhanced Mother Tongue Learning at the MTL Symposium 2026</h4>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT2CqYYs1bmQt4IKQ9TyP2Ck5W_mafHbhFExr2VScl6Nm6WLGVlAqpdaztQkIMYXoQfwOKZDeWWROb6/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>Peiying Primary School was honoured to participate in the Mother Tongue
+Languages (MTL) Symposium 2026, organised by the Ministry of Education
+and the Mother Tongue Language Learning and Promotion Committees. Held
+at the Singapore EXPO, the symposium celebrated the theme "A Garden for
+Joyful Discovery", bringing together educators, parents and community partners
+to share innovative approaches to Mother Tongue Language learning.</p>
+<p>At the symposium, Peiying showcased 《爱写作@培英》(AI Writing@Peiying), our
+Chinese Language writing programme that empowers students to become confident
+and reflective writers. Visitors learnt how students develop their writing
+through the FAST and FEAST frameworks, receive personalised AI-enabled
+feedback, and publish authentic e-books to showcase their learning. The
+programme demonstrated how technology can meaningfully enhance language
+learning while nurturing creativity, critical thinking and student agency.</p>
+<p>We are proud of our student ambassadors, who confidently engaged educators,
+parents and visitors by sharing their writing journey and explaining the
+programme with clarity, enthusiasm and pride. Through this meaningful platform,
+our students demonstrated ownership of their learning and showcased how
+joyful, authentic and innovative learning experiences can inspire a lifelong
+appreciation for their Mother Tongue Languages.</p>
+<h4>United in Diversity, Stronger Together</h4>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSyT-8B62GzXBxUDzVJ28_To7DDPOFPrysBaEgV0MNWhQancCzU1-HlsLL72TPBarwuZ3PzdbtcweDQ/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>On 23 July 2026, Peiying Primary School came together to commemorate Racial
+Harmony Day with the theme, "Our People, Our Tapestry", celebrating Singapore's
+multicultural identity and the rich traditions that weave us together as
+one nation.</p>
+<p>The celebration began with an assembly programme, where students were
+treated to an engaging skit on racial harmony performed by our talented
+Drama Club. This was followed by a presentation that highlighted the importance
+of racial harmony in Singapore and the role each individual plays in fostering
+an inclusive, respectful and harmonious society. The programme concluded
+with a lively Fashion Parade, where students and teachers proudly showcased
+traditional ethnic costumes, celebrating the rich cultural diversity that
+strengthens our school community and nation.</p>
+<p>The learning continued beyond the assembly programme through a range of
+meaningful and interactive experiences. During recess, students participated
+in Active Floor games that challenged their knowledge of the food, customs
+and traditions of Singapore's different ethnic communities. They also completed
+online quizzes that deepened their understanding of the significance of
+Racial Harmony Day and the importance of embracing diversity.</p>
+<p>Through these shared experiences, our Peiying students gained a deeper
+appreciation of Singapore's multicultural heritage and the values that
+bind our communities together. They were reminded that every act of respect,
+empathy and appreciation contributes to a stronger and more united Singapore.
+By embracing our differences and celebrating our shared identity, we continue
+to nurture Caring Citizens who value diversity and build meaningful connections
+with others.</p>
+<h4>P5 Camp 2026</h4>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQfXWb-45ncg7rDsynLcPA3-re-j5Tgxr80EFG0ztSTgEqKWymMtQq53DpE6yp43IzI96K4DwlyrIEK/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>From 16th to 18th July, our Primary 5 students embarked on an unforgettable
+journey at the MOE Jalan Bahtera Outdoor Adventure Learning Centre. Guided
+by this year’s theme, "Stand Strong, Choose Right," our resilient Peiying
+students demonstrated personal growth, leadership, and camaraderie throughout
+the action-packed three-day camp.</p>
+<p>The camp focused on teamwork, empathy, and character building. Trust and
+cooperation were put into practice during the Low Rope Elements, while
+the Rock-climbing and Challenge Rope Course pushed students to overcome
+fears, building unwavering perseverance and self-confidence. Our Peiying
+students further amplified their courage during Abseiling and Zip-lining
+sessions, learning to trust both their peers and teachers.</p>
+<p>Beyond physical achievements, students connected with the environment.
+A thrilling night walk on the first evening tested their bravery, while
+a scenic hike through Sungei Buloh Wetland Reserve deepened their appreciation
+for Singapore's unique mangrove ecosystems. The memorable experience culminated
+in a vibrant campfire celebration, where students showcased their creativity
+through performances and reflected on shared victories.</p>
+<p>Our students returned to school confident, resilient, and ready to apply
+these valuable life lessons to all future challenges!</p>
 <h4>Celebrating Our Nation with Pride</h4>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQeeAkmB1H_pANiTHFXS5kX4DK-vBaLcZN4nk5WeMMNZZ3jG9tWNVk25X6ErOq-3iwT5IAg7g6_LsJ4/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
