@@ -23,6 +23,32 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<h3><strong>Non-Teaching Staff</strong></h3>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Area</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Staff</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>FAJT (Student Management)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Cheung Kah Hong</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3><strong>Support Staff</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>

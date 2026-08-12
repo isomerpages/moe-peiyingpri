@@ -27,10 +27,10 @@ variant: tiptap
 <p>Form Teacher</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Form Teacher</p>
+<p>Co-Form Teacher</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Co-Form Teacher</p>
+<p>2nd Co-Form Teacher</p>
 </th>
 </tr>
 <tr>

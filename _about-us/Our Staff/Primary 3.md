@@ -11,8 +11,9 @@ variant: tiptap
 <p><em>Please allow teachers up to 3 days to reply to your email queries.</em>&nbsp;
 <br><em>For urgent matters, please contact the teacher through the General Office at 62575684.</em>
 </p>
-<table style="minWidth: 100px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -27,10 +28,13 @@ variant: tiptap
 <p>Form Teacher</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Form Teacher</p>
+<p>Co-Form Teacher</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Co-Form Teacher</p>
+<p>2nd Co-Form Teacher</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>3rd Co-Form Teacher</p>
 </th>
 </tr>
 <tr>
@@ -46,6 +50,9 @@ variant: tiptap
 <p>Ms Amutha Lechmee</p>
 <p><a href="mailto:Amutha_Lechmee_G_Subramaniam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Amutha_Lechmee_G_Subramaniam@schools.gov.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -66,9 +73,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Waheeda</p>
-<p><a href="mailto:Nur_Waheeda_Zulkiflee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nur_Waheeda_Zulkiflee@schools.gov.sg</a>
-</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -90,6 +98,12 @@ variant: tiptap
 <p><a rel="noopener noreferrer nofollow" target="_blank">Muhammad_Riduwan_Selamat@schools.gov.sg</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Ms Lei Xin</p>
+<p><a href="mailto:lei_xin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lei_xin@schools.gov.sg</a>
+</p>
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -104,6 +118,9 @@ variant: tiptap
 <p>Mr Noor Hendra Shahril Bin Supa'at</p>
 <p><a href="mailto:noor_hendra_shahril_supaat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">noor_hendra_shahril_supaat@schools.gov.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -128,6 +145,9 @@ variant: tiptap
 <p><a rel="noopener noreferrer nofollow" target="_blank">lian_yi_ling@schools.gov.sg</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -148,6 +168,9 @@ variant: tiptap
 <p>Ms Carolyn</p>
 <p><a href="mailto:Carolyn_Eppy_Koh_Wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Carolyn_Eppy_Koh_Wei@schools.gov.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
