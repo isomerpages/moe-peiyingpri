@@ -6,7 +6,9 @@ variant: tiptap
 ---
 <h2>Events Updates</h2>
 <h4>Together, We Go Beyond! Majulah Singapura!</h4>
-<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSWc11fopiCD9NYQQT-NC-QzCXfbf6iSAHXX3aZGdIRnWhAw29EhlOH_fexv7p9FgKmJdQlpwXVWaRF/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <p>Peiying Primary School celebrated Singapore’s 61st birthday with a meaningful
 National Day programme centred on the theme “Majulah Singapura, Go Beyond!”
 The celebration began with a School Safety Lockdown Exercise and learning
