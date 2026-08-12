@@ -188,6 +188,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lei Xin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lei_xin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lei_xin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>Malay Language</strong></h4>
@@ -256,15 +265,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Rubaidah_Mohd_Salleh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Rubaidah_Mohd_Salleh@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Nur Waheeda</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Nur_Waheeda_Zulkiflee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nur_Waheeda_Zulkiflee@schools.gov.sg</a>
 </p>
 </td>
 </tr>
