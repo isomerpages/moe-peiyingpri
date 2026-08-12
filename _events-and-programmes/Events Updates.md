@@ -5,6 +5,27 @@ description: ""
 variant: tiptap
 ---
 <h2>Events Updates</h2>
+<h4>Together, We Go Beyond! Majulah Singapura!</h4>
+<p></p>
+<p>Peiying Primary School celebrated Singapore’s 61st birthday with a meaningful
+National Day programme centred on the theme “Majulah Singapura, Go Beyond!”
+The celebration began with a School Safety Lockdown Exercise and learning
+on energy conservation, reminding students that going beyond means being
+prepared, resilient and playing their part in building a safe and sustainable
+Singapore.</p>
+<p>The highlight of the celebration was the NSG and SYF Contingent Parade,
+which proudly honoured students who went beyond the classroom to represent
+Peiying in sports and the performing arts. Their dedication, perseverance
+and teamwork inspired the school community to strive for excellence and
+give their best in all that they do.</p>
+<p>Throughout the celebration, students experienced the values of unity,
+inclusivity and active citizenship. Reciting the Singapore Pledge in Singapore
+Sign Language reinforced the importance of embracing diversity, while the
+performances and activities fostered pride and sense of belonging.</p>
+<p>Through their enthusiastic participation and care for one another, our
+students truly embodied the spirit of “Go Beyond” — standing together as
+one Peiying family and contributing towards a stronger, kinder and more
+united Singapore.</p>
 <h4>Peiying Primary School Showcases AI-Enhanced Mother Tongue Learning at the MTL Symposium 2026</h4>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT2CqYYs1bmQt4IKQ9TyP2Ck5W_mafHbhFExr2VScl6Nm6WLGVlAqpdaztQkIMYXoQfwOKZDeWWROb6/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
